@@ -1,0 +1,93 @@
+[ {
+  "id" : 3157,
+  "number" : 117,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Какво трябва да направи водачът на МПС когато видимостта при движение назад е ограничена?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10305,
+    "text" : "да осигури човек, който да сигнализира за опасност",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10304,
+    "text" : "да отвори страничното стъкло за да гледа назад",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10306,
+    "text" : "да отвори вратата и да гледа назад",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3158,
+  "number" : 118,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Движението назад при ограничена видимост е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10307,
+    "text" : "разрешено, ако има огледало за виждане назад",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10308,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10309,
+    "text" : "разрешено само ако е осигурено лице, което да сигнализира при поява на опасност",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3159,
+  "number" : 119,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е движение назад при завиване в обратна посока на кръстовище?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10310,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10311,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3160,
+  "number" : 119,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е движение назад при завиване в обратна посока на път извън кръстовище?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10312,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10313,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+} ]

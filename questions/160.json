@@ -1,0 +1,501 @@
+[ {
+  "id" : 3080,
+  "number" : 49,
+  "subNumber" : 1,
+  "pictureSha1" : "80ad60a51ea7c2e9b0bbd405c6d7b5f0a4b88ec3",
+  "text" : "Когато при недостатъчна широчина на платното за движение завиването в обратна посока започва от дясната пътна лента, водачът на завиващото ППС:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10067,
+    "text" : "е с предимство пред попътно движещите се от лявата му страна ППС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10069,
+    "text" : "е с предимство пред насрещно движещите се ППС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10066,
+    "text" : "трябва да пропусне попътно движещите се от лявата му страна ППС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10068,
+    "text" : "трябва да пропусне насрещно движещите се ППС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3077,
+  "number" : 47,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Как се извършва завиването в обратна посока?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10058,
+    "text" : "чрез движение със завиване наляво",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10059,
+    "text" : "чрез движение със завиване надясно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3078,
+  "number" : 48,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Завиването в обратна посока може да започне:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10061,
+    "text" : "от дясната част на платното за движение, когато е с недостатъчна широчина",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10060,
+    "text" : "от най-лявата пътна лента по посока на движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10062,
+    "text" : "от най-удобната за водача пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3079,
+  "number" : 48,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Завиването в обратна посока от крайната дясна лента е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10065,
+    "text" : "разрешено във всички случаи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10063,
+    "text" : "разрешено при недостатъчна широчина на платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10064,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3081,
+  "number" : 49,
+  "subNumber" : 2,
+  "pictureSha1" : "80ad60a51ea7c2e9b0bbd405c6d7b5f0a4b88ec3",
+  "text" : "При тази ситуация с предимство е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10070,
+    "text" : "водачът на товарния автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10071,
+    "text" : "водачът на лекия автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3082,
+  "number" : 50,
+  "subNumber" : 1,
+  "pictureSha1" : "d4cdde776fd115e65466265b5355a9c2963a52cd",
+  "text" : "При тази ситуация с предимство е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10073,
+    "text" : "водачът на лекия автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10072,
+    "text" : "водачът на товарния автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3083,
+  "number" : 51,
+  "subNumber" : 1,
+  "pictureSha1" : "466ef882ca2612587a949d8fb0229448cae58d81",
+  "text" : "При тази ситуация с предимство е водачът на:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10074,
+    "text" : "синия автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10075,
+    "text" : "червения автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3084,
+  "number" : 52,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Завиването в обратна посока на мост е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10076,
+    "text" : "разрешено, когато широчината на платното за движение е над 12 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10077,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10078,
+    "text" : "разрешено, когато видимостта е над 50 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10079,
+    "text" : "разрешено, без ограничение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3085,
+  "number" : 53,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Завиването в обратна посока е забранено, когато видимостта е намалена под:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10082,
+    "text" : "150 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10083,
+    "text" : "250 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10080,
+    "text" : "100 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10081,
+    "text" : "50 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3086,
+  "number" : 54,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Завиването в обратна посока е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 10087,
+    "text" : "когато видимостта е намалена под 50 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10086,
+    "text" : "в тунел",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10084,
+    "text" : "на жп прелез",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10085,
+    "text" : "на участък от пътя с наклон",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3087,
+  "number" : 55,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Завиването в обратна посока е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 10091,
+    "text" : "на мост",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10088,
+    "text" : "на участък от пътя в ремонт",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10090,
+    "text" : "на пешеходна пътека",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10089,
+    "text" : "при ограничена видимост",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3088,
+  "number" : 56,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Завиването в обратна посока е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 10094,
+    "text" : "на път с интензивно движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10092,
+    "text" : "на жп прелез",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10093,
+    "text" : "на пешеходна пътека",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10095,
+    "text" : "на надлез",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3089,
+  "number" : 57,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Завиването в обратна посока е забранено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10097,
+    "text" : "на 10 м преди пешеходна пътека",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10099,
+    "text" : "на жп прелез",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10098,
+    "text" : "в тунел",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10096,
+    "text" : "когато с пътен знак е ограничена скоростта на движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3092,
+  "number" : 58,
+  "subNumber" : 1,
+  "pictureSha1" : "8fb5ba0546192de77b0f136ad2a4f24ec9968c2c",
+  "text" : "При тази ситуация разрешено ли е да завиете в обратна посока?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10109,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10108,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3090,
+  "number" : 57,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Завиването в обратна посока е забранено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10100,
+    "text" : "на пешеходна пътека",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10101,
+    "text" : "на 160 м преди жп прелез",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10103,
+    "text" : "при ограничена видимост",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10102,
+    "text" : "на участък от пътя в ремонт",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3091,
+  "number" : 57,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Завиването в обратна посока е забранено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10104,
+    "text" : "на път с интензивно движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10105,
+    "text" : "в тунел",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10106,
+    "text" : "на участък от пътя в ремонт",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10107,
+    "text" : "при ограничена видимост",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3093,
+  "number" : 58,
+  "subNumber" : 2,
+  "pictureSha1" : "6bfd975c90684a5f0ecafca3843e24f787b3471b",
+  "text" : "При тази ситуация разрешено ли е да завиете в обратна посока?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10111,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10110,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3094,
+  "number" : 59,
+  "subNumber" : 1,
+  "pictureSha1" : "9554065ef1529ddd7772cfcb74231b903f9ce21a",
+  "text" : "При тази ситуация разрешено ли е да завиете в обратна посока?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10113,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10112,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3095,
+  "number" : 60,
+  "subNumber" : 1,
+  "pictureSha1" : "518f85dfe65603aab6d51095b6f995b075ff42d9",
+  "text" : "При тази ситуация водачът на червения автомобил извършва ли нарушение?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10115,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10114,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+} ]

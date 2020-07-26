@@ -1,0 +1,367 @@
+[ {
+  "id" : 2659,
+  "number" : 35,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци предупреждава за приближаване към железопътен прелез без бариери?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8650,
+    "text" : null,
+    "pictureSha1" : "96fa5db14f3121c27eabd1dec2f6c12e69d920ab",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8647,
+    "text" : null,
+    "pictureSha1" : "8694068f875584506effaf78be0ed72b19b64fc3",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8649,
+    "text" : null,
+    "pictureSha1" : "c3c69dd8a4234635a6fde0934586eb1bde262f45",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8648,
+    "text" : null,
+    "pictureSha1" : "9e4fa3c95c0cef0a06ad3cd166d1a32579d291a0",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2660,
+  "number" : 36,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци предупреждава за приближаване към железопътен прелез с бариери?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8653,
+    "text" : null,
+    "pictureSha1" : "c3c69dd8a4234635a6fde0934586eb1bde262f45",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8651,
+    "text" : null,
+    "pictureSha1" : "ab54ea40287e8fd26f715a60b624e254a1a8cb68",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8652,
+    "text" : null,
+    "pictureSha1" : "9e4fa3c95c0cef0a06ad3cd166d1a32579d291a0",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8654,
+    "text" : null,
+    "pictureSha1" : "1ca8017a3f21069cd3b5da268863d85f5720d97f",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2661,
+  "number" : 37,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци предупреждава за приближаване към железопътен прелез?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8655,
+    "text" : null,
+    "pictureSha1" : "9e4fa3c95c0cef0a06ad3cd166d1a32579d291a0",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8658,
+    "text" : null,
+    "pictureSha1" : "ab54ea40287e8fd26f715a60b624e254a1a8cb68",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8656,
+    "text" : null,
+    "pictureSha1" : "e10c222fd717392341b41b8041ef6cd0816a84a2",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8657,
+    "text" : null,
+    "pictureSha1" : "c3c69dd8a4234635a6fde0934586eb1bde262f45",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2662,
+  "number" : 38,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци указва, че железопътният прелез е с два или повече коловоза?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8662,
+    "text" : null,
+    "pictureSha1" : "083bcfdb1e61b03106fbf07e47d2e334fe3b3e98",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8661,
+    "text" : null,
+    "pictureSha1" : "3a393a1c56f4afdfe59f5570d13fe02ff543bf66",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8660,
+    "text" : null,
+    "pictureSha1" : "ab54ea40287e8fd26f715a60b624e254a1a8cb68",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8659,
+    "text" : null,
+    "pictureSha1" : "1ca8017a3f21069cd3b5da268863d85f5720d97f",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2663,
+  "number" : 39,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кой знак указва, че железопътният прелез е с един коловоз?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8666,
+    "text" : null,
+    "pictureSha1" : "c3c69dd8a4234635a6fde0934586eb1bde262f45",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8664,
+    "text" : null,
+    "pictureSha1" : "675ffaf3b2ef5af268dffe59115dfd92ae510545",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8665,
+    "text" : null,
+    "pictureSha1" : "baeec2337707b001d5526dc4711a6cc2aa943a55",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8663,
+    "text" : null,
+    "pictureSha1" : "ab54ea40287e8fd26f715a60b624e254a1a8cb68",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2664,
+  "number" : 40,
+  "subNumber" : 1,
+  "pictureSha1" : "8b38e453e9c94f063ef9e2034886e070244ca725",
+  "text" : "На показаната схема с буква „а” е означен пътният знак, който сигнарлизира, че разстоянието до железопътния прелез е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8668,
+    "text" : "160 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8669,
+    "text" : "240 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8667,
+    "text" : "80 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2665,
+  "number" : 40,
+  "subNumber" : 2,
+  "pictureSha1" : "1b41e9600214d0c95bd8b6dfecad6847460ae85b",
+  "text" : "На показаната схема с буква „б” е означен пътният знак, който сигнарлизира, че разстоянието до железопътния прелез е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8672,
+    "text" : "80 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8670,
+    "text" : "160 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8671,
+    "text" : "240 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2666,
+  "number" : 40,
+  "subNumber" : 3,
+  "pictureSha1" : "5bc5832b9912baacbe547b54a0c1f087fb6721fd",
+  "text" : "На показаната схема с буква „в” е означен пътният знак, който сигнарлизира, че разстоянието до железопътния прелез е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8673,
+    "text" : "240 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8674,
+    "text" : "160 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8675,
+    "text" : "80 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2736,
+  "number" : 35,
+  "subNumber" : 1,
+  "pictureSha1" : "c3c69dd8a4234635a6fde0934586eb1bde262f45",
+  "text" : "Този пътен знак предупреждава за приближаване към:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8924,
+    "text" : "железопътна гара",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8921,
+    "text" : "железопътен надлез",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8923,
+    "text" : "железопътен прелез с автоматични бариери",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8922,
+    "text" : "железопътен прелез без бариери",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2737,
+  "number" : 36,
+  "subNumber" : 1,
+  "pictureSha1" : "ab54ea40287e8fd26f715a60b624e254a1a8cb68",
+  "text" : "Този пътен знак предупреждава за приближаване към:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8927,
+    "text" : "трамвайна линия",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8926,
+    "text" : "подвижен мост",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8928,
+    "text" : "железопътен прелез с бариери",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8925,
+    "text" : "път затворен за обществено ползване",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2738,
+  "number" : 38,
+  "subNumber" : 1,
+  "pictureSha1" : "1ca8017a3f21069cd3b5da268863d85f5720d97f",
+  "text" : "Този пътен знак:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8929,
+    "text" : "забранява преминаването без спиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8932,
+    "text" : "сигнализира, че железопътният прелез е с един коловоз",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8931,
+    "text" : "указва място за задължително спиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8930,
+    "text" : "сигнализира, че железопътният прелез е с два или повече коловоза",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2739,
+  "number" : 39,
+  "subNumber" : 1,
+  "pictureSha1" : "baeec2337707b001d5526dc4711a6cc2aa943a55",
+  "text" : "Този пътен знак:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8934,
+    "text" : "сигнализира, че железопътният прелез е с един коловоз",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8933,
+    "text" : "сигнализира, че железопътният прелез е с два или повече коловоза",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8935,
+    "text" : "предупреждава за кръстовище на равнозначни пътища",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8936,
+    "text" : "забранява навлизането срещу знака",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

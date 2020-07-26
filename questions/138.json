@@ -1,0 +1,567 @@
+[ {
+  "id" : 3743,
+  "number" : 11,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Ако след продължително управление водачът се чувства уморен и усеща, че може да заспи на волана, трябва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12249,
+    "text" : "да увеличи скоростта, за да концентрира вниманието си",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12248,
+    "text" : "да спре за почивка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12247,
+    "text" : "да консумира тонизиращи напитки - чай или кафе",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3744,
+  "number" : 12,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Най-ефективният начин за намаляване на умората при продължително управление на МПС е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12250,
+    "text" : "спирането за почивка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12251,
+    "text" : "слушането на подходяща музика",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12252,
+    "text" : "консумирането на тонизиращи напитки",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3745,
+  "number" : 14,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Приемането на различни освежителни напитки, като силно кафе или чай има продължителен ободрителен ефект върху водача.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12253,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12254,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3746,
+  "number" : 13,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Колко често водачът трябва да спира за почивка при продължително пътуване?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12255,
+    "text" : "на всеки четири часа",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12256,
+    "text" : "достатъчна е почивката при спирането за хранене",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12257,
+    "text" : "винаги когато почувства умора",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3747,
+  "number" : 15,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Какво въздействие оказва приемането на голямо количество тонизиращи напитки - кафе или чай, за преодоляване умората на водача?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12260,
+    "text" : "позволява на водача да управлява продължително време без да чувства умора",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12258,
+    "text" : "може да предизвика нервно напрежение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12259,
+    "text" : "има кратковременен ободрителен ефект",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3748,
+  "number" : 16,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Ако по време на управление водачът се чувства уморен, до намирането на безопасно място за спиране, е добре :",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12262,
+    "text" : "да увеличи скоростта за да намери по-бързо място за спиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12264,
+    "text" : "да сменя непрекъснато предавките за да подобри концентрацията си",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12261,
+    "text" : "да разговаря с пътниците в автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12263,
+    "text" : "да осигури достъп на свеж въздух в купето",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3749,
+  "number" : 16,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Ако по време на управление водачът се чувства уморен, до намирането на безопасно място за спиране най-добре е:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12267,
+    "text" : "да разговаря с пътниците в автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12268,
+    "text" : "да осигури достъп на свеж въздух в купето",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12265,
+    "text" : "да сменя непрекъснато предавките за да подобри концентрацията си",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12266,
+    "text" : "внимателно да избере скоростта, с която да се движи",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3761,
+  "number" : 28,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Предупреждаващите признаци за умора у водача са:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12308,
+    "text" : "проблеми с обработването на информацията",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12309,
+    "text" : "повишаване на концентрацията на вниманието",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12310,
+    "text" : "намаляване на бдителността",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12311,
+    "text" : "понижаване на устойчивостта на вниманието",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3762,
+  "number" : 28,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Предупреждаващите признаци за умора у водача са:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12312,
+    "text" : "нарушаване на сензомоторната координация",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12313,
+    "text" : "проблеми с кратковременната памет",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12315,
+    "text" : "повишаване на устойчивостта на вниманието",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12314,
+    "text" : "намаляване на бдителността",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3763,
+  "number" : 28,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Предупреждаващите признаци за умора у водача са:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12317,
+    "text" : "намаляването на точността на възприеманите обекти от пътната обстановка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12319,
+    "text" : "разсейването",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12318,
+    "text" : "точните реакции",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12316,
+    "text" : "намаляването на обема на възприеманите обекти от пътната обстановка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3764,
+  "number" : 28,
+  "subNumber" : 4,
+  "pictureSha1" : null,
+  "text" : "Предупреждаващите признаци за умора у водача са:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12320,
+    "text" : "трудност при съсредоточаване",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12323,
+    "text" : "намаляване на обема на възприеманите обекти от пътната обстановка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12321,
+    "text" : "висока точност на възприеманите обекти от пътната обстановка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12322,
+    "text" : "неправилни реакции",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3765,
+  "number" : 28,
+  "subNumber" : 5,
+  "pictureSha1" : null,
+  "text" : "Предупреждаващите признаци за умора у водача са:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12325,
+    "text" : "появата на чувство за комфортност",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12326,
+    "text" : "прояви на нетърпение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12327,
+    "text" : "забавено мислене",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12324,
+    "text" : "увеличени периоди на микросън",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3766,
+  "number" : 28,
+  "subNumber" : 6,
+  "pictureSha1" : null,
+  "text" : "Предупреждаващите признаци за умора у водача са:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12331,
+    "text" : "чувство на неспокойство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12328,
+    "text" : "ускоряване на реакциите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12329,
+    "text" : "поява на раздразнителност",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12330,
+    "text" : "отпадналост",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3767,
+  "number" : 29,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кой от изброените факти е признак за умора на водача?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12332,
+    "text" : "парене в очите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12334,
+    "text" : "честото прозяване",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12335,
+    "text" : "ускоряване на реакциите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12333,
+    "text" : "зрението започва да се замъглява",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3768,
+  "number" : 29,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кой от изброените факти е признак за умора на водача?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12336,
+    "text" : "полагане на усилие за да се поддържат очите отворени",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12337,
+    "text" : "изпотяване на дланите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12338,
+    "text" : "продължително търкане на очите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12339,
+    "text" : "съкращаване на времето за взимане на правилни решения",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3769,
+  "number" : 29,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "При умора на водача риска от попадане в ПТП се повишава поради:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12341,
+    "text" : "намаляване на времето за реакция",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12342,
+    "text" : "притъпяване на бдителността",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12340,
+    "text" : "понижаване на концентрацията на вниманието",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3770,
+  "number" : 29,
+  "subNumber" : 4,
+  "pictureSha1" : null,
+  "text" : "Умората на водача е причина за понижаване на устойчивостта и концентрацията на вниманието, което може да доведе до:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12346,
+    "text" : "повишаване на способността за предвиждане на ситуациите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12343,
+    "text" : "пропускане на пътни знаци и сигнали",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12345,
+    "text" : "напускане на платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12344,
+    "text" : "неволно отклоняване от посоката на движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3771,
+  "number" : 29,
+  "subNumber" : 5,
+  "pictureSha1" : null,
+  "text" : "Предупреждаващите признаци за умора у водача са:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12349,
+    "text" : "повишаване на способността за предвиждане на ситуациите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12347,
+    "text" : "неправилна оценка за скоростта на движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12348,
+    "text" : "затруднения в ориентирането в пътната обстановка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12350,
+    "text" : "взимане на необмислени решения",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3772,
+  "number" : 29,
+  "subNumber" : 6,
+  "pictureSha1" : null,
+  "text" : "Предупреждаващите признаци за умора у водача са:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12353,
+    "text" : "намаляване на способността за предвиждане на ситуациите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12352,
+    "text" : "повишаване на способността за правилна преценка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12354,
+    "text" : "взимане на неточни решения",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12351,
+    "text" : "затруднения в ориентирането в пътната обстановка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+} ]

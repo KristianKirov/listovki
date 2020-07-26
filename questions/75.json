@@ -1,0 +1,681 @@
+[ {
+  "id" : 2564,
+  "number" : 18,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кои от изброените пътни превозни средства са моторни?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8292,
+    "text" : "тролейбусите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8291,
+    "text" : "тракторите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8293,
+    "text" : "велосипедите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8290,
+    "text" : "мотопедите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2565,
+  "number" : 18,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кои от изброените пътни превозни средства са моторни?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8295,
+    "text" : "мотопедите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8296,
+    "text" : "тракторите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8294,
+    "text" : "трамваите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8297,
+    "text" : "автомобилите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2566,
+  "number" : 18,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Кои от изброените пътни превозни средства са моторни?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8300,
+    "text" : "автомобилите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8301,
+    "text" : "велосипедите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8298,
+    "text" : "тракторите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8299,
+    "text" : "трамваите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2567,
+  "number" : 19,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Тракторът принадлежи към групата на:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8304,
+    "text" : "моторните превозни средства",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8302,
+    "text" : "пътните превозни средства",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8303,
+    "text" : "товарните автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8305,
+    "text" : "специалните автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2568,
+  "number" : 19,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Трамваят е релсово превозно средство, което:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8308,
+    "text" : "се приравнява към тролейбусите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8307,
+    "text" : "не се счита за моторно превозно средство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8306,
+    "text" : "се приравнява към групата на пътните превозни средства",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8309,
+    "text" : "се приравнява към автомобилите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2544,
+  "number" : 20,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На кой от показаните трактори е разрешено движението по пътищата отворени за обществено ползване?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8218,
+    "text" : null,
+    "pictureSha1" : "8313ad49f3773c5cd6f7f9409e22e1fbe73ba8a0",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8219,
+    "text" : null,
+    "pictureSha1" : "638193e217193c0c8bfa2a55c4d03d10869be74f",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8220,
+    "text" : null,
+    "pictureSha1" : "6626a50a8d470eb0b0f8f13f4a25896e5cc9ebd0",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8217,
+    "text" : null,
+    "pictureSha1" : "d8f3d7cfe671cc33aba30a82f6fac8db5effe765",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2569,
+  "number" : 19,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Трамваят е релсово превозно средство, което се приравнява към групата на моторните превозни средства.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8311,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8310,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2570,
+  "number" : 19,
+  "subNumber" : 4,
+  "pictureSha1" : null,
+  "text" : "Трамваите се приравняват към:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8315,
+    "text" : "специалните автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8313,
+    "text" : "пътните превозни средства",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8314,
+    "text" : "моторните превозни средства",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8312,
+    "text" : "тролейбусите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2571,
+  "number" : 21,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кое от показаните превозни средства е автомобил?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8316,
+    "text" : null,
+    "pictureSha1" : "ae718190a69c4df065c4943b8164bcec504a1563",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8319,
+    "text" : null,
+    "pictureSha1" : "d8f3d7cfe671cc33aba30a82f6fac8db5effe765",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8317,
+    "text" : null,
+    "pictureSha1" : "55d4593aa871c271d16203571753453668979193",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8318,
+    "text" : null,
+    "pictureSha1" : "88fb6cace33a6916a68e6dc260946393c92a6bac",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2574,
+  "number" : 21,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кое от показаните превозни средства е автомобил?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8329,
+    "text" : null,
+    "pictureSha1" : "aee6d04cee2120b963bc2e13f19d043da52121f4",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8330,
+    "text" : null,
+    "pictureSha1" : "81708a410332b131fbe3da792c46688f659e82c2",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8328,
+    "text" : null,
+    "pictureSha1" : "7df2d48827adc974e53e74736b4474f5574b6cf2",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8331,
+    "text" : null,
+    "pictureSha1" : "a7b8cd371c6e75b3f16565b2dced1867895c7830",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2576,
+  "number" : 21,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Кое от показаните превозни средства е автомобил?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8336,
+    "text" : null,
+    "pictureSha1" : "05c8cc42e87a14510a00a7fe71bea80dd4bba1f2",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8338,
+    "text" : null,
+    "pictureSha1" : "1df88a3fd62dbaf313377c3767a16c7b5ffee2de",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8337,
+    "text" : null,
+    "pictureSha1" : "be9df914900d78163ef7471526d9446a9d49c563",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8339,
+    "text" : null,
+    "pictureSha1" : "cd370ca95d70e52fc77b410803a58c942dafb4bc",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2577,
+  "number" : 22,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кое от показаните превозни средства е автомобил?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8343,
+    "text" : null,
+    "pictureSha1" : "5dce8a81169556c9bdd5f4871ae9d51ded1db6b5",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8342,
+    "text" : null,
+    "pictureSha1" : "595d3ea169332badf446c759ada630fbfdf3364c",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8340,
+    "text" : null,
+    "pictureSha1" : "4cef9aef5fa07906761fbe55a90fd4da69009860",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8341,
+    "text" : null,
+    "pictureSha1" : "154df88c43e9bc006cb3d01f26653f8628a9211e",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2580,
+  "number" : 24,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Леки са автомобилите, предназначени за превоз на пътници с не повече от:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8352,
+    "text" : "12 места за сядане без мястото на водача",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8355,
+    "text" : "6 места за сядане без мястото на водача",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8354,
+    "text" : "10 места за сядане без мястото на водача",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8353,
+    "text" : "8 места за сядане без мястото на водача",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2581,
+  "number" : 25,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Специалните автомобили:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8356,
+    "text" : "ползват специален режим на движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8359,
+    "text" : "са обозначени с жълта пробляскваща светлина",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8358,
+    "text" : "сигнализират със синя или червена пробляскваща светлина",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8357,
+    "text" : "имат постоянно монтирана апаратура, която не позволява използването им за други цели",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2582,
+  "number" : 26,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Мотопедът има двигател с работен обем до 50 см3 и конструктивна максимална скорост, която не надвишава 45 км/ч.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8361,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8360,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2583,
+  "number" : 26,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Двигателят на мотопеда е с работен обем до:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8365,
+    "text" : "30 см3",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8364,
+    "text" : "50 см3",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8362,
+    "text" : "75 см3",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8363,
+    "text" : "125 см3",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2579,
+  "number" : 22,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кое от показаните превозни средства е автомобил?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8348,
+    "text" : null,
+    "pictureSha1" : "1bbff036a33a0e8d218faab30fc8ef6dbbf4db01",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8350,
+    "text" : null,
+    "pictureSha1" : "6fb6ea91c02493f1420fff4da81954799d8fa45f",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8349,
+    "text" : null,
+    "pictureSha1" : "064b919913f10237ca5aab27d40180c18e552a07",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8351,
+    "text" : null,
+    "pictureSha1" : "252afed8a7e785115e2755cea96f9b02f60eef1a",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2584,
+  "number" : 27,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Конструктивната максимална скорост на мотопеда е не по-голяма от:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8368,
+    "text" : "55 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8366,
+    "text" : "60 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8367,
+    "text" : "50 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8369,
+    "text" : "45 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2585,
+  "number" : 28,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Състав от пътни превозни средства са:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8371,
+    "text" : "механично свързани ППС, които участват в движението като едно цяло",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8373,
+    "text" : "МПС с  полуремарке",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8372,
+    "text" : "МПС теглещо ремарке",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8370,
+    "text" : "автомобилите с допълнително монтирани съоръжения",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2586,
+  "number" : 28,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Състав от пътни превозни средства са:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8374,
+    "text" : "автомобил с полуремарке",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8377,
+    "text" : "автомобил с ремарке",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8375,
+    "text" : "автомобил, който тегли друг повреден автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8376,
+    "text" : "автомобилите с допълнително монтирани съоръжения",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2587,
+  "number" : 29,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Масата с товар на превозното средство:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8379,
+    "text" : "не включва масата на водача",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8378,
+    "text" : "не включва масата на пътниците",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8380,
+    "text" : "включва масата на товара",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8381,
+    "text" : "включва масата на превозното средство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2588,
+  "number" : 29,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "\"Допустима максимална маса\" на превозното средство е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8385,
+    "text" : "разрешената товароносимост на превозното средство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8383,
+    "text" : "максималната маса на превозното средство без товар",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8382,
+    "text" : "разрешената от компетентните органи максимална маса в натоварено състояние",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8384,
+    "text" : "максималната маса в натоварено състояние, посочена от производителя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

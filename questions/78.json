@@ -1,0 +1,1201 @@
+[ {
+  "id" : 2517,
+  "number" : 5,
+  "subNumber" : 1,
+  "pictureSha1" : "1460824d0b6587e0ae6ca792e4a131935db0a7d4",
+  "text" : "Този пътен знак предупреждава за:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8116,
+    "text" : "опасен завой надясно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8117,
+    "text" : "кръстовище, на което задължително трябва да се завие надясно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8118,
+    "text" : "опасност ППС да излезе от пътя надясно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8115,
+    "text" : "място за паркиране край пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2519,
+  "number" : 5,
+  "subNumber" : 2,
+  "pictureSha1" : "d777526af20ab4ad27fde55210ec34f7253cbf94",
+  "text" : "Този пътен знак предупреждава за:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8123,
+    "text" : "опасен наклон на пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8125,
+    "text" : "опасeн завой наляво",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8126,
+    "text" : "кръстовище, на което задължително трябва да се завие наляво",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8124,
+    "text" : "опасност ППС да излезе от пътя наляво",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2529,
+  "number" : 7,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци предупреждава, че ще навлезете в опасен завой?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8165,
+    "text" : null,
+    "pictureSha1" : "cfbceace29bbb6ba7453ab8d25269e0e4746e48e",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8166,
+    "text" : null,
+    "pictureSha1" : "675c529574f023efb785c30801ac83f9db618e20",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8163,
+    "text" : null,
+    "pictureSha1" : "76ded13da0411bd8ce547dd9eca18eb68d84c016",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8164,
+    "text" : null,
+    "pictureSha1" : "3eaf658b392cd38333ce47854ab835504e65b1f0",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2530,
+  "number" : 7,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци предупреждава, че ще навлезете в опасен завой?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8168,
+    "text" : null,
+    "pictureSha1" : "675c529574f023efb785c30801ac83f9db618e20",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8167,
+    "text" : null,
+    "pictureSha1" : "f45b4928f012463df783596750b8efb782ecb2c7",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8169,
+    "text" : null,
+    "pictureSha1" : "11b674faf22932e79317f45244a24ef0cc206b1b",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8170,
+    "text" : null,
+    "pictureSha1" : "ac1b7b39fefddd5461d73128a8fe4f3474125772",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2531,
+  "number" : 7,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци предупреждава, че ще навлезете в опасен завой?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8171,
+    "text" : null,
+    "pictureSha1" : "76ded13da0411bd8ce547dd9eca18eb68d84c016",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8172,
+    "text" : null,
+    "pictureSha1" : "30cb1cbb720e93909fb5e0457d90e7b786a1e1aa",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8174,
+    "text" : null,
+    "pictureSha1" : "f45b4928f012463df783596750b8efb782ecb2c7",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8173,
+    "text" : null,
+    "pictureSha1" : "82288da39f9dc3eea114b68ae4a08cefb80df08c",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2546,
+  "number" : 6,
+  "subNumber" : 1,
+  "pictureSha1" : "866af2399ea0f351ae80878fb366c837dbfb56b7",
+  "text" : "Този пътен знак предупреждава за:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8225,
+    "text" : "последователни опасни завои, първият от които е наляво",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8223,
+    "text" : "препятствие, което трябва да бъде заобиколено отляво",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8226,
+    "text" : "последователност от стръмни изкачвания и спускания",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8224,
+    "text" : "опасност от хлъзгане",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2532,
+  "number" : 7,
+  "subNumber" : 4,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци предупреждава, че ще навлезете в опасен завой?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8177,
+    "text" : null,
+    "pictureSha1" : "f45b4928f012463df783596750b8efb782ecb2c7",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8178,
+    "text" : null,
+    "pictureSha1" : "11b674faf22932e79317f45244a24ef0cc206b1b",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8175,
+    "text" : null,
+    "pictureSha1" : "85b0959c3a3c58364f1cd3af6d98b8aac51a9d8a",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8176,
+    "text" : null,
+    "pictureSha1" : "ac1b7b39fefddd5461d73128a8fe4f3474125772",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2537,
+  "number" : 22,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кой знак предупреждава за неравности по платното за движение?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8196,
+    "text" : null,
+    "pictureSha1" : "dbebde66349ea9fbb92f6b7aa9683ed34a100fe7",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8193,
+    "text" : null,
+    "pictureSha1" : "c421f1a01b38242832bdd2c1de09a1b921741ed3",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8195,
+    "text" : null,
+    "pictureSha1" : "d2db200c1563c29e9957ad0b6c9e010f05f3fecb",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8194,
+    "text" : null,
+    "pictureSha1" : "e2077a30af02cfc762e0bf68175a64a5aa69d639",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2547,
+  "number" : 6,
+  "subNumber" : 2,
+  "pictureSha1" : "9a7fadf58a08d666d2a9c88a265a3765be39f6fa",
+  "text" : "Този пътен знак предупреждава за:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8229,
+    "text" : "препятствие, което трябва да бъде заобиколено отдясно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8230,
+    "text" : "последователност от стръмни изкачвания и спускания",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8227,
+    "text" : "опасност от хлъзгане",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8228,
+    "text" : "последователни опасни завои, първият от които е надясно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2573,
+  "number" : 12,
+  "subNumber" : 1,
+  "pictureSha1" : "71a2539e1de72769847ab5f406aa1c31f141deef",
+  "text" : "Този пътен знак предупреждава, за приближаване към:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8325,
+    "text" : "тунел",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8324,
+    "text" : "мост",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8326,
+    "text" : "платно за движение, стеснено от двете страни",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8327,
+    "text" : "съоръжение за аварийно спиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2572,
+  "number" : 11,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци предупреждава за опасен пътен банкет?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8321,
+    "text" : null,
+    "pictureSha1" : "ea2de7dc0aebd9f91fa0f885e1d8e860c72df055",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8320,
+    "text" : null,
+    "pictureSha1" : "486035aa1fc0fb5deff4690ae88e882c7ea299cb",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8323,
+    "text" : null,
+    "pictureSha1" : "3eaf658b392cd38333ce47854ab835504e65b1f0",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8322,
+    "text" : null,
+    "pictureSha1" : "64a19b2910a7229b13cf95e87f85c73a1fc3b11c",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2575,
+  "number" : 12,
+  "subNumber" : 2,
+  "pictureSha1" : "8a770188a31e7c936ec2d94cde2b82b65c3f2dc0",
+  "text" : "Този пътен знак предупреждава за:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8334,
+    "text" : "промяна в наклона на пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8335,
+    "text" : "опасен пътен банкет отляво",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8333,
+    "text" : "вливане на пътна лента отляво",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8332,
+    "text" : "стесняване на платното за движение отляво",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2578,
+  "number" : 12,
+  "subNumber" : 3,
+  "pictureSha1" : "5c967fd90371bfcb734ab626d5617808df9d5e5b",
+  "text" : "Този пътен знак предупреждава за:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8347,
+    "text" : "опасен пътен банкет отдясно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8346,
+    "text" : "намаляване на броя на пътните ленти",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8344,
+    "text" : "крайпътен обект отдясно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8345,
+    "text" : "платно за движение, стеснено отдясно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2613,
+  "number" : 13,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци предупреждава, че платното за движение е стеснено отдясно?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8471,
+    "text" : null,
+    "pictureSha1" : "ea2de7dc0aebd9f91fa0f885e1d8e860c72df055",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8472,
+    "text" : null,
+    "pictureSha1" : "5c967fd90371bfcb734ab626d5617808df9d5e5b",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8474,
+    "text" : null,
+    "pictureSha1" : "519c3d4ceaccb84d63cff0e97ce42f4699783b57",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8473,
+    "text" : null,
+    "pictureSha1" : "18c5e88b2cf401cb29e96f702689ef0a978fb528",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2617,
+  "number" : 13,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци предупреждава за стеснение на платното за движение?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8483,
+    "text" : null,
+    "pictureSha1" : "5c967fd90371bfcb734ab626d5617808df9d5e5b",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8484,
+    "text" : null,
+    "pictureSha1" : "be1e85ac79762ef1dee54ddc1bb7456966e18920",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8485,
+    "text" : null,
+    "pictureSha1" : "9148dbba4e1da18f2dfeccb49bff8284c046f09b",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8486,
+    "text" : null,
+    "pictureSha1" : "8a770188a31e7c936ec2d94cde2b82b65c3f2dc0",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2621,
+  "number" : 13,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци предупреждава за стеснение на платното за движение?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8500,
+    "text" : null,
+    "pictureSha1" : "9148dbba4e1da18f2dfeccb49bff8284c046f09b",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8502,
+    "text" : null,
+    "pictureSha1" : "26b8f6c6d7deaf765e540870132199ba1c75f1aa",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8499,
+    "text" : null,
+    "pictureSha1" : "519c3d4ceaccb84d63cff0e97ce42f4699783b57",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8501,
+    "text" : null,
+    "pictureSha1" : "ea2de7dc0aebd9f91fa0f885e1d8e860c72df055",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2622,
+  "number" : 13,
+  "subNumber" : 4,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци предупреждава за стеснение на платното за движение?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8506,
+    "text" : null,
+    "pictureSha1" : "9148dbba4e1da18f2dfeccb49bff8284c046f09b",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8503,
+    "text" : null,
+    "pictureSha1" : "be1e85ac79762ef1dee54ddc1bb7456966e18920",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8504,
+    "text" : null,
+    "pictureSha1" : "8a770188a31e7c936ec2d94cde2b82b65c3f2dc0",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8505,
+    "text" : null,
+    "pictureSha1" : "dbebde66349ea9fbb92f6b7aa9683ed34a100fe7",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2624,
+  "number" : 14,
+  "subNumber" : 1,
+  "pictureSha1" : "1a9f6b43dd30d79900c48356b537f503371d6800",
+  "text" : "Значението на този пътен знак е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8513,
+    "text" : "Внимание! Спри!",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8512,
+    "text" : "Внимание! Други опасности",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8511,
+    "text" : "Внимание! Пешеходна пътека",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8514,
+    "text" : "Внимание! Деца",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2623,
+  "number" : 13,
+  "subNumber" : 5,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци предупреждава за стеснение на платното за движение?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8508,
+    "text" : null,
+    "pictureSha1" : "8a770188a31e7c936ec2d94cde2b82b65c3f2dc0",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8509,
+    "text" : null,
+    "pictureSha1" : "519c3d4ceaccb84d63cff0e97ce42f4699783b57",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8510,
+    "text" : null,
+    "pictureSha1" : "dbebde66349ea9fbb92f6b7aa9683ed34a100fe7",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8507,
+    "text" : null,
+    "pictureSha1" : "5c967fd90371bfcb734ab626d5617808df9d5e5b",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2625,
+  "number" : 15,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци предупреждава за стръмен наклон при спускане?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8517,
+    "text" : null,
+    "pictureSha1" : "71cd6d48e98332b340da2daf337afda92e48f819",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8516,
+    "text" : null,
+    "pictureSha1" : "0103534b0aa1192b5fbbfa8f550156177cf29847",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8515,
+    "text" : null,
+    "pictureSha1" : "9a7fadf58a08d666d2a9c88a265a3765be39f6fa",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8518,
+    "text" : null,
+    "pictureSha1" : "3935fedde3733ae9ae6d82ecde5d8f503ff6179d",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2626,
+  "number" : 15,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци предупреждава за стръмен наклон при изкачване?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8520,
+    "text" : null,
+    "pictureSha1" : "669cac0225982621e10a764d4396b32680f4fb98",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8521,
+    "text" : null,
+    "pictureSha1" : "1460824d0b6587e0ae6ca792e4a131935db0a7d4",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8519,
+    "text" : null,
+    "pictureSha1" : "006fb38e0203dcad315053a52101aaa1b8628271",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8522,
+    "text" : null,
+    "pictureSha1" : "4a67b119acf8803c469432268b9cf0bd1b74582f",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2629,
+  "number" : 16,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци предупреждава за опасност от хлъзгане?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8529,
+    "text" : null,
+    "pictureSha1" : "ff61f17b18edd420632033c7943e7d5709fb8e48",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8530,
+    "text" : null,
+    "pictureSha1" : "9e4fa3c95c0cef0a06ad3cd166d1a32579d291a0",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8532,
+    "text" : null,
+    "pictureSha1" : "ea2de7dc0aebd9f91fa0f885e1d8e860c72df055",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8531,
+    "text" : null,
+    "pictureSha1" : "866af2399ea0f351ae80878fb366c837dbfb56b7",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2630,
+  "number" : 18,
+  "subNumber" : 1,
+  "pictureSha1" : "17da8692e31d12c4c986b08a9b5ed6a684671fda",
+  "text" : "Този пътен знак сигнализира:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8534,
+    "text" : "за опасност от паднали камъни на пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8536,
+    "text" : "че пътят навлиза в тунел",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8533,
+    "text" : "участък от пътя в ремонт",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8535,
+    "text" : "че следва участък от пътя с концентрация на произшествия",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2631,
+  "number" : 18,
+  "subNumber" : 2,
+  "pictureSha1" : "25a4dc5de7d324a5c65ce5fc6356f3cbfc8f9a78",
+  "text" : "При тази ситуация пътните знаци сигнализират, че:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8538,
+    "text" : "следва участък от пътя в ремонт",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8537,
+    "text" : "след завоя пътят навлиза в тунел",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8540,
+    "text" : "следва участък от пътя с концентрация на пътнотранспортни произшествия",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8539,
+    "text" : "съществува опасност от паднали камъни на пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2702,
+  "number" : 11,
+  "subNumber" : 1,
+  "pictureSha1" : "ea2de7dc0aebd9f91fa0f885e1d8e860c72df055",
+  "text" : "Този пътен знак предупреждава за:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8803,
+    "text" : "хлъзгав  участък  от пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8804,
+    "text" : "опасен пътен банкет",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8806,
+    "text" : "неравности по пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8805,
+    "text" : "начин на паркиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2700,
+  "number" : 8,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "При навлизане в завой, с увеличаването на скоростта, устойчивостта на превозното средство се влошава.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8797,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8798,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2701,
+  "number" : 9,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При движение на превозното средство в завой, с висока скорост, най-опасно е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8802,
+    "text" : "възможното странично хлъзгане на автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8800,
+    "text" : "ускореното износване  на кормилната уредба",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8801,
+    "text" : "ускореното износване  на окачването",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8799,
+    "text" : "ускореното неправилно износване на протектора на гумите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2633,
+  "number" : 22,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кой знак предупреждава за изкуствени неравности по платното за движение?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8547,
+    "text" : null,
+    "pictureSha1" : "dbebde66349ea9fbb92f6b7aa9683ed34a100fe7",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8546,
+    "text" : null,
+    "pictureSha1" : "eaa3bf644be7f6c100f33fd6a71b148343a35edf",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8548,
+    "text" : null,
+    "pictureSha1" : "558b7f706b240c24fb75bbfd854906ce16983772",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8545,
+    "text" : null,
+    "pictureSha1" : "f45b4928f012463df783596750b8efb782ecb2c7",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2703,
+  "number" : 17,
+  "subNumber" : 1,
+  "pictureSha1" : "c6d59a2aedd21004acedec5281f5a744f263eb85",
+  "text" : "Допълнителният контур с жълтозелен флуоресцентен светлоотразителен фон около пътния знак значава, че:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8809,
+    "text" : "след пешеходната пътека следва участък от пътя в ремонт",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8810,
+    "text" : "пешеходната пътека се намира в участък от пътя, на който често стават произшествия",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8807,
+    "text" : "има интензивно движение на пешеходци",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8808,
+    "text" : "пешеходната пътека не е осветена",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2704,
+  "number" : 17,
+  "subNumber" : 2,
+  "pictureSha1" : "da751594537d70890153e63278504da4b7fff5c8",
+  "text" : "Допълнителният контур с жълтозелен флуоресцентен светлоотразителен фон около пътния знак значава, че:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8813,
+    "text" : "следва участък от пътя в ремонт",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8812,
+    "text" : "ограничението се отнася само за товарните автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8814,
+    "text" : "в този участък от пътя често стават произшествия",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8811,
+    "text" : "знакът е валиден само при мокър път",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2705,
+  "number" : 19,
+  "subNumber" : 1,
+  "pictureSha1" : "dbebde66349ea9fbb92f6b7aa9683ed34a100fe7",
+  "text" : "Този знак предупреждава за възможна опасност от:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8817,
+    "text" : "строителни машини на платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8815,
+    "text" : "неравности по платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8816,
+    "text" : "играещи деца на платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8818,
+    "text" : "работещи хора на платното за движение или в обхвата на пътя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2706,
+  "number" : 19,
+  "subNumber" : 2,
+  "pictureSha1" : "dbebde66349ea9fbb92f6b7aa9683ed34a100fe7",
+  "text" : "След този пътен знак:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8821,
+    "text" : "може да има препятствия по платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8820,
+    "text" : "паркирането е забранено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8822,
+    "text" : "на платното за движение може да има работещи хора",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8819,
+    "text" : "пътят е затворен за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2707,
+  "number" : 20,
+  "subNumber" : 1,
+  "pictureSha1" : "dbebde66349ea9fbb92f6b7aa9683ed34a100fe7",
+  "text" : "Този пътен знак:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8824,
+    "text" : "сигнализира, че пътният участък е с концентрация на произшествия",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8825,
+    "text" : "указва място за извършване на товарно-разтоварна дейност на пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8826,
+    "text" : "предупреждава, че следва участък от пътя в ремонт",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8823,
+    "text" : "забранява извършването на ремонтни работи по пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2708,
+  "number" : 21,
+  "subNumber" : 1,
+  "pictureSha1" : "2c4a3917a442e7d0941dbd728fb5216567974ec5",
+  "text" : "Този пътен знак:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8827,
+    "text" : "указва начало на велосипедна алея",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8829,
+    "text" : "предупреждава за място, където на пътя излизат велосипедисти",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8830,
+    "text" : "сигнализира участък от пътя, по който е забранено движението на велосипедисти",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8828,
+    "text" : "указва начало на път само за велосипедисти",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2756,
+  "number" : 17,
+  "subNumber" : 3,
+  "pictureSha1" : "f0aa48b1c27d201b9a97b5317d26949b4f96648c",
+  "text" : "При тази ситуация, жълтозеленият флуоресцентен светлоотразителен фон, върху който е поставен пътният знак:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9002,
+    "text" : "указва, че е забранено и изпреварването",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9001,
+    "text" : "указва, че ограничението на скоростта се спазва само при движение в завой",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9003,
+    "text" : "сигнализира, че пътният участък е с концентрация на пътнотранспортни произшествия",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9004,
+    "text" : "указва, че следва участък от пътя в ремонт",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3955,
+  "number" : 8,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Как се променя устойчивостта на превозното средство, когато при навлизане в завой се увеличава скоростта?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12977,
+    "text" : "не се променя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12979,
+    "text" : "влошава се",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12978,
+    "text" : "подобрява се",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3956,
+  "number" : 8,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "При навлизане в завой, с увеличаването на скоростта, устойчивостта на превозното средство се подобрява.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12981,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12980,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3957,
+  "number" : 10,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При движение в завой радиусът на завоя оказва ли влияние на устойчивостта на превозното средство?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12982,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12983,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3958,
+  "number" : 10,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Как се променя устойчивостта на превозното средство, при движение в завой, с намаляване на радиуса на завоя?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12986,
+    "text" : "влошава се",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12985,
+    "text" : "подобрява се",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12984,
+    "text" : "не се променя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

@@ -1,0 +1,161 @@
+[ {
+  "id" : 3650,
+  "number" : 61,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "В населено място предупредителният светлоотразителен триъгълник, се поставя:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11939,
+    "text" : "в пътната лента, заета от повреденото ППС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11938,
+    "text" : "на тротоара",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11940,
+    "text" : "срещу посоката на движение на превозните средства които заобикалят повреденото ППС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11941,
+    "text" : "на разстояние не по-малко от 30 м от повреденото ППС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3651,
+  "number" : 62,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На пътища с разрешена скорост за движение, по-висока от 90 км/ч, предупредителният светлоотразителен триъгълник се поставя на разстояние от автомобила, не по-малко от:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11945,
+    "text" : "100 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11944,
+    "text" : "50 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11943,
+    "text" : "150 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11942,
+    "text" : "30 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3652,
+  "number" : 63,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На пътища с разрешена скорост за движение до 90 км/ч, предупредителният светлоотразителен триъгълник се поставя на разстояние от автомобила не по-малко от:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11949,
+    "text" : "50 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11946,
+    "text" : "70 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11947,
+    "text" : "30 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11948,
+    "text" : "100 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3653,
+  "number" : 64,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Ако преместването на повредения автомобил извън платното за движение  е невъзможно, отстраняването на повредата се извършва:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11953,
+    "text" : "след уведомяване на съответната пътна служба",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11951,
+    "text" : "след поставяне на съответната сигнализация за обозначаване на автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11950,
+    "text" : "след като водачът облече светлоотразителна жилетка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11952,
+    "text" : "след уведомяване на контролните органи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3654,
+  "number" : 65,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При отстраняване на повреда по ППС, което се намира на платно за движение, водачът е задължен:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11956,
+    "text" : "да е облечен със светлоотразителна жилетка, когато се намира извън превозното средство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11957,
+    "text" : "да обозначи превозното средство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11955,
+    "text" : "да съобщи на контролните органи за повредата",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11954,
+    "text" : "да се обади на „пътна помощ”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

@@ -1,0 +1,279 @@
+[ {
+  "id" : 3096,
+  "number" : 61,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При разминаване на два автомобила задължението за осигуряване на необходимата странична дистанция е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10117,
+    "text" : "на водача на автомобила, който се движи с по-висока скорост",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10118,
+    "text" : "на водача на автомобила с по-големи габарити",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10119,
+    "text" : "на двамата водачи",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10116,
+    "text" : "на водача на автомобила с по-голяма обща маса",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3097,
+  "number" : 62,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато, при голям надлъжен наклон, за разминаване на единично ППС със състав от ППС е необходимо движение назад, то се извършва от:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10120,
+    "text" : "ППС, което се спуска по наклона",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10122,
+    "text" : "единичното превозно средство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10121,
+    "text" : "състава от ППС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10123,
+    "text" : "ППС, което се изкачва по наклона",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3098,
+  "number" : 63,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато, на път с голям надлъжен наклон, за разминаването на лек с товарен автомобил е необходимо движение назад, то се извършва от:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10125,
+    "text" : "товарния автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10124,
+    "text" : "лекия автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10127,
+    "text" : "автомобила, който се спуска по наклона",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10126,
+    "text" : "автомобила, който се изкачва по наклона",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3099,
+  "number" : 64,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато, при голям надлъжен наклон, за разминаване на товарен автомобил с автобус е необходимо движение назад, то се извършва от:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10128,
+    "text" : "ППС, което се спуска по наклона",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10129,
+    "text" : "автобуса",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10130,
+    "text" : "ППС, което се изкачва по наклона",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10131,
+    "text" : "товарния автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3101,
+  "number" : 66,
+  "subNumber" : 1,
+  "pictureSha1" : "86dba14032ba1a75e2346829d91fcb4d930c816d",
+  "text" : "При тази ситуация задължен да пропусне насрещно движещото се превозно средство е водачът на:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10137,
+    "text" : "червения автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10136,
+    "text" : "синия автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3100,
+  "number" : 65,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На път с голям надлъжен наклон, когато разминаването е невъзможно и редът за преминаване не е уреден с пътни знаци, предимство има ППС, което:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10132,
+    "text" : "се спуска по наклона",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10133,
+    "text" : "се изкачва по наклона",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10135,
+    "text" : "се движи по-бързо",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10134,
+    "text" : "се намира по-близо до стеснения участък",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3102,
+  "number" : 67,
+  "subNumber" : 1,
+  "pictureSha1" : "20b975014899f619cf08c73d8cff642304302e0f",
+  "text" : "При тази ситуация червеният автомобил е с предимство за преминаване през стеснения участък от пътя.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10139,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10138,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3103,
+  "number" : 68,
+  "subNumber" : 1,
+  "pictureSha1" : "7d079cb2959fc0d596b050e8b771463130b586fc",
+  "text" : "Как трябва да постъпите при тази ситуация, след като червеният автомобил е навлязъл в стеснения участък?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10142,
+    "text" : "трябва да подам сигнал към червения автомобил за да ми осигури предимство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10141,
+    "text" : "длъжен съм да пропусна червения автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10140,
+    "text" : "трябва да продължа движението си, защото съм с предимство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3104,
+  "number" : 68,
+  "subNumber" : 2,
+  "pictureSha1" : "9b6e6b1de202a053005884a7364b8c546b34e0a1",
+  "text" : "При тази ситуация водачът на синия автомобил:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10143,
+    "text" : "е с предимство и трябва да продължи движението си",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10144,
+    "text" : "трябва да пропусне автомобила, който вече е навлязъл в стеснения участък",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3105,
+  "number" : 69,
+  "subNumber" : 1,
+  "pictureSha1" : "3a89d2bbc0ee437b190263e07ae150af64f95eeb",
+  "text" : "Този пътен знак сигнализира, че:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10145,
+    "text" : "навлизането след него е забранено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10146,
+    "text" : "движението след знака е двупосочно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10148,
+    "text" : "навлизането след него е разрешено във всички случаи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10147,
+    "text" : "навлизането след него е разрешено, ако пътят е свободен",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+} ]

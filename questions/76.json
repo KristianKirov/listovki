@@ -1,0 +1,1171 @@
+[ {
+  "id" : 2501,
+  "number" : 3,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е водач с правоспособност за категория А1 да управлява мотоциклет с работен обем на двигателя 125 см3, ако максималната му мощност надвишава 11 kW?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8061,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8062,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2538,
+  "number" : 8,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Автомобил, с допустима максимална маса над 3,5 т, е разрешено да се управлява с правоспособност за категория В, ако броят на местата за сядане, без мястото на водача, не надвишават 8.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8197,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8198,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2548,
+  "number" : 4,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Водач с правоспособност за категория А1 може да управлява мотоциклет с работен обем на двигателя 125 см3 и отношение мощност/тегло до 0,1 kW/kg, ако максималната му мощност не надвишава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8234,
+    "text" : "11 kW",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8233,
+    "text" : "17 Kw",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8231,
+    "text" : "20 kW",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8232,
+    "text" : "25 kW",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2549,
+  "number" : 4,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "С правоспособност за категория А1 може да се управлява мотоциклет с работен обем на двигателя 125 см3 и отношение мощност/тегло до 0,1 kW/kg, ако неговата мощността е:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8235,
+    "text" : "25 kW",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8236,
+    "text" : "17 kW",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8238,
+    "text" : "7 kW",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8237,
+    "text" : "11 kW",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2550,
+  "number" : 4,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "С правоспособност за категория А1 може да се управлява мотоциклет с максимална мощност 11 kW и отношение мощност/тегло до 0,1 kW/kg, ако работният обем на двигателя е:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8241,
+    "text" : "125 см3",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8240,
+    "text" : "75 см3",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8239,
+    "text" : "175 см3",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8242,
+    "text" : "55 см3",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2551,
+  "number" : 4,
+  "subNumber" : 4,
+  "pictureSha1" : null,
+  "text" : "Каква е максималната стойност на отношението „мощност/тегло” при мотоциклетите, които може да се управляват с правоспособност за категория А1?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8243,
+    "text" : "0,3 kW/kg",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8244,
+    "text" : "0,2 kW/kg",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8245,
+    "text" : "0,1 kW/kg",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2552,
+  "number" : 5,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Водач с правоспособност за управление на МПС от категория А има право да управлява и МПС от:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8249,
+    "text" : "категория АМ",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8248,
+    "text" : "категория А1",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8247,
+    "text" : "категория В1",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8246,
+    "text" : "категория Ткт",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2553,
+  "number" : 6,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Водач с правоспособност за управление на МПС от категория А1 има право да управлява и МПС от:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8250,
+    "text" : "категория А2",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8251,
+    "text" : "категория Ткт",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8252,
+    "text" : "категория А",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8253,
+    "text" : "категория АМ",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2554,
+  "number" : 7,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е водач с правоспособност за категория Ткт (колесен трактор) да управлява мотопед?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8254,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8255,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2555,
+  "number" : 7,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Водач с правоспособност за управление на МПС от категория Ткт (колесен трактор) има право да управлява и:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8258,
+    "text" : "двуколесни МПС от категория А2",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8259,
+    "text" : "мотопед",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8256,
+    "text" : "двуколесни МПС от категория А1",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8257,
+    "text" : "автомобили от категория В1",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2556,
+  "number" : 7,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Водач с правоспособност за управление на МПС от категория “Ткт” (колесен трактор) има право да управлява и МПС от:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8261,
+    "text" : "категория АМ",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8263,
+    "text" : "категория А1",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8260,
+    "text" : "категория В1",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8262,
+    "text" : "категория С1",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2557,
+  "number" : 9,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е водач с правоспособност за категория В да управлява товарен автомобил?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8264,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8265,
+    "text" : "да, когато масата на товара не надвишава 3,5 т",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8266,
+    "text" : "да, когато допустимата му максимална маса не надвишава 3,5 т",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8267,
+    "text" : "да, когато масата му с товар не надвишава 3,5 т",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2558,
+  "number" : 9,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "На водач с правоспособност за категория В е разрешено да управлява товарен автомобил, когато:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8268,
+    "text" : "водачът има стаж над 5 години",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8270,
+    "text" : "притежава правоспособност за категория Ткт",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8269,
+    "text" : "товара на автомобила не надвишава 3,5 т",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8271,
+    "text" : "допустимата максимална маса на автомобила не надвишава 3,5 т",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2559,
+  "number" : 10,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Водач с правоспособност за управление на МПС от категория В1 има право да управлява и:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8273,
+    "text" : "мотоциклет",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8272,
+    "text" : "колесен трактор",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8274,
+    "text" : "мотопед",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2560,
+  "number" : 11,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Водач с правоспособност за управление на МПС от категория В има право да управлява и МПС от:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8278,
+    "text" : "категория АМ",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8275,
+    "text" : "категория В1",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8277,
+    "text" : "категория А1",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8276,
+    "text" : "категория Ткт",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2562,
+  "number" : 15,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Състав от МПС от категория В с допустимата максимална маса над 7000 кг но не повече от 12000 кг е разрешено да се управлява с правоспособност за:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8285,
+    "text" : "категория ВЕ",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8283,
+    "text" : "категория С1Е",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8282,
+    "text" : "категория В",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8284,
+    "text" : "категория С1",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2563,
+  "number" : 16,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "На водач с правоспособност за категория ВЕ е разрешено да управлява състав от ППС с теглещо превозно средство от категория В и ремарке с допустима максимална маса не повече от:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8289,
+    "text" : "1250 кг",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8288,
+    "text" : "750 кг",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8287,
+    "text" : "3500 кг",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8286,
+    "text" : "2500 кг",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2589,
+  "number" : 30,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Двуколесно МПС, с работен обем на двигателя до 50 см3 и конструктивна максимална скорост над 45 км/ч, принадлежи към:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8387,
+    "text" : "категория А",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8388,
+    "text" : "категория В",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8386,
+    "text" : "категория В1",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8389,
+    "text" : "категория АМ",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2590,
+  "number" : 31,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "За да принадлежи към категория А, масата на моторното превозно средство с три колела не трябва да надвишава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8391,
+    "text" : "550 кг",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8390,
+    "text" : "750 кг",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8392,
+    "text" : "400 кг",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2591,
+  "number" : 32,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Мотоциклетите от категория А1 са с максимална мощност не по-голяма от:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8394,
+    "text" : "17 kW",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8396,
+    "text" : "7 kW",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8393,
+    "text" : "11 kW",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8395,
+    "text" : "25 kW",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2592,
+  "number" : 32,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Каква е максималната стойност на отношението „мощност/тегло” за мотоциклетите от категория А1?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8398,
+    "text" : "0,3 kW/kg",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8397,
+    "text" : "0,1 kW/kg",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8399,
+    "text" : "0,2 kW/kg",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2593,
+  "number" : 33,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Каква е максималната стойност на работния обем на двигателя на мотоциклетите от категория А1?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8402,
+    "text" : "175 см3",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8400,
+    "text" : "125 см3",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8401,
+    "text" : "250 см3",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8403,
+    "text" : "75 см3",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2594,
+  "number" : 33,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кои от изброените показатели се използват за да се определят мотоциклетите, които принадлежат към категория А1?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8406,
+    "text" : "разположението на колелата спрямо средната ос на мотоциклета",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8407,
+    "text" : "отношението мощност/тегло",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8404,
+    "text" : "мощността на двигателя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8405,
+    "text" : "работният обем на двигателя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2595,
+  "number" : 33,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Кое от изброените отношения се използва при определяне на мотоциклетите, които принадлежат към категория А1?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8408,
+    "text" : "обем на двигателя/тегло",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8409,
+    "text" : "мощност/тегло",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8410,
+    "text" : "мощност/обем на двигателя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2596,
+  "number" : 34,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Каква е максималната стойност на масата без товар на автомобилите от категория В1  предназначени за превоз на товари?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8414,
+    "text" : "400 кг",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8411,
+    "text" : "1250 кг",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8412,
+    "text" : "550 кг",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8413,
+    "text" : "750 кг",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2597,
+  "number" : 34,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Автомобилите от категория В1, предназначени за превоз на пътници, имат маса без товар не по-голяма от:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8418,
+    "text" : "750 кг",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8417,
+    "text" : "400 кг",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8416,
+    "text" : "900 кг",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8415,
+    "text" : "550 кг",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2598,
+  "number" : 35,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Към МПС от категория В принадлежат товарните автомобили с допустима максимална маса не повече от:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8421,
+    "text" : "7500 кг",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8422,
+    "text" : "3500 кг",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8419,
+    "text" : "4500 кг",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8420,
+    "text" : "2500 кг",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2599,
+  "number" : 36,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Към МПС от категория В принадлежат автомобили, за превоз на пътници, които, без мястото на водача, имат не повече от:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8426,
+    "text" : "12 места за сядане",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8425,
+    "text" : "9 места за сядане",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8423,
+    "text" : "8 места за сядане",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8424,
+    "text" : "6 места за сядане",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2642,
+  "number" : 52,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Триколесно МПС задвижвано от електродвигател, с конструктивна максимална скорост не по-висока от 45 km/h, се управлява с правоспособност за категория АМ ако максималната постоянна номинална мощност на двигателя е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8581,
+    "text" : "не повече от 5 kW",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8583,
+    "text" : "не повече от 6 kW",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8584,
+    "text" : "не повече от 4 kW",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8582,
+    "text" : "не повече от 3 kW",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2644,
+  "number" : 52,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Към категория АМ принадлежат превозни средства с конструктивна максимална скорост до 45 km/h и двигатели с вътрешно горене с работен обем до 50 cm3, които са:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8589,
+    "text" : "с две колела",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8591,
+    "text" : "с четири колела и маса без товар не повече от 350 kg",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8592,
+    "text" : "с три колела",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8590,
+    "text" : "с четири колела и маса без товар не повече от 400 kg",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2645,
+  "number" : 53,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Триколесни моторни превозни средства с мощност по-голяма  от 15 kW се управляват с правоспособност за:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8595,
+    "text" : "категория АМ",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8596,
+    "text" : "категория А",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8594,
+    "text" : "категория А1",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8593,
+    "text" : "категория В1",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2646,
+  "number" : 53,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Триколесно МПС задвижвано от електродвигател с максималната постоянна номинална мощност на двигателя над 4 kW, когато мощността не надвишава 15 kW се управлява с правоспособност за:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8597,
+    "text" : "категория А1",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8598,
+    "text" : "категория А",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8600,
+    "text" : "категория А2",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8599,
+    "text" : "категория АМ",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2648,
+  "number" : 54,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "С правоспособност за категория А1 може да се управляват триколесните моторни превозни средства с мощност, която не превишава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8608,
+    "text" : "11 kW",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8605,
+    "text" : "15 kW",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8606,
+    "text" : "13 kW",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8607,
+    "text" : "9 kW",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2650,
+  "number" : 55,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Каква е максималната стойност на отношението „мощност/тегло” за мотоциклетите от категория А2?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8615,
+    "text" : "0,3 kW/kg",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8614,
+    "text" : "0,2 kW/kg",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8613,
+    "text" : "0,1 kW/kg",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2651,
+  "number" : 55,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Каква е максималната стойност на отношението „мощност/тегло” при мотоциклетите, които може да се управляват с правоспособност за категория А2?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8618,
+    "text" : "0,3 kW/kg",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8616,
+    "text" : "0,1 kW/kg",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8617,
+    "text" : "0,2 kW/kg",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2652,
+  "number" : 56,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Каква е максималната мощността на двигателя на мотоциклет, който може да се управлява с правоспособност за категория А2?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8619,
+    "text" : "11 kW",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8620,
+    "text" : "15 kW",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8621,
+    "text" : "25 kW",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8622,
+    "text" : "35 kW",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2654,
+  "number" : 56,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Колко е максималният работен обем на двигателя с вътрешно горене на мотоциклет, който може да се управлява с правоспособност за категория А2?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8627,
+    "text" : "125 см3",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8629,
+    "text" : "250 см3",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8628,
+    "text" : "175 см3",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8630,
+    "text" : "няма ограничение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2655,
+  "number" : 57,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кои от изброените показатели се използват за определяне на мотоциклетите, които принадлежат към категория А2?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8633,
+    "text" : "работния обем на двигателя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8632,
+    "text" : "мощността на двигателя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8631,
+    "text" : "отношението работен обем/тегло",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8634,
+    "text" : "отношението мощност/тегло",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3954,
+  "number" : 54,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Триколесни моторни средства (със симетрично разположени колела), с двигател с работен обем на цилиндъра над 50 cm3 и/или с конструктивна максимална скорост, по-висока от 45 km/h се управляват:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12974,
+    "text" : "с правоспособност за категория А",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12976,
+    "text" : "с правоспособност за категория В1",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12975,
+    "text" : "с правоспособност за категория АМ",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12973,
+    "text" : "с правоспособност за категория А1",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

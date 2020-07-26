@@ -1,0 +1,213 @@
+[ {
+  "id" : 3506,
+  "number" : 25,
+  "subNumber" : 1,
+  "pictureSha1" : "efa3f8d747686d109170e5f66018c8d9d5f3ad1f",
+  "text" : "Значението на този пътен знак е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11443,
+    "text" : "площадка за игра на деца",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11446,
+    "text" : "начало на населено място",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11445,
+    "text" : "начало на жилищна зона",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11444,
+    "text" : "начало на жилищен комплекс",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3507,
+  "number" : 27,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Паркирането в жилищна зона, обозначена със съответния пътен знак, е разрешено:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11450,
+    "text" : "най-вдясно на платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11448,
+    "text" : "в най-дясната пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11449,
+    "text" : "само на специално обозначените за това места",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11447,
+    "text" : "най-вдясно на пътното платно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3508,
+  "number" : 28,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "В жилищна зона обозначена със съответния пътен знак, водачите на МПС трябва да се движат със скорост не по-висока от:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11453,
+    "text" : "30 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11452,
+    "text" : "50 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11454,
+    "text" : "20 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11451,
+    "text" : "40 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3509,
+  "number" : 29,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "В жилищна зона, обозначена със съответния пътен знак, движението на пешеходци върху платното за движение е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11456,
+    "text" : "забранено, винаги когато пречат на движението на МПС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11457,
+    "text" : "разрешено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11455,
+    "text" : "забранено във всички случаи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3510,
+  "number" : 30,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "В жилищна зона, обозначена със съответния пътен знак, е разрешено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11461,
+    "text" : "движение със скорост 40 км/час",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11460,
+    "text" : "движение на пешеходците по платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11458,
+    "text" : "на децата да играят на платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11459,
+    "text" : "паркиране извън специално обозначените за това места",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3572,
+  "number" : 26,
+  "subNumber" : 1,
+  "pictureSha1" : "efa3f8d747686d109170e5f66018c8d9d5f3ad1f",
+  "text" : "Правилата за движение в жилищна зона, обозначена с този пътен знак, са валидни:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11682,
+    "text" : "до пътен знак „Край на жилищната зона”",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11680,
+    "text" : "до пътен знак „Край на забраните въведени с пътни знаци”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11683,
+    "text" : "до края на населеното място",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11681,
+    "text" : "до следващото кръстовище",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3573,
+  "number" : 31,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Водачът на МПС, при излизане от обозначена с пътен знак жилищна зона:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11685,
+    "text" : "е с предимство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11686,
+    "text" : "е длъжен да пропусне ППС идващи по пътя отляво",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11684,
+    "text" : "е длъжен да пропусне ППС идващи по пътя отдясно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+} ]

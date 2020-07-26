@@ -1,0 +1,633 @@
+[ {
+  "id" : 3007,
+  "number" : 24,
+  "subNumber" : 1,
+  "pictureSha1" : "21e7ea3eb73b6ae258fd30f49fb6864cde742a4a",
+  "text" : "Разположението на автомобила върху платното за движение е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9869,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9870,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3008,
+  "number" : 25,
+  "subNumber" : 1,
+  "pictureSha1" : "931dd76bf80c4647312baa082091551d2e551601",
+  "text" : "При тази ситуация няма да извърша нарушение ако:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9873,
+    "text" : "продължа движението си в същата пътна лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9871,
+    "text" : "премина в лявата пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9874,
+    "text" : "премина в дясната пътна лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9872,
+    "text" : "спра пред светофара, в лентата, над която е поставен",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3009,
+  "number" : 26,
+  "subNumber" : 1,
+  "pictureSha1" : "fc1d3862a6fdbb6693588f256533ae174cbf00f6",
+  "text" : "При тази ситуация ще извърша нарушение ако:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 9876,
+    "text" : "премина в дясната пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9875,
+    "text" : "спра пред светофара, в лентата, над която е поставен",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9878,
+    "text" : "премина в лявата пътна лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9877,
+    "text" : "продължа движението си в същата пътна лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3010,
+  "number" : 27,
+  "subNumber" : 1,
+  "pictureSha1" : "860c44c73a5b8f1a0c75008a818c283075080ac5",
+  "text" : "При тази ситуация:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9881,
+    "text" : "трябва да премина в лявата пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9879,
+    "text" : "мога да продължа движението си в същата пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9880,
+    "text" : "трябва да премина в дясната пътна лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3011,
+  "number" : 28,
+  "subNumber" : 1,
+  "pictureSha1" : "8a0b47213ffe3d54a5164a59116f396989800851",
+  "text" : "При тази ситуация, на водача на червения автомобил е разрешено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9883,
+    "text" : "да премине в дясната пътна лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9882,
+    "text" : "да премине в лявата пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9884,
+    "text" : "да продължи движението си в същата пътна лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3012,
+  "number" : 29,
+  "subNumber" : 1,
+  "pictureSha1" : "9be111f50c9330542315d45fd3a6f157b053846f",
+  "text" : "Разрешено ли е да навлезете и да се движите по BUS-лентата?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9885,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9886,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3013,
+  "number" : 30,
+  "subNumber" : 1,
+  "pictureSha1" : "9be111f50c9330542315d45fd3a6f157b053846f",
+  "text" : "При тази ситуация навлизането в BUS-лентата е разрешено за:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9887,
+    "text" : "придвижване на повредено МПС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9888,
+    "text" : "превозни средства от редовните линии за обществен превоз на пътници",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9889,
+    "text" : "спиране за престой за всички автобуси",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9890,
+    "text" : "движение на бавнодвижещи се МПС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3014,
+  "number" : 31,
+  "subNumber" : 1,
+  "pictureSha1" : "8836e8bbb3d436dccad39f4f7d78156427d058c0",
+  "text" : "С този пътен знак се обозначава:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9893,
+    "text" : "пътна лента за движение само на превозни средства от редовните линии за обществен превоз на пътници",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9894,
+    "text" : "автомобилен път",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9892,
+    "text" : "платно за движение само на превозни средства от редовните линии за обществен превоз на пътници",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9891,
+    "text" : "път за движение само на автобуси",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3015,
+  "number" : 32,
+  "subNumber" : 1,
+  "pictureSha1" : "0807893c09796186dab33027b5c6046f0c947a61",
+  "text" : "При тази ситуация на кои от посочените ППС  е разрешено да се движат в средната пътна лента:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9895,
+    "text" : "леки автомобили",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9896,
+    "text" : "автобуси",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9898,
+    "text" : "товарни автомобили с допустима максимална маса над 3,5т",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9897,
+    "text" : "товарни автомобили с допустима максимална маса до 3,5т",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3016,
+  "number" : 33,
+  "subNumber" : 1,
+  "pictureSha1" : "22acf2c1b7cd5d7238f2e80a0ae7e935c84d4c55",
+  "text" : "При тази ситуация в средната пътна лента е:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9899,
+    "text" : "разрешено движението на автобуси с ремаркета",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9901,
+    "text" : "забранено движението на товарни автомобили с полуремаркета",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9902,
+    "text" : "забранено движението на товарни автомобили с ремаркета",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9900,
+    "text" : "разрешено движението на леки автомобили с ремаркета",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3017,
+  "number" : 34,
+  "subNumber" : 1,
+  "pictureSha1" : "a1a26be22d37c266a92965e5e27c7558289bde2a",
+  "text" : "На път с три пътни ленти за движение в една посока, указани с пътен знак, в крайната лява лента е забранено движението на:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9903,
+    "text" : "превозни средства, водачите на които са със стаж по-малко от 1 година",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9905,
+    "text" : "превозни средства, на които е забранено да развиват разрешената за пътя максимална скорост",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9904,
+    "text" : "превозни средства, които не могат да развиват максималната за пътя скорост",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3018,
+  "number" : 35,
+  "subNumber" : 1,
+  "pictureSha1" : "44d80e4240381880b7ffd92b52ff75853dfc9c14",
+  "text" : "При тази ситуация, в крайната лява пътна лента е забранено движението на:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 9906,
+    "text" : "всички товарни автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9909,
+    "text" : "леки автомобили с ремаркета над 750 кг",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9907,
+    "text" : "мотоциклети",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9908,
+    "text" : "мотопеди",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3019,
+  "number" : 43,
+  "subNumber" : 1,
+  "pictureSha1" : "6ca6fe4a5368794bd42685cd017d537a1993e692",
+  "text" : "При тази ситуация разрешено ли е да преминете по трамвайните линии, за да изпреварите товарния автомобил?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9910,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9911,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3309,
+  "number" : 30,
+  "subNumber" : 2,
+  "pictureSha1" : "2177e6d4072069b7eda40c4dcb90c18849f3fab4",
+  "text" : "На кои ППС е разрешено движението в BUS - лентата след този знак?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10786,
+    "text" : "на ППС от редовните линии за обществен превоз на пътници",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10788,
+    "text" : "на бавнодвижещите се превозни средства",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10787,
+    "text" : "на таксиметровите автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10789,
+    "text" : "на всички автобуси",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3728,
+  "number" : 39,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато има обозначена с пътен знак пътна лента за бавнодвижещи се ППС, водачите на такива ППС:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12196,
+    "text" : "са длъжни да използват за движение тази лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12195,
+    "text" : "използват тази лента само когато тя е свободна",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12197,
+    "text" : "не са задължени да я използват",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3902,
+  "number" : 36,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кои от посочените условия е необходимо да бъдат налице за да може водачите на мотопеди да използват за движение пътния банкет?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12798,
+    "text" : "да не пречат на другите участници в движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12797,
+    "text" : "пътният банкет да е сигнализиран с пътен знак",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12796,
+    "text" : "пътният банкет да е разположен отдясно по посока на движението им и да е годен за това",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12799,
+    "text" : "да няма специално предназначена за тях пътна лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3903,
+  "number" : 37,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Мотопедистите могат да използват за движение пътния банкет, който:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12800,
+    "text" : "се намира отляво по посока на движението им",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12801,
+    "text" : "е по-удобен за тях, независимо от коя страна на пътя се намира",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12802,
+    "text" : "се намира отдясно по посока на движението им",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3904,
+  "number" : 38,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На кои от изброените пътни превозни средства е разрешено движението по пътния банкет?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12806,
+    "text" : "велосипеди",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12804,
+    "text" : "мотоциклети",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12803,
+    "text" : "автомобили с допустима максимална маса до 1,5 т",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12805,
+    "text" : "мотопеди",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3959,
+  "number" : 40,
+  "subNumber" : 1,
+  "pictureSha1" : "140db5692f97f1d0856f81cee81d07e48a4f91bb",
+  "text" : "При тази ситуация, движението по обозначената с пътен знак лента за бавнодвижещи се ППС е:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12988,
+    "text" : "забранено за трактори",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12987,
+    "text" : "разрешено за автомобили, които не могат да се движат със скорост по-висока от 30 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12990,
+    "text" : "забранено за товарни автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12989,
+    "text" : "разрешено за автомобили обозначени с опознавателен знак „бавнодвижещи се ППС”",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3960,
+  "number" : 40,
+  "subNumber" : 2,
+  "pictureSha1" : "140db5692f97f1d0856f81cee81d07e48a4f91bb",
+  "text" : "При тази ситуация, движението по обозначената с пътен знак лента за бавнодвижещи се ППС е:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12992,
+    "text" : "разрешено за автомобили, които не могат да се движат със скорост по-висока от 30 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12994,
+    "text" : "разрешено за автомобили обозначени с опознавателен знак „бавнодвижещи се ППС”",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12993,
+    "text" : "забранено за велосипеди",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12991,
+    "text" : "забранено за мотопеди",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3961,
+  "number" : 41,
+  "subNumber" : 1,
+  "pictureSha1" : "870f19f75b61122d6a327abdb21d5f2a9871f503",
+  "text" : "При тази ситуация водачът на бавнодвижещото се ППС:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12996,
+    "text" : "може да използва средната пътна лента при заобикаляне",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12997,
+    "text" : "може да използва крайната лява лента при изпреварване",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12998,
+    "text" : "е задължен да използва най-дясната пътна лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12995,
+    "text" : "може да използва крайната лява лента при завиване",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3962,
+  "number" : 42,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Водачът на бавнодвижещо се пътно превозно средство задължително се движи в най-дясната пътна лента, освен при:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 13001,
+    "text" : "изпреварване",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12999,
+    "text" : "заобикаляне",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 13000,
+    "text" : "завиване",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+} ]

@@ -1,0 +1,181 @@
+[ {
+  "id" : 3773,
+  "number" : 1,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При спиране за проверка от контролен орган, ако няма други указания, водачът трябва:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12358,
+    "text" : "да спре незабавно пред контролния орган",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12357,
+    "text" : "да спре в средата на заеманата лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12356,
+    "text" : "да спре в най-дясната част на платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12355,
+    "text" : "да спре плавно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3774,
+  "number" : 2,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е използването на мобилен телефон по време на управление на превозното средство?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12361,
+    "text" : "да, извън населените места",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12360,
+    "text" : "не, забранено е във всички случаи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12362,
+    "text" : "да, без ограничение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12359,
+    "text" : "не, освен при наличие на устройство, позволяващо използването на телефона без участието на ръцете",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3775,
+  "number" : 3,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Ако няма устройство, позволяващо използването на мобилен телефон без участие на ръцете му, за да отговори на повикване по телефона водачът:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12365,
+    "text" : "трябва незабавно да спре",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12364,
+    "text" : "може да държи кормилното колело с една ръка и да разговаря",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12366,
+    "text" : "трябва да намери безопасно място, където да спре",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12363,
+    "text" : "достатъчно е да намали скоростта, след което да използва телефона",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3776,
+  "number" : 4,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "В кой от случаите е разрешено водачът да държи мобилния телефон с ръка докато разговаря?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12370,
+    "text" : "когато движението по пътя не е интензивно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12369,
+    "text" : "когато трябва да се свърже с телефонния номер за спешни и аварийни обаждания",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12368,
+    "text" : "когато е спрял автомобила на безопасно място",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12367,
+    "text" : "когато се движи с ниска скорост",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3825,
+  "number" : 52,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е тегленето на ремарке без регистрационен номер?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12548,
+    "text" : "да, когато ремаркето е едноосно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12549,
+    "text" : "да, когато ремаркето се тегли от колесен трактор",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12550,
+    "text" : "не е разрешено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12547,
+    "text" : "да, когато ремаркето е с допустима максимална маса до 750 кг",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3826,
+  "number" : 53,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Как трябва да постъпите, когато поради движение с ниска скорост причинявате образуване на колона от ППС?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12551,
+    "text" : "при първа възможност спирам и пропускам колоната",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12552,
+    "text" : "нямам задължение да се съобразявам с превозните средства, движещи се зад мен",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

@@ -1,0 +1,47 @@
+[ {
+  "id" : 3693,
+  "number" : 1,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Движението при едни и същи условия, по ежедневно използван маршрут, води до привикване с пътната обстановка и отслабване на вниманието.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12089,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12088,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3694,
+  "number" : 1,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Движението при едни и същи условия, по ежедневно използван маршрут:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12092,
+    "text" : "позволява на водача да се движи безопасно, със скорост по-висока от разрешената",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12090,
+    "text" : "води до привикване с пътната обстановка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12091,
+    "text" : "води до отслабване на вниманието при пътуването",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+} ]

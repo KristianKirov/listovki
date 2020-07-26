@@ -1,0 +1,99 @@
+[ {
+  "id" : 2717,
+  "number" : 20,
+  "subNumber" : 1,
+  "pictureSha1" : "7caa691c687601e1451fa5d2ecc8a0698f30074e",
+  "text" : "При тази ситуация водачът на лекия автомобил трябва да пропусне пешеходеца.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8861,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8862,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2718,
+  "number" : 21,
+  "subNumber" : 1,
+  "pictureSha1" : "03e195d54fbcbff915ee3fa6a51d8b77bac819f8",
+  "text" : "В кои от посочените случаи водачът на нерелсово ППС е длъжен да пропусне преминаващите по пешеходна пътека пешеходци:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8865,
+    "text" : "когато  пътеката не е очертана с пътна маркировка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8863,
+    "text" : "само когато пътеката е тип „Зебра”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8866,
+    "text" : "само когато пътеката е обозначена с пътен знак",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8864,
+    "text" : "когато пътеката е очертана с прекъснати линии",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2719,
+  "number" : 21,
+  "subNumber" : 2,
+  "pictureSha1" : "03e195d54fbcbff915ee3fa6a51d8b77bac819f8",
+  "text" : "При тази ситуация пешеходецът е с предимство.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8867,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8868,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2720,
+  "number" : 21,
+  "subNumber" : 3,
+  "pictureSha1" : "803e68c2d144f46f793c0b622e95beae30a38042",
+  "text" : "Кога водачът на нерелсово ППС е длъжен да пропусне преминаващите по пешеходната пътека пешеходци?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8870,
+    "text" : "само когато пешеходците са достигнали средата на платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8869,
+    "text" : "само когато са в непосредствена близост до автомобила",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8871,
+    "text" : "винаги",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+} ]

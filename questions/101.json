@@ -1,0 +1,371 @@
+[ {
+  "id" : 3021,
+  "number" : 3,
+  "subNumber" : 1,
+  "pictureSha1" : "0d372e0537f0f8ba36751c2e600c9ade0f1d64e1",
+  "text" : "При тази ситуация с предимство е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9916,
+    "text" : "синият автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9917,
+    "text" : "червеният автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3020,
+  "number" : 2,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Преди да предприеме маневра водачът трябва да се убеди, че няма да създаде опасност за участниците в движението, като:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 9914,
+    "text" : "трябва да се съобрази със скоростта им на движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9912,
+    "text" : "не е задължен да се съобразява със сигналите, които подават",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9913,
+    "text" : "трябва да се съобрази с посоката им на движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9915,
+    "text" : "трябва да се съобрази с тяхното положение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3022,
+  "number" : 4,
+  "subNumber" : 1,
+  "pictureSha1" : "f53dc0da911f0dfef9cdb163144103e1554325dd",
+  "text" : "При тази ситуация, водачът на червения автомобил:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9918,
+    "text" : "трябва да пропусне синия автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9919,
+    "text" : "е с предимство защото е подал сигнал за маневра",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9920,
+    "text" : "е с предимство защото се намира отдясно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3023,
+  "number" : 5,
+  "subNumber" : 1,
+  "pictureSha1" : "6c5b79c8b562cf732c3b8f45fa874c858b1485f1",
+  "text" : "При тази ситуация, водачът на червения автомобил:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9922,
+    "text" : "преди да се включи в движението трябва да се убеди, че няма да създаде опасност за другите участници в него",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9921,
+    "text" : "е с предимство защото се намира отдясно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9923,
+    "text" : "трябва да пропусне синия автомобил, защото навлиза в лентата, по която той се движи",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3026,
+  "number" : 8,
+  "subNumber" : 1,
+  "pictureSha1" : "516e839520133f3b211c7f82af01eeda50870e9a",
+  "text" : "При тази ситуация с предимство е водачът:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9932,
+    "text" : "на синия автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9933,
+    "text" : "на червения автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3024,
+  "number" : 6,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Преди да се включи в движението, водачът на ППС е длъжен:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9927,
+    "text" : "да подаде сигнал със съответния пътепоказател",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9924,
+    "text" : "да подаде звуков или светлинен сигнал с фаровете, с което да си осигури предимство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9926,
+    "text" : "да изчака сигнал от другите водачи, че може да потегли",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9925,
+    "text" : "да се убеди, че няма да създаде опасност за другите участници в движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3025,
+  "number" : 7,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Преди отклонение встрани, за навлизане в съседна пътна лента, водачът:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 9928,
+    "text" : "трябва да пропусне ППС, които се движат по тази лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9931,
+    "text" : "трябва да пропусне ППС движещи се по нея, само ако тази  лента е за насрещното движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9929,
+    "text" : "трябва да се убеди, че няма да създаде опасност за другите участници в движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9930,
+    "text" : "трябва да подаде сигнал със съответния пътепоказател",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3027,
+  "number" : 8,
+  "subNumber" : 2,
+  "pictureSha1" : "0d468df4ce4042bb205c235bf4771b90e0d5efb2",
+  "text" : "Кой от водачите е с предимство при тази ситуация?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9935,
+    "text" : "водачът на лекия автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9934,
+    "text" : "водачът на товарния автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3028,
+  "number" : 9,
+  "subNumber" : 1,
+  "pictureSha1" : "2527fcb7e2e0c0e058a586ea7d5ecc11a9980213",
+  "text" : "При тази ситуация кой от водачите трябва да осигури предимство?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9936,
+    "text" : "на лекия автомобил, защото е по-назад от товарния",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9939,
+    "text" : "на товарния автомобил, защото навлиза в съседната пътна лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9938,
+    "text" : "на лекия автомобил, защото не е подал сигнал за маневра",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9937,
+    "text" : "на товарния автомобил, защото се намира отдясно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3029,
+  "number" : 10,
+  "subNumber" : 1,
+  "pictureSha1" : "d16b0cf27ccb1325900bc4a438bcdc1131683f79",
+  "text" : "При тази ситуация с предимство е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9941,
+    "text" : "водачът на червения автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9940,
+    "text" : "водачът на синия автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3030,
+  "number" : 11,
+  "subNumber" : 1,
+  "pictureSha1" : "7bb8c35d27eff061a52c802a8a901e6450d85c36",
+  "text" : "При тази ситуация с предимство е водачът на автомобила, който:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9943,
+    "text" : "първи е подал сигнал за маневра",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9944,
+    "text" : "се намира отдясно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9945,
+    "text" : "е по-напред от другия",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9942,
+    "text" : "се намира отляво",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3031,
+  "number" : 12,
+  "subNumber" : 1,
+  "pictureSha1" : "c5edbfd858f8c6ff2e3987939743248c22be42f1",
+  "text" : "При тази ситуация водачът на лекия автомобил:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9948,
+    "text" : "е с предимство защото е по-близо до препятствието",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9946,
+    "text" : "трябва да пропусне товарния автомобил, защото навлиза в заеманата от него пътна лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9947,
+    "text" : "е с предимство при заобикалянето, защото е подал сигнал за маневрата",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3032,
+  "number" : 13,
+  "subNumber" : 1,
+  "pictureSha1" : "e0a52b7b0b204bc3448cdf476c486ba1c6a13c09",
+  "text" : "Кой от водачите е с предимство при тази ситуация?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9951,
+    "text" : "водачът на автомобила, който пръв достигне до препятствието",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9950,
+    "text" : "водачът на лекия автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9949,
+    "text" : "водачът на товарния автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3033,
+  "number" : 14,
+  "subNumber" : 1,
+  "pictureSha1" : "4f4e834eeeccf5cc955496ce50d05adad76a8404",
+  "text" : "Когато има остров в средата на пътно платно с двупосочно движение, водачът:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9952,
+    "text" : "може да премине от неговата дясна или лява страна",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9954,
+    "text" : "трябва да премине от неговата лява страна",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9953,
+    "text" : "трябва да премине от неговата дясна страна",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+} ]

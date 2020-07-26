@@ -1,0 +1,171 @@
+[ {
+  "id" : 3813,
+  "number" : 42,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кой от изброените документи е задължен да носи водачът, когато управлява МПС?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12508,
+    "text" : "документ за платен данък МПС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12509,
+    "text" : "свидетелство за управление валидно за категорията на МПС, което управлява",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12507,
+    "text" : "свидетелство за регистрация на МПС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12506,
+    "text" : "документ за сключена застраховка „Гражданска отговорност”",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3814,
+  "number" : 43,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кога водачът е задължен да предостави за проверка документите си за управление на МПС?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12510,
+    "text" : "само при участие в пътнотранспортно произшествие",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12512,
+    "text" : "само когато е допуснал нарушение на правилата за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12511,
+    "text" : "във всички случаи, когато представител на контролните органи поиска това",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3815,
+  "number" : 44,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Длъжен ли е водачът на МПС да носи документ за сключена застраховка “Гражданска отговорност”?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12514,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12513,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3816,
+  "number" : 45,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При управление на състав от ППС водачът трябва ли да носи свидетелство за регистрация на тегленото ремарке?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12515,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12516,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4748,
+  "number" : 55,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е водачът на МПС да oрганизира или участва в нерегламентирани състезания по пътищата, отворени за обществено ползване?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 15467,
+    "text" : "не, забранено е във всички случаи",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15469,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15468,
+    "text" : "не, освен по пътища извън населените места",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4750,
+  "number" : 56,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е водачът на МПС да използва пътищата, отворени за обществено ползване, за други цели, освен в съответствие с тяхното предназначение?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 15475,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15474,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4751,
+  "number" : 57,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Водачът на ППС е длъжен да не извършва маневри, изразяващи се в последователно внезапно преминаване в лентите за движение:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 15478,
+    "text" : "в населените и извън населените места",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15477,
+    "text" : "само извън населените места",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15476,
+    "text" : "само в населените места",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

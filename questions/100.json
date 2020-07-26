@@ -1,0 +1,259 @@
+[ {
+  "id" : 3217,
+  "number" : 35,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При избиране скоростта на движение, водачите на пътни превозни средства:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10509,
+    "text" : "не са длъжни да се съобразяват със състоянието на превозното средство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10508,
+    "text" : "трябва да се съобразяват с атмосферните условия",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10510,
+    "text" : "трябва да се съобразяват с релефа на местността",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10507,
+    "text" : "не са длъжни да се съобразяват със състоянието на пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3218,
+  "number" : 35,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "При избиране скоростта на движение, водачите на пътни превозни средства:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10512,
+    "text" : "не са длъжни да се съобразяват с релефа на местността",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10511,
+    "text" : "трябва да се съобразяват с характера и интензивността на движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10513,
+    "text" : "не са длъжни да се съобразяват с атмосферните условия",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10514,
+    "text" : "трябва да се съобразяват с конкретните условия на видимост",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3219,
+  "number" : 35,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "При избиране скоростта на движение, водачите на пътни превозни средства:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10515,
+    "text" : "трябва да се съобразяват с превозвания товар",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10517,
+    "text" : "не са длъжни да се съобразяват с конкретните условия на видимост",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10518,
+    "text" : "трябва да се съобразяват със състоянието на превозното средство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10516,
+    "text" : "не са длъжни да се съобразяват с характера и интензивността на движението",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3223,
+  "number" : 38,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Движението със съобразена скорост позволява на водача:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 10531,
+    "text" : "при необходимост безопасно да спре",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10533,
+    "text" : "при необходимост безопасно да намали скоростта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10534,
+    "text" : "да предотврати настъпването на произшествие след употребата на алкохол",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10532,
+    "text" : "да владее превозното средство в конкретната пътна обстановка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3235,
+  "number" : 47,
+  "subNumber" : 1,
+  "pictureSha1" : "3c5ecae2294d7e9a6a1cde7ea6016f68c7d96617",
+  "text" : "При тази ситуация, за да осигуря по-голяма безопасност за децата, е достатъчно само да увелича страничната дистанция.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10573,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10572,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3238,
+  "number" : 50,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При движение в мъгла, непосредствено зад друго превозно средство, водачът може да намали вероятността за произшествие като:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10580,
+    "text" : "намали скоростта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10582,
+    "text" : "използва дълги светлини вместо къси светлини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10581,
+    "text" : "се придържа близо до движещото се пред него превозно средство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10579,
+    "text" : "увеличи дистанцията",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3239,
+  "number" : 51,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При преминаване през локви по платното за движение водачът е длъжен:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10583,
+    "text" : "да подаде сигнал, за да предупреди пешеходците да се пазят от изпръскване",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10584,
+    "text" : "да се движи със скорост, с която да предпази пешеходците от изпръскване",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3240,
+  "number" : 52,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато поради вида на превозвания товар, центърът на тежестта на автомобила е по-висок от конструктивния, водачът трябва да намали скоростта:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 10587,
+    "text" : "при движение по стръмен наклон при изкачване",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10586,
+    "text" : "преди навлизане в завой",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10588,
+    "text" : "при силен страничен вятър",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10585,
+    "text" : "при неравности на платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3241,
+  "number" : 53,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Каква трябва да бъде скоростта на движение, когато широчината на пътя не позволява разминаване без допълнителни мерки за сигурност?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10590,
+    "text" : "такава, че водачът да може да спре на половината от дължината на пътя, който вижда",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10591,
+    "text" : "такава, че водачът да може да спре в зоната на пътя, който вижда",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10589,
+    "text" : "не по-голяма от 50 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

@@ -1,0 +1,513 @@
+[ {
+  "id" : 3583,
+  "number" : 7,
+  "subNumber" : 1,
+  "pictureSha1" : "baf88ff9dd1c548ee69f71a79469ebb5407b0948",
+  "text" : "Този пътен знак:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11717,
+    "text" : "указва пътна лента за ППС, обслужващи хора с трайни увреждания",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11718,
+    "text" : "предупреждава за възможна поява на ППС, обслужващи хора с трайни увреждания",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11719,
+    "text" : "указва място, определено за паркиране на ППС, обслужващи хора с трайни увреждания",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11720,
+    "text" : "забранява движението на ППС, обслужващи хора с трайни увреждания",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3584,
+  "number" : 8,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Задължително ли е присъствието на водача в близост до превозното средство,  когато то е спряно за престой?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11722,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11721,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3585,
+  "number" : 9,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Спряното превозно средство е в престой, когато водачът е близост до него и:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11725,
+    "text" : "е спрял за слизане на пътници",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11724,
+    "text" : "е спрял за извършване на товарно-разтоварни работи",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11726,
+    "text" : "чака пристигането на пътник",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11723,
+    "text" : "е спрял за качване на пътници",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3586,
+  "number" : 10,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Спряното за престой превозно средство трябва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11728,
+    "text" : "да бъде с работещ двигател",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11729,
+    "text" : "да бъде с включени къси светлини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11727,
+    "text" : "да не спира преминаването на другите превозни средства",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3587,
+  "number" : 10,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Паркираното превозно средство трябва:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11731,
+    "text" : "да бъде с изключено радио",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11730,
+    "text" : "да не остава с включена предавка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11732,
+    "text" : "да не пречи на останалите водачи да напуснат мястото си на паркиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11733,
+    "text" : "да не спира преминаването на другите превозни средства",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3595,
+  "number" : 16,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "За престой в населено място МПС се спира:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11753,
+    "text" : "на не повече от 70 см от тротоара",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11752,
+    "text" : "възможно най-вдясно на платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11751,
+    "text" : "задължително на тротоара",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11754,
+    "text" : "възможно най-вдясно на пътното платно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3596,
+  "number" : 17,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Спирането за престой по еднопосочен път в населено място:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11756,
+    "text" : "се допуска от лявата страна на пътя, ако това не пречи на движението на ППС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11755,
+    "text" : "е разрешено от лявата страна на пътя, без ограничения",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11757,
+    "text" : "е разрешено от дясната страна на пътя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3598,
+  "number" : 19,
+  "subNumber" : 1,
+  "pictureSha1" : "be30fa6ca8ef3dcf0cc2d32e64c7fd290bd1a913",
+  "text" : "При тази ситуация правилно ли е спрян за престой лекият автомобил?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11762,
+    "text" : "не, защото престоят е разрешен само от дясната страна на платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11763,
+    "text" : "да, защото не пречи на движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3597,
+  "number" : 18,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Престоят от лявата страна на еднопосочните улици в населените места е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11758,
+    "text" : "разрешен, но само за товарно-разтоварна дейност",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11761,
+    "text" : "разрешен, ако не се пречи на движението на ППС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11759,
+    "text" : "забранен",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11760,
+    "text" : "разрешен без ограничение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3599,
+  "number" : 20,
+  "subNumber" : 1,
+  "pictureSha1" : "28922bd63345971cc07712e400afb797c46f8fe7",
+  "text" : "При тази ситуация на еднопосочния път,  когато и двата автомобила са спрени за престой:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11764,
+    "text" : "синият автомобил е спрян правилно, ако това не пречи на движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11765,
+    "text" : "червеният автомобил е спрян правилно, защото за престой се спира от дясната страна на пътя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11766,
+    "text" : "синият автомобил е спрян неправилно, защото престоят от лявата страна е забранен във всички случаи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3603,
+  "number" : 24,
+  "subNumber" : 1,
+  "pictureSha1" : "bd86ac758d6f4ffe327758c202982659bf2fdd7d",
+  "text" : "При тази ситуация правилно ли е паркиран лекият автомобил?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11778,
+    "text" : "не, защото паркирането е разрешено само от дясната страна на платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11779,
+    "text" : "да, защото не пречи на движението",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3600,
+  "number" : 22,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "За паркиране в населено място МПС се спира:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11769,
+    "text" : "на не повече от 70 см от тротоара",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11767,
+    "text" : "задължително на тротоара",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11770,
+    "text" : "възможно най-вдясно на платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11768,
+    "text" : "възможно най-вдясно на пътното платно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3601,
+  "number" : 23,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "От коя страна на еднопосочен път в населено място е разрешено паркирането?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11772,
+    "text" : "от лявата страна",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11771,
+    "text" : "от двете страни",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11773,
+    "text" : "от дясната страна",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3602,
+  "number" : 23,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "На еднопосочен път в населено място паркирането от лявата страна е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11774,
+    "text" : "разрешено, ако не се пречи на движението",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11776,
+    "text" : "разрешено, когато водачът не напуска превозното средство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11775,
+    "text" : "забранено само за товарни автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11777,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3604,
+  "number" : 25,
+  "subNumber" : 1,
+  "pictureSha1" : "06c84cabd418183a57efff702b5ef4d377d3f28a",
+  "text" : "При тази ситуация кой от автомобилите е паркиран неправилно?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11780,
+    "text" : "червеният автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11781,
+    "text" : "синият автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3617,
+  "number" : 36,
+  "subNumber" : 1,
+  "pictureSha1" : "433082dcbe9018a6473a05920f3fd9a1c8deb323",
+  "text" : "Кой от автомобилите е спрян правилно за престой?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11821,
+    "text" : "товарният автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11820,
+    "text" : "автобусът",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3629,
+  "number" : 46,
+  "subNumber" : 1,
+  "pictureSha1" : "018f69716da204ab47079bc3d4fdbce74d974a04",
+  "text" : "Кой от автомобилите е паркиран в нарушение на правилата за движение?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11865,
+    "text" : "автобусът",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11864,
+    "text" : "товарният автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3630,
+  "number" : 47,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато паркирането върху тротоара е разрешено, разстоянието между превозното средство и сградата трябва да бъде не по-малко от:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11867,
+    "text" : "2,0 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11868,
+    "text" : "0,5 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11866,
+    "text" : "1,0 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11869,
+    "text" : "1,5 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3631,
+  "number" : 48,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато паркирането върху тротоара е разрешено, допустимата максимална маса на паркираното превозното средство не трябва да е по-голяма от:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11872,
+    "text" : "1,5 т",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11873,
+    "text" : "2,5 т",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11871,
+    "text" : "1,0 т",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11870,
+    "text" : "2,0 т",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

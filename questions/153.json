@@ -1,0 +1,493 @@
+[ {
+  "id" : 3873,
+  "number" : 6,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е да се премества превозно средство участвало в ПТП с пострадали хора, ако то не пречи на движението?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12699,
+    "text" : "да, във всички случаи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12698,
+    "text" : "не, освен ако се налага да превози пострадалите до здравно заведение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12700,
+    "text" : "не, забранено е във всички случаи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3874,
+  "number" : 6,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е да се премества превозно средство участвало в пътнотранспортно произшествие с пострадали хора?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12701,
+    "text" : "не, забранено е във всички случаи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12702,
+    "text" : "да, когато пречи на движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12703,
+    "text" : "да, разрешено е във всички случаи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12704,
+    "text" : "да, когато с него трябва да се превозят пострадалите до здравно заведение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3879,
+  "number" : 9,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При ПТП, в което е участник, водачът съобразно необходимостта трябва:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12721,
+    "text" : "да вземе мерки за безопасността на движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12723,
+    "text" : "да вземе мерки за запазване на следите от произшествието",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12722,
+    "text" : "да отстрани повредите по автомобила",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12724,
+    "text" : "да окаже помощ на пострадалите и вземе мерки за превозването им до здравно заведение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3880,
+  "number" : 9,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Предприемането на кое от изброените действия е най-важно при пристигане на мястото на ПТП?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12727,
+    "text" : "да се съобщи за произшествието на полицейските служби",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12725,
+    "text" : "да се установят участниците в произшествието",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12726,
+    "text" : "да се запазят следите от произшествието",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12728,
+    "text" : "да се осигури безопасността на участниците в движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3881,
+  "number" : 10,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Задължен ли е водачът на МПС да вземе мерки за сигнализиране и обезопасяване на мястото на ПТП?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12730,
+    "text" : "да, но само ако е участник в произшествието",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12729,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12731,
+    "text" : "да, във всички случаи",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3882,
+  "number" : 11,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Какви данни е длъжен да дава за себе си участникът в ПТП?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12732,
+    "text" : "за самоличността си",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12734,
+    "text" : "за задължителната си застраховка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12733,
+    "text" : "за собствеността на автомобила",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3884,
+  "number" : 14,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Допускат ли се корекции в двустранния констативен протокол, подписан от участниците в ПТП?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12741,
+    "text" : "не, всяка поправка на текста го прави невалиден",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12740,
+    "text" : "да, но със съгласието на двамата водачи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12739,
+    "text" : "да, но само в деня на съставянето на протокола",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3885,
+  "number" : 15,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При пътнотранспортно произшествие, независимо дали е участник в произшествието или не, водачът е длъжен:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12743,
+    "text" : "да вземе мерки за безопасността на движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12744,
+    "text" : "да окаже помощ на пострадалите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12742,
+    "text" : "да сигнализара  мястото на произшествието",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12745,
+    "text" : "да окаже съдействие за отстраняване на повредите по автомобилите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3886,
+  "number" : 16,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "В кой от случаите при ПТП водачът е длъжен да вземе мерки за безопасността на движението?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12746,
+    "text" : "само когато е участник в произшествието",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12747,
+    "text" : "винаги, независимо дали е участник в произшествието или не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3887,
+  "number" : 17,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Задължение за запазване на следите при ПТП имат:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12748,
+    "text" : "свидетелите на ПТП",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12749,
+    "text" : "всички участници в движението",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12750,
+    "text" : "само виновните участници в ПТП",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12751,
+    "text" : "всички участници в ПТП",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3888,
+  "number" : 18,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кога водачът на МПС е задължен да окаже помощ на пострадали при ПТП?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12752,
+    "text" : "когато е участник в произшествието",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12754,
+    "text" : "само когато за това се разпореди контролен орган",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12753,
+    "text" : "когато не е участник в произшествието, но при пристигане на местопроизшествието има хора, които се нуждаят от помощ",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3889,
+  "number" : 19,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Задължен ли е водачът да уведоми собственика на имуществото, което е повредил при ПТП?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12755,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12756,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3890,
+  "number" : 20,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е отстраняването на неизправности по превозно средство, участвало в ПТП преди пристигането на представител на МВР?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12758,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12757,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3891,
+  "number" : 21,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Водач, който е участник в ПТП, при което има пострадали хора:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12759,
+    "text" : "трябва да вземе мерки следите от произшествието да бъдат запазени до тяхното фиксиране или описване от компетентните служби",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12762,
+    "text" : "може да напусне местопроизшествието, след като установи какви са последиците от него",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12760,
+    "text" : "не трябва да консумира алкохолни напитки до пристигането на контролните органи",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12761,
+    "text" : "трябва да изчака на мястото на произшествието представител на полицията",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3892,
+  "number" : 22,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При ПТП, в което е участник, водачът:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12765,
+    "text" : "може да продължи движението си, ако на мястото на произшествието е забранено паркирането",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12763,
+    "text" : "не е задължен да спира, ако прецени, че щетите не са големи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12764,
+    "text" : "трябва да спре, за да установи какви са последиците от произшествието",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3893,
+  "number" : 23,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Задължен ли е водачът участник в ПТП без пострадали хора да оказва съдействие за установяване на вредите от произшествието?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12767,
+    "text" : "да, но само когато вредите са значителни",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12766,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12768,
+    "text" : "да, във всички случаи",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3894,
+  "number" : 24,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "В кой от изброените случаи водачът е длъжен да се върне на мястото на ПТП, след като е превозил пострадал до болнично заведение?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12771,
+    "text" : "когато превозването е било разпоредено от органите за контрол",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12769,
+    "text" : "когато е участник в произшествието",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12770,
+    "text" : "винаги, независимо от това дали е участник в произшествието",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4725,
+  "number" : 12,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато при ПТП само с имуществени вреди има съгласие на участниците относно обстоятелствата свързани с него, те:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 15390,
+    "text" : "уведомяват полицията",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15389,
+    "text" : "попълват двустранен констативен протокол за ПТП",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15388,
+    "text" : "преместват превозните средства, така че да не възпрепятстват движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15391,
+    "text" : "подават информация за произшествието на телефон 112",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

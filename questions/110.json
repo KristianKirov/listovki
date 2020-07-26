@@ -1,0 +1,471 @@
+[ {
+  "id" : 3394,
+  "number" : 121,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "За кои водачи са задължителни сигналите за спиране, подавани от застаналия на прелеза железопътен служител?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11040,
+    "text" : "само за водачите, които се приближават от тази страна на прелеза, от която се намира жп служителя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11041,
+    "text" : "сигналите на жп служителя не са задължителни за водачите на МПС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11042,
+    "text" : "за водачите от двете страни на жп прелеза",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3395,
+  "number" : 122,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "В случай на принудително спиране на превозното средство върху релсите на жп прелез, водачът е длъжен:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11044,
+    "text" : "да остане в автомобила и да уведоми органите за контрол",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11043,
+    "text" : "да вземе мерки за своевременното предупреждаване на машинистите от двете посоки на релсовия път",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11046,
+    "text" : "да изведе пътниците извън превозното средство на безопасно разстояние",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11045,
+    "text" : "да вземе мерки за извеждането на превозното средство извън обсега на релсовия път",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3396,
+  "number" : 123,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато мястото за спиране преди жп прелеза се определя по отношение на релсите, разстоянието от първата релса трябва да бъде:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11049,
+    "text" : "по преценка на водача",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11048,
+    "text" : "не повече от 5 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11047,
+    "text" : "не по-малко от 2 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11050,
+    "text" : "не повече от 1 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3397,
+  "number" : 124,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато мястото за спиране преди жп прелеза се определя по отношение на релсите, разстоянието от първата релса трябва да бъде:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11054,
+    "text" : "по преценка на водача",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11052,
+    "text" : "не повече от 2 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11051,
+    "text" : "възможно най-малкото",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11053,
+    "text" : "не по-малко от 2 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3398,
+  "number" : 125,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Задължително ли е спирането пред жп прелез, когато той е без бариери?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11056,
+    "text" : "да, във всички случаи",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11055,
+    "text" : "да, но само когато към прелеза приближава влак",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11057,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3399,
+  "number" : 127,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Как ще сигнализирате през деня, за да спрете влака, ако автомобилът, който управлявате, поради повреда остане върху релсите?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11058,
+    "text" : "със стоп-палка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11061,
+    "text" : "с вдигната ръка, в която може да се държи привличащ вниманието предмет",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11060,
+    "text" : "с кръгово движение на ръката, в която се държи лесно забелязващ се предмет",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11059,
+    "text" : "с насочена встрани ръка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3400,
+  "number" : 128,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Как ще сигнализирате през нощта, за да спрете влака, ако автомобилът, който управлявате, поради повреда остане върху релсите?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11064,
+    "text" : "със запален до релсите огън",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11062,
+    "text" : "с вдигната ръка, в която се държи привличащ вниманието предмет",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11065,
+    "text" : "с кръгово движение на ръката, в която се държи запалена факла или фенер",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11063,
+    "text" : "със светлоотразителна стоп-палка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3401,
+  "number" : 129,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На водача е забранено да навлиза на железопътния прелез, когато:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11067,
+    "text" : "от другата страна на прелеза няма достатъчно място за продължаване на движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11066,
+    "text" : "на прелеза трябва да се размине с друго ППС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11068,
+    "text" : "на прелеза няма съоръжения за подаване на звуков и светлинен сигнал",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3402,
+  "number" : 130,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На водача е забранено да навлиза на железопътния прелез:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11070,
+    "text" : "когато от другата страна на прелеза няма достатъчно място за продължаване на движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11069,
+    "text" : "когато е включена звуковата сигнализация",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11072,
+    "text" : "преди да се е убедил, че към прелеза не се приближава влак",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11071,
+    "text" : "когато светофарната уредба подава сигнал от бавно мигащата светлина с луннобял цвят",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3403,
+  "number" : 131,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На водача е забранено да навлиза на железопътния прелез:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11076,
+    "text" : "когато бариерите са спуснати и започват да се вдигат",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11073,
+    "text" : "когато светофарната уредба подава сигнал от бавно мигащата светлина с луннобял цвят",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11075,
+    "text" : "при мигаща червена светлина на светофара",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11074,
+    "text" : "когато е включена звуковата сигнализация",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3404,
+  "number" : 132,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На водача е забранено да навлиза на железопътния прелез когато:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11078,
+    "text" : "на прелеза трябва да се размине с друго ППС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11080,
+    "text" : "бариерите са спуснати",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11079,
+    "text" : "бариерите се спускат",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11077,
+    "text" : "на прелеза няма съоръжения за подаване на звуков и светлинен сигнал",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3405,
+  "number" : 132,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "На водача е забранено да навлиза на железопътния прелез:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11083,
+    "text" : "когато на прелеза трябва да се размине с друго ППС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11082,
+    "text" : "когато на прелеза няма съоръжения за подаване на звуков и светлинен сигнал",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11081,
+    "text" : "когато от другата страна на прелеза няма достатъчно място за продължаване на движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11084,
+    "text" : "преди да се е убедил, че към прелеза не се приближава влак",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3406,
+  "number" : 133,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Задължително ли е спирането на ППС пред жп прелеза, ако бариерите са вдигнати, но светофарът подава мигаща червена светлина?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11087,
+    "text" : "не е задължително",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11085,
+    "text" : "да, но само когато към прелеза приближава влак",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11086,
+    "text" : "да, във всички случаи",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3407,
+  "number" : 134,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Задължително ли е спирането на ППС пред жп прелеза, когато е включена само звуковата сигнализация?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11088,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11089,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3408,
+  "number" : 135,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато, на жп прелез без бариери, след преминаването на влака червените светлини на светофара продължават да светят, водачът:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11093,
+    "text" : "може да премине, като включи аварийните светлини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11091,
+    "text" : "не трябва да навлиза с автомобила на жп прелеза",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11092,
+    "text" : "трябва да слезе от автомобила и да провери какво се случва",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11090,
+    "text" : "може да премине внимателно през жп прелеза",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3409,
+  "number" : 136,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато при преминаване през жп прелез се включат звуковия сигнал и червените светлини на светофара, водачът трябва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11096,
+    "text" : "да спре незабавно и да включи аварийните светлини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11095,
+    "text" : "да завие в обратна посока за да освободи прелеза по-бързо",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11094,
+    "text" : "да продължи движението си и да освободи прелеза",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+} ]

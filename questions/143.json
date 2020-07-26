@@ -1,0 +1,253 @@
+[ {
+  "id" : 3777,
+  "number" : 5,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При коя от изброените неизправности е разрешено да се придвижите до място за нейното отстраняване?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12372,
+    "text" : "неизправен е скоростомерът",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12371,
+    "text" : "нарушена е херметичността на охладителната уредба",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12374,
+    "text" : "не светят пътепоказателите през деня",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12373,
+    "text" : "липсва или е повреден елемент за закрепване на джантата към главината на колелото",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3788,
+  "number" : 16,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е движението на състав от ППС, когато ремаркето е с неизправна спирачна уредба?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12414,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12413,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3817,
+  "number" : 46,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "За да участва в движението, МПС задължително трябва да бъде:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12518,
+    "text" : "регистрирано",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12519,
+    "text" : "оборудвано с инструменти за ремонт",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12517,
+    "text" : "със сключена застраховка \"Каско\"",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3818,
+  "number" : 47,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Движещите се по пътя три- и четириколесни моторни превозни средства трябва да бъдат оборудвани:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12520,
+    "text" : "със светлоотразителна жилетка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12523,
+    "text" : "с въже за теглене",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12521,
+    "text" : "с обезопасителен триъгълник",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12522,
+    "text" : "с пожарогасител",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3819,
+  "number" : 47,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Движещите се по пътя три- и четириколесни моторни превозни средства трябва да бъдат оборудвани:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12525,
+    "text" : "с обезопасителен триъгълник",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12524,
+    "text" : "с вериги за движение през зимата",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12526,
+    "text" : "със светлоотразителна жилетка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12527,
+    "text" : "с аптечка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3820,
+  "number" : 47,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Движещите се по пътя три- и четириколесни моторни превозни средства трябва да бъдат оборудвани:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12528,
+    "text" : "с аптечка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12530,
+    "text" : "с пожарогасител",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12529,
+    "text" : "с инструменти за ремонт",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12531,
+    "text" : "с въже за теглене",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4703,
+  "number" : 51,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Ограничаване на видимостта през стъклата на задните странични врати на леките автомобили:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 15315,
+    "text" : "се допуска само при наличие на огледала за виждане назад от двете страни на автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15317,
+    "text" : "е разрешено без ограничение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15316,
+    "text" : "е забранено във всички случаи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4746,
+  "number" : 51,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Намаляване на прозрачността на стъклата на задните странични врати на леките автомобили е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 15463,
+    "text" : "се допуска само при наличие на огледала за виждане назад от двете страни на автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15461,
+    "text" : "забранено във всичси случаи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15462,
+    "text" : "разрешено без ограничение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4747,
+  "number" : 51,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Намаляването на прозрачността на челното и задното стъкла на автомобила, осигуряващи видимостта на водача към пътя е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 15464,
+    "text" : "забранено във всичси случаи",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15465,
+    "text" : "забранено, освен за леките автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15466,
+    "text" : "разрешено в допустимите граници",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

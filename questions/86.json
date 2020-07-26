@@ -1,0 +1,865 @@
+[ {
+  "id" : 2788,
+  "number" : 33,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кога водачът на ППС трябва да сигнализира за намерението си да извърши маневра свързана с отклонение встрани?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9121,
+    "text" : "само когато зад него се движи друго ППС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9123,
+    "text" : "само при намалена видимост",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9124,
+    "text" : "само при интензивно движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9122,
+    "text" : "винаги",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2789,
+  "number" : 33,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Необходимо ли е винаги преди потегляне за включване в движението водачът да сигнализира със съответен сигнал?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9126,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9125,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2790,
+  "number" : 34,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Сигналът за извършване на маневра се подава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9127,
+    "text" : "след започване на маневрата",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9128,
+    "text" : "преди започване на маневрата",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9129,
+    "text" : "със започване на маневрата",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2791,
+  "number" : 35,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кратковременното превключване на светлините като допълнителен сигнал при извършване на маневра е:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9130,
+    "text" : "разрешено да се използва при движение по автомобилни пътища",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9133,
+    "text" : "забранено да се използва при движение в населени места",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9131,
+    "text" : "разрешено да се използва при движение извън населени места",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9132,
+    "text" : "забранено да се използва при движение по автомагистрали",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2792,
+  "number" : 36,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Водачът на ППС е задължен да подаде сигнал към останалите участници в движението:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 9134,
+    "text" : "преди да се включи в движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9136,
+    "text" : "преди рязко намаляване на скоростта",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9135,
+    "text" : "преди да завие в кръстовище",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9137,
+    "text" : "преди да започне маневра, свързана с отклонение встрани",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2793,
+  "number" : 37,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато се подава с ръка, сигналът за спиране е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9138,
+    "text" : null,
+    "pictureSha1" : "d21122d40cb6ba8d583e4f758666e46964c4fb03",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9139,
+    "text" : null,
+    "pictureSha1" : "67c5a1df8d75f55cb89c95e3045eda8792ba39d3",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9140,
+    "text" : null,
+    "pictureSha1" : "8bf4c8a6daaff7f9b05251289de1b14a4fd56da9",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2794,
+  "number" : 37,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Когато се подава с ръка, сигналът за отклоняване вдясно е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9141,
+    "text" : null,
+    "pictureSha1" : "d33241bd4355abe2dc84ad331285467bb044f2f4",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9142,
+    "text" : null,
+    "pictureSha1" : "bd0677cb1dbfb75be6013dc59f54d3d77819a794",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9143,
+    "text" : null,
+    "pictureSha1" : "b83ed8da2cf35007aef0d3a75198bd08c4c9eabd",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2795,
+  "number" : 37,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Когато се подава с ръка, сигналът за отклоняване вляво е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9145,
+    "text" : null,
+    "pictureSha1" : "b5389fd84fdb552d8e01c12fe1de19d36d07c51d",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9144,
+    "text" : null,
+    "pictureSha1" : "243217e1141ebcf3e39177f8210071b31af29651",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9146,
+    "text" : null,
+    "pictureSha1" : "87b9fa68b53eef2e4e32ae13d8a36096a5689a5c",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2796,
+  "number" : 38,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато подава сигнал с ръка, при потегляне и включване в движението от дясната част на пътя, водачът на двуколесното ППС сигнализира чрез:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9148,
+    "text" : null,
+    "pictureSha1" : "c6fd7cb71cefd61eda64d1ccf1efb7d9f89b099d",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9147,
+    "text" : null,
+    "pictureSha1" : "1532219b5977c3def66151dee008dfadf6af5c09",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9149,
+    "text" : null,
+    "pictureSha1" : "c0e834835bcafb97ab04139ecba3430d3ca560c8",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2797,
+  "number" : 38,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Когато потегля и се включва в движението от лявата част на пътя и подава сигнал с ръка, водачът на двуколесното ППС сигнализира чрез:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9152,
+    "text" : null,
+    "pictureSha1" : "6831b5468de99360016b1e221489618eb7d70f4b",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9151,
+    "text" : null,
+    "pictureSha1" : "d45501aba2b86d409c05017ce30973eef013a8df",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9150,
+    "text" : null,
+    "pictureSha1" : "379ba0475603e5d185a1e6f4471a24e1fafad9e9",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2798,
+  "number" : 39,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато водачът сигнализира за маневра с ръка,  разрешено ли е да прекрати сигнала преди започване на маневрата?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9153,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9154,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2799,
+  "number" : 41,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Как водачът трябва сигнализира за намерението си да се включи в движението, когато автомобилът е с повреден пътепоказател?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9158,
+    "text" : "подава звуков сигнал",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9155,
+    "text" : "достатъчно е превключването на светлините",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9156,
+    "text" : "подава сигнал с ръка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9157,
+    "text" : "не е задължен да сигнализира",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2800,
+  "number" : 42,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кога при движение в населено място е разрешено да се използва звуков сигнал?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9159,
+    "text" : "при приближаване към пешеходна пътека, по която се движат пешеходци",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9161,
+    "text" : "само в случаите за предотвратяване на ПТП",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9160,
+    "text" : "винаги",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2801,
+  "number" : 43,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При движение извън населено място, звуковият сигнал е разрешено да се използва:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9165,
+    "text" : "в случаите за предотвратяване на ПТП",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9162,
+    "text" : "без ограничения",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9164,
+    "text" : "при движение с висока скорост",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9163,
+    "text" : "като допълнителен сигнал, по преценка на водача",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2802,
+  "number" : 44,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При движение извън населено място, водачът може да използва звуковия сигнал:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 9166,
+    "text" : "като допълнителен сигнал при извършване на маневра",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9168,
+    "text" : "в случаите за предотвратяване на ПТП",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9169,
+    "text" : "за предупреждаване на участниците в движението за възможна опасност",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9167,
+    "text" : "за да си осигури предимство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2803,
+  "number" : 45,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Използването на звуковия сигнал е разрешено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9170,
+    "text" : "в населените места, като допълнителен сигнал за маневра",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9171,
+    "text" : "извън населените места, като допълнителен сигнал за маневра",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9173,
+    "text" : "навсякъде, без ограничения",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9172,
+    "text" : "навсякъде, за недопускане на ПТП",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2804,
+  "number" : 46,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Сигналът за маневра, подаден със светлинен пътепоказател, трябва да бъде прекратен:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9176,
+    "text" : "по време на извършване на маневрата",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9175,
+    "text" : "непосредствено преди приключване на маневрата",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9177,
+    "text" : "непосредствено след започване на маневрата",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9174,
+    "text" : "непосредствено след приключване на маневрата",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2805,
+  "number" : 47,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Сигналът подаван от водача преди извършването на маневра осигурява ли му предимство?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9178,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9179,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2806,
+  "number" : 48,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "С жълта мигаща или пробляскваща светлина се обозначава:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9181,
+    "text" : "всички специални автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9180,
+    "text" : "МПС, което създава опасност за движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9182,
+    "text" : "МПС със специален режим на движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9183,
+    "text" : "МПС, което е препятствие за другите превозни средства",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2807,
+  "number" : 49,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "“Авариен сигнал” е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9186,
+    "text" : "последователното включване и изключване на всички светлини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9184,
+    "text" : "едновременното включване на всички пътепоказатели",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9187,
+    "text" : "превключването на дългите и късите светлини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9185,
+    "text" : "едновременното включване и изключване на късите и габаритните светлини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2808,
+  "number" : 50,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Едновременното включване на всички пътепоказатели се използва за:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9190,
+    "text" : "предупреждаване на участниците в движението за опасност на пътя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9188,
+    "text" : "обозначаване на МПС със специален режим на движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9191,
+    "text" : "предупреждаване на другите участници в движението за предприемане на маневра",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9189,
+    "text" : "обозначаване на паркирано ППС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2809,
+  "number" : 51,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Преди  извършване на маневра водачът на ППС сигнализира за нея, защото:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9195,
+    "text" : "сигналът му дава предимство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9192,
+    "text" : "сигналът го освобождава от отговорност",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9194,
+    "text" : "чрез сигнала предупреждава останалите участници в движението за намерението си",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9193,
+    "text" : "указва на останалите водачи, посоката в която ще се продължи движението си",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2810,
+  "number" : 52,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е при извършване на маневра да подавате допълнителен сигнал чрез кратковременно включване на светлините?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9197,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9196,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2812,
+  "number" : 54,
+  "subNumber" : 1,
+  "pictureSha1" : "37af737fc82dfcd1617679e2202c8bb9ee8e6811",
+  "text" : "Как трябва да постъпи водачът на превозно средство при подаден сигнал с показаната палка?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9203,
+    "text" : "да подаде авариен сигнал",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9204,
+    "text" : "не е задължен да се съобразява с този сигнал",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9202,
+    "text" : "да спре",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9205,
+    "text" : "да продължи движението, но с намалена скорост",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2811,
+  "number" : 53,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Водачът на МПС може да подава сигнал към другите участници в движението, чрез кратковременно включване на дългите светлини (светлинния клаксон):",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9200,
+    "text" : "за да привлече тяхното внимание при извършване на маневра",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9201,
+    "text" : "за да укаже, че ще завива в обратна посока",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9198,
+    "text" : "за да ги предупреди за евентуална опасност при извършване на маневра",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9199,
+    "text" : "за да им покаже, че е с предимство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2813,
+  "number" : 55,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "За какво сигнализира стоящият на тротоара пешеходец, когато е с изпъната нагоре или напречно на пътя ръка?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9207,
+    "text" : "за намерението си да навлезе на платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9208,
+    "text" : "дава знак на другите пешеходци, че могат да преминат през платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9206,
+    "text" : "дава знак на другите пешеходци, да не преминават през платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9209,
+    "text" : "указва на водачите, че ще изчака преминаващите автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2814,
+  "number" : 56,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Как пешеходците сигнализират за намерението си да преминат през платното за движение?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9210,
+    "text" : "с ръка, изпъната нагоре",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9211,
+    "text" : "пешеходците нямат право да подават сигнали",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9213,
+    "text" : "с кръгово движение на ръката",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9212,
+    "text" : "с ръка, изпъната напречно на платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2815,
+  "number" : 57,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато пешеходец подава сигнал с ръка за намерението си да премине по пешеходна пътека, водачът на МПС:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9215,
+    "text" : "е длъжен да го пропусне без да създава опасност за движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9217,
+    "text" : "трябва да подаде сигнал, към пешеходеца, че ще го пропусне",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9216,
+    "text" : "не е длъжен да се съобразява с него",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9214,
+    "text" : "е длъжен незабавно да спре",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2818,
+  "number" : 40,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато пътепоказателите са повредени, как трябва да сигнализирате преди заобикаляне с отклонение наляво?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9224,
+    "text" : "не съм задължен да сигнализирам",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9227,
+    "text" : "с вдигната вертикално нагоре ръка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9225,
+    "text" : "с изпъната встрани лява ръка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9226,
+    "text" : "с изпъната встрани дясна ръка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2817,
+  "number" : 38,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Когато при спиране подава сигнал с ръка, водачът на двуколесното ППС сигнализира чрез:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9221,
+    "text" : null,
+    "pictureSha1" : "ae0b8bbff8bd4ae2244ec5df843c6310cef54842",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9223,
+    "text" : null,
+    "pictureSha1" : "8d3c37859e4c9d09e9c6e924deff924d441e6e27",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9222,
+    "text" : null,
+    "pictureSha1" : "4858c46ad2f7288d790f9653693eb66aa090e306",
+    "correct" : true,
+    "selected" : false
+  } ]
+} ]

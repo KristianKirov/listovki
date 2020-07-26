@@ -1,0 +1,65 @@
+[ {
+  "id" : 2699,
+  "number" : 18,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Слизането на деца до 12 години от автомобил, спрял на платното за движение, се извършва от:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8796,
+    "text" : "страната на тротоара",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8794,
+    "text" : "страната на водача на МПС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8795,
+    "text" : "страната на пътния банкет",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8793,
+    "text" : "от по-удобната за водача страна",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2714,
+  "number" : 19,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Качването на дете до 12 години в автомобил, спрял на платното за движение, се извършва:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8852,
+    "text" : "от страната на тротоара",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8854,
+    "text" : "от страната на пътния банкет",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8851,
+    "text" : "от страната на водача на МПС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8853,
+    "text" : "от която и да е страна на автомобила, когато детето е с възрастен придружител",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

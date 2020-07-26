@@ -1,0 +1,1327 @@
+[ {
+  "id" : 3109,
+  "number" : 74,
+  "subNumber" : 1,
+  "pictureSha1" : "6ca6267de3b289db7b178318db039da00efce44d",
+  "text" : "Този пътен знак забранява изпреварването:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10161,
+    "text" : "на МПС, с изключение на мотоциклети без кош и мотопеди",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10162,
+    "text" : "само на леки автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10163,
+    "text" : "на всички ППС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3106,
+  "number" : 71,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кое от изброените действия е задължително при маневрата изпреварване?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10149,
+    "text" : "подаване на сигнал за отклонение наляво",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10151,
+    "text" : "подаване на сигнал за отклонение надясно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10150,
+    "text" : "подаване на звуков сигнал, когато маневрата се извършва в населено място",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10152,
+    "text" : "включване на дългите светлини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3107,
+  "number" : 72,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Изпреварването на товарен автомобил е по-рисковано от изпреварването на лек автомобил защото:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10153,
+    "text" : "спирачките на товарните автомобили не са толкова ефективни",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10156,
+    "text" : "товарните автомобили изкачват стръмните наклони по-бавно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10155,
+    "text" : "дължината на товарните автомобили е по-голяма от тази на леките автомобили",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10154,
+    "text" : "видимостта напред при движение зад товарен автомобил е по-ограничена",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3108,
+  "number" : 73,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Как трябва да постъпите когато автомобилът който ви изпреварва се прибере в лентата, по която се движите, без да осигури необходимата дистанция?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10160,
+    "text" : "трябва да премина в лявата лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10159,
+    "text" : "трябва да подам светлинен сигнал",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10157,
+    "text" : "трябва да намаля скоростта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10158,
+    "text" : "трябва да продължа движението си със същата скорост",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3110,
+  "number" : 75,
+  "subNumber" : 2,
+  "pictureSha1" : "595bad5806b61fe2b1b8e1b0d12f685daa32f497",
+  "text" : "Кое от изброените ППС е разрешено да изпреварвате след този пътен знак?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10167,
+    "text" : "трактор",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10165,
+    "text" : "мотоциклет без кош",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10164,
+    "text" : "мотопед",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10166,
+    "text" : "съчленен автобус",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3111,
+  "number" : 75,
+  "subNumber" : 3,
+  "pictureSha1" : "595bad5806b61fe2b1b8e1b0d12f685daa32f497",
+  "text" : "Кое от изброените ППС е разрешено да изпреварвате след този пътен знак?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10170,
+    "text" : "товарен автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10168,
+    "text" : "велосипед",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10169,
+    "text" : "каруца",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10171,
+    "text" : "трактор",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3112,
+  "number" : 76,
+  "subNumber" : 2,
+  "pictureSha1" : "595bad5806b61fe2b1b8e1b0d12f685daa32f497",
+  "text" : "Кое от изброените ППС е забранено да изпреварвате след този пътен знак?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10174,
+    "text" : "товарен автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10172,
+    "text" : "трактор",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10175,
+    "text" : "мотопед",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10173,
+    "text" : "велосипед",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3113,
+  "number" : 76,
+  "subNumber" : 3,
+  "pictureSha1" : "595bad5806b61fe2b1b8e1b0d12f685daa32f497",
+  "text" : "Кое от изброените ППС е забранено да изпреварвате след този пътен знак?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10177,
+    "text" : "мотоциклет без кош",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10179,
+    "text" : "каруца",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10178,
+    "text" : "лек автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10176,
+    "text" : "съчленен автобус",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3114,
+  "number" : 77,
+  "subNumber" : 1,
+  "pictureSha1" : "44ffcc88e5b67d4740151d4a1ba2a053431c7433",
+  "text" : "След този пътен знак забраната да изпреварват се отнася за водачите на товарни автомобили с допустима максимална маса над:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10181,
+    "text" : "1,5 т",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10182,
+    "text" : "7,5 т",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10180,
+    "text" : "5,5 т",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10183,
+    "text" : "3,5 т",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3115,
+  "number" : 78,
+  "subNumber" : 1,
+  "pictureSha1" : "b92b1c229307694ddf8e935ab19ae612c5080e04",
+  "text" : "След този пътен знак на водачите на товарни автомобили с допустима максимална маса над 3,5 т е разрешено да изпреварват:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10184,
+    "text" : "леки автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10187,
+    "text" : "мотоциклети без кош",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10186,
+    "text" : "мотопеди",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10185,
+    "text" : "автобуси",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3116,
+  "number" : 79,
+  "subNumber" : 1,
+  "pictureSha1" : "595bad5806b61fe2b1b8e1b0d12f685daa32f497",
+  "text" : "След този пътен знак на водачите на товарни автомобили с допустима максимална маса до 3,5 т е разрешено да изпреварват:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10190,
+    "text" : "трактори",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10191,
+    "text" : "мотоциклети без кош",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10188,
+    "text" : "автобуси",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10189,
+    "text" : "мотопеди",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3117,
+  "number" : 79,
+  "subNumber" : 2,
+  "pictureSha1" : "595bad5806b61fe2b1b8e1b0d12f685daa32f497",
+  "text" : "След този пътен знак на водачите на товарни автомобили с допустима максимална маса до 3,5 т е разрешено да изпреварват:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10192,
+    "text" : "велосипеди",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10195,
+    "text" : "леки автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10193,
+    "text" : "товарни автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10194,
+    "text" : "каруци",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3118,
+  "number" : 80,
+  "subNumber" : 1,
+  "pictureSha1" : "717a0118efeae119bc9f22bc46d6253ecd03c071",
+  "text" : "След този пътен знак разрешено ли е на водачите на товарни автомобили да изпреварват други автомобили?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10197,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10196,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3119,
+  "number" : 81,
+  "subNumber" : 1,
+  "pictureSha1" : "2d99711494b0f708fea94d1508a03039513185e2",
+  "text" : "Разрешено ли е да продължите изпреварването при тази ситуация?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10198,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10199,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3120,
+  "number" : 82,
+  "subNumber" : 1,
+  "pictureSha1" : "f9b9db9dbb333fc463dcdc7a147efa067f30d123",
+  "text" : "Разрешено ли е да продължите изпреварването при тази ситуация?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10200,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10201,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3121,
+  "number" : 83,
+  "subNumber" : 1,
+  "pictureSha1" : "f18483c62f3e41736aa5f064574a386f484d3496",
+  "text" : "Разрешено ли е да изпреварите мотоциклетиста при тази ситуация?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10202,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10203,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3122,
+  "number" : 84,
+  "subNumber" : 1,
+  "pictureSha1" : "1fb9d64dd17ba7e38a1550fae3a25663f04556b8",
+  "text" : "Разрешено ли е да предприемете изпреварване при тази ситуация?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10204,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10205,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3123,
+  "number" : 85,
+  "subNumber" : 1,
+  "pictureSha1" : "b8b935651dd1c44dcbacfb2d39a303c3f5a18c8a",
+  "text" : "Разрешено ли е да предприемете изпреварване, когато автомобилът зад вас е подал сигнал за отклонение наляво?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10207,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10206,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3124,
+  "number" : 86,
+  "subNumber" : 1,
+  "pictureSha1" : "2283fd2b3b2ecd8bc98b739d43e9ce7885249f5f",
+  "text" : "Разрешено ли е изпреварването при тази ситуация?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10209,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10208,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3126,
+  "number" : 88,
+  "subNumber" : 1,
+  "pictureSha1" : "71f86c63bd1c529816e239643877603b672c3e9e",
+  "text" : "Разрешено ли е да предприемете изпреварване на колоната от МПС при тази ситуация?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10214,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10215,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3125,
+  "number" : 87,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Изпреварването е забранено, когато:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10212,
+    "text" : "се извършва по двулентов двупосочен път",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10210,
+    "text" : "изпреварващият автомобил е с повредени пътепоказатели",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10211,
+    "text" : "при използване на пътна лента за насрещното движение не е възможно безпрепятственото връщане в напуснатата лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10213,
+    "text" : "видимостта е ограничена",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3127,
+  "number" : 90,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Изпреварването на МПС, с изключение на мотопеди и мотоциклети без кош, е забранено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10216,
+    "text" : "на железопътен прелез с бариери",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10217,
+    "text" : "в стеснен участък от пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10218,
+    "text" : "пред и върху сигнализирана пешеходна пътека",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10219,
+    "text" : "при използване на пътна лента за насрещно движение, когато изпреварващият не може да се върне безпрепятствено в напуснатата пътна лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3128,
+  "number" : 91,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Изпреварването на МПС, с изключение на мотопеди и мотоциклети без кош, е забранено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10223,
+    "text" : "на път с еднопосочно движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10220,
+    "text" : "пред и върху сигнализирана пешеходна пътека",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10221,
+    "text" : "при ограничена видимост, когато разстоянието е по-малко от необходимото за изпреварване",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10222,
+    "text" : "на мост",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3129,
+  "number" : 92,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Изпреварването на МПС, с изключение на мотопеди и мотоциклети без кош, е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 10227,
+    "text" : "в тунел",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10225,
+    "text" : "на кръстовище на равнозначни пътища",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10226,
+    "text" : "при използване на пътна лента за насрещно движение, когато изпреварващият не може да се върне безпрепятствено в напуснатата пътна лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10224,
+    "text" : "на железопътен прелез без бариери",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3130,
+  "number" : 92,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Изпреварването на МПС, с изключение на мотопеди и мотоциклети без кош, е забранено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10231,
+    "text" : "пред и върху сигнализирана пешеходна пътека",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10228,
+    "text" : "на надлез",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10229,
+    "text" : "при движение през нощта",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10230,
+    "text" : "при намалена видимост, когато разстоянието е по-малко от необходимото за изпреварване",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3132,
+  "number" : 93,
+  "subNumber" : 1,
+  "pictureSha1" : "864889572af7ebed81aa22eb864f62bd8aaacf55",
+  "text" : "Разрешено ли е изпреварването при тази ситуация?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10236,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10237,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3131,
+  "number" : 92,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Изпреварването на МПС, с изключение на мотопеди и мотоциклети без кош, е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 10234,
+    "text" : "на кръстовище на равнозначни пътища",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10233,
+    "text" : "на пътища с двупосочно движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10232,
+    "text" : "на железопътен прелез без бариери",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10235,
+    "text" : "пред пешеходна пътека, когато изпреварваното превозно средство закрива видимостта към пешеходната пътека",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3133,
+  "number" : 94,
+  "subNumber" : 1,
+  "pictureSha1" : "5da8eea5fb6bd8060659edf49379f3137f88ea47",
+  "text" : "При тази ситуация изпреварването е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10238,
+    "text" : "забранено, защото видимостта е ограничена",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10241,
+    "text" : "забранено, защото пътят е с голям наклон",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10239,
+    "text" : "забранено, защото пътят е неравен",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10240,
+    "text" : "разрешено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3135,
+  "number" : 96,
+  "subNumber" : 1,
+  "pictureSha1" : "18df9f1e57ea8c2d7d7c9a699beaf81d9cbd9327",
+  "text" : "При тази ситуация разрешено ли е да продължите изпреварването?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10244,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10245,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3134,
+  "number" : 95,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е при изпреварване да използвате превключването на светлините като допълнителен сигнал?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10242,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10243,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3137,
+  "number" : 98,
+  "subNumber" : 1,
+  "pictureSha1" : "aacd5a8a0dd29e2c3f7f26acaf994f35b361a41f",
+  "text" : "При тази ситуация, когато пешеходецът напуска платното за движение и имам видимост към пешеходната пътека, е разрешено да продължа изпреварването.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10250,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10251,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3138,
+  "number" : 99,
+  "subNumber" : 1,
+  "pictureSha1" : "0037764fe823c55c194213dff3e24a22f2c885b7",
+  "text" : "При тази ситуация:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10253,
+    "text" : "продължавам изпреварването, като предупреждавам пешеходците със звуков сигнал",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10252,
+    "text" : "продължавам изпреварването, за да премина преди пешеходците да са навлезли в лявата лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10254,
+    "text" : "прекратявам изпреварването",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3139,
+  "number" : 100,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При изпреварване се преминава от лявата страна на изпреварваното ППС:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10256,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10255,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3140,
+  "number" : 101,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При изпреварване водачът на изпреварваното ППС длъжен ли е да не увеличава скоростта?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10257,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10258,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3141,
+  "number" : 102,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Водачът на изпреварваното ППС е длъжен :",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10260,
+    "text" : "да не пречи на изпреварването",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10261,
+    "text" : "да намали скоростта",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10262,
+    "text" : "да не увеличава скоростта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10259,
+    "text" : "да премине плътно вдясно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3142,
+  "number" : 103,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Ако през нощта, при започване на изпреварване, водачът на превозното средство бъде заслепен, той трябва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10265,
+    "text" : "да продължи изпреварването, като се приближи до изпреварваното превозно средство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10266,
+    "text" : "да прекрати изпреварването и се върне в дясната лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10263,
+    "text" : "да прекрати изпреварването, като спре незабавно в лентата в която се движи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10264,
+    "text" : "да продължи изпреварването, като включи дългите светлини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3143,
+  "number" : 104,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При изпреварване задължението за осигуряване на достатъчно странично разстояние е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10268,
+    "text" : "на двамата водачи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10269,
+    "text" : "на водача на изпреварващото ППС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10267,
+    "text" : "на водача на изпреварваното ППС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3144,
+  "number" : 105,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Водач, който ще предприеме изпреварване, преди да подаде сигнал е длъжен да се убеди, че:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 10272,
+    "text" : "че водачите от насрещното движение ще спрат за да го пропуснат",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10273,
+    "text" : "не го изпреварва друго пътно превозно средство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10271,
+    "text" : "ППС, което ще изпреварва, не е подало сигнал за изменение на посоката си на движение наляво",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10270,
+    "text" : "движещото се след него ППС не е подало сигнал за изменение на посоката си на движение наляво",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3145,
+  "number" : 106,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Водач, който ще предприеме изпреварване, след като подаде сигнал е длъжен да се убеди, че:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 10275,
+    "text" : "има свободен път на разстояние, достатъчно за изпреварване",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10276,
+    "text" : "няма да принуждава изпреварваното ППС да намалява скоростта или да изменя посоката на движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10274,
+    "text" : "има видимост на достатъчно разстояние",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10277,
+    "text" : "че водачът на изпреварвания автомобил е започнал да намалява скоростта на движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3146,
+  "number" : 106,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Водач, който ще предприеме изпреварване, след като подаде сигнал е длъжен да се убеди, че:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 10279,
+    "text" : "че водачът на изпреварвания автомобил е превключил на по-ниска предавка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10278,
+    "text" : "няма да принуждава изпреварваното ППС да намалява скоростта или да изменя посоката на движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10280,
+    "text" : "може да заеме място в пътната лента пред изпреварваното пътно превозно средство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10281,
+    "text" : "има свободен път на разстояние, достатъчно за изпреварване",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3147,
+  "number" : 107,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Водач, който изпреварва, е длъжен:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 10283,
+    "text" : "да се движи в непосредствена близост до изпреварваното превозно средство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10284,
+    "text" : "да се убеди, че с безопасна скорост, може да извърши изпреварването за кратко време",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10285,
+    "text" : "когато навлиза в лента за насрещното движение, да не създава опасност за превозните средства, движещи се по нея",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10282,
+    "text" : "да осигури достатъчно странично разстояние между своето и изпреварваното ППС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3148,
+  "number" : 108,
+  "subNumber" : 1,
+  "pictureSha1" : "a701ed2e9b560740dd516d95d9a1666ba600da34",
+  "text" : "Как ще постъпите при тази ситуация, когато автомобилът зад вас е подал сигнал за отклонение вляво?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10286,
+    "text" : "намалявам скоростта и пропускам автомобила зад мен",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10287,
+    "text" : "подавам сигнал и заобикалям повредения автомобил, преди автомобила, който се движи зад мен",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3149,
+  "number" : 109,
+  "subNumber" : 1,
+  "pictureSha1" : "05fd3058565d59fc925772eb92cfef90f39d24fa",
+  "text" : "Разрешено ли е изпреварването при тази ситуация?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10289,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10288,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3150,
+  "number" : 110,
+  "subNumber" : 1,
+  "pictureSha1" : "f7a7a18554754a76aa144e0e93c81ee3cc48355e",
+  "text" : "Разрешено ли е да предприемете изпреварване при тази ситуация?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10290,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10291,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3151,
+  "number" : 111,
+  "subNumber" : 1,
+  "pictureSha1" : "3a8e833097fe33c12845db68617775f2bec9019c",
+  "text" : "Разрешено ли е да продължите изпреварването при тази ситуация?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10293,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10292,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3152,
+  "number" : 112,
+  "subNumber" : 1,
+  "pictureSha1" : "c719c7f0f06213d139b938eabbd1b96c7d120eab",
+  "text" : "Разрешено ли е да изпреварите при тази ситуация?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10294,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10295,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3153,
+  "number" : 113,
+  "subNumber" : 1,
+  "pictureSha1" : "63a9c320ab9f6e8ba59e3bd7ae13dfd53cdd398d",
+  "text" : "Длъжни ли сте при тази ситуация да сигнализирате с ляв пътепоказател, че започвате изпреварването?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10296,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10297,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3154,
+  "number" : 114,
+  "subNumber" : 1,
+  "pictureSha1" : "145a4885e6d65c53af13d8d3a08297cbac387e11",
+  "text" : "Разрешено ли е да предприемете изпреварване при тази ситуация?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10298,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10299,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3155,
+  "number" : 115,
+  "subNumber" : 2,
+  "pictureSha1" : "f50e5f977e37ca7d1e6f8c544dec077837b32d1c",
+  "text" : "При тази ситуация разрешено ли е да преминете по трамвайните линии, за да изпреварите товарния автомобил?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10300,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10301,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3156,
+  "number" : 116,
+  "subNumber" : 1,
+  "pictureSha1" : "c9b59b3995f2b841469e830725bb2d7a50991869",
+  "text" : "При тази ситуация разрешено ли е да заобиколите трамвая отляво за да не пречите на слизащите и качващите се пътници?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10302,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10303,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3727,
+  "number" : 115,
+  "subNumber" : 1,
+  "pictureSha1" : "e5e85cea6c68271236921c83b6f4f13d44f98a49",
+  "text" : "При тази ситуация водачът на синия автомобил:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12194,
+    "text" : "може да продължи изпреварването, като премине по трамвайната линия",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12193,
+    "text" : "трябва да прекрати изпреварването",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+} ]

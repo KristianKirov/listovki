@@ -1,0 +1,441 @@
+[ {
+  "id" : 2946,
+  "number" : 107,
+  "subNumber" : 1,
+  "pictureSha1" : "27431291cb3f9b0f8e671aa16d191a082759817b",
+  "text" : "Разрешено ли е пресичането на единичната непрекъсната линия между съседните пътни ленти?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9679,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9680,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2947,
+  "number" : 107,
+  "subNumber" : 2,
+  "pictureSha1" : "0d1ca1e2b3df743da085db4e1901bd5aa364662a",
+  "text" : "Пресичането на единичната непрекъсната линия между съседните пътни ленти е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9682,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9681,
+    "text" : "разрешено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2948,
+  "number" : 108,
+  "subNumber" : 1,
+  "pictureSha1" : "767aec5feb5f449f4c163f459849cd4f38205365",
+  "text" : "Пресичането на единичната непрекъсната линия между съседните пътни ленти е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9684,
+    "text" : "разрешено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9683,
+    "text" : "забранено, освен за спиране от другата страна на пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9685,
+    "text" : "забранено във всички случаи",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2949,
+  "number" : 109,
+  "subNumber" : 1,
+  "pictureSha1" : "25c1498c424d1cd8983d47daf0aa9f76fcf09b07",
+  "text" : "При тази ситуация пресичането на единичната непрекъсната линия е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9686,
+    "text" : "забранено във всички случаи",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9687,
+    "text" : "разрешено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9688,
+    "text" : "забранено, освен за спиране от другата страна на пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2950,
+  "number" : 109,
+  "subNumber" : 2,
+  "pictureSha1" : "25c1498c424d1cd8983d47daf0aa9f76fcf09b07",
+  "text" : "При тази ситуация, на водача на лекия автомобил е разрешено да пресече единичната непрекъсната линия за да спре от другата страна на пътя.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9689,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9690,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2951,
+  "number" : 110,
+  "subNumber" : 1,
+  "pictureSha1" : "2f614adbe2006e0f8eb6d7c6d3ae67731bb97715",
+  "text" : "Пресичането на единичната прекъсната линия между съседните пътни ленти е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9692,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9691,
+    "text" : "разрешено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2952,
+  "number" : 110,
+  "subNumber" : 2,
+  "pictureSha1" : "2f614adbe2006e0f8eb6d7c6d3ae67731bb97715",
+  "text" : "При тази ситуация, на водача на лекия автомобил е разрешено да пресече единичната прекъсната линия за да спре от другата страна на пътя.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9694,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9693,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2953,
+  "number" : 111,
+  "subNumber" : 1,
+  "pictureSha1" : "bc6d7fbb9112dc7749054ab3b5b920e6aca7915b",
+  "text" : "При тази ситуация пресичането на единичната непрекъсната линия, очертаваща границата на платното за движение, е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9696,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9695,
+    "text" : "разрешено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2954,
+  "number" : 112,
+  "subNumber" : 1,
+  "pictureSha1" : "b4258532e90d48ead3d49f743f77cf1ae0d43cb0",
+  "text" : "Разрешено ли е пресичането на единичната непрекъсната линия, очертаваща границата на платното за движение?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9697,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9698,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2955,
+  "number" : 113,
+  "subNumber" : 1,
+  "pictureSha1" : "bdc74744c813ddec34431ae8bb6c3b31806f4594",
+  "text" : "Разрешено ли е пресичането на единичната прекъсната линия, очертаваща границата на платното за движение?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9700,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9699,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2956,
+  "number" : 115,
+  "subNumber" : 1,
+  "pictureSha1" : "deebf95e1aa91e0c4f4e260649d4205359ae8ded",
+  "text" : "При тази ситуация на кой от автомобилите е разрешено да пресече пътната маркировка?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9701,
+    "text" : "синия",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9702,
+    "text" : "на двата автомобила",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9703,
+    "text" : "червения",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2957,
+  "number" : 116,
+  "subNumber" : 1,
+  "pictureSha1" : "fbb5d61b33776e5bc0d8ee558e7fec098a477761",
+  "text" : "При тази ситуация разрешено ли е пресичането на маркировката, за да се извърши указаната със стрелка маневра?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9705,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9704,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2958,
+  "number" : 117,
+  "subNumber" : 1,
+  "pictureSha1" : "d1209e0f151a903a46824ad89085d706643913ef",
+  "text" : "При тази ситуация разрешено ли е пресичането на маркировката, за да извършите указаната със стрелка маневра?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9706,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9707,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2959,
+  "number" : 118,
+  "subNumber" : 1,
+  "pictureSha1" : "61882321effc6f0ab9b639093f562f5fd5505b71",
+  "text" : "Върху маркираната с коси успоредни линии част от платното за движение навлизането е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9709,
+    "text" : "разрешено за паркиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9708,
+    "text" : "разрешено само за спиране за престой",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9710,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2960,
+  "number" : 119,
+  "subNumber" : 1,
+  "pictureSha1" : "8076bde1f5ad0d79ff8dd95450998d9380508f8a",
+  "text" : "Върху маркираната с коси успоредни линии част от платното за движение навлизането е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9711,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9712,
+    "text" : "разрешено само за спиране за престой",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9713,
+    "text" : "разрешено само при изпреварване",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2961,
+  "number" : 120,
+  "subNumber" : 1,
+  "pictureSha1" : "1586ec112ad49924eb33a154c52c6deaa0d56a55",
+  "text" : "При тази ситуация пътната маркировка, поставена напречно на пътя, сигнализира:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9714,
+    "text" : "място за задължително спиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9717,
+    "text" : "изкуствена неравност на платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9716,
+    "text" : "линия за изчакване",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9715,
+    "text" : "участък от пътя в ремонт",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2962,
+  "number" : 121,
+  "subNumber" : 1,
+  "pictureSha1" : "e0c1e8a0011da3c542ae32271ac6d51937086852",
+  "text" : "Върху площта, очертана с жълтата начупена линия е разрешено да спрете за:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9718,
+    "text" : "престой",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9720,
+    "text" : "паркиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9719,
+    "text" : "престой и паркиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2963,
+  "number" : 122,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Временната пътна маркировка се разпознава по:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9721,
+    "text" : "цвета на маркировката",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9723,
+    "text" : "широчината на линиите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9722,
+    "text" : "коефициента на светлоотразяване",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2969,
+  "number" : 128,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "“Изкуствената неравност” върху платното за движение е предназначена за:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9736,
+    "text" : "обозначаване на препятствие върху платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9737,
+    "text" : "ограничаване скоростта на ППС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9738,
+    "text" : "сигнализиране на площи забранени за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

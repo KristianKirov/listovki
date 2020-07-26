@@ -1,0 +1,195 @@
+[ {
+  "id" : 3793,
+  "number" : 21,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Превозването на пътници е:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12433,
+    "text" : "забранено в каросерията на самосвал",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12431,
+    "text" : "забранено в товарно ремарке",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12432,
+    "text" : "разрешено в туристическо ремарке",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12434,
+    "text" : "разрешено в трактор",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3794,
+  "number" : 22,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е да превозвате пътници в туристическо ремарке?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12435,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12436,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3795,
+  "number" : 23,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е да превозвате пътници в товарно ремарке?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12437,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12438,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3796,
+  "number" : 24,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Допуска ли се на задната седалка в лек автомобил да се превозват повече от определения брой пътници?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12439,
+    "text" : "не се допуска",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12441,
+    "text" : "допуска се превозването на едно дете до 14 години",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12440,
+    "text" : "допуска се превозването на едно дете до 7 години",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3821,
+  "number" : 48,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Превозването на дете под 12 години на предната седалка на лек автомобил е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12535,
+    "text" : "забранено във всички случаи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12534,
+    "text" : "разрешено, при условие че го държи възрастен човек",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12533,
+    "text" : "разрешено, ако детето е с височина над 120 см",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12532,
+    "text" : "разрешено, при условие че за него е поставена допълнителна специална седалка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3822,
+  "number" : 49,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кога водачът е длъжен да използва обезопасителния колан?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12537,
+    "text" : "винаги, независимо от това по какъв път се движи",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12536,
+    "text" : "само при движение със скорост над 50 км/час",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12538,
+    "text" : "само при движение по път извън населено място",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12539,
+    "text" : "само при движение по път в населено място",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3823,
+  "number" : 50,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "В кой от изброените случаи водачът е длъжен да използва обезопасителния колан?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12540,
+    "text" : "само при движение със скорост над 30 км/час",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12541,
+    "text" : "при движение по автомагистрала",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12543,
+    "text" : "при движение по път извън населено място",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12542,
+    "text" : "при движение по път в населено място",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+} ]

@@ -1,0 +1,463 @@
+[ {
+  "id" : 2839,
+  "number" : 41,
+  "subNumber" : 1,
+  "pictureSha1" : "ea6257285764c683603954333a72d99c259f2812",
+  "text" : "Този пътен знак забранява влизането на автомобили теглещи:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9308,
+    "text" : "едноосни ремаркета",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9307,
+    "text" : "ремаркета с две и повече оси",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9309,
+    "text" : "полуремаркета",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2932,
+  "number" : 97,
+  "subNumber" : 1,
+  "pictureSha1" : "ab1f3b70cc3ed6edc7c1604160f13a3caa81b07a",
+  "text" : "На какво разстояние след знака, когато е поставен извън населено място, се намира опасният завой?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9625,
+    "text" : "над 500 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9628,
+    "text" : "от 100 до 150 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9627,
+    "text" : "от 150 до 200 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9626,
+    "text" : "от 200 до 500 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2933,
+  "number" : 97,
+  "subNumber" : 2,
+  "pictureSha1" : "9a1a0f1643c53824c3ec5132ee75b6af177e3078",
+  "text" : "На какво разстояние след знака, когато е поставен в населено място, се намира пешеходната пътека?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9630,
+    "text" : "непосредствено след знака",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9632,
+    "text" : "от 50 до 100 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9631,
+    "text" : "не повече от 50 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9629,
+    "text" : "от 100 до 150 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2934,
+  "number" : 97,
+  "subNumber" : 3,
+  "pictureSha1" : "9a1a0f1643c53824c3ec5132ee75b6af177e3078",
+  "text" : "На какво разстояние преди опасността се поставят предупредителните пътни знаци?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9634,
+    "text" : "на не повече от 50 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9633,
+    "text" : "непосредствено преди опасността",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9635,
+    "text" : "от 50 до 100 м в населено място",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9636,
+    "text" : "от 100 до 150 м извън населено място",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2935,
+  "number" : 98,
+  "subNumber" : 1,
+  "pictureSha1" : "92ce252b090ac191aeb9af513c554786de8c539d",
+  "text" : "При тази ситуация на какво разстояние трябва да очакваме опасния завой, за който ни предупреждава пътният знак?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9640,
+    "text" : "от 100 до 150 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9638,
+    "text" : "на повече от 50 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9637,
+    "text" : "от 50 до 100 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9639,
+    "text" : "на повече от 200 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2936,
+  "number" : 99,
+  "subNumber" : 1,
+  "pictureSha1" : "39fb3acd7add86eea308c6b5cc33aa68eb1dfa9f",
+  "text" : "При тази ситуация, на какво разстояние след пътния знак се намира пешеходната пътека?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9643,
+    "text" : "до 50 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9644,
+    "text" : "от 50 до 100 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9641,
+    "text" : "от 100 до 150 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9642,
+    "text" : "на 200 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2937,
+  "number" : 100,
+  "subNumber" : 1,
+  "pictureSha1" : "6cb5c8a1a3d6facea73213535c97f5daaff8362e",
+  "text" : "По този път извън населено място, участъкът с опасни завои започва на разстояние:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9647,
+    "text" : "от 100 до 150 м след знака",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9646,
+    "text" : "от 50 до 100 м след знака",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9645,
+    "text" : "на 250 м след знака",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9648,
+    "text" : "не повече от 250 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2938,
+  "number" : 102,
+  "subNumber" : 1,
+  "pictureSha1" : "7e92208e680a50a9a73e4455e0d38607ade9c30f",
+  "text" : "При тази ситуация забраната за изпреварване, е валидна:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9651,
+    "text" : "до края на пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9649,
+    "text" : "до знак, който отменя забраната",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9652,
+    "text" : "до следващото кръстовище",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9650,
+    "text" : "до края на стеснения участък от пътя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2939,
+  "number" : 103,
+  "subNumber" : 1,
+  "pictureSha1" : "21d88c12dc0b3a39f007798038362420921d2b43",
+  "text" : "При тази ситуация забраната от пътния знак е валидна:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9655,
+    "text" : "до знак, който отменя забраната",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9656,
+    "text" : "на разстояние, указано в забранителния знак",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9653,
+    "text" : "до следващото кръстовище",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9654,
+    "text" : "до края на участъка от пътя с наклон",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2940,
+  "number" : 103,
+  "subNumber" : 2,
+  "pictureSha1" : "316221c9f2f3d9c2c4896bd1ad853596c1b68c9e",
+  "text" : "При тази ситуация забраната за движение със скорост, по-висока от означената, е валидна:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9658,
+    "text" : "на 50м след знака",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9657,
+    "text" : "до следващото кръстовище",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9659,
+    "text" : "до знак, който отменя забраната",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9660,
+    "text" : "до края на опасността, сигнализирана с предупредителния пътен знак",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2941,
+  "number" : 104,
+  "subNumber" : 1,
+  "pictureSha1" : "b5e8c4b2faa56b4dbfe197fffcc73c59ab62b3c7",
+  "text" : "При тази ситуация забраната за престой и паркиране е валидна:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9664,
+    "text" : "до знак, който отменя забраната",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9662,
+    "text" : "до края на опасността, сигнализирана с предупредителния пътен знак",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9663,
+    "text" : "до следващото кръстовище",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9661,
+    "text" : "само на мястото, на което са поставени знаците",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2942,
+  "number" : 101,
+  "subNumber" : 1,
+  "pictureSha1" : "eda5cfc4c3dfe5839b6bc900a32a6b342e9f188c",
+  "text" : "Забраната, въведена с този пътен знак, е валидна:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9666,
+    "text" : "на 150 м след знака",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9668,
+    "text" : "до знак, който отменя забраната",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9667,
+    "text" : "до следващото кръстовище",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9665,
+    "text" : "до края на пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2943,
+  "number" : 105,
+  "subNumber" : 1,
+  "pictureSha1" : "f149d0f8d2adbf8daa70c23d9bdb45f12abe28ee",
+  "text" : "Когато над платното за движение е поставен пътен знак с допълнителната табела “Стрелка”, това означава, че:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9669,
+    "text" : "знакът се отнася само за тези, които след него продължават движението си направо",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9671,
+    "text" : "знакът се отнася само за пътната лента, над която е поставен",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9672,
+    "text" : "знакът се отнася за цялата широчина на платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9670,
+    "text" : "знакът не се отнася за пътната лента, над която е поставен",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2944,
+  "number" : 105,
+  "subNumber" : 2,
+  "pictureSha1" : "37c8d975f1e028f9cb51468b79808505707f438b",
+  "text" : "При тази ситуация, движението на товарни автомобили по лентата, над която е поставен пътният знак, е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9675,
+    "text" : "разрешено, ако масата им с товар е не по-голяма от 3.5т",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9674,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9673,
+    "text" : "разрешено без ограничения",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9676,
+    "text" : "разрешено, но само със скорост не по-висока от означената",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2945,
+  "number" : 106,
+  "subNumber" : 1,
+  "pictureSha1" : "9b28fd7cf2429ce8da97480f31bc53fab4c2430f",
+  "text" : "При тази ситуация движението на товарни автомобили в лентата, над която е поставен пътният знак, е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9678,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9677,
+    "text" : "разрешено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

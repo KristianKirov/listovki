@@ -1,0 +1,207 @@
+[ {
+  "id" : 2504,
+  "number" : 4,
+  "subNumber" : 1,
+  "pictureSha1" : "cb4eb0ca99c6c78ec7a367aab0f3735d7768c0b9",
+  "text" : "Този пътен знак сигнализира:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8072,
+    "text" : "броя на пътните ленти за движение в една посока",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8073,
+    "text" : "че за използването на пътя се изисква платена винетна такса",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8071,
+    "text" : "автомобилен път",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8074,
+    "text" : "двупосочно движение след знака",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2505,
+  "number" : 1,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кой от знаците сигнализира, че пътят, по който се движите, е с предимство?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8075,
+    "text" : null,
+    "pictureSha1" : "94b3de47486d5e669fee77159368ae06aacb4806",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8076,
+    "text" : null,
+    "pictureSha1" : "828f28dcc92ddb8d4131aac183db217cb1a60da7",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8077,
+    "text" : null,
+    "pictureSha1" : "26a5eb2401398251dbfd4231b3138420a3a34aec",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8078,
+    "text" : null,
+    "pictureSha1" : "c4c9ae6791b05355fc7118ab1484fcd2cdf4229b",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2506,
+  "number" : 2,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кой знак означава “Край на пътя с предимство”?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8080,
+    "text" : null,
+    "pictureSha1" : "b243e01133fcdfb128f880eee354b6f38baee433",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8082,
+    "text" : null,
+    "pictureSha1" : "efdf2e905e2de76805fbfba46f288fae4c1acb00",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8081,
+    "text" : null,
+    "pictureSha1" : "d49c4a79f8d500af18140f7bef3cfbe4210e402b",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8079,
+    "text" : null,
+    "pictureSha1" : "26b8f6c6d7deaf765e540870132199ba1c75f1aa",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2515,
+  "number" : 4,
+  "subNumber" : 2,
+  "pictureSha1" : "58a5065645001c97cb5174e6bcac43ce30100228",
+  "text" : "При тази ситуация пътният знак сигнализира, че:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8109,
+    "text" : "маркировката, която отделя пътните ленти е разрешена за пресичане",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8108,
+    "text" : "и двете пътни ленти са предназначени за движение в една посока",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8110,
+    "text" : "за използването на пътя се изисква платена винетна такса",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2513,
+  "number" : 3,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Номерът на път по международната класификация се означава с:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8102,
+    "text" : null,
+    "pictureSha1" : "d9e7cc0c9102d932ea66aaa2e712b774e1ce65ce",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8103,
+    "text" : null,
+    "pictureSha1" : "6bfb1a44a96f768bacf56e87cecde8df8a99d698",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8104,
+    "text" : null,
+    "pictureSha1" : "c4e86ff16159b24ff73c157d401102ddef3f8405",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2514,
+  "number" : 3,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Номерът на автомагистрала по националната класификация се означава с:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8105,
+    "text" : null,
+    "pictureSha1" : "e308b8c2f352e64ebe4f3acd9a7c9f1039b50686",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8107,
+    "text" : null,
+    "pictureSha1" : "5290a29a46b05f005f9ba1efb1420995f285e5e8",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8106,
+    "text" : null,
+    "pictureSha1" : "7aecb6316bc9525639fbbadc6fa8b584e95601af",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2536,
+  "number" : 1,
+  "subNumber" : 1,
+  "pictureSha1" : "09e744f9693721b63e262e1ef6eccaed04dc7bce",
+  "text" : "Значението на този пътен знак е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8190,
+    "text" : "внимание, кръстовище",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8189,
+    "text" : "премини, ако пътят е свободен",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8191,
+    "text" : "пропусни насрещно движещите се ППС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8192,
+    "text" : "път с предимство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+} ]

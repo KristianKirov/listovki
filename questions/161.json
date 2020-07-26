@@ -1,0 +1,849 @@
+[ {
+  "id" : 2533,
+  "number" : 15,
+  "subNumber" : 1,
+  "pictureSha1" : "189d6201720a2ee1542e528f946c8fc7d6be7b00",
+  "text" : "При несъответствие между сигналите на регулировчика, сигналите на светофара и пътните знаци относно предимството трябва да се съобразявате:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8180,
+    "text" : "със сигналите на светофара",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8181,
+    "text" : "с предписанията на пътните знаци",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8179,
+    "text" : "със сигналите на регулировчика",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2534,
+  "number" : 15,
+  "subNumber" : 2,
+  "pictureSha1" : "a5d57cf929679430eabed942f788a7282e77fbba",
+  "text" : "При тази ситуация, при преминаване през кръстовището, трябва да се съобразявате:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8183,
+    "text" : "със сигналите на регулировчика",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8184,
+    "text" : "със сигналите на светофара",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8182,
+    "text" : "с предписанията на пътните знаци относно предимството",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3242,
+  "number" : 1,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При приближаване към кръстовище водачът трябва:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 10592,
+    "text" : "да увеличи скоростта за да премине по-бързо през кръстовището",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10594,
+    "text" : "своевременно да заеме пътна лента, която е предназначена за неговата посока на движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10593,
+    "text" : "да има готовност за намаляване на скоростта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10595,
+    "text" : "своевременно да прецени как се определя реда за преминаване през кръстовището",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3243,
+  "number" : 1,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "При приближаване към кръстовище водачът трябва:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 10596,
+    "text" : "да подаде звуков или светлинен сигнал, когато е с предимство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10597,
+    "text" : "да има готовност да пропусне преминаващи през платното за движение пешеходци",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10599,
+    "text" : "своевременно да заеме пътна лента, която е предназначена за неговата посока на движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10598,
+    "text" : "да управлява с готовност за спиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3244,
+  "number" : 2,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е на водача на ППС да навлезе в кръстовище, ако обстановката ще го принуди да спре в кръстовището и да възпрепятства преминаването през него?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10601,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10602,
+    "text" : "да, при разрешаващ сигнал на светофар",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10600,
+    "text" : "да, но само когато се намира на пътя с предимство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3245,
+  "number" : 2,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е да навлезете в кръстовище, ако преди да преминете ще се наложи да спрете в кръстовището?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10606,
+    "text" : "не, ако по този начин ще възпрепятствам преминаването през него",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10603,
+    "text" : "да, когато се намирам на пътя с предимство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10605,
+    "text" : "не, ако изходът на кръстовището е зает и ще остана с превозното средство в кръстовището",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10604,
+    "text" : "да, винаги",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3247,
+  "number" : 3,
+  "subNumber" : 1,
+  "pictureSha1" : "8e8a59e8b2d48e799aba21dedf5768beba265063",
+  "text" : "В кой от изброените случаи при този сигнал на светофара е забранено да навлезете в кръстовището?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10611,
+    "text" : "когато на кръстовището са поставени пътни знаци относно предимството",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10610,
+    "text" : "когато на платното за движение има стоп-линия",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10612,
+    "text" : "когато ще се наложи да остана в кръстовището поради задръстване",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3246,
+  "number" : 2,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "В кой от случаите водачът не трябва да навлиза в кръстовище?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10609,
+    "text" : "когато по напречния път приближава автомобил със специален режим на движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10608,
+    "text" : "когато преминаването се регулира от светофар със жълта мигаща светлина",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10607,
+    "text" : "когато обстановката ще го принуди да спре в кръстовището, при което ще възпрепятства напречното движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3248,
+  "number" : 3,
+  "subNumber" : 2,
+  "pictureSha1" : "32e7ad5d98588fbf7d3cf2a896b49c7f41549a10",
+  "text" : "При този сигнал на светофара навлизането в кръстовището е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10615,
+    "text" : "разрешено, освен когато водачът може да остане в кръстовището поради задръстване",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10613,
+    "text" : "разрешено без ограничения",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10614,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3249,
+  "number" : 4,
+  "subNumber" : 1,
+  "pictureSha1" : "2e156cf6b59120680fbdd7b840a9165c92d83561",
+  "text" : "Ще извърши ли нарушение водачът, ако при тази ситуация завие в обратна посока?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10616,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10617,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3250,
+  "number" : 4,
+  "subNumber" : 2,
+  "pictureSha1" : "b1e40a7f982f850d62e8b5a834b4656d05c6bd42",
+  "text" : "При тази ситуация разрешено ли е червеният автомобил да продължи движението си направо?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10619,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10618,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3251,
+  "number" : 5,
+  "subNumber" : 1,
+  "pictureSha1" : "a4dd6fe59966abdb020e1eeae2f53dfd1d742ffd",
+  "text" : "При тази ситуация разрешено ли е да завиете надясно?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10621,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10620,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3252,
+  "number" : 5,
+  "subNumber" : 2,
+  "pictureSha1" : "47ffd1c1f1cf51bffcb55516e3b8d22be645bd5d",
+  "text" : "При тази ситуация разрешено ли е да завиете надясно?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10623,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10622,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3253,
+  "number" : 7,
+  "subNumber" : 1,
+  "pictureSha1" : "935f14dbef7b47b2255028982324ede04db16a1e",
+  "text" : "При тази ситуация разрешено ли е да завиете надясно?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10624,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10625,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3254,
+  "number" : 8,
+  "subNumber" : 1,
+  "pictureSha1" : "145133935a0aa24f431a8911dec39e8ba0378a55",
+  "text" : "Редът за преминаване на автомобила и мотоциклета през това кръстовище се определя:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10626,
+    "text" : "с правилото за „предимството на дясностоящия”",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10628,
+    "text" : "в зависимост от категорията на превозните средства",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10627,
+    "text" : "в зависимост от посоката им на движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3255,
+  "number" : 9,
+  "subNumber" : 1,
+  "pictureSha1" : "3b297f53ba4a8cecc647e309a17252a1238e2679",
+  "text" : "Редът за преминаване на тези автомобили през кръстовището се определя:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10630,
+    "text" : "с правилото за „предимството на дясностоящия”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10629,
+    "text" : "от пътните знаци относно предимството",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10631,
+    "text" : "в зависимост от посоката на движение на автомобилите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3256,
+  "number" : 10,
+  "subNumber" : 1,
+  "pictureSha1" : "07fcfd3d24c27ca5d2c26b80ac5e628aa088c773",
+  "text" : "При тази ситуация, при определяне на реда за преминаване през кръстовището, се прилагат следните правила:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10633,
+    "text" : "завиващите наляво ППС от пътя с предимство пропускат насрещнодвижещите се ППС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10632,
+    "text" : "ППС, които са на пътя с предимство, трябва да преминат преди ППС от другия път",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10634,
+    "text" : "ППС на пътя с предимство, помежду си прилагат правилото за „предимството на дясностоящия”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3257,
+  "number" : 11,
+  "subNumber" : 1,
+  "pictureSha1" : "be35126d6cd18767236f408786a3f70f9bbdab37",
+  "text" : "При тази ситуация, при определяне на реда за преминаване през кръстовището, се прилагат следните правила:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10637,
+    "text" : "завиващите наляво ППС от пътя с предимство пропускат насрещнодвижещите се ППС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10635,
+    "text" : "ППС на пътя с предимство, помежду си прилагат правилото за „предимството на дясностоящия”",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10636,
+    "text" : "ППС, на пътя с предимство, трябва да преминат преди ППС на другия път",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3258,
+  "number" : 11,
+  "subNumber" : 2,
+  "pictureSha1" : "ff65f8cdbd524b514442ec86f5e21bc472496795",
+  "text" : "При тази ситуация при определяне на реда за преминаване през кръстовището се прилагат следните правила:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10640,
+    "text" : "ППС на пътя с предимство, трябва да преминат преди ППС от другите пътища",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10638,
+    "text" : "ППС на пътя с предимство, помежду си прилагат правилото за „предимството на дясностоящия”",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10639,
+    "text" : "завиващите наляво ППС от пътя с предимство пропускат насрещнодвижещите се ППС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3259,
+  "number" : 12,
+  "subNumber" : 1,
+  "pictureSha1" : "ee868842efb6cd53c9babd438665d310ac63b768",
+  "text" : "Редът за преминаване на тези автомобили през кръстовището се определя:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10642,
+    "text" : "с правилото за „предимството на дясностоящия”",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10641,
+    "text" : "в зависимост от посоката на движение на автомобилите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3260,
+  "number" : 12,
+  "subNumber" : 2,
+  "pictureSha1" : "b2df402337f80b28cf53b587172e5a45ecb309ce",
+  "text" : "Редът за преминаване на тези автомобили през кръстовището се определя:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10643,
+    "text" : "в зависимост от посоката на движение на автомобилите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10644,
+    "text" : "с правилото за „предимството на дясностоящия”",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3261,
+  "number" : 13,
+  "subNumber" : 1,
+  "pictureSha1" : "1dc2cb59a512c1640d9967610a4669e566242a92",
+  "text" : "При тази ситуация при определяне на реда за преминаване през кръстовището се прилагат следните правила:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10645,
+    "text" : "през кръстовището преминават ППС, които имат разрешаващ сигнал от светофара",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10646,
+    "text" : "ППС на разрешаващ сигнал, помежду си прилагат правилото за „предимството на дясностоящия”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10647,
+    "text" : "завиващите наляво ППС на разрешаващ сигнал пропускат насрещнодвижещите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3262,
+  "number" : 14,
+  "subNumber" : 1,
+  "pictureSha1" : "3302b37c36434747256627466fb0e1d7f035361a",
+  "text" : "Редът за преминаване на тези автомобили през кръстовището се определя:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10648,
+    "text" : "от сигналите на регулировчика",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10649,
+    "text" : "с правилото за „предимството на дясностоящия”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10650,
+    "text" : "в зависимост от посоката на движение на автомобилите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3263,
+  "number" : 16,
+  "subNumber" : 1,
+  "pictureSha1" : "c2263cc24c22ef2d3137af5f8280fca1406bad80",
+  "text" : "При тази ситуация редът за преминаване на автомобилите през кръстовището се определя:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10654,
+    "text" : "от сигналите на регулировчика",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10652,
+    "text" : "с „правилото на десния”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10651,
+    "text" : "в зависимост от посоката на движение на автомобилите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10653,
+    "text" : "от пътните знаци относно предимството",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3264,
+  "number" : 17,
+  "subNumber" : 1,
+  "pictureSha1" : "243077383b2cbd7cc2f12a7f22d9f80b4b17492d",
+  "text" : "При тази ситуация редът за преминаване на автомобилите през кръстовището се определя:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10655,
+    "text" : "с „правилото на десния”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10658,
+    "text" : "в зависимост от посоката на движение на автомобилите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10657,
+    "text" : "от сигналите на светофара",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10656,
+    "text" : "от сигналите на регулировчика",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3266,
+  "number" : 19,
+  "subNumber" : 1,
+  "pictureSha1" : "ca81e949409dc781713bef1bb61d43231e778c0f",
+  "text" : "При тази ситуация разрешено ли е да преминете през кръстовището?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10663,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10664,
+    "text" : "да, но след като пропусна синия автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3267,
+  "number" : 19,
+  "subNumber" : 2,
+  "pictureSha1" : "299999479be31e718b13500c6f8d9d45224c9d93",
+  "text" : "При тази ситуация разрешено ли е да преминете през кръстовището?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10666,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10665,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3268,
+  "number" : 20,
+  "subNumber" : 1,
+  "pictureSha1" : "b5c20a7d252b2bc1dd2cc0ead2181d1b1ce862c2",
+  "text" : "При несъответствие между сигналите на светофара и пътните знаци относно предимството трябва да се съобразявате:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10667,
+    "text" : "със светлинните сигнали",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10668,
+    "text" : "с предписанията на пътните знаци",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3270,
+  "number" : 22,
+  "subNumber" : 1,
+  "pictureSha1" : "cf90915d2ba3cf3123cd83ec35edad6a14bf9903",
+  "text" : "При тази ситуация, при преминаване през кръстовището, трябва да се съобразявате:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10674,
+    "text" : "с пьтния знак забраняващ завиването надясно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10673,
+    "text" : "с пьтния знак относно предимството",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10675,
+    "text" : "със сигнала на светофара",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3271,
+  "number" : 22,
+  "subNumber" : 2,
+  "pictureSha1" : "6daa4f491467b08867e130a4fd927724a1726478",
+  "text" : "При тази ситуация, при преминаване през кръстовището, трябва да се съобразявате:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10677,
+    "text" : "с пьтния знак за задължителна посока за движение в кръстовището",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10676,
+    "text" : "със сигнала на светофара",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10678,
+    "text" : "с пьтния знак относно предимството",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3272,
+  "number" : 23,
+  "subNumber" : 1,
+  "pictureSha1" : "3f24b36e8b64fe68935ac49644ddde50b0e133b1",
+  "text" : "При несъответствие между предписанията на пътните знаци и маркировката на пътя водачите са длъжни да се съобразяват:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10680,
+    "text" : "с маркировката на пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10679,
+    "text" : "с предписанията на пътните знаци",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3273,
+  "number" : 24,
+  "subNumber" : 1,
+  "pictureSha1" : "4ef7548b52238547ebe058ca9dda914bbd422bd9",
+  "text" : "Ще извърши ли нарушение водачът на автомобила, ако при тази ситуация завие наляво?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10682,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10681,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3274,
+  "number" : 25,
+  "subNumber" : 1,
+  "pictureSha1" : "7cc7f0de688a8c3751d064b28376af07464af2ab",
+  "text" : "При тази ситуация посоката, в която на червения автомобил е разрешено да премине, се определя от:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10683,
+    "text" : "пътния знак",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10685,
+    "text" : "светлинния сигнал",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10684,
+    "text" : "пътната маркировка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4730,
+  "number" : 21,
+  "subNumber" : 1,
+  "pictureSha1" : "9448ebe6469af38368bcf6de406a3c8cf3fb84de",
+  "text" : "При тази ситуация при определяне на реда за преминаване през кръстовището се прилагат следните правила:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 15406,
+    "text" : "през кръстовището преминават ППС, които имат разрешаващ сигнал от светофара",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15408,
+    "text" : "ППС на пътя с предимство, трябва да премине преди ППС от другия път",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15407,
+    "text" : "ППС завиващо наляво пропуска насрещнодвижещото се",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15409,
+    "text" : "ППС преминаващи при разрешаващ сигнал, прилагат правилото за „предимството на дясностоящия”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

@@ -1,0 +1,725 @@
+[ {
+  "id" : 2634,
+  "number" : 24,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци предупреждава за кръстовище с път без предимство?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8549,
+    "text" : null,
+    "pictureSha1" : "bcf55c805f68e30adcb32afa656222e4531c00fd",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8550,
+    "text" : null,
+    "pictureSha1" : "3ceef98bbe688980db01a1329ec0dad1ea0d6607",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8552,
+    "text" : null,
+    "pictureSha1" : "afe2763e7fd112824d76616b837b88d5a2bf560d",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8551,
+    "text" : null,
+    "pictureSha1" : "d7c61e33892808978fcca0145829ad97c63ac765",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2635,
+  "number" : 24,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци предупреждава за кръстовище с път без предимство?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8554,
+    "text" : null,
+    "pictureSha1" : "3ceef98bbe688980db01a1329ec0dad1ea0d6607",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8555,
+    "text" : null,
+    "pictureSha1" : "afe2763e7fd112824d76616b837b88d5a2bf560d",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8556,
+    "text" : null,
+    "pictureSha1" : "a838f77751d1f213b206d6a859bedf1526fe078a",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8553,
+    "text" : null,
+    "pictureSha1" : "bcf55c805f68e30adcb32afa656222e4531c00fd",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2636,
+  "number" : 24,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци предупреждава за кръстовище с път без предимство?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8559,
+    "text" : null,
+    "pictureSha1" : "9e4fa3c95c0cef0a06ad3cd166d1a32579d291a0",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8560,
+    "text" : null,
+    "pictureSha1" : "d7c61e33892808978fcca0145829ad97c63ac765",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8557,
+    "text" : null,
+    "pictureSha1" : "9a8d35963912d657fe5ef90ae58836a102f240f7",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8558,
+    "text" : null,
+    "pictureSha1" : "afe2763e7fd112824d76616b837b88d5a2bf560d",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2637,
+  "number" : 25,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци предупреждава за приближаване към кръстовище на равнозначни пътища?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8562,
+    "text" : null,
+    "pictureSha1" : "41f1109d4fdf5347a8cd96be39c9defe45bafc0c",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8561,
+    "text" : null,
+    "pictureSha1" : "86527863dc38d387c745709a4703215e422970f2",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8564,
+    "text" : null,
+    "pictureSha1" : "d7c61e33892808978fcca0145829ad97c63ac765",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8563,
+    "text" : null,
+    "pictureSha1" : "bcf55c805f68e30adcb32afa656222e4531c00fd",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2638,
+  "number" : 26,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци предупреждава за приближаване към кръстовище с кръгово движение?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8568,
+    "text" : null,
+    "pictureSha1" : "6e32b13a58283879fddfaff79a05c46657729405",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8565,
+    "text" : null,
+    "pictureSha1" : "7e7064f15fc941cdd041b626fd5c7159d97287af",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8567,
+    "text" : null,
+    "pictureSha1" : "6586f0992a5ce65638200ad01bb2075f76d42a2a",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8566,
+    "text" : null,
+    "pictureSha1" : "faac8e9d40a0084b989c0dc937b19d39a31d4932",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2639,
+  "number" : 27,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци предупреждава за приближаване към кръстовище?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8571,
+    "text" : null,
+    "pictureSha1" : "cfbceace29bbb6ba7453ab8d25269e0e4746e48e",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8570,
+    "text" : null,
+    "pictureSha1" : "d7c61e33892808978fcca0145829ad97c63ac765",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8569,
+    "text" : null,
+    "pictureSha1" : "6586f0992a5ce65638200ad01bb2075f76d42a2a",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8572,
+    "text" : null,
+    "pictureSha1" : "c5d24d742e23e70c3284113baee6efa539340a13",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2643,
+  "number" : 27,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци предупреждава за приближаване към кръстовище?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8586,
+    "text" : null,
+    "pictureSha1" : "16966e0aa5d9e5fd0b5fb4aa2db77f14f86875ad",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8587,
+    "text" : null,
+    "pictureSha1" : "faac8e9d40a0084b989c0dc937b19d39a31d4932",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8588,
+    "text" : null,
+    "pictureSha1" : "bcf55c805f68e30adcb32afa656222e4531c00fd",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8585,
+    "text" : null,
+    "pictureSha1" : "9e4fa3c95c0cef0a06ad3cd166d1a32579d291a0",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2647,
+  "number" : 27,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци предупреждава за приближаване към кръстовище?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8603,
+    "text" : null,
+    "pictureSha1" : "cfbceace29bbb6ba7453ab8d25269e0e4746e48e",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8602,
+    "text" : null,
+    "pictureSha1" : "e10c222fd717392341b41b8041ef6cd0816a84a2",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8604,
+    "text" : null,
+    "pictureSha1" : "10643a449c6626959d9c9d7cc39f87d5e6d6efe8",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8601,
+    "text" : null,
+    "pictureSha1" : "afe2763e7fd112824d76616b837b88d5a2bf560d",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2653,
+  "number" : 27,
+  "subNumber" : 4,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци предупреждава за приближаване към кръстовище?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8624,
+    "text" : null,
+    "pictureSha1" : "cfbceace29bbb6ba7453ab8d25269e0e4746e48e",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8626,
+    "text" : null,
+    "pictureSha1" : "6586f0992a5ce65638200ad01bb2075f76d42a2a",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8623,
+    "text" : null,
+    "pictureSha1" : "9e4fa3c95c0cef0a06ad3cd166d1a32579d291a0",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8625,
+    "text" : null,
+    "pictureSha1" : "bcf55c805f68e30adcb32afa656222e4531c00fd",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2709,
+  "number" : 23,
+  "subNumber" : 1,
+  "pictureSha1" : "3a9a1df0dcfd3a7d2bda225c1a00a1dbd95753f0",
+  "text" : "Този пътен знак:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8831,
+    "text" : "сигнализира за край на пътя с предимство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8833,
+    "text" : "сигнализира за начало на пътя с предимство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8832,
+    "text" : "предупреждава за кръстовище с път без предимство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8834,
+    "text" : "указва, че на следващото кръстовище задължително трябва да се премине направо",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2656,
+  "number" : 33,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци предупреждава за приближаване към пешеходната пътека?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8637,
+    "text" : null,
+    "pictureSha1" : "c5d24d742e23e70c3284113baee6efa539340a13",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8635,
+    "text" : null,
+    "pictureSha1" : "ee13dba068b70f0dc60e190c2b6616de6e8ee02b",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8638,
+    "text" : null,
+    "pictureSha1" : "16d2a379ddf3f6a9861ac8c934f243bffbf1674c",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8636,
+    "text" : null,
+    "pictureSha1" : "db4a9a72bd09fe72a20ff132798ba200cb50b1c2",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2657,
+  "number" : 33,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци предупреждава за приближаване към място, където през платното за движение преминават пешеходци?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8641,
+    "text" : null,
+    "pictureSha1" : "eaaf880b4c857ed1a257463e841a3ed2c7614df1",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8640,
+    "text" : null,
+    "pictureSha1" : "ee13dba068b70f0dc60e190c2b6616de6e8ee02b",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8639,
+    "text" : null,
+    "pictureSha1" : "d305be91883e5dfc7e6a5e4efa5260f4399cadfb",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8642,
+    "text" : null,
+    "pictureSha1" : "68b6e2190e7b1bafe22decdad1d8a9d2572a74c3",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2658,
+  "number" : 34,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци обозначава точното място на пешеходната пътека?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8646,
+    "text" : null,
+    "pictureSha1" : "16d2a379ddf3f6a9861ac8c934f243bffbf1674c",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8644,
+    "text" : null,
+    "pictureSha1" : "eaaf880b4c857ed1a257463e841a3ed2c7614df1",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8643,
+    "text" : null,
+    "pictureSha1" : "55dfd2ff4dc9630c015ec886ac5be13cd45eba9e",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8645,
+    "text" : null,
+    "pictureSha1" : "ee13dba068b70f0dc60e190c2b6616de6e8ee02b",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2710,
+  "number" : 23,
+  "subNumber" : 2,
+  "pictureSha1" : "cfbceace29bbb6ba7453ab8d25269e0e4746e48e",
+  "text" : "Този пътен знак:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8837,
+    "text" : "предупреждава за кръстовище с път отдясно, който е без предимство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8838,
+    "text" : "сигнализира за уширение на платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8835,
+    "text" : "указва посоки за преминаване на следващото кръстовище",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8836,
+    "text" : "сигнализира място за спиране край пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2711,
+  "number" : 23,
+  "subNumber" : 3,
+  "pictureSha1" : "1cd017f1c3a5bffa6606d3098eb4c263422b033a",
+  "text" : "Този пътен знак:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8840,
+    "text" : "предупреждава за кръстовище с път отляво, който е без предимство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8839,
+    "text" : "сигнализира място за спиране край пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8841,
+    "text" : "указва задължителна посока за преминаване през следващото кръстовище",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8842,
+    "text" : "сигнализира за пресичане на равнозначни пътища",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2712,
+  "number" : 25,
+  "subNumber" : 1,
+  "pictureSha1" : "bcf55c805f68e30adcb32afa656222e4531c00fd",
+  "text" : "Този пътен знак:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8845,
+    "text" : "сигнализира участък от пътя, по който са забранени престоят и паркирането",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8843,
+    "text" : "указва началото на участък от пътя, в който е забранено навлизането",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8846,
+    "text" : "предупреждава за кръстовище, на което се пресичат равнозначни пътища",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8844,
+    "text" : "сигнализира за край на пътя с предимство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2715,
+  "number" : 29,
+  "subNumber" : 1,
+  "pictureSha1" : "896b2e0ad6ea97c6d37b82325a0400246202e028",
+  "text" : "На кръстовище, на пешеходците е разрешено да преминават през платното за движение по продължението на тротоара:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8858,
+    "text" : "само когато това е указано с пътен знак",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8857,
+    "text" : "когато продължението е очертано с пътна маркировка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8856,
+    "text" : "само когато продължението е очертано с пътна маркировка тип “Зебра”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8855,
+    "text" : "когато продължението не е очертано с пътна маркировка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2713,
+  "number" : 28,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На пътя пешеходни пътеки са:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8847,
+    "text" : "сигнализираните с пътен знак места за преминаване на пешеходците",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8850,
+    "text" : "продълженията на тротоарите и пътните банкети върху платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8849,
+    "text" : "очертаните с пътна маркировка места за преминаване на пешеходците през платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8848,
+    "text" : "само местата обозначени с пътна маркировка тип „Зебра”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2716,
+  "number" : 30,
+  "subNumber" : 1,
+  "pictureSha1" : "87e6832ee4a3523b6a87ba9b9ef6edf1ee5b6621",
+  "text" : "При тази ситуация пешеходецът пресича платното за движение по пешеходна пътека.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8859,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8860,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2733,
+  "number" : 26,
+  "subNumber" : 1,
+  "pictureSha1" : "6586f0992a5ce65638200ad01bb2075f76d42a2a",
+  "text" : "Този пътен знак предупреждава за:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8911,
+    "text" : "кръстовище с кръгово движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8910,
+    "text" : "място, на което задължително се завива в обратна посока",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8909,
+    "text" : "остров на платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8912,
+    "text" : "участък от пътя, по който е забранено да се завива в обратна посока",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2721,
+  "number" : 31,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато в близост няма пешеходна пътека, на пешеходците е разрешено да пресичат платното за движение извън определените за това места:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8875,
+    "text" : "на пътните възли на автомагистралите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8873,
+    "text" : "по пътища извън населените места",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8872,
+    "text" : "по всички пътища отворени за обществено ползване",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8874,
+    "text" : "по двулентовите двупосочни пътища в населените места",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2734,
+  "number" : 32,
+  "subNumber" : 1,
+  "pictureSha1" : "ee13dba068b70f0dc60e190c2b6616de6e8ee02b",
+  "text" : "Този пътен знак:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8916,
+    "text" : "указва началото на път само пешеходци",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8913,
+    "text" : "предупреждава водачите за приближаване към пешеходна пътека",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8915,
+    "text" : "обозначава точното място на пешеходна пътека",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8914,
+    "text" : "предупреждава за кръстовище с интензивно преминаване на пешеходци",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2735,
+  "number" : 34,
+  "subNumber" : 1,
+  "pictureSha1" : "55dfd2ff4dc9630c015ec886ac5be13cd45eba9e",
+  "text" : "Този пътен знак:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8920,
+    "text" : "предупреждава водачите, че приближават пешеходна пътека",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8919,
+    "text" : "указва начало на пешеходен маршрут",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8917,
+    "text" : "сигнализира началото на задължителен път само за пешеходци",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8918,
+    "text" : "обозначава точното място на пешеходна пътека",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+} ]

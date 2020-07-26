@@ -1,0 +1,971 @@
+[ {
+  "id" : 2871,
+  "number" : 55,
+  "subNumber" : 1,
+  "pictureSha1" : "f5e7fe0a743c3e9097edd78a58771b30ecdefe80",
+  "text" : "Този пътен знак:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9420,
+    "text" : "задължава водачите да се движат само направо след знака",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9419,
+    "text" : "указва посоката на пътя с предимство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9421,
+    "text" : "препоръчва на водачите да се движат направо след знака",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9422,
+    "text" : "сигнализира за еднопосочно движение след знака",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2870,
+  "number" : 54,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци указва задължителна посока за движение на превозните средства?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9417,
+    "text" : null,
+    "pictureSha1" : "35babe3afea34b545a93ccb33ac73cbf8c2c8756",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9416,
+    "text" : null,
+    "pictureSha1" : "7d535abc8bd89eed42ad3bf943e405db70fb95a2",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9415,
+    "text" : null,
+    "pictureSha1" : "125f2a75833dfcd4bdb958427f96714c8b94a10d",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9418,
+    "text" : null,
+    "pictureSha1" : "58a6b1666ab03f573a222ad038654d1fe71cb949",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2873,
+  "number" : 56,
+  "subNumber" : 1,
+  "pictureSha1" : "3c014fa65eaa7a30bbfd461a5f087dfcafec4c46",
+  "text" : "Този пътен знак:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9429,
+    "text" : "препоръчва на водачите да завиват надясно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9427,
+    "text" : "предупреждава, че пътят завива надясно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9428,
+    "text" : "задължава водачите да завиват само надясно след знака",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9430,
+    "text" : "указва посоката на предимството в кръстовището",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2872,
+  "number" : 55,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кой пътен знак ви задължава да се движите само направо след него?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9425,
+    "text" : null,
+    "pictureSha1" : "8bfd794f1da0ef7432af568e35151140698aa17b",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9424,
+    "text" : null,
+    "pictureSha1" : "2a68e8d3b8b3288c034d95464e28e521f6c489e1",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9423,
+    "text" : null,
+    "pictureSha1" : "e36b6c1cffbc22264d35e31fb69186f61b08b0bd",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9426,
+    "text" : null,
+    "pictureSha1" : "e4b0c5622547fa1348d58bee456a59fe0ad0541c",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2876,
+  "number" : 58,
+  "subNumber" : 1,
+  "pictureSha1" : "af1915222f30cedca1f16a5ed6cf4f51e0fbec6d",
+  "text" : "Този пътен знак задължава водачите да продължат движението наляво:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9437,
+    "text" : "пред знака",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9438,
+    "text" : "след знака",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2874,
+  "number" : 56,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "На кой от пътните знаци значението е “Движение само надясно след знака”?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9433,
+    "text" : null,
+    "pictureSha1" : "ddc38ff87804e0ce6fef8d5d31f819a30b3aa50b",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9432,
+    "text" : null,
+    "pictureSha1" : "a8e2cfaaaf21c7d381f8fcd59cbd2112e8049af9",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9431,
+    "text" : null,
+    "pictureSha1" : "826ff4c05ac2f9c81e6e056cc00270329429c16d",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2875,
+  "number" : 57,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На кой от пътните знаци значението е “Движение само надясно пред знака”?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9436,
+    "text" : null,
+    "pictureSha1" : "6ac69cce103aa1fe425b9e90b931a5dcec8e6ca4",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9434,
+    "text" : null,
+    "pictureSha1" : "826ff4c05ac2f9c81e6e056cc00270329429c16d",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9435,
+    "text" : null,
+    "pictureSha1" : "d63755c24f7a2451969ecdad25fb7e041529a80a",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2877,
+  "number" : 58,
+  "subNumber" : 2,
+  "pictureSha1" : "1245abc7502b4023b7a9445297270ef5e2ee90d6",
+  "text" : "Този пътен знак:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9440,
+    "text" : "задължава водачите да преминат отляво на знака",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9441,
+    "text" : "задължава водачите да се движат само наляво пред знака",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9439,
+    "text" : "задължава водачите да се движат само наляво след знака",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2878,
+  "number" : 58,
+  "subNumber" : 3,
+  "pictureSha1" : "6ac69cce103aa1fe425b9e90b931a5dcec8e6ca4",
+  "text" : "При този пътен знак водачът трябва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9444,
+    "text" : "да продължи движението си надясно след знака",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9443,
+    "text" : "да спре вдясно от знака",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9445,
+    "text" : "да завие надясно след знака",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9442,
+    "text" : "да премине отдясно на знака",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2881,
+  "number" : 60,
+  "subNumber" : 1,
+  "pictureSha1" : "9aa44a7a9d110e918fee8121fbc96cc35af3ef78",
+  "text" : "Значението на този пътен знак е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9453,
+    "text" : "„Пешеходна алея”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9452,
+    "text" : "„Задължителен път само за пешеходци”",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9454,
+    "text" : "„Пешеходна пътека”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9455,
+    "text" : "„Забранено е движението на пешеходци”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2879,
+  "number" : 59,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На кой от пътните знаци значението е “Преминаване отдясно на знака”?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9448,
+    "text" : null,
+    "pictureSha1" : "826ff4c05ac2f9c81e6e056cc00270329429c16d",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9447,
+    "text" : null,
+    "pictureSha1" : "d63755c24f7a2451969ecdad25fb7e041529a80a",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9446,
+    "text" : null,
+    "pictureSha1" : "6ac69cce103aa1fe425b9e90b931a5dcec8e6ca4",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2880,
+  "number" : 59,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "На кой от пътните знаци значението е “Преминаване отляво на знака”?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9451,
+    "text" : null,
+    "pictureSha1" : "c2bee6fb19a7daf377ae56186bc6581394f1eb8f",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9449,
+    "text" : null,
+    "pictureSha1" : "243bb96d1acc0c05c1bab5f7b432439222a8c8ff",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9450,
+    "text" : null,
+    "pictureSha1" : "1245abc7502b4023b7a9445297270ef5e2ee90d6",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2882,
+  "number" : 61,
+  "subNumber" : 1,
+  "pictureSha1" : "4b79813ef236e14fe7c0203cb96b3b3e0ffa9b20",
+  "text" : "Задължителното предписание на този пътен знак се отнася за водачите на:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9458,
+    "text" : "ППС, обозначени с опознавателен знак  за опасен товар",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9459,
+    "text" : "бавнодвижещи се ППС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9456,
+    "text" : "специални автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9457,
+    "text" : "извънгабаритни ППС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2883,
+  "number" : 62,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци сигнализира за допълнителна пътна лента за бавнодвижещи се ППС?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9463,
+    "text" : null,
+    "pictureSha1" : "dbad55fe02330f736e6b5aaa8ce3b52a1af5744f",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9461,
+    "text" : null,
+    "pictureSha1" : "ea301788df5782d58cb75e9ad74bd3d802c619d8",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9462,
+    "text" : null,
+    "pictureSha1" : "6253793455c09ab9478862fd795e8cb328ce9e00",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9460,
+    "text" : null,
+    "pictureSha1" : "14142fceb2f8a8ee9b1b57d12c4ff4ade9c920b4",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2886,
+  "number" : 65,
+  "subNumber" : 1,
+  "pictureSha1" : "655035c69e49ceb2196cc60843537e3ade7c485b",
+  "text" : "Значението на този пътен знак е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9474,
+    "text" : "еднопосочно движение след знака",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9473,
+    "text" : "задължителна посока за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9475,
+    "text" : "забранено е завиването наляво и надясно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9472,
+    "text" : "движение само направо след знака",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2884,
+  "number" : 63,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци означава път с еднопосочно движение след знака?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9464,
+    "text" : null,
+    "pictureSha1" : "f5e7fe0a743c3e9097edd78a58771b30ecdefe80",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9467,
+    "text" : null,
+    "pictureSha1" : "655035c69e49ceb2196cc60843537e3ade7c485b",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9465,
+    "text" : null,
+    "pictureSha1" : "dbad55fe02330f736e6b5aaa8ce3b52a1af5744f",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9466,
+    "text" : null,
+    "pictureSha1" : "70290ee7e3741e321e33114da2dd4f6b85155ef7",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2885,
+  "number" : 64,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "След кой пътен знак действат правилата за движение в тунел?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9469,
+    "text" : null,
+    "pictureSha1" : "0992a51a9f67a082e0aafbe99380f2830986335d",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9468,
+    "text" : null,
+    "pictureSha1" : "d305be91883e5dfc7e6a5e4efa5260f4399cadfb",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9470,
+    "text" : null,
+    "pictureSha1" : "034ffc3dbea441869a9b0c886ba22f6489aeebc3",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9471,
+    "text" : null,
+    "pictureSha1" : "980779c2994ad595a4cc941d9fa59da6105bf430",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2887,
+  "number" : 66,
+  "subNumber" : 1,
+  "pictureSha1" : "bbe3f44972036ba1fb5c9be666b82793adf432f1",
+  "text" : "Този пътен знак:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9477,
+    "text" : "указва, че пътят е с еднопосочно движение след знака",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9479,
+    "text" : "указва броя на лентите за движение по пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9476,
+    "text" : "е указател за предварително престрояване",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9478,
+    "text" : "указва началото на пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2888,
+  "number" : 67,
+  "subNumber" : 1,
+  "pictureSha1" : "d16ba7b92bb41aed70559838fa047743eb1e7fb8",
+  "text" : "След този пътен знак водачът:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9482,
+    "text" : "може да паркира от двете страни на пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9480,
+    "text" : "не трябва да се движи със скорост по-висока от 40 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9481,
+    "text" : "трябва да вземе мерки за ограничаване на шума",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2889,
+  "number" : 67,
+  "subNumber" : 2,
+  "pictureSha1" : "d16ba7b92bb41aed70559838fa047743eb1e7fb8",
+  "text" : "Този пътен знак:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9484,
+    "text" : "сигнализира близост до болница",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9485,
+    "text" : "указва, че водачът трябва да вземе мерки за ограничаване на шума",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9483,
+    "text" : "указва, че може да се паркира от двете страни на пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9486,
+    "text" : "ограничава скоростта на движение до 40 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2892,
+  "number" : 68,
+  "subNumber" : 1,
+  "pictureSha1" : "ea301788df5782d58cb75e9ad74bd3d802c619d8",
+  "text" : "Този пътен знак сигнализира за:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9496,
+    "text" : "еднопосочно движение след знака",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9495,
+    "text" : "ограничение на скоростта до 30 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9494,
+    "text" : "допълнителна пътна лента за бавнодвижещи се ППС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9497,
+    "text" : "задължително заобикаляне отдясно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2890,
+  "number" : 67,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци указва, че преминавате покрай болница?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9490,
+    "text" : null,
+    "pictureSha1" : "d16ba7b92bb41aed70559838fa047743eb1e7fb8",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9489,
+    "text" : null,
+    "pictureSha1" : "5f488c94e9d5d42690343e18271e0a69efcf86a2",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9487,
+    "text" : null,
+    "pictureSha1" : "919341ff1661febb77c16cc99ca60a48e4e85e8a",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9488,
+    "text" : null,
+    "pictureSha1" : "cef8ef9627d514dc8cb63760f364c2b0ff51be4f",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2893,
+  "number" : 69,
+  "subNumber" : 1,
+  "pictureSha1" : "45271741d670257cb0bcbe58350a4c6608d6dd1d",
+  "text" : "Този пътен знак сигнализира:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9500,
+    "text" : "пътна лента със съоръжение за аварийно спиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9501,
+    "text" : "място за неограничено паркиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9499,
+    "text" : "спирка на превозни средства за обществен превоз на пътници",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9498,
+    "text" : "уширение на пътното платно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2894,
+  "number" : 70,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци сигнализира за болница със звено за спешна медицинска помощ?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9505,
+    "text" : null,
+    "pictureSha1" : "d16ba7b92bb41aed70559838fa047743eb1e7fb8",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9502,
+    "text" : null,
+    "pictureSha1" : "a60794eb494cb296215e5e73115783bcf480e11f",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9503,
+    "text" : null,
+    "pictureSha1" : "15445de53dc23349d74db0e587fe33c1f74336bd",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9504,
+    "text" : null,
+    "pictureSha1" : "d81821c741e6ab4d4db8fea2f1380f255ef574ca",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2895,
+  "number" : 71,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци указва, че пътят е без изход?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9507,
+    "text" : null,
+    "pictureSha1" : "3dc45bd49ed2b5580b3187d7f65be268c98da441",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9509,
+    "text" : null,
+    "pictureSha1" : "4b15a1bf697c91a2bec83840ae98694926595c51",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9508,
+    "text" : null,
+    "pictureSha1" : "96d211ca09fcca50d16d53a5a80a2cc34d3a1d3c",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9506,
+    "text" : null,
+    "pictureSha1" : "b26ccc9d0f42036c1e2ee63012aa11e7e36b1ae5",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2896,
+  "number" : 72,
+  "subNumber" : 1,
+  "pictureSha1" : "14142fceb2f8a8ee9b1b57d12c4ff4ade9c920b4",
+  "text" : "За какво сигнализира този пътен знак?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9510,
+    "text" : "начало на пътна лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9513,
+    "text" : "пътна лента за принудително спиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9511,
+    "text" : "пътна лента за завиване надясно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9512,
+    "text" : "допълнителна пътна лента за бавнодвижещи се ППС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2897,
+  "number" : 72,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци сигнализира за начало на пътна лента?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9515,
+    "text" : null,
+    "pictureSha1" : "ea301788df5782d58cb75e9ad74bd3d802c619d8",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9517,
+    "text" : null,
+    "pictureSha1" : "bbe3f44972036ba1fb5c9be666b82793adf432f1",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9514,
+    "text" : null,
+    "pictureSha1" : "14142fceb2f8a8ee9b1b57d12c4ff4ade9c920b4",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9516,
+    "text" : null,
+    "pictureSha1" : "4d1300ae75b9a53d59eaca10397b1066722cd7e9",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2899,
+  "number" : 74,
+  "subNumber" : 1,
+  "pictureSha1" : "9e0b79ad8c72edd416828d6b1e7f4cba36deb0fa",
+  "text" : "Този пътен знак сигнализира:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9523,
+    "text" : "пътна лента в ремонт",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9524,
+    "text" : "край на пътна лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9522,
+    "text" : "изход от крайпътен обект",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9525,
+    "text" : "средна лента за изпреварване в указаната посока",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2898,
+  "number" : 73,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На кой от пътните знаци значението е “Преминаване в платното за насрещно движение”?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9520,
+    "text" : null,
+    "pictureSha1" : "26b8f6c6d7deaf765e540870132199ba1c75f1aa",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9518,
+    "text" : null,
+    "pictureSha1" : "bbe3f44972036ba1fb5c9be666b82793adf432f1",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9521,
+    "text" : null,
+    "pictureSha1" : "a00ac4643b751a285a4bcb714187be76f609f1b3",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9519,
+    "text" : null,
+    "pictureSha1" : "f18436983267841857684fc1ea29f37c102874ea",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2900,
+  "number" : 75,
+  "subNumber" : 1,
+  "pictureSha1" : "f2fe77b06b7272bdd8d91af298e950b04d49b9cc",
+  "text" : "Този пътен знак сигнализира:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9528,
+    "text" : "място за паркиране извън пътното платно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9527,
+    "text" : "пътна лента за бавнодвижещи се ППС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9529,
+    "text" : "край на пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9526,
+    "text" : "пътна лента със съоръжение за аварийно спиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2901,
+  "number" : 76,
+  "subNumber" : 1,
+  "pictureSha1" : "4c87cb9c00bc44ae14a4570c7542fcf86bd335d7",
+  "text" : "Този пътен знак указва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9530,
+    "text" : "задължителна посока за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9532,
+    "text" : "кръстовище с кръгово движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9531,
+    "text" : "място за завиване в обратна посока",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9533,
+    "text" : "начин за заобикаляне на препятствие",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4018,
+  "number" : 69,
+  "subNumber" : 2,
+  "pictureSha1" : "51ca86aea741c7b7a8d4242f96ef21f350eb8022",
+  "text" : "Този пътен знак информира за място или участък на пътя, на които се осъществява контрол по спазване на правилата за движение:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 13187,
+    "text" : "чрез стационарни или нестационарни автоматизирани технически средства или системи",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 13185,
+    "text" : "само чрез стационарни автоматизирани технически средства или системи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 13186,
+    "text" : "само чрез нестационарни автоматизирани технически средства или системи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

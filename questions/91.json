@@ -1,0 +1,593 @@
+[ {
+  "id" : 2758,
+  "number" : 11,
+  "subNumber" : 1,
+  "pictureSha1" : "f5bebfdccc109092f1da21b357d2387ffb6dd0c0",
+  "text" : "Значението на този немигащ сигнал на светофара е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9011,
+    "text" : "„Внимание!”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9010,
+    "text" : "„Внимание, спри!”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9012,
+    "text" : "„Преминаването е забранено”",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9009,
+    "text" : "„Преминаването е разрешено”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2759,
+  "number" : 12,
+  "subNumber" : 1,
+  "pictureSha1" : "1b128b53ab31dc1a235ce5bb3e555340e53c4c51",
+  "text" : "Значението на този сигнал на светофара е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9014,
+    "text" : "„Забранено е преминаването, освен на ППС, преминаващи направо или завиващи надясно”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9013,
+    "text" : "„Забранено е навлизането в кръстовището за всички участници в движението”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9015,
+    "text" : "„Забранено е преминаването направо или завиването надясно”",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2760,
+  "number" : 12,
+  "subNumber" : 2,
+  "pictureSha1" : "e7b9388865b3b56eaee0eaf206e5c22d76d22255",
+  "text" : "Този сигнал на светофара означава, че навлизането в кръстовището е забранено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9016,
+    "text" : "за ППС завиващи надясно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9018,
+    "text" : "за ППС преминаващи направо",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9017,
+    "text" : "за ППС завиващи наляво",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2761,
+  "number" : 13,
+  "subNumber" : 1,
+  "pictureSha1" : "be9cc5e3dc35b244ec8f2a5bea4aba328d57a3d1",
+  "text" : "Значението на този сигнал на светофара е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9021,
+    "text" : "„Преминаването е разрешено”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9022,
+    "text" : "„Преминаването е забранено”",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9019,
+    "text" : "„Внимание, спри!”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9020,
+    "text" : "„Внимание!”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2762,
+  "number" : 15,
+  "subNumber" : 1,
+  "pictureSha1" : "c77a100af409e06c0c3c32c44c8d271dbbba80bf",
+  "text" : "Значението на този сигнал на светофара е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9023,
+    "text" : "„Разрешено е преминаването направо и надясно”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9025,
+    "text" : "„Преминаването е разрешено”",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9024,
+    "text" : "„Разрешено е преминаването във всички посоки”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2763,
+  "number" : 16,
+  "subNumber" : 1,
+  "pictureSha1" : "4580930dba961fdd8b6b560464b0cb6e4307d9de",
+  "text" : "Значението на този немигащ сигнал на светофара е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9026,
+    "text" : "„Преминаването е разрешено”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9027,
+    "text" : "„Преминаването е разрешено”, но водачите са длъжни да бъдат внимателни и предпазливи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9028,
+    "text" : "„Внимание, спри!”",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2765,
+  "number" : 17,
+  "subNumber" : 1,
+  "pictureSha1" : "aae44950d578ae000cfe50af9ab9beebc44161be",
+  "text" : "Този сигнал на светофара означава, че е забранено навлизането в кръстовището на ППС, които:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9035,
+    "text" : "преминават направо",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9033,
+    "text" : "завиват надясно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9034,
+    "text" : "завиват наляво",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2764,
+  "number" : 16,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Значенето на кой от показаните немигащи сигнали на светофара е “Внимание спри!”?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9032,
+    "text" : null,
+    "pictureSha1" : "5677cb15c7725cfad7bc886b30dffdb1d264756c",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9030,
+    "text" : null,
+    "pictureSha1" : "1eed0f43d4c3dbf08e30a54c3c09b5b5e4003ee2",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9029,
+    "text" : null,
+    "pictureSha1" : "8335cee8da060b0f675b8655c6ed541f6977eba9",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9031,
+    "text" : null,
+    "pictureSha1" : "867d0a1d28234c83936a9f6ecbfe9a0a19d745d5",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2766,
+  "number" : 18,
+  "subNumber" : 1,
+  "pictureSha1" : "496eb216117e6584ae9cc8bbd55163a9341e6642",
+  "text" : "Жълтата мигаща светлина:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9039,
+    "text" : "указва, че движението се регулира от регулировчик",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9036,
+    "text" : "означава, че преминаването без спиране е забранено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9037,
+    "text" : "означава „Внимание”",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9038,
+    "text" : "предупреждава водачите да бъдат внимателни и предпазливи",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2767,
+  "number" : 18,
+  "subNumber" : 2,
+  "pictureSha1" : "496eb216117e6584ae9cc8bbd55163a9341e6642",
+  "text" : "Значението на жълтата мигаща светлина на светофара е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9042,
+    "text" : "„Внимание, спри!”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9041,
+    "text" : "„Преминаването без спиране е забранено”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9043,
+    "text" : "„Внимание”",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9040,
+    "text" : "„Преминаването е забранено”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2768,
+  "number" : 19,
+  "subNumber" : 1,
+  "pictureSha1" : "4a57035e6547ede7e75f184520127939842de0fd",
+  "text" : "Мигащата червена светлина или две последователно мигащи една след друга червени светлини означават, че преминаването е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9045,
+    "text" : "разрешено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9044,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2769,
+  "number" : 19,
+  "subNumber" : 2,
+  "pictureSha1" : "4a57035e6547ede7e75f184520127939842de0fd",
+  "text" : "Мигащата червена светлина или две последователно мигащи една след друга червени светлини означават:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9048,
+    "text" : "че преминаването е забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9049,
+    "text" : "„Внимание!”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9046,
+    "text" : "че това е сигнал само за водачите на релсови превозни средства",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9047,
+    "text" : "че преминаването е разрешено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2770,
+  "number" : 20,
+  "subNumber" : 1,
+  "pictureSha1" : "c46f7b367f1fc0fd589ec22d8e0e18cb55b02f8d",
+  "text" : "При тази ситуация сигналът от бавно мигаща светлина с луннобял цвят указва на участниците в движението, че:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9050,
+    "text" : "бариерите ще започнат да се спускат",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9053,
+    "text" : "светофарната уредба е в изправност",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9051,
+    "text" : "е забранено преминаването през прелеза",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9052,
+    "text" : "че към прелеза се приближава влак",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2771,
+  "number" : 21,
+  "subNumber" : 1,
+  "pictureSha1" : "c9bd579a293d3e9e7ab4ea08e880d0ebda326886",
+  "text" : "Значението на този светлинен сигнал е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9054,
+    "text" : "„Място за задължително спиране” в пътната лента, над която е поставен",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9056,
+    "text" : "„Навлизането е разрешено” по пътната лента, над която е поставен",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9055,
+    "text" : "„Навлизането е забранено” по пътната лента, над която е поставен",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9057,
+    "text" : "„Задължителна посока за движение”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2772,
+  "number" : 21,
+  "subNumber" : 2,
+  "pictureSha1" : "687df8bb249f4bd3ca479cdeb41e672cd220a06c",
+  "text" : "Този светлинен сигнал:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9059,
+    "text" : "сигнализира, че навлизането по пътната лента, над която е поставен, е разрешено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9058,
+    "text" : "указва място за задължително спиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9060,
+    "text" : "указва задължителна посока за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9061,
+    "text" : "забранява навлизането в другите пътни ленти",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2773,
+  "number" : 22,
+  "subNumber" : 1,
+  "pictureSha1" : "63a50ef4ab8daed49ddc05b7c14f583181779dc0",
+  "text" : "Значението на този светлинен сигнал е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9065,
+    "text" : "„Навлизането е разрешено” по пътната лента, над която е поставен",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9062,
+    "text" : "„Място за задължително спиране”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9063,
+    "text" : "„Навлизането е забранено” по пътната лента, над която е поставен",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9064,
+    "text" : "„Следва кръстовище на равнозначни пътища”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2774,
+  "number" : 22,
+  "subNumber" : 2,
+  "pictureSha1" : "63a50ef4ab8daed49ddc05b7c14f583181779dc0",
+  "text" : "Този светлинен сигнал:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9069,
+    "text" : "указва, че е забранено движението в най-лявата пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9067,
+    "text" : "забранява движението по пътното платно над което е поставен",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9068,
+    "text" : "указва място за задължително спиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9066,
+    "text" : "сигнализира, че навлизането по пътната лента, над която е поставен, е забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2775,
+  "number" : 23,
+  "subNumber" : 1,
+  "pictureSha1" : "5ae06c7152f388524034ac931fe97236acd8c30b",
+  "text" : "Когато и двете секции на този светофар не работят и няма пътен знак за броя и посоките на движение по пътните ленти, това означава, че:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9070,
+    "text" : "навлизането по пътната лента, над която е поставен светофарът, е забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9071,
+    "text" : "навлизането по пътната лента, над която е поставен светофарът, е разрешено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9072,
+    "text" : "водачът трябва да спре на линията, на която е поставен светофарът",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2981,
+  "number" : 14,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Значението на кой от показаните немигащи сигнали на светофара \nе “Преминаването е забранено”?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9783,
+    "text" : null,
+    "pictureSha1" : "0a36f12f61d09636762e56a7ce2bd98bb186a792",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9784,
+    "text" : null,
+    "pictureSha1" : "c8e89a4706a02dd13020a46e28ff8d75663079ba",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9785,
+    "text" : null,
+    "pictureSha1" : "cc7eec5e5e21811cb5cff8d538e036844471fa18",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9782,
+    "text" : null,
+    "pictureSha1" : "cd2abdadb2b1473380d694d3e432cc25c59a9ef4",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2982,
+  "number" : 15,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Значението на кой от показаните немигащи сигнали на светофара \nе “Преминаването е разрешено”?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9788,
+    "text" : null,
+    "pictureSha1" : "8de35380bd3050ce7f4062db8075f90bcedd94c2",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9786,
+    "text" : null,
+    "pictureSha1" : "3ef60df2a079989b24f4bbb0ed43dbaffb66e800",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9787,
+    "text" : null,
+    "pictureSha1" : "2bce19beef85e2c7451a4df05b95ee70743f55bb",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9789,
+    "text" : null,
+    "pictureSha1" : "0b189f5f905e35ce6cc442ac07c284c5d8596f23",
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

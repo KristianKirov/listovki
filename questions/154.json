@@ -1,0 +1,129 @@
+[ {
+  "id" : 3875,
+  "number" : 7,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато в ПТП участва превозно средство обозначено с опознавателен знак за опасен товар трябва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12708,
+    "text" : "да покрием товара с подходящо покривало",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12705,
+    "text" : "да отстраним опасния товар от пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12706,
+    "text" : "да стоим на безопасно разстояние, освен ако се налага да спасим нечий живот",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12707,
+    "text" : "да преместим това превозно средство извън платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3876,
+  "number" : 7,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кои от изброените действия трябва да предприеме водачът при ПТП с превозно средство обозначено с опознавателен знак за опасен товар:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12711,
+    "text" : "да премести това превозно средство извън платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12709,
+    "text" : "да отстрани опасния товар от пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12710,
+    "text" : "да се отнася внимателно с изсипания на пътя товар независимо от неговото количество",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12712,
+    "text" : "да стои на безопасно разстояние от превозното средство освен ако се налага да спаси нечий живот",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4723,
+  "number" : 8,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Водач, който пристигне на място, където е станало пътнотранспортно произшествие и има пострадали хора е задължен:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 15381,
+    "text" : "да окаже помощ на пострадалите, ако това не представлява опасност за него",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15383,
+    "text" : "да вземе мерки за запазване на следите от произшествието",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15382,
+    "text" : "да уведоми органите на МВР или администрацията на общината, на чиято територия е станало",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15380,
+    "text" : "да вземе мерки за осигуряване безопасността на движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4724,
+  "number" : 8,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кои от изброените действия трябва да се предприемат при пристигане на мястото на ПТП, ако при произшествието има пострадали хора?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 15386,
+    "text" : "да уведоми органите на МВР или администрацията на общината, на чиято територия е станало",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15384,
+    "text" : "да се осигури безопасността на участниците в движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15385,
+    "text" : "да се окаже помощ на пострадалите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15387,
+    "text" : "да запише данните на участниците в произшествието",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

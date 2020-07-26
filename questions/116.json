@@ -1,0 +1,289 @@
+[ {
+  "id" : 3511,
+  "number" : 1,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На водачите на мотопеди е забранено да се движат:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11464,
+    "text" : "по пътния банкет",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11465,
+    "text" : "в непосредствена близост до друго ППС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11462,
+    "text" : "като се държат за друго превозно средство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11463,
+    "text" : "с включени светлини през деня",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3512,
+  "number" : 2,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е водачите на двуколесни МПС да се движат успоредно един до друг?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11466,
+    "text" : "да, но само в населени места",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11467,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11469,
+    "text" : "да, но само най-вдясно на платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11468,
+    "text" : "да, когато се вместват в една пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3513,
+  "number" : 3,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е водачът на двуколесно МПС да се държи за друго превозно средство с цел придвижване по пътя?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11472,
+    "text" : "да, но само ако това превозно средство се движи в дясната пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11473,
+    "text" : "да, но само когато двуколесното МПС е повредено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11470,
+    "text" : "да, без ограничение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11471,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3514,
+  "number" : 4,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На водача на двуколесно моторно превозно средство е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11477,
+    "text" : "да управлява превозното средство, без да държи кормилото с ръка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11474,
+    "text" : "да освобождава педалите, с които контролира превозното средство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11476,
+    "text" : "да превозва предмети, които пречат на управлението на превозното средство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11475,
+    "text" : "да се движи с включени светлини през деня",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3515,
+  "number" : 5,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На водача на двуколесно моторно превозно средство е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11480,
+    "text" : "да се движи в непосредствена близост до друго пътно превозно средство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11479,
+    "text" : "да се държи за друго пътно превозно средство с цел придвижване по пътя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11478,
+    "text" : "да превозва предмети, които създават опасност за другите участници в движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11481,
+    "text" : "да се движи по пътния банкет",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3516,
+  "number" : 5,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "На водача на мотопед е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11483,
+    "text" : "да управлява превозно средство по площите, предназначени само за пешеходци",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11482,
+    "text" : "да се движи по пътния банкет",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11484,
+    "text" : "да се движи успоредно до друго двуколесно пътно превозно средство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11485,
+    "text" : "да превозва предмети, които пречат на управлението на превозното средство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3517,
+  "number" : 5,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "На водача на мотопед е забранено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11486,
+    "text" : "да се движи с включени светлини през деня",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11488,
+    "text" : "да се движи в непосредствена близост до друго пътно превозно средство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11489,
+    "text" : "да се движи по пътния банкет",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11487,
+    "text" : "да управлява превозно средство по площите, предназначени само за пешеходци",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3518,
+  "number" : 5,
+  "subNumber" : 4,
+  "pictureSha1" : null,
+  "text" : "На водача на мотопед е забранено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11491,
+    "text" : "да се държи за друго пътно превозно средство с цел придвижване по пътя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11493,
+    "text" : "да се движи с включени светлини през деня",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11492,
+    "text" : "да се движи успоредно до друго двуколесно пътно превозно средство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11490,
+    "text" : "да се движи по пътния банкет",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3527,
+  "number" : 14,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Каква трябва да бъде дължината на гъвкавата връзка (въже, верига) при теглене на повредено МПС?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11527,
+    "text" : "от 3 до 4 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11526,
+    "text" : "до 2 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11525,
+    "text" : "от 4 до 6 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11528,
+    "text" : "от 2 до 3 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

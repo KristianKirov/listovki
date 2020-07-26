@@ -1,0 +1,1031 @@
+[ {
+  "id" : 3519,
+  "number" : 6,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При теглене през деня на повредено МПС, кой от изброените начини е най-ефикасен за неговото обозначаване?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11496,
+    "text" : "включване на авариен сигнал",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11494,
+    "text" : "с червен флаг",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11495,
+    "text" : "със светлоотразителен триъгълник",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11497,
+    "text" : "включване на къси светлини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3520,
+  "number" : 7,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "По кой от изброените начини може да бъде обозначен повреденият автомобил при теглене през деня?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11501,
+    "text" : "с поставен отзад светлоотразителен триъгълник",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11498,
+    "text" : "с включване на авариен сигнал",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11499,
+    "text" : "с червена светлина",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11500,
+    "text" : "с включване на късите светлини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3521,
+  "number" : 8,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "По кой от изброените начини може да бъде обозначен повреденият автомобил при теглене през нощта?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11502,
+    "text" : "с включени светлини и поставяне отзад на светлоотразителен триъгълник",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11505,
+    "text" : "само с включване на светлините",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11504,
+    "text" : "с включени светлини и авариен сигнал",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11503,
+    "text" : "с поставяне на бяла светлина отзад",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3522,
+  "number" : 9,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "По кой от изброените начини може да бъде обозначен повреден автомобил с неизправна осветителна уредба при теглене през нощта?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11506,
+    "text" : "с червен флаг",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11508,
+    "text" : "с поставени отзад червена светлина и светлоотразителен триъгълник",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11509,
+    "text" : "с поставена отзад червена светлина и включен авариен сигнал",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11507,
+    "text" : "с поставена отзад бяла светлина",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3523,
+  "number" : 10,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При теглене през деня на повредено МПС теглещото превозно средство трябва да бъде с включени:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11513,
+    "text" : "авариен сигнал",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11512,
+    "text" : "дълги светлини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11510,
+    "text" : "къси светлини",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11511,
+    "text" : "само габаритни светлини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3524,
+  "number" : 11,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Какви са изискванията към водача, който управлява тегленото МПС?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11514,
+    "text" : "не е задължително да бъде правоспособен водач",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11516,
+    "text" : "трябва да бъде правоспособен за категорията на теглещото МПС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11517,
+    "text" : "трябва да бъде правоспособен за категорията на тегленото МПС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11515,
+    "text" : "достатъчно е да бъде правоспособен водач, независимо за коя категория",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3525,
+  "number" : 13,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Каква трябва да бъде дължината на твърдата връзка  при теглене на повредено МПС?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11519,
+    "text" : "до 2 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11518,
+    "text" : "от 4 до 6 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11520,
+    "text" : "от 2 до 4 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3526,
+  "number" : 13,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "При теглене на повредено МПС дължината на твърдата връзка може да бъде:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11522,
+    "text" : "3 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11524,
+    "text" : "2 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11521,
+    "text" : "4 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11523,
+    "text" : "5 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3528,
+  "number" : 14,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "При теглене на повредено МПС дължината на гъвкавата връзка може да бъде:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11529,
+    "text" : "6 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11530,
+    "text" : "3 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11531,
+    "text" : "4 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11532,
+    "text" : "5 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3529,
+  "number" : 15,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "В кой от изброените случаи е забранено тегленето на повреден автомобил с гъвкава връзка?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11533,
+    "text" : "когато масата на теглещото ППС е по-голяма от масата на тегленото ППС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11534,
+    "text" : "когато водачът му е със стаж до 2 години",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11535,
+    "text" : "през нощта",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11536,
+    "text" : "когато дължината на връзката е по-малка от 4 метра",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3530,
+  "number" : 16,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При теглене с твърда връзка:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11539,
+    "text" : "тегленото МПС трябва да е с изправна спирачна уредба",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11538,
+    "text" : "тегличът трябва да е с дължина от 2 до 4 метра",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11540,
+    "text" : "тегличът трябва да е оцветен напречно с червени и бели ивици",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11537,
+    "text" : "тегленото МПС трябва да бъде с изправна кормилна уредба",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3531,
+  "number" : 17,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При теглене с гъвкава връзка:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11543,
+    "text" : "връзката трябва да бъде сигнализирана с червен флаг поне на две места",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11541,
+    "text" : "дължинатана връзката трябва да бъде от 4 до 6 метра",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11542,
+    "text" : "тегленото МПС трябва да е с изправна кормилна уредба",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11544,
+    "text" : "водачът на теглещото МПС трябва да има не по-малко от две години стаж",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3532,
+  "number" : 18,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При теглене на повредено МПС с гъвкава връзка то трябва да бъде:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11547,
+    "text" : "с изправна кормилна уредба",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11548,
+    "text" : "с изправна осветителна уредба",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11546,
+    "text" : "с изправен двигател",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11545,
+    "text" : "с изправна спирачна уредба",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3533,
+  "number" : 19,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е при теглене с твърда връзка тегленото превозно средство да бъде с неизправна спирачна уредба?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11550,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11549,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3534,
+  "number" : 20,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е тегленето с твърда връзка на автомобил с повредена кормилна уредба?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11551,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11552,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3535,
+  "number" : 20,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "При теглене на повредено МПС с твърда връзка то трябва да бъде с изправна:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11554,
+    "text" : "осветителна уредба",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11553,
+    "text" : "кормилна уредба",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11555,
+    "text" : "спирачна уредба",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3536,
+  "number" : 21,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешената максимална скорост за движение в населени места при теглене на повредено МПС е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11557,
+    "text" : "50 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11559,
+    "text" : "40 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11556,
+    "text" : "20 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11558,
+    "text" : "30 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3537,
+  "number" : 22,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешената максимална скорост за движение извън населени места при теглене на повредено МПС е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11560,
+    "text" : "60 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11563,
+    "text" : "50 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11561,
+    "text" : "30 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11562,
+    "text" : "40 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3538,
+  "number" : 23,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Задължени ли са водачите на теглещото и тегленото МПС да съгласуват помежду си сигнали за взаимно разбиране по време на тегленето?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11565,
+    "text" : "да, но само когато ще се движат по път с интензивно движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11564,
+    "text" : "да, но само при движение по автомагистрала или автомобилен път",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11567,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11566,
+    "text" : "да, във всички случаи",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3539,
+  "number" : 24,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Тегленето на повредено МПС с допустима максимална маса над 5 т е разрешено да се извършва:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11569,
+    "text" : "само от автомобил със специално приспособление",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11568,
+    "text" : "с гъвкава връзка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11570,
+    "text" : "с твърда връзка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11571,
+    "text" : "от специален автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3540,
+  "number" : 25,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Забранено е:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11575,
+    "text" : "теглене с едно превозно средство на два повредени автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11574,
+    "text" : "теглене на мотоциклети с кош",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11572,
+    "text" : "използване на двуколесни МПС за теглене",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11573,
+    "text" : "теглене на повреден автомобил през нощта",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3541,
+  "number" : 26,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Забранено е теглене:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11577,
+    "text" : "на двуколесни ППС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11579,
+    "text" : "на повреден товарен автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11578,
+    "text" : "на повреден автомобил през нощта",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11576,
+    "text" : "на мотоциклети с кош",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3542,
+  "number" : 26,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е тегленето на мотоциклет с кош?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11580,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11581,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3543,
+  "number" : 27,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При теглене на повреден автомобил е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11583,
+    "text" : "теглене при намалена видимост под 50 метра",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11585,
+    "text" : "теглене, когато теглещият автомобил е с ремарке",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11582,
+    "text" : "теглещото МПС да е от категория, различна от тази на тегленото МПС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11584,
+    "text" : "превозване на пътници в тегленото моторно превозно средство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3544,
+  "number" : 28,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При теглене на повреден автомобил е забранено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11586,
+    "text" : "теглещото МПС да е от категория, различна от тази на тегленото МПС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11587,
+    "text" : "превоз на пътници в теглещото превозно средство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11588,
+    "text" : "теглене с гъвкава връзка по хлъзгав път",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11589,
+    "text" : "превозване на пътници в тегленото моторно превозно средство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3545,
+  "number" : 28,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е да превозвате пътници в автомобил, когато той се използва за теглене на друг повреден автомобил?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11591,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11590,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3546,
+  "number" : 28,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "При теглене на повредено превозно средство, разрешава ли се превоз на пътници в него?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11592,
+    "text" : "не, но само когато водачът е със стаж до 2 години",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11593,
+    "text" : "не, във всички случаи",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11595,
+    "text" : "да, без ограничение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11594,
+    "text" : "да, но само когато водачът е с правоспособност за категория С",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3547,
+  "number" : 29,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "В кой от изброените случаи тегленето е забранено?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11596,
+    "text" : "теглене на повреден товарен автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11599,
+    "text" : "теглене на повреден автомобил през нощта",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11597,
+    "text" : "теглене с едно превозно средство на два повредени автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11598,
+    "text" : "теглене при намалена видимост под 50 метра",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3548,
+  "number" : 29,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е с едно превозно средство тегленето на два повредени автомобила?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11600,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11601,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3549,
+  "number" : 30,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При теглене на повреден автомобил е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11605,
+    "text" : "теглене, когато теглещият автомобил е с ремарке",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11602,
+    "text" : "теглене, когато тегленият автомобил е с ремарке",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11604,
+    "text" : "теглене на повреден автомобил през нощта",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11603,
+    "text" : "теглене с едно превозно средство на два повредени автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3550,
+  "number" : 30,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "При теглене на повреден автомобил разрешено ли е теглещият автомобил да бъде с ремарке?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11606,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11607,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3551,
+  "number" : 31,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При теглене на повреден автомобил е забранено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11609,
+    "text" : "теглене с гъвкава връзка по хлъзгав път",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11608,
+    "text" : "теглене при ограничена видимост",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11610,
+    "text" : "теглене с твърда връзка по хлъзгав път",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11611,
+    "text" : "теглене при намалена видимост под 50 метра",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3552,
+  "number" : 31,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е теглене на повреден автомобил, когато пътят е хлъзгав?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11614,
+    "text" : "да, без ограничение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11612,
+    "text" : "да, но само с гъвкава връзка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11613,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11615,
+    "text" : "да, но само с твърда връзка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3553,
+  "number" : 31,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е теглене на повреден автомобил с гъвкава връзка, когато пътят е хлъзгав?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11617,
+    "text" : "да, без ограничение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11616,
+    "text" : "да, ако теглещия автомобил е с антиблокираща система на спирачната уредба",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11618,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3554,
+  "number" : 32,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Тегленето на повреден автомобил е забранено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11619,
+    "text" : "когато теглещият автомобил е с ремарке",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11621,
+    "text" : "при намалена видимост под 50 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11622,
+    "text" : "на автомагистрала",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11620,
+    "text" : "през нощта",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

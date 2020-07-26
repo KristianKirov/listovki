@@ -1,0 +1,373 @@
+[ {
+  "id" : 3418,
+  "number" : 9,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Когато няма други ограничения, водачът на състав от ППС от категория ВЕ, при движение по скоростен път не трябва да превишава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11129,
+    "text" : "90 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11128,
+    "text" : "100 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11131,
+    "text" : "120 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11130,
+    "text" : "110 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3422,
+  "number" : 12,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Когато няма други ограничения, водачът на МПС от категория А при движение по скоростен път не трябва да превишава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11146,
+    "text" : "110 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11147,
+    "text" : "90 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11144,
+    "text" : "120 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11145,
+    "text" : "100 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3442,
+  "number" : 27,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "На скоростен път е забранено движението на:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11212,
+    "text" : "мотоциклети с конструктивна максимална скорост по-малка от 50 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11214,
+    "text" : "автомобили с конструктивна максимална скорост по-малка от 50 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11211,
+    "text" : "съчленени пътни превозни средства",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11213,
+    "text" : "мотопеди",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3443,
+  "number" : 27,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "На скоростен път е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11218,
+    "text" : "движението на превозни средства с рекламна цел",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11216,
+    "text" : "провеждането на технически изпитания на автомобили",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11215,
+    "text" : "движението на автомобили с товар над 10 т",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11217,
+    "text" : "движението на рекламни и други шествия",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3467,
+  "number" : 49,
+  "subNumber" : 4,
+  "pictureSha1" : null,
+  "text" : "При движение по скоростен път на водача е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11309,
+    "text" : "да тегли повредено МПС с твърда връзка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11311,
+    "text" : "да спира пътното превозно средство за престой извън специално обозначените за това места",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11310,
+    "text" : "да завива в обратна посока",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11312,
+    "text" : "да навлиза в разделителната ивица или да я пресича, включително и на местата, където тя е прекъсната",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3470,
+  "number" : 51,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "При теглене с твърда връзка по скоростен път разрешената максимална скорост за движение е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11322,
+    "text" : "30 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11323,
+    "text" : "70 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11321,
+    "text" : "40 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11324,
+    "text" : "50 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3472,
+  "number" : 52,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Теглене с гъвкава връзка по скоростен път е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11330,
+    "text" : "забранено във всички случаи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11331,
+    "text" : "разрешено без ограничения",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11329,
+    "text" : "забранено само в тъмната част от денонощието",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11332,
+    "text" : "разрешено само за изтегляне до най-близкото място за напускане на пътя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3477,
+  "number" : 56,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "В кои случаи автомобилът, спрян върху площадката за принудително спиране на скоростен път, задължително се сигнализира?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11348,
+    "text" : "при ограничена видимост",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11346,
+    "text" : "винаги",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11349,
+    "text" : "през нощта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11347,
+    "text" : "при намалена видимост",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3479,
+  "number" : 57,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "По кой от посочените начини се сигнализира автомобил, спрян върху площадката за принудително спиране на скоростен път, през нощта и при намалена видимост?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11355,
+    "text" : "с предупредителен светлоотразителен триъгълник",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11354,
+    "text" : "с включени дълги светлини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11356,
+    "text" : "с включен авариен сигнал",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3964,
+  "number" : 10,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Когато няма други ограничения, водачът на МПС от категория В при движение по скоростен път не трябва да превишава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 13006,
+    "text" : "130 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 13007,
+    "text" : "120 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 13008,
+    "text" : "100 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 13009,
+    "text" : "110 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3967,
+  "number" : 13,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "При  навлизане на скоростен път, водачът е длъжен да пропусне превозните средства, които се движат по него:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 13019,
+    "text" : "само когато те се движат с висока скорост",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 13018,
+    "text" : "във всички случаи",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 13020,
+    "text" : "само когато е поставен пътен знак за осигуряване на предимство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4743,
+  "number" : 43,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "При движение по скоростен път на водача е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 15452,
+    "text" : "да пресича разделителната ивица, включително на местата, където тя е прекъсната",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15451,
+    "text" : "да спира за престой извън обозначените за това места",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15454,
+    "text" : "да спира за отстраняване на неизправност по автомобила",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15453,
+    "text" : "да се движи в платното за насрещно движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+} ]

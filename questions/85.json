@@ -1,0 +1,571 @@
+[ {
+  "id" : 2670,
+  "number" : 3,
+  "subNumber" : 1,
+  "pictureSha1" : "f746d9da4376a7e95c7888d27b43dc29087a6ced",
+  "text" : "При приближаване към този автобус, водачът трябва:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8688,
+    "text" : "да осигури безопасността на децата",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8689,
+    "text" : "да премине по-бързо покрай автобуса",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8686,
+    "text" : "при необходимост да спре",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8687,
+    "text" : "да подаде звуков сигнал, преди да премине покрай автобуса",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2688,
+  "number" : 13,
+  "subNumber" : 1,
+  "pictureSha1" : "042434a995abd1eac7b8f7e8198c3c9229872c9b",
+  "text" : "При тази ситуация съществува ли опасност при разминаването с децата велосипедисти?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8755,
+    "text" : "не, защото велосипедистите са в съседната пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8756,
+    "text" : "не, защото велосипедистите ме виждат",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8757,
+    "text" : "да, защото велосипедистите се движат непосредствено до средата на платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8754,
+    "text" : "да, защото велосипедистите са деца",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2689,
+  "number" : 13,
+  "subNumber" : 2,
+  "pictureSha1" : "2e249ac73bef152841aaa81ef9ab25a14a60ebef",
+  "text" : "При тази ситуация:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8759,
+    "text" : "трябва да бъда внимателен и предпазлив",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8758,
+    "text" : "няма опасност защото велосипедистите са в съседната пътна лента и ме виждат",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2690,
+  "number" : 13,
+  "subNumber" : 3,
+  "pictureSha1" : "68876ee975b242ae6ed94f6af4e20ee870c5322e",
+  "text" : "Кое от следващите действия трябва да предприемете при тази ситуация?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8762,
+    "text" : "да управлявам с готовност за спиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8763,
+    "text" : "да подам звуков сигнал",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8761,
+    "text" : "да намаля скоростта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8760,
+    "text" : "да осигуря достатъчна странична дистанция",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2691,
+  "number" : 13,
+  "subNumber" : 4,
+  "pictureSha1" : "57a8b5ef4380a0ffe379f4c17a8456b114a270e0",
+  "text" : "При тази ситуация, за да осигуря безопасността на децата велосипедисти, трябва:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8765,
+    "text" : "да осигуря достатъчна странична дистанция",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8767,
+    "text" : "да подам звуков сигнал",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8766,
+    "text" : "да намаля скоростта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8764,
+    "text" : "незабавно да спра",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2692,
+  "number" : 14,
+  "subNumber" : 1,
+  "pictureSha1" : "98429840c2249760e9d0faab724a99f8fe6b4c64",
+  "text" : "При тази ситуация, преди да започна изпреварването, трябва да подам звуков сигнал.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8769,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8768,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2693,
+  "number" : 14,
+  "subNumber" : 2,
+  "pictureSha1" : "98429840c2249760e9d0faab724a99f8fe6b4c64",
+  "text" : "При тази ситуация трябва:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8770,
+    "text" : "да подам звуков сигнал за да привлека вниманието на велосипедистите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8771,
+    "text" : "да бъда внимателен към поведението на велосипедистите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8772,
+    "text" : "при изпреварването да осигуря по-голяма странична дистанция",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8773,
+    "text" : "да управлявам с готовност за спиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2694,
+  "number" : 14,
+  "subNumber" : 3,
+  "pictureSha1" : "e9aed5bd2a298db0c934204465a02d11108d0964",
+  "text" : "При тази ситуация трябва:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8774,
+    "text" : "да управлявам с готовност за спиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8775,
+    "text" : "да бъда внимателен към поведението на велосипедистите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8776,
+    "text" : "да подам звуков сигнал за да привлека вниманието на велосипедистите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2722,
+  "number" : 22,
+  "subNumber" : 1,
+  "pictureSha1" : "a00644271cdd8de92e4dd2d52770e5fbb9a9b88b",
+  "text" : "Как трябва да постъпите при тази ситуация?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8877,
+    "text" : "трябва да пропусна пешеходеца",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8878,
+    "text" : "мога да премина защото пешеходецът не е достигнал средата на платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8876,
+    "text" : "мога да премина защото пешеходецът е в съседната пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2723,
+  "number" : 23,
+  "subNumber" : 1,
+  "pictureSha1" : "84ddcdde9c4c7aa2b0b1dac9fcd79b701a81b885",
+  "text" : "Има ли опасност при тази ситуация, когато детето е на тротоара?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8880,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8879,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2724,
+  "number" : 23,
+  "subNumber" : 2,
+  "pictureSha1" : "b4a8285e3dbf6264ceb7cd9fe195c13770b3d0b3",
+  "text" : "Има ли опасност при тази ситуация?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8884,
+    "text" : "не, защото детето е на тротоара",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8883,
+    "text" : "да, защото детето може да навлезе внезапно на платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8882,
+    "text" : "не, защото детето не гледа към мен и няма да навлиза на платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8881,
+    "text" : "да, защото детето не гледа към мен",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2725,
+  "number" : 24,
+  "subNumber" : 1,
+  "pictureSha1" : "472b78b72f1b048981c199a43245e7eec6e3bb37",
+  "text" : "При тази ситуация няма опасност, защото детето се качва на тротоара и освобождава платното за движение.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8885,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8886,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2726,
+  "number" : 25,
+  "subNumber" : 1,
+  "pictureSha1" : "42339e3a9e4701b43fd82b484f4e7b4999ec7cce",
+  "text" : "При тази ситуация задължени ли сте да се съобразявате с поведението на децата?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8888,
+    "text" : "не, защото се движат по тротоара",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8889,
+    "text" : "да, защото са в близост до платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8887,
+    "text" : "да, защото са деца",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8890,
+    "text" : "не, защото ме виждат",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2727,
+  "number" : 26,
+  "subNumber" : 1,
+  "pictureSha1" : "9c9194f031b76b097de72739b9c27506e129605a",
+  "text" : "При тази ситуация е достатъчно децата да застанат в средата на улицата, за да премина безопасно зад тях.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8891,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8892,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2728,
+  "number" : 27,
+  "subNumber" : 1,
+  "pictureSha1" : "f6cd72ca055c4e9c445ca2f110dfc66097f94cd3",
+  "text" : "При тази ситуация:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8893,
+    "text" : "продължавам движението с готовност за спиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8894,
+    "text" : "трябва да спра и да изчакам преминаването на пешеходеца",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2729,
+  "number" : 28,
+  "subNumber" : 1,
+  "pictureSha1" : "5be0a4650b55a139469b928ddbdb0317de6a5371",
+  "text" : "При тази ситуация трябва:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8897,
+    "text" : "да намаля скоростта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8896,
+    "text" : "да управлявам с готовност за спиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8895,
+    "text" : "да подам звуков сигнал и да продължа движението",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8898,
+    "text" : "да подам сигнал за маневра и да заобиколя пешеходеца",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2730,
+  "number" : 29,
+  "subNumber" : 1,
+  "pictureSha1" : "15746b33839c389b1bfd416442430bb2ce982546",
+  "text" : "С кое от изброените действия при тази ситуация ще осигурите по-голяма безопасност за децата?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8900,
+    "text" : "бързото преминаване покрай тях",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8901,
+    "text" : "намаляване на скоростта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8899,
+    "text" : "преминаване на възможно по-голямо разстояние от тях",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8902,
+    "text" : "движение с готовност за спиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2731,
+  "number" : 30,
+  "subNumber" : 1,
+  "pictureSha1" : "2e5076b40a5882137b7af975699ac3df8582a706",
+  "text" : "Този пътен знак:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8905,
+    "text" : "обозначава точното място, където деца преминават през платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8903,
+    "text" : "указва началото на пешеходна пътека",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8906,
+    "text" : "предупреждава за опасност от внезапна поява на деца на платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8904,
+    "text" : "забранява движението на деца по пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2732,
+  "number" : 32,
+  "subNumber" : 1,
+  "pictureSha1" : "b7803bbb4138efe7dcf414025a977f20cc651d1d",
+  "text" : "При тази ситуация, когато сигналът на регулировчика разрешава на водача на автомобила да премине, той задължен ли е да се съобразява с пешеходците?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8907,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8908,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2816,
+  "number" : 31,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "След подаването на сигнал от светофар, който разрешава на водача на МПС да пресече пешеходна пътека, той задължен ли е да се съобразява с намиращите се на нея пешеходци?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9218,
+    "text" : "да, но само с тези от тях, които подават сигнал с ръка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9220,
+    "text" : "да, винаги",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9219,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2977,
+  "number" : 30,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "При кое от посочените средства за сигнализиране съществува опасност от внезапна поява на деца на платното за движение?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 9768,
+    "text" : null,
+    "pictureSha1" : "f04cb2d915596448ba6d381d8ca5201409f29032",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9770,
+    "text" : null,
+    "pictureSha1" : "78bd1f46db13eb5458f5a406a369d41045f23b20",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9769,
+    "text" : null,
+    "pictureSha1" : "9929bcb3ae0282693e0428e1431a13294c86677b",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9767,
+    "text" : null,
+    "pictureSha1" : "881622617708df8e20f486d864aac6dd0dc26fe1",
+    "correct" : true,
+    "selected" : false
+  } ]
+} ]

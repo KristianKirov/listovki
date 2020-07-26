@@ -1,0 +1,761 @@
+[ {
+  "id" : 3692,
+  "number" : 16,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Оказва ли влияние върху управляемостта на превозното средство намаленото налягане на въздуха в гумите?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12087,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12086,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3697,
+  "number" : 4,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Причина за по-бързото настъпване на умора у водача на МПС са:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12101,
+    "text" : "разговорите с пътниците в автомобила",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12102,
+    "text" : "неправилната стойка на тялото по време на управлението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12100,
+    "text" : "рекламните пана край пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3698,
+  "number" : 5,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Неправилното положение на тялото на водача по време на управление води до по-бърза умора.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12104,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12103,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3699,
+  "number" : 6,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Какви са последиците за водача, когато той управлява продържително време при нерегулирана седалка?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12106,
+    "text" : "остава по-дълго време концентриран",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12107,
+    "text" : "намаляване на умората",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12105,
+    "text" : "натоварване и болки в гръбначния стълб и мускулатурата",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12108,
+    "text" : "по-бързо настъпване на умора",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3700,
+  "number" : 7,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Защо водачът на двуколесно МПС трябва да управлява с предназначена специално за това екипировка?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12110,
+    "text" : "за да се чувства удобно, когато управлява",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12111,
+    "text" : "за да има достатъчна защита при произшествие",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12109,
+    "text" : "за да бъде защитен от лошите атмосферните условия",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3701,
+  "number" : 8,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато защитната каска на водача на двуколесно МПС има пукнатина е необходимо:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12114,
+    "text" : "МПС да се управлява с ниска скорост",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12113,
+    "text" : "каската да се подмени с нова",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12112,
+    "text" : "каската да се залепи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3702,
+  "number" : 9,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Водачът не е защитен достатъчно при управление на двуколесно МПС, когато:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12116,
+    "text" : "не работят пътепоказателите на двуколесното МПС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12117,
+    "text" : "защитната му каска е с пукнатина",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12115,
+    "text" : "няма предназначена специално за това екипировка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3703,
+  "number" : 10,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При управление на двуколесно МПС в населено място, водачът задължен ли е да използва предпазна каска?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12119,
+    "text" : "да, но само при движение с висока скорост",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12118,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12120,
+    "text" : "да, във всички случаи",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3704,
+  "number" : 10,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "При управление на двуколесно МПС извън населено място водачът трябва ли да използва предпазна каска?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12122,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12123,
+    "text" : "да, във всички случаи",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12121,
+    "text" : "да, но само при управление на мотоциклет",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3705,
+  "number" : 11,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Превозването на предмети върху покрива на автомобила води до увеличаване на разхода на гориво.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12125,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12124,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3706,
+  "number" : 11,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Превозването на предмети върху покрива на автомобила води до:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12128,
+    "text" : "увеличаване на устойчивостта на автомобила в завой",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12126,
+    "text" : "увеличаване на разхода на гориво",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12127,
+    "text" : "увеличаване на стабилността на автомобила при страничен вятър",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3707,
+  "number" : 12,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При движение на превозното средство разходът на гориво:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12131,
+    "text" : "се увеличава при понижено налягане на въздуха в автомобилните гуми",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12132,
+    "text" : "намялява при рязко увеличаване на скоростта",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12129,
+    "text" : "се увеличава при превозване на предмети върху покрива на автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12130,
+    "text" : "намалява при често използване на спирачките",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3708,
+  "number" : 12,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "При движение на превозното средство разходът на гориво се увеличава при:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12133,
+    "text" : "понижено налягане на въздуха в автомобилните гуми",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12136,
+    "text" : "по-рядко използване на спирачките",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12135,
+    "text" : "рязко увеличаване на скоростта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12134,
+    "text" : "превозване на предмети върху покрива на автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3709,
+  "number" : 13,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е зареждането с гориво да се извършва при работещ двигател на автомобила?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12137,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12138,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3710,
+  "number" : 14,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При зареждане на автомобила с гориво пушенето е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12139,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12141,
+    "text" : "разрешено само в автомобила",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12140,
+    "text" : "разрешено само извън автомобила",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3711,
+  "number" : 15,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Поддържането на табелите с регистрационните номера на превозното средство чисти и видими е задължение на:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12144,
+    "text" : "собственика на МПС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12143,
+    "text" : "водача",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12142,
+    "text" : "пътниците",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3712,
+  "number" : 16,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Как влияе върху управляемостта на превозното средство пониженото налягане на въздуха в гумите?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12145,
+    "text" : "не влияе на управляемостта",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12147,
+    "text" : "влошава управляемостта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12146,
+    "text" : "подобрява управляемостта",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3713,
+  "number" : 17,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Какво влияние оказва ниското налягане на въздуха в гумите върху поведението на превозното средство?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12148,
+    "text" : "не оказва влияние",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12149,
+    "text" : "увеличава разхода на гориво",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12150,
+    "text" : "влошава управляемостта на превозното средство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3714,
+  "number" : 18,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Пониженото налягане на въздуха в автомобилните гуми води до увеличаване на разхода на гориво.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12151,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12152,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3715,
+  "number" : 18,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Как влияе пониженото налягане на въздуха в автомобилните гуми върху разхода на гориво?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12153,
+    "text" : "не оказва влияние",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12154,
+    "text" : "намалява го",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12155,
+    "text" : "увеличава го",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3716,
+  "number" : 19,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Ако по време на движение при натискане спирачният педал “потъне” и спирачките не се задействат, водачът трябва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12156,
+    "text" : "да продължи да натиска педала, без да го отпуска",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12157,
+    "text" : "да отпусне бързо педала и пак да го натисне",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12158,
+    "text" : "да натисне педала на съединителя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3717,
+  "number" : 20,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Ако водач трябва да управлява МПС, но преди това е консумирал алкохол:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12159,
+    "text" : "достатъчно е да изпие едно силно кафе или силен чай без захар",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12160,
+    "text" : "трябва да изчака да премине въздействието на алкохола",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12161,
+    "text" : "трябва да спи около 2 часа",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12162,
+    "text" : "достатъчно е да изпие студена енергийна напитка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3718,
+  "number" : 21,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Какъв съвет ще дадете на водач, който е употребил алкохол?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12165,
+    "text" : "да управлява внимателно и да се движи с ниска скорост",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12166,
+    "text" : "да изчака да премине действието на алкохола",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12164,
+    "text" : "да се придвижи с такси или друг обществен транспорт",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12163,
+    "text" : "да изпие чаша силно кафе и след това да управлява",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3719,
+  "number" : 22,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Ако водачът трябва да приеме лекарство, за което не знае дали е съвместимо с управлението на МПС:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12169,
+    "text" : "може да приеме лекарството, но трябва за приеме и тонизиращи напитки",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12167,
+    "text" : "преди да приеме лекарството, трябва да се консултира с лекар или фармацевт",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12170,
+    "text" : "не трябва да продължи да управлява след приемане на лекарството, ако не знае дали е съвместимо с управлението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12168,
+    "text" : "преди да приеме лекарството, трябва да се запознае с описанието на лекарството в листовката за пациента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3720,
+  "number" : 23,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Има ли лекарства, след приемането на които е забранено управлението на МПС?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12172,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12171,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3721,
+  "number" : 24,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Как трябва да постъпите ако се налага да управлявате МПС, а приемате лекарство, за което не знаете дали е съвместимо с управлението?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12176,
+    "text" : "преди да приема лекарството, трябва да се консултирам с лекар или фармацевт",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12174,
+    "text" : "мога да се доверя на съвет от приятел или роднина и да управлявам",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12173,
+    "text" : "може да приема лекарството и да управлявам ако се чувствам добре",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12175,
+    "text" : "трябва да се запозная с описанието на лекарството в листовката за пациента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3722,
+  "number" : 25,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Как трябва да постъпите, ако се налага да пътувате, но сте приели лекарство, което влияе отрицателно при управлението на автомобила?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12178,
+    "text" : "ще осигуря друг водач за пътуването",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12177,
+    "text" : "ще управлявам, като се движа с ниска скорост",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12179,
+    "text" : "ще управлявам, като избягвам участъци с интензивно движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3723,
+  "number" : 26,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Трябва ли да се управлява МПС при влошено здравословно състояние?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12182,
+    "text" : "да, но след това трябва да се отдели повече време за почивка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12180,
+    "text" : "не трябва да се управлява",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12181,
+    "text" : "да, но трябва да се вземе подходящо лекарство преди управлението",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3724,
+  "number" : 27,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Управление на МПС след употреба на упойващо вещество е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12185,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12183,
+    "text" : "разрешено, без ограничение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12184,
+    "text" : "разрешено, когато се взема по лекарско предписание",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

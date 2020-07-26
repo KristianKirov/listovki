@@ -1,0 +1,691 @@
+[ {
+  "id" : 2902,
+  "number" : 77,
+  "subNumber" : 1,
+  "pictureSha1" : "14a0d9a50beac8f67148a7302003494da340800a",
+  "text" : "В кой от изброените отговори е посочено вярно значението на пътния знак с допълнителна табела?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9535,
+    "text" : "стесненият участък от пътя завършва на 200 м след знака",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9534,
+    "text" : "стесненият участък от платното за движение започва на 200 м след знака",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9536,
+    "text" : "стесненият участък от платното за движение е с дължина 200 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2903,
+  "number" : 77,
+  "subNumber" : 2,
+  "pictureSha1" : "12e7088ec6dbc4166737ca2f3541c190a7669bec",
+  "text" : "С допълнителната табела към този пътен знак се указва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9537,
+    "text" : "разстоянието до стеснения участък от платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9539,
+    "text" : "дължината на стеснения участък от платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9538,
+    "text" : "разстоянието до края на стеснения участък от платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2904,
+  "number" : 78,
+  "subNumber" : 1,
+  "pictureSha1" : "70ceecb5fa6c810722cd04a7144be68458ac5e8d",
+  "text" : "Пътният знак с допълнителна табела предупреждават че:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9540,
+    "text" : "дължината на участъка с последователни опасни завои е 50 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9542,
+    "text" : "разстоянието от знака до края на участъка с последователни завои е 50 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9541,
+    "text" : "разстоянието до участъка с последователни опасни завои е 50 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2905,
+  "number" : 79,
+  "subNumber" : 1,
+  "pictureSha1" : "a5075b748c685ddc8c483be0dbaa513633a8d682",
+  "text" : "В кой отговор е посочено вярно значението на пътния знак с допълнителна табела?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9544,
+    "text" : "стесненият участък от платното за движение е с дължина 200 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9543,
+    "text" : "стесненият участък от пътя завършва на 200 м след знака",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9545,
+    "text" : "стесненият участък от платното за движение започва на 200 м след знака",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2906,
+  "number" : 79,
+  "subNumber" : 2,
+  "pictureSha1" : "a5075b748c685ddc8c483be0dbaa513633a8d682",
+  "text" : "С допълнителната табела към този пътен знак се указва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9548,
+    "text" : "разстоянието до стеснения участък от платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9546,
+    "text" : "разстоянието до края на стеснения участък от платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9547,
+    "text" : "дължината на стеснения участък от платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2907,
+  "number" : 80,
+  "subNumber" : 2,
+  "pictureSha1" : "bdfcb9067fc1ffe6182f652f0927c47cc03b9be4",
+  "text" : "Пътният знак с допълнителна табела предупреждават че:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9551,
+    "text" : "разстоянието до участъка с последователни опасни завои е 1000 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9549,
+    "text" : "дължината на участъка с последователни опасни завои е 1000 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9550,
+    "text" : "разстоянието от знака до края на участъка с последователни завои е 1000 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2908,
+  "number" : 80,
+  "subNumber" : 1,
+  "pictureSha1" : "bdfcb9067fc1ffe6182f652f0927c47cc03b9be4",
+  "text" : "При тази ситуация дължината на участъка с последователни опасни завои е 1000 м.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9553,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9552,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2909,
+  "number" : 81,
+  "subNumber" : 1,
+  "pictureSha1" : "91082062bb360f8ee587cec01a91501d6180aed1",
+  "text" : "Допълнителната табела указва, че в посоченото време паркирането е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9554,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9555,
+    "text" : "разрешено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2910,
+  "number" : 82,
+  "subNumber" : 1,
+  "pictureSha1" : "af90b496d718eac88165d9a61bce0b84e067210a",
+  "text" : "Допълнителната табела указва, че забраната, въведена с този знак, важи само:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9556,
+    "text" : "в работни дни",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9557,
+    "text" : "в неработни дни",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2911,
+  "number" : 83,
+  "subNumber" : 1,
+  "pictureSha1" : "6566ff240216a67806f6caa0c92e8669e510b689",
+  "text" : "Допълнителната табела указва, че забраната за завиване наляво се отнася:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9561,
+    "text" : "за всички автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9559,
+    "text" : "за всички автомобили, с изключение на товарните",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9560,
+    "text" : "само за товарните автомобили",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9558,
+    "text" : "за всички ППС, с изключение на товарните автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2912,
+  "number" : 83,
+  "subNumber" : 2,
+  "pictureSha1" : "6566ff240216a67806f6caa0c92e8669e510b689",
+  "text" : "За кои товарни автомобили се отнася знакът с допълнителната табела?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9562,
+    "text" : "само за тези с обща маса над 7,5 тона",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9565,
+    "text" : "за всички товарни автомобили",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9564,
+    "text" : "само за тези с допустима максимална маса над 12,5 тона",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9563,
+    "text" : "само за тези с маса над 3,5 тона",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2913,
+  "number" : 84,
+  "subNumber" : 1,
+  "pictureSha1" : "99ce9e41ee4f536e65a79fcb3432a35cdca284aa",
+  "text" : "За кои автомобили се отнася знакът с допълнителната табела?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9567,
+    "text" : "автобусите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9568,
+    "text" : "товарните",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9566,
+    "text" : "леките",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2914,
+  "number" : 84,
+  "subNumber" : 2,
+  "pictureSha1" : "7494e12eb139aba3a1c2ae5dcdd0cadfcc1a3f59",
+  "text" : "При тази допълнителна табела разрешено ли е  водачите на леки автомобили да завиват надясно след знака?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9569,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9570,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2915,
+  "number" : 85,
+  "subNumber" : 1,
+  "pictureSha1" : "4728ef34543a3551fa4074155e6a14ddc2e63015",
+  "text" : "При тази допълнителна табела забранено ли е водачите на леки автомобили да завиват надясно след знака?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9572,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9571,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2916,
+  "number" : 85,
+  "subNumber" : 2,
+  "pictureSha1" : "77998ef046204a9b9b7269032ea4115e4e4c6d4a",
+  "text" : "Забраната, въведена с този пътен знак с допълнителна табела, отнася ли се за водачите на автобуси?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9573,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9574,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2917,
+  "number" : 86,
+  "subNumber" : 1,
+  "pictureSha1" : "d3c8c1f8a79510b940aa8bfbc6c9faf3f090b19d",
+  "text" : "Задължителната посока за движение въведена с този пътен знак с допълнителна табела, се отнася за:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 9578,
+    "text" : "леките автомобили",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9575,
+    "text" : "товарните автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9576,
+    "text" : "мотоциклетите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9577,
+    "text" : "автобусите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2918,
+  "number" : 87,
+  "subNumber" : 1,
+  "pictureSha1" : "77998ef046204a9b9b7269032ea4115e4e4c6d4a",
+  "text" : "Забраната, въведена с този пътен знак с допълнителна табела, се отнася за:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 9579,
+    "text" : "мотоциклетите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9581,
+    "text" : "товарните автомобили",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9582,
+    "text" : "леките автомобили",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9580,
+    "text" : "автобусите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2919,
+  "number" : 88,
+  "subNumber" : 1,
+  "pictureSha1" : "3b54b3c870a07ffe02b8e42e2243dccdea24b87e",
+  "text" : "Допълнителната табела към пътния знак указва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9584,
+    "text" : "начало на участъка, в който е забранено спирането",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9583,
+    "text" : "край на участъка, в който са забранени престоят и паркирането",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2920,
+  "number" : 88,
+  "subNumber" : 2,
+  "pictureSha1" : "ce9b5bee692c746421584e2e6f7565bca8e07dfc",
+  "text" : "Допълнителната табела към пътния знак указва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9586,
+    "text" : "начало на участъка, в който е забранено спирането",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9585,
+    "text" : "край на участъка, в който са забранени престоят и паркирането",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2921,
+  "number" : 89,
+  "subNumber" : 1,
+  "pictureSha1" : "fe162c8a38ef18dfe3512f6dbc0dcc042a5bda0a",
+  "text" : "Допълнителната табела към пътния знак указва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9587,
+    "text" : "край на участъка, в който е забранено паркирането",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9588,
+    "text" : "начало на участъка, в който е забранено паркирането",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2922,
+  "number" : 89,
+  "subNumber" : 2,
+  "pictureSha1" : "71f2b38d6230cd66d13483ad9ce401c997937e60",
+  "text" : "Допълнителната табела към пътния знак указва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9589,
+    "text" : "начало на участъка, в който е забранено паркирането",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9590,
+    "text" : "край на участъка, в който е забранено паркирането",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2923,
+  "number" : 90,
+  "subNumber" : 1,
+  "pictureSha1" : "0caddc567b7b9e60dc05ef1385417dcc31204141",
+  "text" : "Допълнителната табела към пътния знак указва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9592,
+    "text" : "края на участък с дължина 10 м, в който е забранено  паркирането",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9593,
+    "text" : "че началото на участъка, в който е забранено паркирането, е след 10 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9591,
+    "text" : "начало на участък с дължина 10 м, където е забранено паркирането",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2924,
+  "number" : 91,
+  "subNumber" : 1,
+  "pictureSha1" : "980fd0c93d13dacee43aa518071badb67c078663",
+  "text" : "Допълнителната табела към пътния знак указва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9595,
+    "text" : "начало на участък, в който са забранени престоят и паркирането",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9596,
+    "text" : "край на участък, в който са забранени престоят и паркирането",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9594,
+    "text" : "продължаване зоната на действие на пътния знак",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2925,
+  "number" : 91,
+  "subNumber" : 3,
+  "pictureSha1" : "870139eb1a83f25a129b985b0dd5efafca1b5113",
+  "text" : "Допълнителната табела към пътния знак указва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9597,
+    "text" : "край на участък, в който са забранени престоят и паркирането",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9598,
+    "text" : "че забраната за престой и паркиране се отнася и за двете страни на пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9599,
+    "text" : "начало на участък, в който са забранени престоят и паркирането",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9600,
+    "text" : "продължаване зоната на действие на пътния знак",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2926,
+  "number" : 92,
+  "subNumber" : 1,
+  "pictureSha1" : "cd20c1d1fc371accb034e141f377b784732efb80",
+  "text" : "Този пътен знак с допълнителна табела указват:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9604,
+    "text" : "че е разрешено паркирането само на леки автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9603,
+    "text" : "място за паркиране на ППС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9601,
+    "text" : "забрана за паркиране на тротоара",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9602,
+    "text" : "начин за паркиране на ППС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2927,
+  "number" : 93,
+  "subNumber" : 1,
+  "pictureSha1" : "10d1717962ee36b8dfd320950bb4b51ca8f84f57",
+  "text" : "В кои случаи, при тази допълнителна табела, водачът е задължен да спазва забраната, въведена с пътния знак?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 9608,
+    "text" : "при сняг на платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9606,
+    "text" : "при температури, при които пътното покритие може да се заледи",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9605,
+    "text" : "при снеговалеж",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9607,
+    "text" : "при силен дъжд",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2928,
+  "number" : 94,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Коя от допълнителните табели указва посока към обект и разстояние до него?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9612,
+    "text" : null,
+    "pictureSha1" : "8eccbb92c2e750a7858a29024bff36c2adb15466",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9610,
+    "text" : null,
+    "pictureSha1" : "055c6649e7a34403e0230a6c4f902354cdbd3a09",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9611,
+    "text" : null,
+    "pictureSha1" : "6ded3be7630e54440675f51eb7de5bd952bd205f",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9609,
+    "text" : null,
+    "pictureSha1" : "86b015063e7bdfec5ef45ae4fdc7e3dd363ad03a",
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

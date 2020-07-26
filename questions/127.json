@@ -1,0 +1,221 @@
+[ {
+  "id" : 3683,
+  "number" : 23,
+  "subNumber" : 2,
+  "pictureSha1" : "0e8e1c39e556f1a6d83f56e80e295653952e0249",
+  "text" : "Кое от изброените действия е най-опасно при движение по този заледен пътен участък?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12054,
+    "text" : "задържане натиснат педала на съединителя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12055,
+    "text" : "рязкото подаване на газ",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12053,
+    "text" : "превключването на скоростния механизъм",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3671,
+  "number" : 13,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е допълнителните светлини за мъгла да се използват при снеговалеж?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12017,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12015,
+    "text" : "да, във всички случаи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12016,
+    "text" : "да, но само при значително намалена видимост",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3673,
+  "number" : 14,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Използването на дългите светлини е забранено, когато при снеговалеж видимостта е намалена.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12022,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12021,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3681,
+  "number" : 22,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кое от изброените действия е опасно при навлизане в заледен участък от пътя?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12048,
+    "text" : "рязкото подаване на газ",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12047,
+    "text" : "навлизането с висока скорост",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12049,
+    "text" : "изключването на скоростния механизъм",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12046,
+    "text" : "рязкото намаляване на скоростта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3682,
+  "number" : 23,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кое от изброените действия е най-опасно при навлизане в заледен пътен участък?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12050,
+    "text" : "изключването на скоростния механизъм",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12051,
+    "text" : "задържане натиснат педала на съединителя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12052,
+    "text" : "навлизането с висока скорост",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3684,
+  "number" : 24,
+  "subNumber" : 1,
+  "pictureSha1" : "d022b08b20d94bbf1c72a14ec5b3e5be9974bd85",
+  "text" : "Този знак сигнализира за:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12058,
+    "text" : "хлъзгав участък от пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12057,
+    "text" : "задължително движение с вериги за сняг най-малко на две от двигателните колела",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12056,
+    "text" : "забрана за движение с неподходящи за сезона гуми",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3685,
+  "number" : 25,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На кои колела на автомобила се поставят при необходимост веригите за сняг?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12059,
+    "text" : "веригите за сняг се поставят винаги на предните колела",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12060,
+    "text" : "веригите за сняг се поставят винаги на задните колела",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12061,
+    "text" : "на колелата, които се задвижват от двигателя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12062,
+    "text" : "на колелата, които не се задвижват от двигателя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3686,
+  "number" : 26,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е използването на гуми с шипове при движение по пътищата, отворени за обществено ползване?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12064,
+    "text" : "не е разрешено, само за автомобили с обща маса над 3,5 т",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12065,
+    "text" : "да, винаги при сняг и зимни условия",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12066,
+    "text" : "да, но само когато пътните условия изискват това",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12063,
+    "text" : "не е разрешено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+} ]

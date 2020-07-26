@@ -1,0 +1,33 @@
+[ {
+  "id" : 3792,
+  "number" : 20,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При движение по пътищата, отворени за обществено ползване, водачът:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12429,
+    "text" : "не трябвада изхвърля и да оставя предмети на пътя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12428,
+    "text" : "трябва да спазва действащите норми за вредни емисии на отработени газове от МПС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12427,
+    "text" : "с поведението си не трябва да създава опасности и пречки за движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12430,
+    "text" : "не е задължен да отстранява предмети, паднали от превозното средство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

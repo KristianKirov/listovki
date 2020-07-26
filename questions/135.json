@@ -1,0 +1,59 @@
+[ {
+  "id" : 3695,
+  "number" : 2,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При пътуване на дълги разстояния за водачът с малък опит ще бъде по-безопасно ако:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12093,
+    "text" : "не се движи с високи скорости",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12094,
+    "text" : "избягва движението по автомагистрали",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12095,
+    "text" : "избягва пътуването през нощта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3696,
+  "number" : 3,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При предстоящо пътуване на дълго разстояние, придвижването ще бъде по-безопасно и улеснено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12099,
+    "text" : "ако, движението се извършва през нощта",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12096,
+    "text" : "от предварителния избор на маршрута",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12097,
+    "text" : "от планирането на подходящи спирания за почивка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12098,
+    "text" : "ако, придвижването се извършва с по-малко спирания",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

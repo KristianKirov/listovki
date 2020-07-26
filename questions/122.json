@@ -1,0 +1,1629 @@
+[ {
+  "id" : 3574,
+  "number" : 1,
+  "subNumber" : 1,
+  "pictureSha1" : "f353b79af545ce793a6d7b9f0786f5ca96123370",
+  "text" : "Този пътен знак забранява:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11690,
+    "text" : "изпреварването",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11687,
+    "text" : "движението назад",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11689,
+    "text" : "спирането за престой",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11688,
+    "text" : "паркирането",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3576,
+  "number" : 2,
+  "subNumber" : 1,
+  "pictureSha1" : "73525deba5ffe623b1bf80b28b13e4af78889e2c",
+  "text" : "След този пътен знак:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11696,
+    "text" : "е забранено спирането за престой",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11695,
+    "text" : "е разрешено паркирането",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11697,
+    "text" : "е забранено паркирането",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11698,
+    "text" : "е разрешено спирането за престой",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3575,
+  "number" : 1,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "След кой от тези знаци е забранено спирането за престой върху платното за движение?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11694,
+    "text" : null,
+    "pictureSha1" : "a6457dc4ebd97bbdd3643a5b2ed2ef54168dbe74",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11693,
+    "text" : null,
+    "pictureSha1" : "1eceb2a888d03232eb61a0098bb1ba776cbea82b",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11692,
+    "text" : null,
+    "pictureSha1" : "44ba88f8dfeb25874ae43bd05cbbcb5c7d66c92c",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11691,
+    "text" : null,
+    "pictureSha1" : "bafe259ae903a727f3dd200527415a12a10e8a53",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3577,
+  "number" : 3,
+  "subNumber" : 1,
+  "pictureSha1" : "2fa3fd92468108b29d9460ad240a800971c64975",
+  "text" : "Този пътен знак забранява :",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11701,
+    "text" : "паркирането",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11700,
+    "text" : "спирането за престой",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11699,
+    "text" : "престоя и паркирането",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3579,
+  "number" : 4,
+  "subNumber" : 1,
+  "pictureSha1" : "37caa149dc4961bf4c4a79fc6b48009e4d5eb004",
+  "text" : "След този пътен знак:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11706,
+    "text" : "е разрешено паркирането",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11707,
+    "text" : "е забранено спирането за престой",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11708,
+    "text" : "е забранено паркирането",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11709,
+    "text" : "е разрешено спирането за престой",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3578,
+  "number" : 3,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "След кой от тези знаци е забранено паркирането върху платното за движение?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11705,
+    "text" : null,
+    "pictureSha1" : "f81cc7f3c85033cec19ceaebdf09737dbe3321d4",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11702,
+    "text" : null,
+    "pictureSha1" : "bafe259ae903a727f3dd200527415a12a10e8a53",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11703,
+    "text" : null,
+    "pictureSha1" : "44ba88f8dfeb25874ae43bd05cbbcb5c7d66c92c",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11704,
+    "text" : null,
+    "pictureSha1" : "d3010442c16a83a0b4b8151e8654a771756e8c59",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3580,
+  "number" : 5,
+  "subNumber" : 1,
+  "pictureSha1" : "3de8de284951e34c9626c8956881cc0b7443c34f",
+  "text" : "Кой автомобил е спрян правилно за престой?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11711,
+    "text" : "само синият автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11710,
+    "text" : "и двата автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11712,
+    "text" : "само червеният автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3581,
+  "number" : 6,
+  "subNumber" : 1,
+  "pictureSha1" : "e5f8dc006f9cc0a4eb4fae5b8e8cd0dc5e85219c",
+  "text" : "Разрешено ли е след този знак да спрете върху платното за движение за слизане на пътник от автомобила?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11714,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11713,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3582,
+  "number" : 6,
+  "subNumber" : 2,
+  "pictureSha1" : "dbdbaea26890f6245500ae5ef145daaa1400538d",
+  "text" : "Разрешено ли е след този знак да спрете върху платното за движение за извършване на товарно-разтоварна дейност?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11715,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11716,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3588,
+  "number" : 11,
+  "subNumber" : 1,
+  "pictureSha1" : "98c28f0462ff8aad0de58ac084c576b1bb4b89fd",
+  "text" : "Кой от автомобилите е спрян неправилно за престой?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11734,
+    "text" : "само лекият автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11735,
+    "text" : "само товарният автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11736,
+    "text" : "и двата автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3589,
+  "number" : 12,
+  "subNumber" : 1,
+  "pictureSha1" : "3180c55e3c66bd8fa0402c8e7a88f68a8f1be09a",
+  "text" : "Кой от автомобилите е паркиран в нарушение на правилата за движение?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11739,
+    "text" : "и двата автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11737,
+    "text" : "само лекият автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11738,
+    "text" : "само товарният автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3590,
+  "number" : 13,
+  "subNumber" : 1,
+  "pictureSha1" : "6206a6ddb087d07d2af750c0adca5c49dd36176f",
+  "text" : "След този пътен знак спирането за престой върху платното за движение е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11740,
+    "text" : "разрешено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11741,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3591,
+  "number" : 13,
+  "subNumber" : 2,
+  "pictureSha1" : "779f8c5087f4465ce6a4ee33739e9aaa8009215f",
+  "text" : "След този пътен знак паркирането на ППС върху платното за движение е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11742,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11743,
+    "text" : "разрешено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3592,
+  "number" : 14,
+  "subNumber" : 1,
+  "pictureSha1" : "3698deb59e196d11b7757954f743956d9bd38206",
+  "text" : "Правилно ли е спрян за престой товарният автомобил?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11746,
+    "text" : "да, защото е извън платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11745,
+    "text" : "не, защото участъкът не е сигнализиран като място за паркиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11744,
+    "text" : "не, защото е паркиран след знак, който забранява изпреварването",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3593,
+  "number" : 14,
+  "subNumber" : 2,
+  "pictureSha1" : "cfd7ca9bc6f3943f1e48ff9071054684b09feea8",
+  "text" : "Правилно ли е паркиран товарният автомобил?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11748,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11747,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3594,
+  "number" : 15,
+  "subNumber" : 1,
+  "pictureSha1" : "e57f81e2f7b8be1198d36d9edc6f8e4762ac69ad",
+  "text" : "Спирането след знака върху платното за движение за качване на пътника е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11750,
+    "text" : "разрешено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11749,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3605,
+  "number" : 26,
+  "subNumber" : 1,
+  "pictureSha1" : "0607624f9d8c40390b5a6c7bf78c5f3ecd8632cb",
+  "text" : "Кой автомобил е паркиран правилно?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11782,
+    "text" : "и двата автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11783,
+    "text" : "само синият автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11784,
+    "text" : "само червеният автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3606,
+  "number" : 27,
+  "subNumber" : 2,
+  "pictureSha1" : "25d52f5e50f0ac95774b12c4baf851badaa6b580",
+  "text" : "Върху платното за движение след този знак е разрешено да спрете за:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11785,
+    "text" : "извършване на товарно-разтоварна дейност",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11787,
+    "text" : "слизане на пътник от автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11788,
+    "text" : "паркиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11786,
+    "text" : "качване на пътник в автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3607,
+  "number" : 27,
+  "subNumber" : 1,
+  "pictureSha1" : "fd9abdf4d0828d1370e2b9f7278b7c2e04924294",
+  "text" : "Спирането върху платното за движение след този пътен знак е:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11790,
+    "text" : "разрешено за слизане на пътник от автомобила",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11791,
+    "text" : "забранено за паркиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11792,
+    "text" : "забранено за извършване на товарно-разтоварна дейност",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11789,
+    "text" : "разрешено за качване на пътник в автомобила",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3609,
+  "number" : 31,
+  "subNumber" : 1,
+  "pictureSha1" : "4d6769842c01794caa3cce6431fd41e20f6e4bf2",
+  "text" : "Правилно ли е спрян за престой товарният автомобил?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11797,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11798,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3608,
+  "number" : 30,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На път извън населено място, където пътният банкет е с недостатъчна широчина, спирането за престой е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11795,
+    "text" : "разрешено най-вдясно на платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11796,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11794,
+    "text" : "разрешено най-вдясно на пътното платно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11793,
+    "text" : "разрешено в най-дясната пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3610,
+  "number" : 31,
+  "subNumber" : 2,
+  "pictureSha1" : "6e80a48a4d836927cd928df6176f93212667716e",
+  "text" : "Правилно ли е спрян за престой товарният автомобил?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11801,
+    "text" : "не, защото трябва да е извън платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11799,
+    "text" : "не, защото участъкът не е сигнализиран като място за паркиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11800,
+    "text" : "да, защото е възможно най-вдясно на пътното платно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3612,
+  "number" : 33,
+  "subNumber" : 1,
+  "pictureSha1" : "51ce52a3058cbff01d5bd292a6763e26befbc272",
+  "text" : "Правилно ли е паркиран товарният автомобил на този път извън населено място?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11806,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11805,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3611,
+  "number" : 32,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Къде по пътищата извън населените места е разрешено паркирането?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11803,
+    "text" : "извън платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11802,
+    "text" : "на обозначените за тази цел места",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11804,
+    "text" : "най-вдясно на платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3613,
+  "number" : 33,
+  "subNumber" : 2,
+  "pictureSha1" : "7933256fe7d46f2305e02644699d3e9a75f0cc20",
+  "text" : "Правилно ли е паркиран товарният автомобил на този път извън населено място?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11808,
+    "text" : "да, защото е възможно най-вдясно на пътното платно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11807,
+    "text" : "не, защото участъкът не е сигнализиран като място за паркиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11809,
+    "text" : "не, защото трябва да е извън платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3614,
+  "number" : 34,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Спирането за престой е забранено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11811,
+    "text" : "на разстояние по-малко от 5 м след пешеходна пътека",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11812,
+    "text" : "на разстояние по-малко от 5 м преди пешеходна пътека",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11810,
+    "text" : "на пешеходна пътека",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3615,
+  "number" : 34,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Спирането за престой е забранено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11813,
+    "text" : "на велосипедна пътека",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11815,
+    "text" : "на разстояние, по-малко от 5 метра след велосипедна пътека",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11814,
+    "text" : "на разстояние, по-малко от 5 метра преди велосипедна пътека",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3616,
+  "number" : 35,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Забранено е спирането за престой пред пешеходна пътека на разстояние по-малко от:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11816,
+    "text" : "20 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11818,
+    "text" : "10 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11819,
+    "text" : "5 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11817,
+    "text" : "15 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3618,
+  "number" : 37,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Спирането за престой е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11824,
+    "text" : "на участък от пътя, който е в ремонт",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11822,
+    "text" : "в подлез",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11825,
+    "text" : "на надлез",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11823,
+    "text" : "в тунел",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3619,
+  "number" : 37,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Спирането за престой е забранено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11827,
+    "text" : "непосредствено след пешеходна пътека",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11826,
+    "text" : "в тунел",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11828,
+    "text" : "на участък от пътя с наклон",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11829,
+    "text" : "на мост",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3620,
+  "number" : 39,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Спирането за престой е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11830,
+    "text" : "на платното за движение, където с пътен знак е забранено изпреварването",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11833,
+    "text" : "върху пътна лента, предназначена за движение на бавнодвижещи се ППС, обозначена с пътен знак",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11832,
+    "text" : "на участък от пътя с интензивно движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11831,
+    "text" : "на място, където ППС закрива от другите участници в движението пътен знак",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3621,
+  "number" : 38,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Спирането за престой е забранено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11836,
+    "text" : "в стеснен участък от пътя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11837,
+    "text" : "на път с еднопосочно движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11834,
+    "text" : "в участък с ограничена видимост",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11835,
+    "text" : "на участък от пътя, който е в ремонт",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3622,
+  "number" : 40,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На кое от изброените места е забранено спирането за престой?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11839,
+    "text" : "на път с еднопосочно движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11840,
+    "text" : "до друго, спряно за престой или паркирано ППС, от страната на движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11838,
+    "text" : "на място, където ППС закрива от другите участници в движението сигнал на светофара",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11841,
+    "text" : "на места, където ППС създава опасност или е пречка за движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3623,
+  "number" : 41,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Спирането за престой е забранено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11845,
+    "text" : "на улици, по които се движат трамваи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11844,
+    "text" : "пред входовете на театри и кина",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11842,
+    "text" : "на места, където превозното средство би закрило сигнал на светофара",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11843,
+    "text" : "на места, където превозното средство би закрило пътен знак",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3624,
+  "number" : 42,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Спирането за престой е забранено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11848,
+    "text" : "на платното за движение, където разстоянието между ППС и пътната маркировка, забранена за пресичане, е по-малко от 3 метра",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11847,
+    "text" : "при намалена видимост под 50 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11849,
+    "text" : "на неосветен участък от пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11846,
+    "text" : "в стеснен участък от пътя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3625,
+  "number" : 43,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Спирането за престой е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11850,
+    "text" : "върху трамвайна линия",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11851,
+    "text" : "на неосветен участък от пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11853,
+    "text" : "на място с ограничена видимост",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11852,
+    "text" : "върху  железопътна линия",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3626,
+  "number" : 44,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Паркирането е забранено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11855,
+    "text" : "на пешеходна пътека",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11854,
+    "text" : "на разстояние по-малко от 5 м преди пешеходна пътека",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11856,
+    "text" : "на разстояние по-малко от 5 м след пешеходна пътека",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3627,
+  "number" : 45,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Забранено е паркирането пред пешеходни пътеки, на разстояние по-малко от:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11857,
+    "text" : "10 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11858,
+    "text" : "15 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11859,
+    "text" : "5 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11860,
+    "text" : "20 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3628,
+  "number" : 44,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Паркирането е забранено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11861,
+    "text" : "на разстояние, по-малко от 5 метра след велосипедна пътека",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11863,
+    "text" : "на разстояние, по-малко от 5 метра преди велосипедна пътека",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11862,
+    "text" : "на велосипедна пътека",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3632,
+  "number" : 49,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Паркирането е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11877,
+    "text" : "на път с еднопосочно движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11876,
+    "text" : "на място, където ППС закрива от другите участници в движението пътен знак",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11875,
+    "text" : "на място, където ППС създава опасност или е пречка за движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11874,
+    "text" : "на място, където ППС закрива от другите участници в движението сигнал на светофара",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3633,
+  "number" : 50,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Паркирането е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11881,
+    "text" : "в тунел",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11879,
+    "text" : "в подлез",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11880,
+    "text" : "на надлез",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11878,
+    "text" : "на участък от пътя с наклон",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3634,
+  "number" : 51,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Паркирането е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11883,
+    "text" : "на участък от пътя с наклон",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11884,
+    "text" : "в участък с ограничена видимост",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11882,
+    "text" : "в стеснен участък от пътя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11885,
+    "text" : "върху трамвайна линия",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3635,
+  "number" : 52,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Паркирането е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11886,
+    "text" : "върху пътна лента, предназначена за движение на бавнодвижещи се ППС, обозначена с пътен знак",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11888,
+    "text" : "на участък от пътя с интензивно движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11889,
+    "text" : "на платното за движение, където с пътен знак е забранено изпреварването",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11887,
+    "text" : "на платното за движение, където разстоянието между ППС и пътната маркировка, забранена за пресичане, е по-малко от 3 метра",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3636,
+  "number" : 53,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Паркирането е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11890,
+    "text" : "на места, където е възможно да влизат или да излизат пътни превозни средства",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11893,
+    "text" : "непосредствено пред входовете на гаражи, когато това затруднява достъпа до тях",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11892,
+    "text" : "пред входовете на паркове, театри, кина, предприятия",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11891,
+    "text" : "на участък от пътя в ремонт",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3637,
+  "number" : 54,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Паркирането е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11895,
+    "text" : "на места, определени за ППС, обслужващи хора с трайни увреждания",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11894,
+    "text" : "до паркирано или спряно за престой ППС, от страната на движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11897,
+    "text" : "на участък от пътя в ремонт",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11896,
+    "text" : "на мост",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3638,
+  "number" : 55,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Паркирането е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11900,
+    "text" : "на улици, по които се движат трамваи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11899,
+    "text" : "върху трамвайна линия",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11898,
+    "text" : "на спирките на превозните средства от редовните линии за обществен превоз на пътници",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11901,
+    "text" : "в близост до трамвайна линия, което може да затрудни движението на трамвая",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3639,
+  "number" : 55,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Паркирането е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11905,
+    "text" : "на прилежащите тротоари на детските заведения и училищата",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11904,
+    "text" : "непосредствено пред входовете на жилищни сгради, когато това затруднява достъпа до тях",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11902,
+    "text" : "пред здравни заведения",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11903,
+    "text" : "пред входовете на детските заведения и училищата",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3640,
+  "number" : 56,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Престоят върху платното за движение е забранен, ако разстоянието между ППС и пътната маркировка, забранена за пресичане, е:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11908,
+    "text" : "2.5 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11907,
+    "text" : "3.5 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11906,
+    "text" : "1 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11909,
+    "text" : "2 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3641,
+  "number" : 56,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "При паркиране върху платното за движение, водачът е в нарушение, ако разстоянието между ППС и пътната маркировка, забранена за пресичане, е:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11912,
+    "text" : "2.5 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11910,
+    "text" : "1 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11913,
+    "text" : "3.5 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11911,
+    "text" : "2 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3642,
+  "number" : 57,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешен ли е престоят на ППС в участъци от пътя, които са в ремонт?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11915,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11914,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3643,
+  "number" : 57,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е паркирането на ППС в участъци от пътя, които са в ремонт?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11916,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11917,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3644,
+  "number" : 58,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешен ли е престоят на ППС в стеснени участъци от пътя?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11919,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11918,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3645,
+  "number" : 58,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е паркирането на ППС в стеснени участъци от пътя?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11921,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11920,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3646,
+  "number" : 59,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Престоят на ППС е забранен на кръстовище и на разстояние от него, по-малко от:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11922,
+    "text" : "10 м преди кръстовище",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11923,
+    "text" : "10 м след кръстовище",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11925,
+    "text" : "5 м преди кръстовище",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11924,
+    "text" : "5 м след кръстовище",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3647,
+  "number" : 59,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Паркирането на ППС е забранено на кръстовище и на разстояние от него, по-малко от:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11929,
+    "text" : "5 м преди кръстовище",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11927,
+    "text" : "10 м след кръстовище",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11928,
+    "text" : "5 м след кръстовище",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11926,
+    "text" : "10 м преди кръстовище",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3648,
+  "number" : 60,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При спиране за престой преди кръстовище водачът е в нарушение, ако разстоянието от автомобила до кръстовището е:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11931,
+    "text" : "6 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11933,
+    "text" : "2 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11930,
+    "text" : "4 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11932,
+    "text" : "10 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3649,
+  "number" : 60,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "При паркиране преди кръстовище водачът е в нарушение, ако разстоянието от автомобила до кръстовището е:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11934,
+    "text" : "10 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11937,
+    "text" : "4 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11935,
+    "text" : "6 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11936,
+    "text" : "2 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3726,
+  "number" : 28,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Къде по пътищата извън населените места е разрешен престоят?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12191,
+    "text" : "само на специално определените за това места",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12192,
+    "text" : "извън платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12190,
+    "text" : "допуска се престой най-вдясно на пътното платно, когато пътният банкет е с недостатъчна широчина",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+} ]

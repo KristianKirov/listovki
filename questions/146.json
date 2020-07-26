@@ -1,0 +1,513 @@
+[ {
+  "id" : 3797,
+  "number" : 25,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Какви са задълженията на водача, ако по време на движение товарът, който превозва, падне на пътя?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12444,
+    "text" : "да вземе мерки за отстраняване на товара от пътя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12445,
+    "text" : "длъжен е само да уведоми пътните органи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12442,
+    "text" : "да вземе необходимите мерки за сигнализиране на товара и превозното средство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12443,
+    "text" : "водачът няма задължения във връзка с товара, който превозва",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3798,
+  "number" : 26,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При превоз на товари допуска ли се масата на ППС да надвишава допустимата максимална маса, отразена в свидетелството за регистрация?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12446,
+    "text" : "да, при превоз на разстояние до 10 км",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12449,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12447,
+    "text" : "да, при превоз в населено място",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12448,
+    "text" : "да, ако това превишение е до 25%",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3799,
+  "number" : 27,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "По кой от изброените начини може да се обозначи товар, който излиза отпред на най-издадената част на превозното средство с повече от 1 м?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12451,
+    "text" : "с бял светлоотразител при движение през нощта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12452,
+    "text" : "с червена светлина при движение през деня",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12450,
+    "text" : "с червен флаг при движение през деня",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12453,
+    "text" : "с бяла светлина при движение през нощта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3800,
+  "number" : 28,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При движение през нощта по кой от изброените начини може да се обозначи товар, който излиза с повече от 1 м отпред на най-издадената част на превозното средство?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12454,
+    "text" : "с червен флаг",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12455,
+    "text" : "с бял светлоотразител",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12456,
+    "text" : "с бяла светлина",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12457,
+    "text" : "с червена светлина",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3801,
+  "number" : 29,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "По кой от изброените начини може да се обозначи товар, който излиза отзад на най-издадената част на превозното средство с повече от 1 м?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12461,
+    "text" : "с червен светлоотразител през нощта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12460,
+    "text" : "с червен флаг през деня",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12459,
+    "text" : "с бяла светлина през деня",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12458,
+    "text" : "с червена светлина през нощта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3802,
+  "number" : 30,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При движение през нощта по кой от изброените начини може да се обозначи товар, който излиза с повече от 1 м отзад на най-издадената част на превозното средство?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12463,
+    "text" : "с бяла светлина",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12465,
+    "text" : "с червен светлоотразител",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12464,
+    "text" : "с червена светлина",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12462,
+    "text" : "с червен флаг",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3803,
+  "number" : 31,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При движение през деня, товарът, който излиза с повече от 1 м отпред или отдзад на най-издадената част на превозното средство, се обозначава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12466,
+    "text" : "с червен флаг",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12469,
+    "text" : "с червен светлоотразител",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12468,
+    "text" : "с червена светлина",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12467,
+    "text" : "с бяла светлина",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3804,
+  "number" : 33,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Товарът не се обозначава, ако излиза отпред на най-издадената част на ППС на разстояние:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12470,
+    "text" : "до 2 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12473,
+    "text" : "до 3 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12471,
+    "text" : "до 1,5 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12472,
+    "text" : "до 1 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3805,
+  "number" : 34,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Товарът не се обозначава, ако излиза отстрани на най-издадената част на ППС на разстояние:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12475,
+    "text" : "до 0,5 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12474,
+    "text" : "до 0,2 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12476,
+    "text" : "до 1,5 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12477,
+    "text" : "до 1,0 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3806,
+  "number" : 35,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Товарът не се обозначава, ако излиза отзад на най-издадената част на ППС на разстояние:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12480,
+    "text" : "до 1 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12481,
+    "text" : "до 2 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12478,
+    "text" : "до 1,5 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12479,
+    "text" : "до 3 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3807,
+  "number" : 36,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Задължение на водача е превозваният товар:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12484,
+    "text" : "да е застрахован",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12483,
+    "text" : "да е укрепен",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12485,
+    "text" : "да не закрива огледалата за виждане назад",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12482,
+    "text" : "да не закрива светлинните и сигналните устройства на автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3808,
+  "number" : 37,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Задължение на водача е превозваният товар:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12489,
+    "text" : "да е укрепен",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12488,
+    "text" : "да е покрит, когато отразява светлината и може да заслепи други участници в движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12487,
+    "text" : "да не закрива светлинните устройства на автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12486,
+    "text" : "да е опакован съгласно изискванията на производителя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3809,
+  "number" : 38,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Задължение на водача е превозваният товар да бъде:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12490,
+    "text" : "застрахован",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12493,
+    "text" : "укрепен",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12491,
+    "text" : "покрит, когато отразява светлината и може да заслепи други участници в движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12492,
+    "text" : "опакован съгласно изискванията на производителя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3810,
+  "number" : 39,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На кое от посочените изисквания трябва да отговаря превозваният товар?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12495,
+    "text" : "да не закрива светлинните устройства на автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12494,
+    "text" : "да не закрива сигналните устройства на автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12497,
+    "text" : "да е опакован и да има етикети",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12496,
+    "text" : "да не закрива огледалата за виждане назад",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3811,
+  "number" : 40,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Задължително изискване е превозваният товар да не закрива:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12499,
+    "text" : "сигналните устройства на автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12498,
+    "text" : "приспособленията, с които е осигурен срещу падане",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12500,
+    "text" : "огледалата за виждане назад",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12501,
+    "text" : "осветлението вътре в автомобила",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3812,
+  "number" : 41,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "В кой от посочените случаи безопасността на движението изисква превозваният товар да бъде задължително покрит?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12503,
+    "text" : "когато товарът може да бъде разпилян",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12504,
+    "text" : "когато товарът не е укрепен",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12505,
+    "text" : "когато вали дъжд или сняг",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12502,
+    "text" : "когато товарът отразява светлината и може да заслепи други участници в движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+} ]

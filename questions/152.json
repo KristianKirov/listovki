@@ -1,0 +1,251 @@
+[ {
+  "id" : 3865,
+  "number" : 1,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Водачите от коя възрастова група попадат най-често в пътнотранспортни произшествия?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12668,
+    "text" : "от 24 до 36 години",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12669,
+    "text" : "от 56 до 65 години",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12667,
+    "text" : "от 36 до 45 години",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12670,
+    "text" : "от 18 до 24 години",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3866,
+  "number" : 2,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Поради коя от изброените причини най-често настъпват пътнотранспортни произшествия?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12672,
+    "text" : "лоши пътни условия",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12674,
+    "text" : "неизправност на превозното средство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12673,
+    "text" : "грешка на водача",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12671,
+    "text" : "неправилно поведение на пешеходците",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3867,
+  "number" : 3,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При извършването на кои две от посочените нарушения настъпват най-много пътнотранспортни произшествия:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12675,
+    "text" : "неправилното спиране за престой",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12678,
+    "text" : "отнемането на предимство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12677,
+    "text" : "движението с несъобразена скорост",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12676,
+    "text" : "неправилното теглене",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3868,
+  "number" : 4,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Данните от статистиката показват, че най-голям брой пътнотранспортни произшествия настъпват:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12682,
+    "text" : "след полунощ",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12679,
+    "text" : "между 21 и 22 часа",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12681,
+    "text" : "между 7 и 8 часа",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12680,
+    "text" : "между 17 и 18 часа",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3869,
+  "number" : 4,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Данните от статистиката показват, че най-голям брой пътнотранспортни произшествия настъпват:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12684,
+    "text" : "в селата",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12685,
+    "text" : "извън населените места",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12686,
+    "text" : "в градовете",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12683,
+    "text" : "на автомагистралите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3870,
+  "number" : 4,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Данните от статистиката показват, че най-голям брой пътнотранспортни произшествия настъпват:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12690,
+    "text" : "когато е тъмно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12688,
+    "text" : "при изкуствено осветление",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12687,
+    "text" : "в сумрак",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12689,
+    "text" : "през деня",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3871,
+  "number" : 4,
+  "subNumber" : 4,
+  "pictureSha1" : null,
+  "text" : "Данните от статистиката показват, че най-тежки (с най-много пострадали хора) са пътнотранспортни произшествия които настъпват:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12693,
+    "text" : "на изкуствено осветление",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12691,
+    "text" : "при сумрак и тъмнина",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12692,
+    "text" : "през деня",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3872,
+  "number" : 5,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "В случай на произшествие, правилно е поведението на водача, когато той:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12695,
+    "text" : "не предприема нищо до идването на помощните екипи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12697,
+    "text" : "запазва спокойствие",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12696,
+    "text" : "не изпада в паника",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12694,
+    "text" : "се справя с възникналите проблеми винаги сам",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

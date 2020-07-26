@@ -1,0 +1,577 @@
+[ {
+  "id" : 2540,
+  "number" : 1,
+  "subNumber" : 1,
+  "pictureSha1" : "3773ecb854721d08b6770ddbc8aaddbc1f83a357",
+  "text" : "За кой от водачите, това положение на тялото и ръцете на регулировчика е сигнал, че може да премине направо или да завие надясно?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8203,
+    "text" : "на синия автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8205,
+    "text" : "на червения автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8206,
+    "text" : "на жълтия автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8204,
+    "text" : "на зеления автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2740,
+  "number" : 1,
+  "subNumber" : 2,
+  "pictureSha1" : "710ae30f1a77c3159c43afa51d3b86cf2382ec97",
+  "text" : "За кой от водачите, това положение на тялото и ръцете на регулировчика е сигнал, че може да премине направо или да завие надясно?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8938,
+    "text" : "на червения автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8940,
+    "text" : "на жълтия автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8939,
+    "text" : "на синия автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8937,
+    "text" : "на зеления автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2741,
+  "number" : 2,
+  "subNumber" : 1,
+  "pictureSha1" : "be9bea45a784020334a46437ce10cff7d0f18939",
+  "text" : "За кой от водачите, това положение на тялото и ръцете на регулировчика е сигнал, че преминаването е забранено във всички посоки?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8941,
+    "text" : "на синия автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8944,
+    "text" : "на червения автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8942,
+    "text" : "на зеления автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8943,
+    "text" : "на жълтия автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2742,
+  "number" : 2,
+  "subNumber" : 2,
+  "pictureSha1" : "84dff22e9a1dc3e3655ad5ab9863459d6e4d27f4",
+  "text" : "За кой от водачите, това положение на тялото и ръцете на регулировчика е сигнал, че преминаването е забранено във всички посоки?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8948,
+    "text" : "на червения автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8947,
+    "text" : "на синия автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8945,
+    "text" : "на жълтия автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8946,
+    "text" : "на зеления автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2743,
+  "number" : 3,
+  "subNumber" : 1,
+  "pictureSha1" : "d549584d33b21f10bb0fec78f4968c5d2948ad92",
+  "text" : "Сигналът на регулировчика означава, че:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8949,
+    "text" : "мога да завия надясно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8951,
+    "text" : "преминаването ми е забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8950,
+    "text" : "мога да завия в обратна посока",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8952,
+    "text" : "мога да завия наляво",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2744,
+  "number" : 3,
+  "subNumber" : 2,
+  "pictureSha1" : "a859f77c8a6fa783c00b937efac239a7e8c33794",
+  "text" : "Сигналът на регулировчика означава, че:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8954,
+    "text" : "мога да завия наляво",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8955,
+    "text" : "мога да завия в обратна посока",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8956,
+    "text" : "преминаването ми е забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8953,
+    "text" : "мога да завия надясно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2745,
+  "number" : 4,
+  "subNumber" : 1,
+  "pictureSha1" : "b9d7a3abaffce9a5d476a306c71cda2b02130966",
+  "text" : "Сигналът на регулировчика означава, че:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8960,
+    "text" : "мога да премина направо",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8959,
+    "text" : "мога да завия надясно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8958,
+    "text" : "мога да завия наляво",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8957,
+    "text" : "мога да завия в обратна посока",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2746,
+  "number" : 4,
+  "subNumber" : 2,
+  "pictureSha1" : "ab52845f9e9542d7856b6e2de1954daa1e37e732",
+  "text" : "Сигналът на регулировчика означава, че:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8961,
+    "text" : "мога да завия в обратна посока",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8964,
+    "text" : "мога да премина направо",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8962,
+    "text" : "мога да завия надясно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8963,
+    "text" : "мога да завия наляво",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2747,
+  "number" : 5,
+  "subNumber" : 1,
+  "pictureSha1" : "086d3d1eda687a43a3a4e968d2db9a99de9db0d8",
+  "text" : "За кой от водачите, това положение на тялото и ръцете на регулировчика е сигнал, значението на който е „Преминаването е разрешено”?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8967,
+    "text" : "на жълтия автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8966,
+    "text" : "на червения автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8965,
+    "text" : "на зеления автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8968,
+    "text" : "на синия автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2748,
+  "number" : 5,
+  "subNumber" : 2,
+  "pictureSha1" : "7816813470cad9f4d12536f4afff0c30925c1c7f",
+  "text" : "За кой от водачите, това положение на тялото и ръцете на регулировчика е сигнал, значението на който е „Преминаването е разрешено”?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8970,
+    "text" : "на жълтия автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8971,
+    "text" : "на зеления автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8969,
+    "text" : "на синия автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8972,
+    "text" : "на червения автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2749,
+  "number" : 6,
+  "subNumber" : 1,
+  "pictureSha1" : "b1de6d2690d92e12e471b75deef2ff4bc027034b",
+  "text" : "За кой от водачите, това положение на тялото и ръцете на регулировчика е сигнал, значението на който е „Преминаването е забранено”?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8975,
+    "text" : "на зеления автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8973,
+    "text" : "на синия автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8974,
+    "text" : "на жълтия автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8976,
+    "text" : "на червения автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2750,
+  "number" : 6,
+  "subNumber" : 2,
+  "pictureSha1" : "90c41216db293166cd70e35ac796ffc0bbd34bec",
+  "text" : "За кой от водачите, това положение на тялото и ръцете на регулировчика е сигнал, значението на който е „Преминаването е забранено”?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8979,
+    "text" : "на синия автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8977,
+    "text" : "на червения автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8980,
+    "text" : "на зеления автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8978,
+    "text" : "на жълтия автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2751,
+  "number" : 7,
+  "subNumber" : 1,
+  "pictureSha1" : "1680e2a9b7807d125f1a6ba292bf8a21c323d70b",
+  "text" : "Сигналът на регулировчика означава, че е:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8982,
+    "text" : "разрешено да премина направо",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8984,
+    "text" : "забранено да завия надясно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8981,
+    "text" : "разрешено да завия наляво",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8983,
+    "text" : "забранено да завия в обратна посока",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2752,
+  "number" : 8,
+  "subNumber" : 1,
+  "pictureSha1" : "b86651edce8f279b40b7c010c5d9b75c98b98ea7",
+  "text" : "Сигналът на регулировчика означава, че:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8987,
+    "text" : "преминаването ми е забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8986,
+    "text" : "е разрешено да завия надясно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8985,
+    "text" : "е разрешено да завия в обратна посока",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8988,
+    "text" : "е разрешено да завия наляво",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2753,
+  "number" : 7,
+  "subNumber" : 2,
+  "pictureSha1" : "2def99f1c2f057782adeb9f6ba7de150e81e27f1",
+  "text" : "Сигналът на регулировчика означава, че:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8990,
+    "text" : "е разрешено да завия в обратна посока",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8992,
+    "text" : "е разрешено да завия наляво",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8991,
+    "text" : "е разрешено да завия надясно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8989,
+    "text" : "преминаването ми е забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2754,
+  "number" : 8,
+  "subNumber" : 2,
+  "pictureSha1" : "45cec34ef0c9de6688510943c9eeb80c903a4d0a",
+  "text" : "Сигналът на регулировчика означава, че:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8993,
+    "text" : "преминаването ми е забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8994,
+    "text" : "е разрешено да завия в обратна посока",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8996,
+    "text" : "е разрешено да завия надясно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8995,
+    "text" : "е разрешено да завия наляво",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2755,
+  "number" : 10,
+  "subNumber" : 1,
+  "pictureSha1" : "c364c6dce101573ce1bba9743865f743c621141a",
+  "text" : "Значението на този сигнал на регулировчика е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9000,
+    "text" : "„Премини с повишено внимание”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8999,
+    "text" : "„Внимание”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8997,
+    "text" : "„Внимание, спри!”",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8998,
+    "text" : "„Пропусни движещите се по пресичания път”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2757,
+  "number" : 10,
+  "subNumber" : 2,
+  "pictureSha1" : "7905ab64cf7097a3918d6351be8e6e7d26e6ea17",
+  "text" : "Значението на този сигнал на регулировчика е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9008,
+    "text" : "„Пропусни движещите се по пресичания път”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9007,
+    "text" : "„Внимание”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9005,
+    "text" : "„Премини с повишено внимание”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9006,
+    "text" : "„Внимание, спри!”",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+} ]

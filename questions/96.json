@@ -1,0 +1,1033 @@
+[ {
+  "id" : 3161,
+  "number" : 1,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато няма други ограничения, водачът на мотопед при движение в населено място не трябва да превишава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10314,
+    "text" : "55 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10315,
+    "text" : "45 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10316,
+    "text" : "40 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10317,
+    "text" : "50 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3162,
+  "number" : 1,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Когато няма други ограничения, водачът на мотопед при движение извън населено място не трябва да превишава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10319,
+    "text" : "45 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10318,
+    "text" : "70 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10321,
+    "text" : "60 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10320,
+    "text" : "55 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3163,
+  "number" : 1,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Когато няма други ограничения, водачите на леки моторни превозни средства с четири колела от категория АМ, при движение извън населено място, не трябва да превишават:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10323,
+    "text" : "45 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10322,
+    "text" : "50 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10324,
+    "text" : "40 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10325,
+    "text" : "55 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3164,
+  "number" : 2,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато няма други ограничения, водачът на мотоциклет при движение в населено място не трябва да превишава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10327,
+    "text" : "50 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10329,
+    "text" : "55 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10326,
+    "text" : "40 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10328,
+    "text" : "60 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3165,
+  "number" : 2,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Когато няма други ограничения, водачът на мотоциклет при движение извън населено място не трябва да превишава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10333,
+    "text" : "70 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10331,
+    "text" : "80 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10332,
+    "text" : "60 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10330,
+    "text" : "90 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3175,
+  "number" : 7,
+  "subNumber" : 1,
+  "pictureSha1" : "7498449ce2f59740e02ae75d655d12c606f49645",
+  "text" : "Този пътен знак:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10372,
+    "text" : "указва задължителна минимална скорост за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10370,
+    "text" : "забранява движението със скорост по-висока от означената",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10371,
+    "text" : "сигнализира препоръчителна скорост за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3166,
+  "number" : 3,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато няма други ограничения, водачът на автомобил от категория В при движение в населено място не трябва да превишава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10334,
+    "text" : "50 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10336,
+    "text" : "60 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10335,
+    "text" : "55 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10337,
+    "text" : "40 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3167,
+  "number" : 3,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Когато няма други ограничения, водачът на автомобил от категория В при движение извън населено място не трябва да превишава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10341,
+    "text" : "80 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10338,
+    "text" : "70 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10339,
+    "text" : "100 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10340,
+    "text" : "90 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3168,
+  "number" : 3,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Когато разрешената максимална скорост за движение в населено място не е сигнализирана с пътен знак, водачите на леки автомобили не трябва да превишават:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10344,
+    "text" : "40 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10342,
+    "text" : "50 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10345,
+    "text" : "60 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10343,
+    "text" : "45 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3169,
+  "number" : 4,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато няма други ограничения, водачът на автомобил от категория В1 при движение в населено място не трябва да превишава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10348,
+    "text" : "40 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10349,
+    "text" : "50 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10347,
+    "text" : "55 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10346,
+    "text" : "60 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3170,
+  "number" : 4,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Когато няма други ограничения, водачът на автомобил от категория В1 при движение извън населено място не трябва да превишава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10350,
+    "text" : "80 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10351,
+    "text" : "90 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10352,
+    "text" : "70 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10353,
+    "text" : "100 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3171,
+  "number" : 5,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато няма други ограничения, водачът на състав от ППС от категория ВЕ при движение в населено място не трябва да превишава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10356,
+    "text" : "40 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10357,
+    "text" : "55 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10354,
+    "text" : "60 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10355,
+    "text" : "50 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3172,
+  "number" : 5,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Когато няма други ограничения, водачът на състав от ППС от категория ВЕ при движение извън населено място не трябва да превишава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10358,
+    "text" : "80 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10361,
+    "text" : "70 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10360,
+    "text" : "90 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10359,
+    "text" : "60 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3173,
+  "number" : 6,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато няма други ограничения, водачът на товарен автомобил с допустима максимална маса 3 т, при движение извън населено място, не трябва да превишава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10364,
+    "text" : "90 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10365,
+    "text" : "60 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10362,
+    "text" : "80 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10363,
+    "text" : "70 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3174,
+  "number" : 6,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Когато няма други ограничения, водачът на товарен автомобил с допустима максимална маса 3 т, при движение в населено място, не трябва да превишава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10367,
+    "text" : "50 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10369,
+    "text" : "55 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10368,
+    "text" : "40 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10366,
+    "text" : "60 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3177,
+  "number" : 8,
+  "subNumber" : 1,
+  "pictureSha1" : "8dd6df16a5e84572fd9f4498302fc8b6c4263c10",
+  "text" : "Разрешено ли е след този пътен знак движение със скорост по-висока от означената?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10378,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10377,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3176,
+  "number" : 7,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци забранява движението със скорост, по-висока от означената?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10374,
+    "text" : null,
+    "pictureSha1" : "08eb73376eb551b66796919e9847e161e2b0081e",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10375,
+    "text" : null,
+    "pictureSha1" : "1721b7346d0b8094469d11ed447fd4980ceacedb",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10376,
+    "text" : null,
+    "pictureSha1" : "08ee9265fe287981ddb6cc520b1c33f6ec0c8e35",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10373,
+    "text" : null,
+    "pictureSha1" : "2419b4c157b6b591a85f425e4c4fd292a17ef96e",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3178,
+  "number" : 8,
+  "subNumber" : 2,
+  "pictureSha1" : "c719a584881f62f1ae83dc04be561ee445e2adc2",
+  "text" : "Разрешено ли е след този пътен знак движение със скорост по-висока от означената?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10379,
+    "text" : "да, но само когато пътят е сух",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10380,
+    "text" : "да, във всички случаи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10381,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10382,
+    "text" : "да, но само когато има необходимите условия за безопасност",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3179,
+  "number" : 9,
+  "subNumber" : 1,
+  "pictureSha1" : "08ee9265fe287981ddb6cc520b1c33f6ec0c8e35",
+  "text" : "Този пътен знак:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10383,
+    "text" : "забранява движението на МПС, които не могат да развият скорост, по-голяма от означената",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10386,
+    "text" : "забрананява движението със скорост, по-ниска от означената",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10384,
+    "text" : "сигнализира за край на ограничението на скоростта, въведено с пътен знак",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10385,
+    "text" : "забрананява движението със скорост, по-висока от означената",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3180,
+  "number" : 10,
+  "subNumber" : 1,
+  "pictureSha1" : "77c41d06f3795d1a792cdadf53f4ae6855bcfeca",
+  "text" : "След този пътен знак няма ограничение за скоростта на движение.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10387,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10388,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3181,
+  "number" : 10,
+  "subNumber" : 2,
+  "pictureSha1" : "72216f1814f3473f48678636671b47d1e833446f",
+  "text" : "След този пътен знак разрешената максимална скорост за движение извън населено място е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10389,
+    "text" : "в зависимост от категорията на превозното средство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10392,
+    "text" : "130 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10390,
+    "text" : "90 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10391,
+    "text" : "60 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3182,
+  "number" : 11,
+  "subNumber" : 1,
+  "pictureSha1" : "22e5cb96fd7e7aa39bd99103ffc2aee73fb9fd27",
+  "text" : "След този пътен знак движението с разрешената максимална скорост е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10393,
+    "text" : "разрешено само при наличие на необходимите условия за безопасност",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10394,
+    "text" : "разрешено във всички случаи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10395,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3183,
+  "number" : 11,
+  "subNumber" : 2,
+  "pictureSha1" : "8e2547ffaceea885cae56aad743f4f03381dce59",
+  "text" : "При тази ситуация водачът на червения автомобил може да се движи с разрешената максимална скорост:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10396,
+    "text" : "само, ако има стаж като водач над 2 години",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10397,
+    "text" : "във всички случаи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10398,
+    "text" : "само при наличието на необходимите условия за безопасност",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3184,
+  "number" : 12,
+  "subNumber" : 1,
+  "pictureSha1" : "0ecd400a8455ff62d711448708a8f23a8d7db6ac",
+  "text" : "Този пътен знак:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10401,
+    "text" : "забранява движение със скорост, по-висока от означената",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10399,
+    "text" : "указва задължителна минимална скорост за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10400,
+    "text" : "указва препоръчителна скорост за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3186,
+  "number" : 13,
+  "subNumber" : 1,
+  "pictureSha1" : "04d0d7f9cf22e6e990ac2f9e9d7ab0e7f457e9af",
+  "text" : "При тази ситуация разрешено ли е движение със скорост, по-висока от означената?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10405,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10406,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3185,
+  "number" : 12,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Значението на кой от пътните знаци е “Препоръчителна скорост”?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10403,
+    "text" : null,
+    "pictureSha1" : "2419b4c157b6b591a85f425e4c4fd292a17ef96e",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10402,
+    "text" : null,
+    "pictureSha1" : "d77c9d2334ec526838533c4340a5886fb5f72017",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10404,
+    "text" : null,
+    "pictureSha1" : "0ecd400a8455ff62d711448708a8f23a8d7db6ac",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3187,
+  "number" : 13,
+  "subNumber" : 2,
+  "pictureSha1" : "a284fc7b70a0c1e9a15cb9775ae109e3d02821e0",
+  "text" : "При тази ситуация разрешено ли е движение със скорост, по-ниска от означената?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10408,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10407,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3188,
+  "number" : 14,
+  "subNumber" : 1,
+  "pictureSha1" : "d77c9d2334ec526838533c4340a5886fb5f72017",
+  "text" : "Този пътен знак:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10409,
+    "text" : "забранява движение със скорост, по-висока от означената",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10410,
+    "text" : "указва препоръчителна скорост за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10411,
+    "text" : "указва задължителна минимална скорост за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3190,
+  "number" : 15,
+  "subNumber" : 1,
+  "pictureSha1" : "d96a15b3dc1df7e2bac042424633e7ea0eddd962",
+  "text" : "При тази ситуация разрешено ли е движение със скорост, по-висока от означената?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10416,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10415,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3189,
+  "number" : 14,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Значението на кой от пътните знаци е “Задължителна минимална скорост”?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10412,
+    "text" : null,
+    "pictureSha1" : "0ecd400a8455ff62d711448708a8f23a8d7db6ac",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10413,
+    "text" : null,
+    "pictureSha1" : "d77c9d2334ec526838533c4340a5886fb5f72017",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10414,
+    "text" : null,
+    "pictureSha1" : "2419b4c157b6b591a85f425e4c4fd292a17ef96e",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3191,
+  "number" : 15,
+  "subNumber" : 2,
+  "pictureSha1" : "a40cbb2ac0c62a46d6373b4c2544f9b17e3044e0",
+  "text" : "При тази ситуация разрешено ли е движение със скорост по-ниска от означената?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10417,
+    "text" : "да, във всички случаи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10418,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10419,
+    "text" : "да, когато няма необходимите условия за безопасност",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3192,
+  "number" : 16,
+  "subNumber" : 1,
+  "pictureSha1" : "940bad51067f82b73a9bf57610304dbf42189832",
+  "text" : "Разрешено ли е след този пътен знак да се движите със скорост 40 км/ч?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10420,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10421,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3193,
+  "number" : 16,
+  "subNumber" : 2,
+  "pictureSha1" : "7c0b237e3a1cf50faf213e94a0c38a8ee0f4a164",
+  "text" : "Този пътен знак:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10425,
+    "text" : "означава край на задължителната минимална скорост",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10423,
+    "text" : "забранява движението със скорост по-ниска от означената",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10424,
+    "text" : "означава край на препоръчителната скорост на движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10422,
+    "text" : "забранява движението със скорост по-висока от означената",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3194,
+  "number" : 17,
+  "subNumber" : 1,
+  "pictureSha1" : "d1529e27c18711c4b2a90bf47d26c918160772b2",
+  "text" : "След този пътен знак движението със скорост, по-висока от означената е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10428,
+    "text" : "забранено само за водачите на двуколесни ППС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10427,
+    "text" : "забранено за всички ППС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10429,
+    "text" : "разрешено за транзитно преминаващите ППС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10426,
+    "text" : "разрешено за МПС от категория “В”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3195,
+  "number" : 18,
+  "subNumber" : 1,
+  "pictureSha1" : "b2434d6423c51efb2e1bc8bbd1c3511e71303157",
+  "text" : "При тази ситуация забраната за движение със скорост, по-висока от означената се отнася:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10433,
+    "text" : "само за улицата, в чието начало е поставен",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10431,
+    "text" : "за всички улици в зоната",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10430,
+    "text" : "само за водачите на леки автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10432,
+    "text" : "за водачите на всички ППС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3963,
+  "number" : 2,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Когато няма други ограничения, водачът на триколесно МПС от категория А при движение извън населено място не трябва да превишава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 13002,
+    "text" : "90 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 13003,
+    "text" : "80 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 13005,
+    "text" : "60 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 13004,
+    "text" : "70 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

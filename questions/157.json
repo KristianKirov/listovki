@@ -1,0 +1,1505 @@
+[ {
+  "id" : 2821,
+  "number" : 36,
+  "subNumber" : 1,
+  "pictureSha1" : "b7ac5321626d97a42d090d8da80d68f7131488c3",
+  "text" : "Този пътен знак:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9237,
+    "text" : "указва, че пътят е без изход",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9236,
+    "text" : "забранява влизането само на леки автомобили срещу знака",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9238,
+    "text" : "разрешава влизането на мотоциклетисти срещу знака",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9239,
+    "text" : "забранява влизането на ППС срещу него",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2822,
+  "number" : 36,
+  "subNumber" : 2,
+  "pictureSha1" : "278f259d6728f471ab280103746dfd55fdaf764b",
+  "text" : "Този пътен знак:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9243,
+    "text" : "сигнализира път затворен за обществено ползване",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9241,
+    "text" : "забранява преминаването без спиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9242,
+    "text" : "забранява влизането на ППС срещу него",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9240,
+    "text" : "указва, че пътят е без изход",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2824,
+  "number" : 36,
+  "subNumber" : 4,
+  "pictureSha1" : "278f259d6728f471ab280103746dfd55fdaf764b",
+  "text" : "На кои от изброените превозни средства е забранено да навлизат след този знак?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 9248,
+    "text" : "трактори",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9249,
+    "text" : "леки автомоби",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9250,
+    "text" : "велосипеди",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9251,
+    "text" : "автомобили със специален режим на движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2823,
+  "number" : 36,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци забранява навлизането на пътни превозни средства срещу него?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9244,
+    "text" : null,
+    "pictureSha1" : "1c01ced00f311a7a914d4ad530f0e853366d9412",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9245,
+    "text" : null,
+    "pictureSha1" : "278f259d6728f471ab280103746dfd55fdaf764b",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9246,
+    "text" : null,
+    "pictureSha1" : "19d57fc55778038d988fef5b6e3b27447c603e75",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9247,
+    "text" : null,
+    "pictureSha1" : "4c10096578984e3a87e6742e4223b963e21160ad",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2825,
+  "number" : 36,
+  "subNumber" : 6,
+  "pictureSha1" : "278f259d6728f471ab280103746dfd55fdaf764b",
+  "text" : "На кои от изброените превозни средства е разрешено да навлизат след този знак?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9253,
+    "text" : "велосипеди",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9254,
+    "text" : "ППС теглени от животни",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9255,
+    "text" : "мотопеди",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9252,
+    "text" : "автомобили със специален режим на движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2827,
+  "number" : 37,
+  "subNumber" : 2,
+  "pictureSha1" : "f781518c1557c278b841072c1902e323158b898c",
+  "text" : "На кои от изброените превозни средства е разрешено да навлизат след този знак?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9260,
+    "text" : "автобуси",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9262,
+    "text" : "превозни средства от редовните линии за обществен превоз на пътници",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9263,
+    "text" : "автомобили със специален режим на движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9261,
+    "text" : "специални автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2826,
+  "number" : 37,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци забранява навлизането след него на ППС в двете посоки?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9258,
+    "text" : null,
+    "pictureSha1" : "ff2fb1bbf9675f2b65986d959636da313375c863",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9259,
+    "text" : null,
+    "pictureSha1" : "278f259d6728f471ab280103746dfd55fdaf764b",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9257,
+    "text" : null,
+    "pictureSha1" : "d19bd57c2fd2d4dc208484d2413ecf4027d6c57d",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9256,
+    "text" : null,
+    "pictureSha1" : "5fd244420098809645173b1c30e717d4e44dcce3",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2828,
+  "number" : 37,
+  "subNumber" : 3,
+  "pictureSha1" : "f781518c1557c278b841072c1902e323158b898c",
+  "text" : "На кои от изброените превозни средства е забранено да навлизат след този знак?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 9266,
+    "text" : "трактори",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9264,
+    "text" : "товарни автомобили",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9267,
+    "text" : "специални автомобили",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9265,
+    "text" : "автомобили със специален режим на движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2829,
+  "number" : 37,
+  "subNumber" : 4,
+  "pictureSha1" : "f781518c1557c278b841072c1902e323158b898c",
+  "text" : "На кои от изброените превозни средства е забранено да навлизат след този знак?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 9269,
+    "text" : "автомобили със специален режим на движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9270,
+    "text" : "мотоциклети",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9268,
+    "text" : "велосипеди",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9271,
+    "text" : "мотопеди",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2830,
+  "number" : 37,
+  "subNumber" : 5,
+  "pictureSha1" : "f781518c1557c278b841072c1902e323158b898c",
+  "text" : "На кои от изброените превозни средства е забранено да навлизат след този знак?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9273,
+    "text" : "автомобили със специален режим на движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9272,
+    "text" : "ППС теглени от животни",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9275,
+    "text" : "превозни средства от редовните линии за обществен превоз на пътници",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9274,
+    "text" : "автобуси",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2831,
+  "number" : 38,
+  "subNumber" : 1,
+  "pictureSha1" : "489c9fe3d4532a3f66796ae1152a015c7d864e3b",
+  "text" : "Този пътен знак означава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9276,
+    "text" : "край на ограничението за завиване в обратна посока",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9277,
+    "text" : "че е забранено движението назад",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9278,
+    "text" : "че е забранено завиването в обратна посока",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2832,
+  "number" : 39,
+  "subNumber" : 1,
+  "pictureSha1" : "f5f55586a19f91e851455fa61421ee08c79ffb80",
+  "text" : "Този пътен знак забранява влизането:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9280,
+    "text" : "на всички ППС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9279,
+    "text" : "на всички МПС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9282,
+    "text" : "само на леки автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9281,
+    "text" : "на МПС, с изключение на мотоциклети без кош и мотопеди",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2833,
+  "number" : 39,
+  "subNumber" : 2,
+  "pictureSha1" : "f5f55586a19f91e851455fa61421ee08c79ffb80",
+  "text" : "На кои от изброените превозни средства е забранено да навлизат след този знак?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 9283,
+    "text" : "мотопеди",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9284,
+    "text" : "товарни автомобили",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9286,
+    "text" : "леки автомобили",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9285,
+    "text" : "трактори",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2834,
+  "number" : 39,
+  "subNumber" : 3,
+  "pictureSha1" : "f5f55586a19f91e851455fa61421ee08c79ffb80",
+  "text" : "На кои от изброените превозни средства е забранено да навлизат след този знак?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9289,
+    "text" : "велосипеди",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9287,
+    "text" : "мотоциклети с кош",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9290,
+    "text" : "мотоциклети без кош",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9288,
+    "text" : "мотопеди",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2835,
+  "number" : 39,
+  "subNumber" : 4,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци забранява навлизането на товарни автомобили след него?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9292,
+    "text" : null,
+    "pictureSha1" : "e56e1de1a73144cd419918f1cf45e125199a49af",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9293,
+    "text" : null,
+    "pictureSha1" : "278f259d6728f471ab280103746dfd55fdaf764b",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9294,
+    "text" : null,
+    "pictureSha1" : "f5f55586a19f91e851455fa61421ee08c79ffb80",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9291,
+    "text" : null,
+    "pictureSha1" : "90907c5bd397dad568e21ac081254d77e7dac506",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2837,
+  "number" : 40,
+  "subNumber" : 1,
+  "pictureSha1" : "9607b293dc206879d5c9a4c4bd54ca832a4e6a9b",
+  "text" : "Значението на този пътен знак е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9301,
+    "text" : "„Забранено влизането на товарни автомобили, на които натоварването на ос е над 7 т”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9302,
+    "text" : "„Забранено влизането на товарни автомобили с товароносимост над 7 т”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9299,
+    "text" : "„Забранено влизането на товарни автомобили, на които товарът е над 7 т”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9300,
+    "text" : "„Забранено е влизането на товарни автомобили с допустима максимална маса над 7 т”",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2836,
+  "number" : 39,
+  "subNumber" : 5,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци забранява навлизането на товарни автомобили след него?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9298,
+    "text" : null,
+    "pictureSha1" : "f5f55586a19f91e851455fa61421ee08c79ffb80",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9295,
+    "text" : null,
+    "pictureSha1" : "ea6257285764c683603954333a72d99c259f2812",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9296,
+    "text" : null,
+    "pictureSha1" : "f781518c1557c278b841072c1902e323158b898c",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9297,
+    "text" : null,
+    "pictureSha1" : "60b6f3740a3b7c95e3709c8be1d00e300794bb63",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2838,
+  "number" : 40,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Значението на кой от пътните знаци е „Забранено е влизането на товарни автомобили с допустима максимална маса над 5 т”",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9304,
+    "text" : null,
+    "pictureSha1" : "f9d9f7dd1f3fcf7ad22cf151e69e0a550be3870b",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9306,
+    "text" : null,
+    "pictureSha1" : "433dac7c991415c794416ebc1670fa5f04f9412c",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9305,
+    "text" : null,
+    "pictureSha1" : "ea6257285764c683603954333a72d99c259f2812",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9303,
+    "text" : null,
+    "pictureSha1" : "7bd339f9da2ba366e7289119a9130a13239c6ea8",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2840,
+  "number" : 41,
+  "subNumber" : 2,
+  "pictureSha1" : "ea6257285764c683603954333a72d99c259f2812",
+  "text" : "Този пътен знак не забранява влизането на:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9312,
+    "text" : "автомобил, теглещ едноосно ремарке",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9311,
+    "text" : "автомобил с полуремарке",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9310,
+    "text" : "автомобил, теглещ ремарке с две и повече оси",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2841,
+  "number" : 41,
+  "subNumber" : 3,
+  "pictureSha1" : "ea6257285764c683603954333a72d99c259f2812",
+  "text" : "Значението на този пътен знак е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9313,
+    "text" : "\"Забранено е влизането на МПС с ремаркета, освен с полуремаркета или единични едноосни ремаркета\"",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9314,
+    "text" : "\"Забранено е влизането на товарни автомобили\"",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9315,
+    "text" : "\"Забранено е влизането на МПС с ремаркета\"",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2842,
+  "number" : 42,
+  "subNumber" : 1,
+  "pictureSha1" : "36102bcd7d1f33c9df12da997599b480cc1f8f1e",
+  "text" : "Значението на този пътен знак е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9316,
+    "text" : "\"Забранено е влизането на МПС с ремаркета\"",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9317,
+    "text" : "\"Забранено е влизането на МПС с ремаркета, освен с полуремаркета или единични едноосни ремаркета\"",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2843,
+  "number" : 42,
+  "subNumber" : 2,
+  "pictureSha1" : "af57157629114444e2b3ea5886aa62b7aaef201a",
+  "text" : "Този пътен знак:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9318,
+    "text" : "забранява влизането на МПС с единични едноосни ремаркета",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9319,
+    "text" : "не забранява влизането на МПС с полуремаркета",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9320,
+    "text" : "забранява влизането на МПС с ремаркета с две и повече оси",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2844,
+  "number" : 43,
+  "subNumber" : 1,
+  "pictureSha1" : "77f6d26af21188a80dc6d79546b661acccbea7d0",
+  "text" : "Освен за трактори, забраната за влизане след този пътен знак се отнася и за:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9322,
+    "text" : "самоходни машини",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9321,
+    "text" : "специални автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9323,
+    "text" : "мотоциклети с кош",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9324,
+    "text" : "товарни автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2845,
+  "number" : 43,
+  "subNumber" : 2,
+  "pictureSha1" : "77f6d26af21188a80dc6d79546b661acccbea7d0",
+  "text" : "Този пътен знак забранява влизането на:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9328,
+    "text" : "ППС теглени от животни",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9325,
+    "text" : "самоходни машини",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9327,
+    "text" : "товарни автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9326,
+    "text" : "трактори",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2846,
+  "number" : 44,
+  "subNumber" : 1,
+  "pictureSha1" : "2d1a1d12f8ea622a24c756da8fdd38feb031ddaa",
+  "text" : "Разрешено ли е влизането на мотопеди след този пътен знак?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9330,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9329,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2847,
+  "number" : 44,
+  "subNumber" : 2,
+  "pictureSha1" : "f0330c765bfbf374995a4810f1689b4ff276903a",
+  "text" : "Този пътен знак забранява влизането на:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9331,
+    "text" : "самоходни машини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9332,
+    "text" : "мотоциклети",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9333,
+    "text" : "велосипеди",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9334,
+    "text" : "мотопеди",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2848,
+  "number" : 45,
+  "subNumber" : 1,
+  "pictureSha1" : "7ca41c77bcfdbeaa79cbb2667bdaec3c0526f5f2",
+  "text" : "Задължително ли е спирането при този пътен знак?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9335,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9336,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2849,
+  "number" : 45,
+  "subNumber" : 2,
+  "pictureSha1" : "515182cc42079d8d18899eb7abc9f22a947d89ec",
+  "text" : "Значението на този пътен знак е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9337,
+    "text" : "\"Забранено е влизането срещу знака\"",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9339,
+    "text" : "\"Път, затворен за обществено ползване\"",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9340,
+    "text" : "\"Внимание!  Митница\"",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9338,
+    "text" : "\"Забранено е преминаването без спиране\"",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2850,
+  "number" : 46,
+  "subNumber" : 1,
+  "pictureSha1" : "718cd4ad1a418ba403b2eff0123cd34a795fcc9e",
+  "text" : "Този пътен знак забранява:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9344,
+    "text" : "влизането на изобразените ППС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9342,
+    "text" : "влизането на ППС, с изключение на изобразените",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9341,
+    "text" : "паркирането на товарни автомобили и мотоциклети",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9343,
+    "text" : "изпреварването на товарни автомобили от мотоциклети",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2851,
+  "number" : 46,
+  "subNumber" : 2,
+  "pictureSha1" : "2aab540e244fc1cc2c98d7fd073437f0d8449014",
+  "text" : "На кои от изброените превозни средства е забранено да навлизат след този знак?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 9348,
+    "text" : "товарни автомобили",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9346,
+    "text" : "мотопеди",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9347,
+    "text" : "мотоциклети",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9345,
+    "text" : "велосипеди",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2852,
+  "number" : 46,
+  "subNumber" : 3,
+  "pictureSha1" : "2aab540e244fc1cc2c98d7fd073437f0d8449014",
+  "text" : "На кои от изброените превозни средства е забранено да навлизат след този знак?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 9350,
+    "text" : "мотоциклети без кош",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9351,
+    "text" : "трактори",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9352,
+    "text" : "мотоциклети с кош",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9349,
+    "text" : "товарни автомобили",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2853,
+  "number" : 46,
+  "subNumber" : 4,
+  "pictureSha1" : "d5dd9ea42a4fa62af0b204e8d146957f2c54ea39",
+  "text" : "На кои от изброените превозни средства е забранено да навлизат след този знак?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 9354,
+    "text" : "трактори",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9353,
+    "text" : "самоходни машини",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9356,
+    "text" : "автомобили с ремаркета",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9355,
+    "text" : "ППС теглени от животни",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2854,
+  "number" : 46,
+  "subNumber" : 5,
+  "pictureSha1" : "3ada7c449dcb6b308b320b7a52ef90d077b2e4b5",
+  "text" : "На кои от изброените превозни средства е забранено да навлизат след този пътен знак?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 9358,
+    "text" : "товарни автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9360,
+    "text" : "автобуси",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9359,
+    "text" : "автомобили с полуремаркета",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9357,
+    "text" : "автомобили с ремаркета",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2855,
+  "number" : 47,
+  "subNumber" : 1,
+  "pictureSha1" : "caca2daf31d78c0d1d597c95aa638b26172c5a2e",
+  "text" : "Значението на този пътен знак е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9363,
+    "text" : "„Забранено е влизането на ППС, с маса с товар, по-голяма от означената”",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9361,
+    "text" : "„Забранено е влизането на ППС с товароносимост по-голяма от означената”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9362,
+    "text" : "„Забранено е влизането на ППС с натоварване, на която и да е от осите по-голямо от означеното”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9364,
+    "text" : "„Забранено е влизането на ППС, с товар е по-голям от означения”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2857,
+  "number" : 48,
+  "subNumber" : 1,
+  "pictureSha1" : "10bf4022beb708f203d40befd99c3fa5c1c81b71",
+  "text" : "Значението на този пътен знак е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9369,
+    "text" : "„Забранено е влизането на ППС с натоварване, на която и да е от осите, по-голямо от означеното”",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9370,
+    "text" : "„Забранено е влизането на ППС с товар, по-голям от означения”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9371,
+    "text" : "„Забранено е влизането на ППС с маса с товар, по-голяма от означената”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9368,
+    "text" : "„Забранено е влизането на ППС с товароносимост, по-голяма от означената”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2856,
+  "number" : 47,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Значението на кой от пътните знаци е „Забранено е влизането на ППС, с маса с товар, по-голяма от означената”?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9365,
+    "text" : null,
+    "pictureSha1" : "5d8672ec553009875a7a2e9c04edf7e7d412610d",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9367,
+    "text" : null,
+    "pictureSha1" : "e27f318b6eeea79df6c59dabd01306ff05aa207d",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9366,
+    "text" : null,
+    "pictureSha1" : "e0568b657db6c1a6ec5ef1253677e60abcca37b2",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2859,
+  "number" : 49,
+  "subNumber" : 1,
+  "pictureSha1" : "5a99f4cdc910b565c957d96cba4fb39721efd7e4",
+  "text" : "Този пътен знак забранява влизането на пътни превозни средства:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9376,
+    "text" : "с широчина, включително и товара, по-голяма от означената",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9375,
+    "text" : "с дължина, включително и товара, по-голяма от означената",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9378,
+    "text" : "с височина, включително и товара, по-голяма от означената",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9377,
+    "text" : "движещи се едно зад друго на разстояние по-малко от означеното",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2858,
+  "number" : 48,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Значението на кой от пътните знаци е „Забранено е влизането на ППС с натоварване, на която и да е от осите, по-голямо от означеното”?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9374,
+    "text" : null,
+    "pictureSha1" : "10bf4022beb708f203d40befd99c3fa5c1c81b71",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9372,
+    "text" : null,
+    "pictureSha1" : "cf71c7629180cb49a70a5fd4309442e4a8f97a19",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9373,
+    "text" : null,
+    "pictureSha1" : "32ce862a19dd322bd466d214bd1ec89187c42127",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2860,
+  "number" : 49,
+  "subNumber" : 2,
+  "pictureSha1" : "004bbbb28fbc510c8516538658b322680b41f04d",
+  "text" : "Този пътен знак забранява влизането след него на превозно средство, на което:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9380,
+    "text" : "височината на превозното средство е по-голяма от означената",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9381,
+    "text" : "дължината на превозното средство е по-голяма от означената",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9382,
+    "text" : "товарът е с дължина по-голяма от означената",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9379,
+    "text" : "височината на превозното средство с товара е по-голяма от означената",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2861,
+  "number" : 50,
+  "subNumber" : 1,
+  "pictureSha1" : "faa479b71834562e55063bf9b5c5b0de88dbd0c1",
+  "text" : "Този пътен знак забранява влизането на ППС:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9383,
+    "text" : "с широчина, включително и товара, по-голяма от означената",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9384,
+    "text" : "движещи се едно зад друго, на разстояние по-малко от означеното",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9385,
+    "text" : "с височина, включително и товара, по-голяма от означената",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9386,
+    "text" : "с дължина, включително и товара, по-голяма от означената",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2862,
+  "number" : 50,
+  "subNumber" : 2,
+  "pictureSha1" : "bbebb41ee5fd328871b4d9e4608760534f5fa9e0",
+  "text" : "Този пътен знак забранява влизането след него на превозно средство, на което:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9390,
+    "text" : "дължината на превозното средство е по-голяма от означената",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9388,
+    "text" : "широчината на превозното средство с товара е по-голяма от означената",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9389,
+    "text" : "широчината на превозното средство е по-голяма от означената",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9387,
+    "text" : "товарът е с дължина по-голяма от означената",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2863,
+  "number" : 51,
+  "subNumber" : 1,
+  "pictureSha1" : "cd05e1f651153ccb3f27b048f3ec54546345a967",
+  "text" : "След този пътен знак е:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9392,
+    "text" : "забранено влизането за ППС, на които дължината заедно с товара е по-голяма от означената",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9391,
+    "text" : "разрешено влизането за ППС, на които товарът е с дължина по-голяма от означената",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9393,
+    "text" : "забранено влизането на ППС с  дължината по-голяма от означената",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2864,
+  "number" : 51,
+  "subNumber" : 2,
+  "pictureSha1" : "98aac6963818c0178c51170d72332fb2a86d5ae9",
+  "text" : "Този пътен знак забранява влизането на ППС:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9394,
+    "text" : "движещи се едно зад друго, на разстояние по-малко от означеното",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9396,
+    "text" : "с дължина, включително и товара, по-голяма от означената",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9395,
+    "text" : "с широчина, включително и товара, по-голяма от означената",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2865,
+  "number" : 51,
+  "subNumber" : 3,
+  "pictureSha1" : "98aac6963818c0178c51170d72332fb2a86d5ae9",
+  "text" : "Този пътен знак забранява влизането след него на превозно средство, на което:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9398,
+    "text" : "товарът е с широчина по-голяма от означената",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9397,
+    "text" : "дължината на превозното средство с товара е по-голяма от означената",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9399,
+    "text" : "дължината на превозното средство е по-голяма от означената",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9400,
+    "text" : "широчината на превозното средство е по-голяма от означената",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2866,
+  "number" : 52,
+  "subNumber" : 1,
+  "pictureSha1" : "ac335bd8dc80fa6906a607b19a6c906b17038f4e",
+  "text" : "Този пътен знак означава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9402,
+    "text" : "забрана за движение на дистанция, по-голяма от означената",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9401,
+    "text" : "разстояние между автомобилите при паркиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9403,
+    "text" : "забрана за движение на дистанция, по-малка от означената",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2867,
+  "number" : 53,
+  "subNumber" : 1,
+  "pictureSha1" : "2140aa5c68e0c33f1c6fe66ead359227465052ce",
+  "text" : "Значението на този пътен знак е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9406,
+    "text" : "край на пътя с предимство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9404,
+    "text" : "край на всички забрани",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9405,
+    "text" : "край на забраните, въведени с пътни знаци",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2868,
+  "number" : 53,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кой от пътните знаци отменя забраната за движение със скорост по-висока от 50 км/ч?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9408,
+    "text" : null,
+    "pictureSha1" : "3ee0c4467391a350502e50ede3594a6c1974f387",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9407,
+    "text" : null,
+    "pictureSha1" : "02c058402ad388d93e7bd1034b93ae33ec74e2f2",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9409,
+    "text" : null,
+    "pictureSha1" : "b6164767f5094c8499858fcc6a1b565392648f18",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9410,
+    "text" : null,
+    "pictureSha1" : "f426eb597d1483b9bf6b2967375cd834c40ea484",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2869,
+  "number" : 53,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Кой от показаните пътни знаци отменя забраната товарни автомобили с допустима максимална маса над 3.5 т. да изпреварват МПС, с изключение на мотоциклети без кош и мотопеди?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 9411,
+    "text" : null,
+    "pictureSha1" : "f74c1152a24285d073a58e077668ece04c9a8a4a",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9414,
+    "text" : null,
+    "pictureSha1" : "c0c6ef672e291298571f4820c959e59818230f1c",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9413,
+    "text" : null,
+    "pictureSha1" : "3ee0c4467391a350502e50ede3594a6c1974f387",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9412,
+    "text" : null,
+    "pictureSha1" : "a61e49184ae6e8988cce0538cae39d8ce3d2caf6",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2930,
+  "number" : 96,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кой знак сигнализира за забрана?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9618,
+    "text" : null,
+    "pictureSha1" : "4f491e566be132a69c6c1f2b2d4661445e370e45",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9620,
+    "text" : null,
+    "pictureSha1" : "81eba21e9c4e25609f375fe9440e3dcda5497121",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9617,
+    "text" : null,
+    "pictureSha1" : "eda5cfc4c3dfe5839b6bc900a32a6b342e9f188c",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9619,
+    "text" : null,
+    "pictureSha1" : "5c006824d14b221630d362202b6a6bea689a6b7d",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2931,
+  "number" : 96,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кой знак сигнализира за забрана?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9623,
+    "text" : null,
+    "pictureSha1" : "92ea945316497161d153aba0ce6cd69b240c70f2",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9624,
+    "text" : null,
+    "pictureSha1" : "44ba88f8dfeb25874ae43bd05cbbcb5c7d66c92c",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9622,
+    "text" : null,
+    "pictureSha1" : "74521fdf08719fd6b47d0522169389d6e546d54a",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9621,
+    "text" : null,
+    "pictureSha1" : "61cade5705eaf4399a003e59bef0852fbefdcef5",
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

@@ -1,0 +1,325 @@
+[ {
+  "id" : 3383,
+  "number" : 109,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Задължен ли е водачът да изключи двигателя при принудително спиране в тунел?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11006,
+    "text" : "да, независимо от причината за спирането и продължителността на спирането",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11007,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11004,
+    "text" : "да, когато началото на тунела е обозначено с пътен знак",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11005,
+    "text" : "да, когато спирането не е кратковременно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3384,
+  "number" : 110,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Задължен ли е водачът да изключи двигателя при принудително спиране в тунел, когато началото на тунела е обозначено с пътен знак?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11009,
+    "text" : "да, когато това спиране не е кратковременно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11008,
+    "text" : "да, независимо от продължителността на спирането",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3385,
+  "number" : 111,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При принудително спиране в тунел водачът е задължен да изключи двигателя, когато:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11010,
+    "text" : "движението в тунела е еднопосочно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11011,
+    "text" : "спирането не е кратковременно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11012,
+    "text" : "тунелът е осветен",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11013,
+    "text" : "началото на тунела е обозначено с пътен знак",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3386,
+  "number" : 112,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Извършването на коя от изброените маневри е забранено в тунел?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11017,
+    "text" : "движение назад",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11014,
+    "text" : "изпреварване",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11016,
+    "text" : "завиване в обратна посока",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11015,
+    "text" : "заобикаляне",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3387,
+  "number" : 113,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "В тунел, завиването в обратна посока е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11020,
+    "text" : "разрешено, ако няма насрещно движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11021,
+    "text" : "разрешено само на път с три и повече пътни ленти",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11018,
+    "text" : "разрешено, ако движението в тунела е двупосочно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11019,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3388,
+  "number" : 115,
+  "subNumber" : 1,
+  "pictureSha1" : "a648b1cf055808bef6c59958f8ac5ab6543dcf9f",
+  "text" : "Този знак:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11024,
+    "text" : "сигнализира авариен изход в тунел",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11023,
+    "text" : "указва място за излизане на пешеходците от автомагистрала",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11022,
+    "text" : "обозначава вход на пешеходен подлез",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3389,
+  "number" : 116,
+  "subNumber" : 1,
+  "pictureSha1" : "dfbffdbd6136422ef85eaf5d8b9b4e00607abd69",
+  "text" : "Този знак:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11027,
+    "text" : "указва посока за движение към авариен изход в тунел",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11025,
+    "text" : "указва място за излизане на пешеходците от автомагистрала",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11026,
+    "text" : "указва задължителна посока за движение по пешеходна алея",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11028,
+    "text" : "обозначава направление към пешеходен подлез",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3390,
+  "number" : 117,
+  "subNumber" : 1,
+  "pictureSha1" : "e620a9b9add47c88d1a4340872af0c3a72c31fe5",
+  "text" : "В тунел този знак сигнализира:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11031,
+    "text" : "уширение на пътното платно с аварийна станция",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11029,
+    "text" : "място за паркиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11030,
+    "text" : "допълнителна пътна лента за принудително спиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3391,
+  "number" : 118,
+  "subNumber" : 1,
+  "pictureSha1" : "5db10ed4f3d6603c89dc1fa6b4ea8c7abf7a5a60",
+  "text" : "В тунел този знак с допълнителна табела сигнализира:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11033,
+    "text" : "място за принудително спиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11032,
+    "text" : "място за паркиране с телефон и пожарогасител",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3392,
+  "number" : 119,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При движение в тунел с дължина над 500 м, дистанцията между леките автомобили, трябва да е равна на разстоянието, изминавано за две секунди с разрешената скорост на движение.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11035,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11034,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3393,
+  "number" : 120,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При спиране в тунел с дължина над 500 м,  дистанцията между автомобилите трябва да е не по-малка от:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11037,
+    "text" : "3 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11039,
+    "text" : "2 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11038,
+    "text" : "5 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11036,
+    "text" : "4 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4696,
+  "number" : 114,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При навлизане в тунел, на който началото е обозначено с пътен знак, водачът задължен ли е да включи късите светлини на автомобила?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 15293,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15294,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

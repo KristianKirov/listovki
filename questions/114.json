@@ -1,0 +1,725 @@
+[ {
+  "id" : 3480,
+  "number" : 1,
+  "subNumber" : 1,
+  "pictureSha1" : "e0d94d5d41b128526c75ff572a62e9efcd92fdb5",
+  "text" : "Този пътен знак указва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11358,
+    "text" : "пресичане на път, по който се движат автобуси",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11359,
+    "text" : "край на автобусна спирка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11357,
+    "text" : "начало на автобусна спирка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3481,
+  "number" : 1,
+  "subNumber" : 2,
+  "pictureSha1" : "4679ad432bf39d83213d0c700d3381f3b5adba57",
+  "text" : "Този пътен знак:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11363,
+    "text" : "указва пътна лента за движение само на автобуси",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11360,
+    "text" : "обозначава края на автобусна спирка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11362,
+    "text" : "предупреждава за пресичане на път, по който се движат автобуси",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11361,
+    "text" : "указва начало на автобусна спирка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3482,
+  "number" : 1,
+  "subNumber" : 3,
+  "pictureSha1" : "4679ad432bf39d83213d0c700d3381f3b5adba57",
+  "text" : "С този знак се обозначава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11364,
+    "text" : "автобусна спирка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11366,
+    "text" : "пресичане на път, по който се движат автобуси",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11365,
+    "text" : "пътна лента за движение само на автобуси",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11367,
+    "text" : "пътна лента, забранена за движение на автобуси",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3483,
+  "number" : 2,
+  "subNumber" : 1,
+  "pictureSha1" : "8181c946ff564470d60db181b2468e660961828f",
+  "text" : "С този знак се обозначава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11371,
+    "text" : "пресичане на път, по който се движат тролейбуси",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11370,
+    "text" : "пътна лента, забранена за движение на тролейбуси",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11369,
+    "text" : "лента за движение само на тролейбуси",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11368,
+    "text" : "тролейбусна спирка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3484,
+  "number" : 3,
+  "subNumber" : 1,
+  "pictureSha1" : "2fcaf1ce10cdf59acce01f0b27b4bb2ae9babd17",
+  "text" : "С този знак се обозначава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11372,
+    "text" : "пресичане на трамвайна линия",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11375,
+    "text" : "трамвайна спирка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11373,
+    "text" : "трамваен път",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11374,
+    "text" : "вход/изход на трамваен път",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3485,
+  "number" : 4,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кой от тези пътни знаци сигнализира за спирка на превозни средства за обществен превоз на пътници?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11377,
+    "text" : null,
+    "pictureSha1" : "4679ad432bf39d83213d0c700d3381f3b5adba57",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11378,
+    "text" : null,
+    "pictureSha1" : "0d96a0e975a378e5ff72ddc3ed4b7a1087655a59",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11379,
+    "text" : null,
+    "pictureSha1" : "2213da5859766caa14521c31dc16f9bed62ae2c7",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11376,
+    "text" : null,
+    "pictureSha1" : "1f969781603215156f7bef394501c09f71893e88",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3486,
+  "number" : 5,
+  "subNumber" : 1,
+  "pictureSha1" : "47eb4c9d832a310b0ffb2790f46ed73a884d1bbb",
+  "text" : "При тази ситуация районът на спирката започва от пътния знак и е с дължина:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11383,
+    "text" : "10 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11380,
+    "text" : "30 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11382,
+    "text" : "50 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11381,
+    "text" : "20 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3487,
+  "number" : 6,
+  "subNumber" : 1,
+  "pictureSha1" : "0d96a0e975a378e5ff72ddc3ed4b7a1087655a59",
+  "text" : "В района на спирка, обозначена с този знак, е забранено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11386,
+    "text" : "движението назад",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11384,
+    "text" : "спирането за товарно-разтоварни работи",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11387,
+    "text" : "паркирането",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11385,
+    "text" : "спирането за слизане и качване на пътници",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3489,
+  "number" : 8,
+  "subNumber" : 1,
+  "pictureSha1" : "c965fdabc27a122a9e85adbb0bc7c9e1f1b9b8ba",
+  "text" : "При тази ситуация, приближавайки към спрелия на спирката тролейбус трябва:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11391,
+    "text" : "да се движа с повишено внимание",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11393,
+    "text" : "да подам звуков сигнал",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11392,
+    "text" : "своевременно да намаля скоростта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11394,
+    "text" : "да имам готовност да спра в случай на необходимост",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3488,
+  "number" : 7,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "В района на спирка на превозните средства от редовните линии за обществен превоз на пътници, на други превозни средства е разрешено да спират за:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11390,
+    "text" : "паркиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11388,
+    "text" : "извършване на товаро-разтоварна дейност",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11389,
+    "text" : "слизане или качване на пътници, ако не пречат на превозните средства, за които е предназначена спирката",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3490,
+  "number" : 9,
+  "subNumber" : 1,
+  "pictureSha1" : "3c17e28ddc1bfe4e583142f48d4f7cd1b6b32401",
+  "text" : "При тази ситуация, преминавайки покрай спрелия на спирката тролейбус:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11395,
+    "text" : "трябва да внимавам за пешеходци, преминаващи пред тролейбуса",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11397,
+    "text" : "няма опасност от пресичащи пешеходци, защото няма пешеходна пътека",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11396,
+    "text" : "трябва да управлявам с готовност за спиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11398,
+    "text" : "трябва да внимавам за пешеходци, преминаващи зад тролейбуса",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3491,
+  "number" : 10,
+  "subNumber" : 1,
+  "pictureSha1" : "9fc3b79e232dc3ec4a84b68c194908155c75d8de",
+  "text" : "Навлизането на пешеходци на платното за движение, непосредствено пред спрелия автобус, е забранено и затова при тази ситуация не съм задължен да намаля скоростта.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11399,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11400,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3492,
+  "number" : 11,
+  "subNumber" : 1,
+  "pictureSha1" : "99ecfda0bbf54b7f462510bac322abc5592ab1a1",
+  "text" : "Кое от изброените действия ще предприемете в тази ситуация при разминаване с потеглящия от спирката автобус?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11404,
+    "text" : "увеличавам скоростта за по-бързо разминаване",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11402,
+    "text" : "подавам звуков сигнал",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11401,
+    "text" : "намалявам скоростта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11403,
+    "text" : "управлявам с готовност за спиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3493,
+  "number" : 12,
+  "subNumber" : 1,
+  "pictureSha1" : "ad198db9d0a20660beb5e010129e506c36914873",
+  "text" : "При тази ситуация, при преминаване покрай автобуса съм задължен да намаля скоростта.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11405,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11406,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3494,
+  "number" : 14,
+  "subNumber" : 1,
+  "pictureSha1" : "410d36271cee64a47d58aeedf3d8476ad907c532",
+  "text" : "При тази ситуация, преминавайки покрай спрелия на спирката трамвай:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11407,
+    "text" : "трябва своевременно да намаля скоростта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11408,
+    "text" : "трябва да внимавам за поведението на пешеходците преминаващи през платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11409,
+    "text" : "трябва да управлявам с готовност за спиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11410,
+    "text" : "няма опасност от пресичащи пешеходци, защото няма пешеходна пътека",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3495,
+  "number" : 13,
+  "subNumber" : 1,
+  "pictureSha1" : "0bdcaa7d0cb13a89d3de1c158148f8d6f6ff8cd4",
+  "text" : "При тази ситуация:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11411,
+    "text" : "задължен съм да спра на 1 м зад трамвая",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11412,
+    "text" : "трябва да спра, ако преча на пешеходците да преминават през платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11413,
+    "text" : "заобикалям трамвая отляво",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11414,
+    "text" : "мога да премина без да спирам, защото на платното за движение има очертан остров",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3496,
+  "number" : 15,
+  "subNumber" : 1,
+  "pictureSha1" : "8af3aca732832b7ec89e5633667f71222906d6ff",
+  "text" : "При тази ситуация, преминавайки покрай спрелия на спирката трамвай, трябва да се съобразявам:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11416,
+    "text" : "с пешеходците, които са на острова на платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11418,
+    "text" : "с пешеходците, които пресичат платното за движение пред или зад трамвая",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11417,
+    "text" : "с превозните средства, които се движат зад мен",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11415,
+    "text" : "с пешеходците, които слизат от трамвая или са на тротоара",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3497,
+  "number" : 16,
+  "subNumber" : 1,
+  "pictureSha1" : "a23c13874274de8f0cbdd0e71615f862b39e5515",
+  "text" : "При тази ситуация, настигайки спиращия на спирката трамвай, трябва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11421,
+    "text" : "да увелича скоростта",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11419,
+    "text" : "да продължа движението с повишено внимание",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11420,
+    "text" : "да спра",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3498,
+  "number" : 17,
+  "subNumber" : 1,
+  "pictureSha1" : "9b55f30a87c7132685fbdb488af9ee4b3512714c",
+  "text" : "При тази ситуация увеличавам скоростта, за да премина по-бързо покрай спиращия трамвай.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11422,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11423,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3499,
+  "number" : 18,
+  "subNumber" : 2,
+  "pictureSha1" : "aa8a483e11b7371616e6801f0a8f3ec7c133ed57",
+  "text" : "При тази ситуация при приближаване към трамвайната спирка:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11425,
+    "text" : "трябва да спра, когато трамваят спира на спирката",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11424,
+    "text" : "не съм задължен да намаля скоростта, когато трамваят потегля от спирката",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11426,
+    "text" : "трябва да спра, когато трамваят е спрял на спирката",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3500,
+  "number" : 19,
+  "subNumber" : 1,
+  "pictureSha1" : "e28d854cc044d67587b86902bb348593a7912171",
+  "text" : "При тази ситуация:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11429,
+    "text" : "трябва да спра, ако преча на пешеходците да преминават през платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11427,
+    "text" : "задължен съм да спра на 1 м зад трамвая",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11428,
+    "text" : "заобикалям трамвая отляво",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3501,
+  "number" : 20,
+  "subNumber" : 1,
+  "pictureSha1" : "d38ed6f631adb14456d273fb6b54002c3624e4c5",
+  "text" : "При тази ситуация преминавам, без да спирам покрай спрелия на спирката трамвай, защото той е със затворени врати.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11431,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11430,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3502,
+  "number" : 21,
+  "subNumber" : 1,
+  "pictureSha1" : "77d531f31e7d0c5d0bd455d9405d60436c4b0a3a",
+  "text" : "При тази ситуация след като няма слизащи и качващи се пътници, задължени ли сте да спрете?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11433,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11432,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3503,
+  "number" : 22,
+  "subNumber" : 1,
+  "pictureSha1" : "231efc3cefda500c0bcb927e923f0d8bdb499aa8",
+  "text" : "При тази ситуация, когато трамваят е спрял на спирка и на платното за движение няма пешеходци:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11435,
+    "text" : "мога да премина покрай трамвая без да спирам",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11436,
+    "text" : "трябва да спра на 1 м зад трамвая",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11434,
+    "text" : "заобикалям трамвая отляво",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3504,
+  "number" : 23,
+  "subNumber" : 1,
+  "pictureSha1" : "66bcfe88dd30de0ef674be32e48673a625326836",
+  "text" : "При тази ситуация длъжни ли сте да намалите скоростта за да улесните потеглянето на автобуса от спирката?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11438,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11437,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3505,
+  "number" : 24,
+  "subNumber" : 1,
+  "pictureSha1" : "145dd8d07fa03077d3d747f099e23356e936e702",
+  "text" : "При тази ситуация, за да улесня потеглящия от спирката автобус, трябва:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11442,
+    "text" : "да намаля скоростта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11440,
+    "text" : "при необходимост да спра",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11439,
+    "text" : "да премина по-бързо покрай автобуса",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11441,
+    "text" : "да премина в съседната пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

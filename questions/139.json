@@ -1,0 +1,329 @@
+[ {
+  "id" : 3732,
+  "number" : 4,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При употребата дори на малки количества алкохол времето за реакция на водача:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12208,
+    "text" : "не се влияе от алкохола",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12209,
+    "text" : "се увеличава",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12207,
+    "text" : "намалява",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3733,
+  "number" : 5,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Употребата дори и на малко количество алкохол:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12213,
+    "text" : "прави водача по-предпазлив при управлението на автомобила",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12210,
+    "text" : "влошава възможността за правилна оценка на скоростта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12212,
+    "text" : "повишава риска за ПТП",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12211,
+    "text" : "действа успокояващо на водача",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3734,
+  "number" : 6,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При управление на автомобил под въздействие на алкохол:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12217,
+    "text" : "съществува опасност от загуба на контрола над превозното средство от водача",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12214,
+    "text" : "водачът отделя по-голямо внимание на опасностите на пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12216,
+    "text" : "повишава се риска от попадане в ПТП",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12215,
+    "text" : "водачът има по-бързи реакции",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3735,
+  "number" : 7,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При управление на автомобил под въздействие на алкохол водачът:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12219,
+    "text" : "има по-бързи реакции",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12221,
+    "text" : "забавя реакциите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12220,
+    "text" : "е по-концентриран",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12218,
+    "text" : "няма реална преценка за скоростта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3736,
+  "number" : 8,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Какво влияние оказва алкохолът върху поведението на водача на МПС?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12223,
+    "text" : "намалява концентрацията",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12225,
+    "text" : "подобрява координацията на движенията",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12224,
+    "text" : "влошава възможността за правилна оценка на скоростта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12222,
+    "text" : "забавя реакциите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3737,
+  "number" : 8,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Какво влияние оказва алкохолът върху поведението на водача?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12229,
+    "text" : "забавя реакциите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12227,
+    "text" : "намалява концентрацията",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12228,
+    "text" : "подобрява координацията на движенията",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12226,
+    "text" : "намалява увереността",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3738,
+  "number" : 8,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Какво влияние оказва алкохолът върху поведението на водача?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12233,
+    "text" : "увеличава времето за реакция",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12232,
+    "text" : "подобрява координацията",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12231,
+    "text" : "влошава координацията на движенията",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12230,
+    "text" : "намалява времето за реакция",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3739,
+  "number" : 8,
+  "subNumber" : 4,
+  "pictureSha1" : null,
+  "text" : "Какво влияние оказва алкохолът върху поведението на водача на МПС?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12237,
+    "text" : "ускорява реакциите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12235,
+    "text" : "влошава координацията на движенията",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12234,
+    "text" : "намалява концентрацията",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12236,
+    "text" : "повишава вниманието",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3740,
+  "number" : 8,
+  "subNumber" : 5,
+  "pictureSha1" : null,
+  "text" : "Какво влияние оказва алкохолът върху поведението на водача?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12239,
+    "text" : "влошава възможността за правилна оценка на скоростта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12241,
+    "text" : "намалява концентрацията",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12238,
+    "text" : "намалява времето за реакция",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12240,
+    "text" : "подобрява координацията",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3741,
+  "number" : 9,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Минималното време, необходимо на организма, за да отдели от кръвта 0,5 промили алкохол, е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12244,
+    "text" : "не по-малко от 4 часа",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12243,
+    "text" : "от 1 до 2 часа",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12242,
+    "text" : "от 2 до 3 часа",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3742,
+  "number" : 10,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Употребата на тонизиращи напитки (силни дози кафе или чай) ускорява ли разграждането на алкохола в кръвта на водача?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12245,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12246,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+} ]

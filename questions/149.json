@@ -1,0 +1,663 @@
+[ {
+  "id" : 3828,
+  "number" : 1,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Извършва ли нарушение водач, който отстъпва управлението на МПС на лице, което не притежава съответното свидетелство за управление?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12557,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12558,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3829,
+  "number" : 2,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Извършва ли нарушение водач, който превиши разрешената скорост за движение, но с това не създава непосредствена опасност за движението?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12560,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12559,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3830,
+  "number" : 3,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Извършва ли нарушение водач, който се движи без включени светлини?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12561,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12562,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3831,
+  "number" : 4,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Извършва ли нарушение водач, който при изпреварване принуждава изпреварваното ППС да промени посоката си на движение?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12564,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12563,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3832,
+  "number" : 5,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Извършва ли нарушение водач, който оставя или разпилява по пътя предмети?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12566,
+    "text" : "да, във всички случаи, когато с това е създадена опасност за движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12565,
+    "text" : "да, но само когато в резултат на това е настъпило ПТП",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12567,
+    "text" : "не, защото водачът не отговаря за превозвания товар",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3833,
+  "number" : 6,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Извършва ли нарушение водач, който управлява МПС без табели с регистрационен номер?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12569,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12568,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3834,
+  "number" : 7,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Извършва ли нарушение водач, който управлява технически неизправно МПС, което не е негова собственост?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12570,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12571,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3835,
+  "number" : 8,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Извършва ли нарушение водач, който управлява МПС в непосредствена близост до дома си, без да носи свидетелството си за управление?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12572,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12573,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3836,
+  "number" : 9,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Извършва ли нарушение водач, който управлява МПС с неизправно устройство за подаване на звуков сигнал?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12575,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12574,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3837,
+  "number" : 10,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Извършва ли нарушение водач, който откаже на контролните органи да бъде проверен за употреба на алкохол?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12577,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12576,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3838,
+  "number" : 11,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Извършва ли нарушение водач, който предоставя управлението на МПС на лице, намиращо се под въздействие на алкохол?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12578,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12579,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3839,
+  "number" : 12,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Извършва ли нарушение водач, който извън населено място не сигнализира автомобил, принудително спрял на платното за движение?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12581,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12580,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3840,
+  "number" : 13,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Извършва ли нарушение водач, който не сигнализира по установения ред принудително спряло на платното за движение МПС?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12583,
+    "text" : "не, освен ако в резултат на това е настъпило ПТП",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12584,
+    "text" : "да, но само ако с това е създадена опасност за движението",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12582,
+    "text" : "да, във всички случаи, независимо от последиците",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3859,
+  "number" : 26,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато при съставяне на фиш за констатирано нарушение, лицето извършило нарушението откаже да подпише фиша:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12648,
+    "text" : "фишът се подписва от двама свидетели",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12649,
+    "text" : "се съставя акт",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12650,
+    "text" : "на място се налага глоба по квитанция",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3860,
+  "number" : 26,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Когато при нарушение водачът не е съгласен с определената му глоба, може ли да откаже да му бъде съставен фиш?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12652,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12651,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3969,
+  "number" : 32,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При нарушение, установено и заснето с техническо средство, в отсъствието на контролен орган и на нарушител, издаденият електроннен фиш:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 13026,
+    "text" : "подлежи на обжалване, само когато автомобилът е управляван от собственика",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 13025,
+    "text" : "не подлежи на обжалване, когато наложената глоба е до 50 лв. включително",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 13024,
+    "text" : "подлежи на обжалване",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3970,
+  "number" : 33,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При заплащане на глоба за изършено нарушение, наложена с електронен фиш, в 14-дневен срок от получаването на фиша:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 13029,
+    "text" : "се заплаща пълния размера на глобата",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 13028,
+    "text" : "се заплаща 50% от размера на глобата",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 13027,
+    "text" : "се заплаща 70% от размера на глобата",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3971,
+  "number" : 34,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При нарушение, установено и заснето с техническо средство в отсъствието на контролен орган и на нарушител, електронният фиш се издава на собственика на МПС:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 13032,
+    "text" : "винаги, когато собственикът е предоставил пълномощно на други лица за управление на превозното средство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 13031,
+    "text" : "когато нарушението е извършено от собственика",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 13030,
+    "text" : "когато той не подаде писмена декларация с данни за лицето, извършило нарушението, и копие на свидетелството му за управление",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3974,
+  "number" : 37,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Подлежи ли на наказание водач, който без да има това право, паркира на място определено за превозно средство обслужващо хора с трайни увреждания?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 13040,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 13039,
+    "text" : "не, освен в случаите, когато превозното средство се паркира на това място през нощта",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 13041,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3975,
+  "number" : 38,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "В кои случаи компетентните органи не издават дубликат на свидетелство за управление на МПС?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 13043,
+    "text" : "когато свидетелството е откраднато",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 13042,
+    "text" : "когато водачът не е заплатил изцяло дължимите глоби",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 13044,
+    "text" : "когато свидетелството е загубено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4701,
+  "number" : 29,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Счита ли се за връчен фиш за неправилно паркиране, издаден в отсъствието на водача и към МПС е закрепено уведомление за това?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 15311,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15310,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4704,
+  "number" : 31,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато пътник в лек автомобил не изпълнява задължението за използване на предпазен колан, наказание се налага:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 15319,
+    "text" : "само на пътникa без колан",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15318,
+    "text" : "на пътникa без колан и на водача на автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15320,
+    "text" : "само на водача на автомобила",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4711,
+  "number" : 6,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Извършва ли нарушение водач, който управлява МПС, на което върху регистрационния номер са поставени някакви материали или вещества?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 15341,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15340,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4735,
+  "number" : 27,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "За административно нарушение, установено и заснето с автоматизирано техническо средство може да бъде наложена глоба с електронен фиш, когато:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 15425,
+    "text" : "за нарушението не е предвидено спиране от движение на МПС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15423,
+    "text" : "за нарушението не е предвидено отнемане на контролни точки",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15422,
+    "text" : "за нарушението не е предвидено лишаване от право да управлява МПС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15424,
+    "text" : "за нарушението не е предвидено служебно прекратяване на регистрацията на МПС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4736,
+  "number" : 27,
+  "subNumber" : 4,
+  "pictureSha1" : null,
+  "text" : "Когато нарушението е установено и заснето с автоматизирано техническо средство в отсъствието на контролен орган и на нарушител, може да бъде наложена глоба с електронен фиш:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 15426,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15427,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4754,
+  "number" : 27,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "За административни нарушения установени в момента на извършването им, може да бъде наложена глоба с фиш, като размерът на глобата:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 15488,
+    "text" : "е осреднената стойност от предвидените за съответното нарушение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15486,
+    "text" : "се определя от служителя на контролния орган",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15487,
+    "text" : "е максималната от предвидените за съответното нарушение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15485,
+    "text" : "е минималната от предвидените за съответното нарушение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4755,
+  "number" : 27,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "За административни нарушения, които са установени в момента на извършването им, може да бъде наложена глоба с фиш, когато:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 15490,
+    "text" : "за нарушението не е предвидено отнемане на контролни точки",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15491,
+    "text" : "за нарушението не е предвидено служебно прекратяване на регистрацията на превозното средство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15489,
+    "text" : "за нарушението не е предвидено лишаване от право да управлява моторно превозно средство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15492,
+    "text" : "за нарушението не е предвидено спиране от движение на превозното средство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4756,
+  "number" : 28,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При административни нарушения, установени в момента на извършването им, се съставя акт вместо фиш, когато:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 15496,
+    "text" : "винаги, когато размерът на наложената му глоба е над 20 лв.",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15494,
+    "text" : "водачът не е съгласен с размера на наложената му глоба",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15495,
+    "text" : "водачът отказва да подпише фиша",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15493,
+    "text" : "водачът не е съгласен, че е извършил нарушението посочено от контролния орган",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+} ]

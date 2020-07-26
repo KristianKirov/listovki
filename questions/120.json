@@ -1,0 +1,689 @@
+[ {
+  "id" : 2539,
+  "number" : 1,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Съединителят е предназначен:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8202,
+    "text" : "да прекъсва силовата връзка между двигателя и предавателната кутия",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8199,
+    "text" : "да прекъсва връзката между предавателната кутия и карданното предаване",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8200,
+    "text" : "да осъществява връзка между двигателя и карданното предаване",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8201,
+    "text" : "да съединява елементите на трансмисията с рамата",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3906,
+  "number" : 3,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато налягането на въздуха в автомобилната гума е по-високо от предписаното, протекторът на гумата се износва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12811,
+    "text" : "само по външната страна на протектора",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12812,
+    "text" : "само по вътрешната страна на протектора",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12813,
+    "text" : "неравномерно, на отделни места",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12814,
+    "text" : "в средата на протектора по цялата окръжност",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3907,
+  "number" : 4,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато налягането на въздуха в автомобилната гума е по-ниско от предписаното, протекторът на гумата се износва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12817,
+    "text" : "в двата края, по цялата окръжност",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12818,
+    "text" : "в средата на протектора по цялата окръжност",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12816,
+    "text" : "винаги в дясната част по посока на въртенето",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12815,
+    "text" : "неравномерно, на отделни места",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3908,
+  "number" : 5,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разликата между късите и дългите светлини на МПС е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12822,
+    "text" : "в разположението на източника на светлината",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12820,
+    "text" : "в цвета на светлината",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12819,
+    "text" : "в дължината на осветявания участък от пътя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12821,
+    "text" : "в големината на светлинния източник",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3925,
+  "number" : 21,
+  "subNumber" : 1,
+  "pictureSha1" : "1766ae8a1b8253a1bafe92e01cad1875d487af46",
+  "text" : "Светването по време на движение на този символ върху арматурното табло на автомобила означава че:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12875,
+    "text" : "спирачните накладки са износени",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12876,
+    "text" : "системата е готова за използване",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12877,
+    "text" : "има неизправност в антиблокиращата система",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12874,
+    "text" : "задействана е антиблокиращата система на спирачната уредба",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3909,
+  "number" : 6,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При намалена дължина на участъка от пътя, осветяван от фаровете на автомобила, е необходимо:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12823,
+    "text" : "да се подмени акумулаторната батерия",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12825,
+    "text" : "да се провери окачването на автомобила",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12826,
+    "text" : "да се подменят източниците на светлина",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12824,
+    "text" : "да се регулират фаровете",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3910,
+  "number" : 7,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Коя от изброените неизправности води до „пропадане” на спирачния педал?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12828,
+    "text" : "изтичането на спирачна течност",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12830,
+    "text" : "високото ниво на спирачната течност",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12829,
+    "text" : "омасляването на спирачните накладки",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12827,
+    "text" : "високата температура на спирачната течност",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3911,
+  "number" : 8,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При спускане по наклон честото и продължително използване на спирачките:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12832,
+    "text" : "подобрява ефективността им",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12833,
+    "text" : "влошава ефективността им",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12831,
+    "text" : "не влияе на ефективността им",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3912,
+  "number" : 9,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Използването на вода като охладителна течност в охладителната уредба на МПС в зимни условия:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12835,
+    "text" : "не се използва, защото водата причинява корозия на охладителната уредба",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12837,
+    "text" : "не се използва, защото при кипене водата се изпарява",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12834,
+    "text" : "не се препоръчва, защото при температура под нула градуса водата замръзва",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12836,
+    "text" : "е забранено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3913,
+  "number" : 10,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При хидравлична охладителна уредба като охлаждаща течност може да се използва:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12839,
+    "text" : "нискозамръзваща течност /антифриз/",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12840,
+    "text" : "вода",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12838,
+    "text" : "разредена със спирт нискозамръзваща течност /антифриз/",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12841,
+    "text" : "смес от вода и спирачна течност",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3917,
+  "number" : 14,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Увеличеният свободен ход на кормилното колело може ли да предизвиква самоволна промяна на посоката на движение на автомобила?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12850,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12851,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3918,
+  "number" : 14,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Увеличеният свободен ход на кормилното колело при управление на автомобила предизвиква:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12854,
+    "text" : "трудно завъртане на кормилното колело",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12852,
+    "text" : "интензивно едностранно износване на гумите на двигателните колела",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12853,
+    "text" : "неустойчивост при праволинейно движение на автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3920,
+  "number" : 16,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Пониженото ниво на коя от изброените течности може да причини пътнотранспортно произшествие?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12860,
+    "text" : "на маслото в трансмисията",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12858,
+    "text" : "на течността в охладителната система",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12859,
+    "text" : "на течността в спирачната система",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3921,
+  "number" : 17,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "По какво се различават зимните от летните гуми?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12861,
+    "text" : "по шарките на протектора",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12864,
+    "text" : "по налягането на въздуха",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12862,
+    "text" : "по материала, от който е изработен протекторът",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12863,
+    "text" : "по цвета",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3926,
+  "number" : 22,
+  "subNumber" : 1,
+  "pictureSha1" : "fa6091c2b52039d49077ab8d7898d1637429ee19",
+  "text" : "Светването на този символ върху арматурното табло означава, че:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12878,
+    "text" : "не се зарежда акумулаторната батерия",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12881,
+    "text" : "задължително трябва да се подмени акумулаторната батерия",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12879,
+    "text" : "не работи осветлението",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12880,
+    "text" : "има повреда в запалителната уредба",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3927,
+  "number" : 23,
+  "subNumber" : 1,
+  "pictureSha1" : "5f7736475ed7d700a2672062a4176eb7fa3c453f",
+  "text" : "Светването на този символ върху арматурното табло означава, че са включени:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12883,
+    "text" : "късите светлини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12885,
+    "text" : "дългите светлини",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12884,
+    "text" : "аварийните светлини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12882,
+    "text" : "габаритните светлини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3928,
+  "number" : 24,
+  "subNumber" : 1,
+  "pictureSha1" : "322af7b8901d78de675f8632e775903509fa0f5b",
+  "text" : "При светването на този символ върху арматурното табло, има опасност от блокиране на двигателя:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12887,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12886,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3929,
+  "number" : 24,
+  "subNumber" : 2,
+  "pictureSha1" : "322af7b8901d78de675f8632e775903509fa0f5b",
+  "text" : "Светването на този символ върху арматурното табло означава че:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12888,
+    "text" : "има опасност от блокиране на двигателя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12890,
+    "text" : "се увеличава разходът на гориво",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12889,
+    "text" : "има ускорено изгаряне на маслото в картера на двигателя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3930,
+  "number" : 26,
+  "subNumber" : 1,
+  "pictureSha1" : "71ec924e3b03483cdde145a2ba470e01ae1dcc51",
+  "text" : "Светването на този символ върху арматурното табло означава, че:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12894,
+    "text" : "са включени светлините за паркиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12891,
+    "text" : "има повреда в спирачната система",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12892,
+    "text" : "е задействана спирачката за паркиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12893,
+    "text" : "налягането на маслото в двигателя е ниско",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3931,
+  "number" : 25,
+  "subNumber" : 1,
+  "pictureSha1" : "322af7b8901d78de675f8632e775903509fa0f5b",
+  "text" : "Какво трябва да предприеме водачът, когато върху арматурното табло свети този символ?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12896,
+    "text" : "да продължи движението, но на по-ниска предавка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12895,
+    "text" : "да изгаси двигателя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12897,
+    "text" : "да продължи движението, но с по-високи обороти на двигателя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12898,
+    "text" : "да спре на подходящо място",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3965,
+  "number" : 27,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При светване на кой от символите върху арматурното табло има опасност от сериозна повреда в двигателя, ако не преустановите движението?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 13010,
+    "text" : null,
+    "pictureSha1" : "fa6091c2b52039d49077ab8d7898d1637429ee19",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 13013,
+    "text" : null,
+    "pictureSha1" : "322af7b8901d78de675f8632e775903509fa0f5b",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 13012,
+    "text" : null,
+    "pictureSha1" : "602f990a34afd3f2be11c475de42b19608ba879d",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 13011,
+    "text" : null,
+    "pictureSha1" : "17ff03194a021a73988ee746ffdd5d9419462ce8",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3966,
+  "number" : 27,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "При светване на кой контролен индикатор от арматулното табло има опасност от сериозна повреда в двигателя, ако не преустановите движението?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 13015,
+    "text" : null,
+    "pictureSha1" : "fa6091c2b52039d49077ab8d7898d1637429ee19",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 13016,
+    "text" : null,
+    "pictureSha1" : "71ec924e3b03483cdde145a2ba470e01ae1dcc51",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 13017,
+    "text" : null,
+    "pictureSha1" : "b6c5b792910dcfd1ea8be271ff0e88a1b28f9fc2",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 13014,
+    "text" : null,
+    "pictureSha1" : "322af7b8901d78de675f8632e775903509fa0f5b",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3976,
+  "number" : 27,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "При светване на кой от символите върху арматурното табло има опасност от сериозна повреда в двигателя, ако не преустановите движението?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 13045,
+    "text" : null,
+    "pictureSha1" : "322af7b8901d78de675f8632e775903509fa0f5b",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 13046,
+    "text" : null,
+    "pictureSha1" : "17ff03194a021a73988ee746ffdd5d9419462ce8",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 13047,
+    "text" : null,
+    "pictureSha1" : "218dce5755462fbb650efe26f4ecd75d3040d881",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 13048,
+    "text" : null,
+    "pictureSha1" : "fa6091c2b52039d49077ab8d7898d1637429ee19",
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

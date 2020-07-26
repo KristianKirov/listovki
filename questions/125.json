@@ -1,0 +1,589 @@
+[ {
+  "id" : 3932,
+  "number" : 28,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Проверката на нивото на маслото в картера на двигателя се извършва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12899,
+    "text" : "при работещ двигател в режим на средни натоварвания",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12901,
+    "text" : "при работещ двигател, без натоварване",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12900,
+    "text" : "при неработещ  двигател",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3933,
+  "number" : 29,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При техническото обслужване на автомобила опасност представляват:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12905,
+    "text" : "проводниците, с които се подава напрежение към стоп-светлините",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12902,
+    "text" : "проводниците с червен цвят",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12904,
+    "text" : "проводниците, с които се подава напрежение към фаровете",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12903,
+    "text" : "проводниците за високо напрежение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3934,
+  "number" : 30,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "За предпазване от нараняване от въртящи се части проверки на нивото на течностите в автомобила се извършват:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12908,
+    "text" : "при работещ двигател, но изключени предавки",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12907,
+    "text" : "при работещ двигател и неработеща вентилаторна перка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12906,
+    "text" : "при неработещ двигател",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3935,
+  "number" : 31,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "С какво трябва да се съобразявате при отварянето на капачката на разширителния резервоар на охладителната уредба при загрят двигател?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12911,
+    "text" : "с намаляване на количеството на охладителната течност поради изпаряване",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12909,
+    "text" : "с опасността от заливане с гореща охладителна течност",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12910,
+    "text" : "с понижаването на температурата на охладителната течност",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3936,
+  "number" : 32,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При работа на двигателя на МПС в затворено помещение най-голяма опасност представляват:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12913,
+    "text" : "шумът",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12912,
+    "text" : "изгорелите газове от двигателя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12914,
+    "text" : "вибрациите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12915,
+    "text" : "бензиновите изпарения",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3937,
+  "number" : 33,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Катализаторът е устройство от горивната уредба предназначено:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12916,
+    "text" : "да увеличи мощността на двигателя при режим на пълни натоварвания",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12919,
+    "text" : "да намали разхода на гориво при работа на двигателя на празен ход",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12918,
+    "text" : "да намали шума",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12917,
+    "text" : "да неутрализира токсичността на отработилите газове",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3938,
+  "number" : 34,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Какво означават нормите Евро 1, Евро 2, Евро 3?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12923,
+    "text" : "изисквания за комфорта в автомобила",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12920,
+    "text" : "изисквания за екологичност",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12921,
+    "text" : "изисквания за спирачна ефективност",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12922,
+    "text" : "изисквания за аеродинамичност",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3939,
+  "number" : 35,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кой от газовете отделян в атмосферата от превозните средства при движениeто им, е сред най–опасните причинители на парниковия ефект?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12924,
+    "text" : "кислородът",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12925,
+    "text" : "въглеродният двуокис",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12927,
+    "text" : "метанът",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12926,
+    "text" : "водородът",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3940,
+  "number" : 36,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Вредни емисии от кой газ отделят в атмосферата превозните средства при движениeто си?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12930,
+    "text" : "водород",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12929,
+    "text" : "азот",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12928,
+    "text" : "кислород",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12931,
+    "text" : "въглероден двуокис",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3941,
+  "number" : 37,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "От какво зависи количеството на въглеродния двуокис, които се отделя при работа на двигателя?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12932,
+    "text" : "от качеството на въздушния филтър",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12934,
+    "text" : "от разхода на гориво",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12933,
+    "text" : "от ефективността на филтъра за твърди частици",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3942,
+  "number" : 38,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "По какъв начин водачите на МПС могат да допринесат за намаляване на вредните емисии отделяни от автомобилите?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12936,
+    "text" : "водачите не могат да влияят на количеството на вредните емисии",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12935,
+    "text" : "чрез движение с висока скорост",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12937,
+    "text" : "чрез поддържане на автомобила чист",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12938,
+    "text" : "чрез икономично управление",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3943,
+  "number" : 39,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Вредно ли е за хората шумовото замърсяване, предизвикано от превозните средства при движение?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12939,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12940,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3944,
+  "number" : 40,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Какво влияние оказва скоростта на превозното средство върху „шумовото замърсяване”?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12942,
+    "text" : "шумовото замърсяване не зависи от скоростта",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12943,
+    "text" : "с увеличаване на скоростта шумът намалява",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12941,
+    "text" : "с увеличаване на скоростта шумът се увеличава",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3951,
+  "number" : 45,
+  "subNumber" : 1,
+  "pictureSha1" : "10fc64034d93d675127e34cf38bff763b6d8cb0a",
+  "text" : "Ако при работещ двигател индикаторът на провобуксуващата система (ASR) свети постоянно, това означава че:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12965,
+    "text" : "спирачните накладки са износени",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12963,
+    "text" : "има технически проблем в системата",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12964,
+    "text" : "системата е готова за използване",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3946,
+  "number" : 42,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Антиблокиращата спирачна система (ABS) не допуска блокирането на:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12948,
+    "text" : "буталото в главния спирачен цилиндър",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12949,
+    "text" : "спирачния педал",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12950,
+    "text" : "колелата на автомобила в процеса на спиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3947,
+  "number" : 42,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Как работи антиблокиращата спирачна система (ABS)?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12951,
+    "text" : "усилва натиска на педала на спирачката",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12952,
+    "text" : "усилва налягането в привода (хидравличен или пневматичен) към спирачните механизми",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12953,
+    "text" : "при аварийно/рязко спиране не позволява на колелата да блокират",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3948,
+  "number" : 42,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Антиблокиращата спирачна система (ABS) не позволява на колелата да блокират при рязко спиране.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12954,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12955,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3949,
+  "number" : 43,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Антиблокиращата спирачна система (ABS) е предназначена:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12957,
+    "text" : "да увеличи налягането в спирачната система",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12959,
+    "text" : "да намали свободния ход на спирачния педал",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12956,
+    "text" : "да подобри устойчивостта на автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12958,
+    "text" : "да подобри управляемостта на автомобила при спиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3950,
+  "number" : 44,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "В кой случай ефектът от действието на антиблокиращата спирачна система (ABS)  е най–голям?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12962,
+    "text" : "при спиране на хлъзгъв път",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12960,
+    "text" : "при спиране на сух път",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12961,
+    "text" : "когато накладките на спирачните механизми са износени",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3952,
+  "number" : 46,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Какъв е резултатът от действието на електронната стабилизираща система (ESP)?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12968,
+    "text" : "не позволява на автомобила да потегли, когато е спрян в наклон",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12967,
+    "text" : "поддържа постоянна скоросттта на движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12969,
+    "text" : "запазва траекторията на движение при резки маневри",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12966,
+    "text" : "не позволява развиването на високи скорости",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3953,
+  "number" : 47,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Индикаторът на електронната стабилизираща система (ESP) на арматурното табло светва за определено време, когато:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12970,
+    "text" : "автомобилът е спрян",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12971,
+    "text" : "се активира системата",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12972,
+    "text" : "системата е повредена",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

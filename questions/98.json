@@ -1,0 +1,673 @@
+[ {
+  "id" : 3205,
+  "number" : 25,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При спиране на автомобила дължината на спирачния път зависи от:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 10467,
+    "text" : "състоянието на гумите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10468,
+    "text" : "състоянието на пътната настилка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10466,
+    "text" : "диаметъра на гумите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10469,
+    "text" : "скоростта на движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3206,
+  "number" : 25,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Влияе ли масата на превозното средство върху дължината на неговия спирачен път?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10470,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10471,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3207,
+  "number" : 26,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Как се променя дължината на спирачния път при мокра настилка в сравнение със суха, когато гумите са износени?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10474,
+    "text" : "не се променя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10472,
+    "text" : "намалява",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10473,
+    "text" : "увеличава се",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10475,
+    "text" : "зависи от вида на автомобилната гума",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3208,
+  "number" : 27,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Рязко спиране на превозното средство се допуска:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10478,
+    "text" : "когато зад него не се движи друго ППС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10479,
+    "text" : "когато е необходимо да се предотврати ПТП",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10476,
+    "text" : "винаги",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10477,
+    "text" : "при подаден сигнал със стоп-палка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3209,
+  "number" : 28,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Блокирането на колелата на превозното средство при спиране може да доведе до:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10480,
+    "text" : "увеличаване сцеплението на гумите с пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10482,
+    "text" : "влошаване управляемостта на превозното средство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10481,
+    "text" : "подобряване управляемостта на превозното средство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3212,
+  "number" : 31,
+  "subNumber" : 1,
+  "pictureSha1" : "306b928ef45591480670acbbebb4e50febda7f6d",
+  "text" : "След пътния знак движението трябва да се извършва на дистанция от предния автомобил:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10490,
+    "text" : "не по-малка от 70 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10491,
+    "text" : "не по-голяма от 70 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3210,
+  "number" : 29,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Какво влияние оказва върху дължината на спирачния път блокирането на колелата при спиране?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10484,
+    "text" : "увеличава дължината на спирачния път",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10483,
+    "text" : "не оказва влияние върху дължината на спирачния път",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10485,
+    "text" : "намалява дължината на спирачния път",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3211,
+  "number" : 30,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Преди да намали значително скоростта на движение, водачът на МПС е задължен:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10489,
+    "text" : "да премине в най-дясната пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10487,
+    "text" : "да сигнализира с десен пътепоказател",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10486,
+    "text" : "да се убеди, че няма да застраши останалите участници в движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10488,
+    "text" : "да напусне платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3224,
+  "number" : 39,
+  "subNumber" : 1,
+  "pictureSha1" : "6c491dfa38414af3e06c6c7cc16bdb88d9255920",
+  "text" : "Как ще постъпите при тази ситуация?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10537,
+    "text" : "движа се с готовност за спиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10536,
+    "text" : "продължавам движението, без да намалявам скоростта",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10535,
+    "text" : "подавам сигнал, за да привлека вниманието на детето",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10538,
+    "text" : "намалявам скоростта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3220,
+  "number" : 36,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Водачът на пътно превозно средство:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 10522,
+    "text" : "е задължен да намали скоростта и при необходимост да спре при заслепяване",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10520,
+    "text" : "трябва да намали скоростта и при необходимост да спре, когато възникне опасност за движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10519,
+    "text" : "не трябва да намалява скоростта рязко, освен ако това е необходимо за предотвратяване на произшествие",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10521,
+    "text" : "не е задължен да намали скоростта за да предпази пешеходците от изцапване, когато на платното за движение има вода или кал",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3221,
+  "number" : 36,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Водачът на пътно превозно средство:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 10526,
+    "text" : "не е задължен да намали скоростта за да предпази пешеходците от нараняване, когато на  платното за движение има дребни камъни",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10525,
+    "text" : "е задължен да намали скоростта и при необходимост да спре при заслепяване",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10524,
+    "text" : "не трябва да намалява скоростта рязко, освен ако това е необходимо за предотвратяване на произшествие",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10523,
+    "text" : "трябва да намали скоростта и при необходимост да спре, когато възникне опасност за движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3222,
+  "number" : 37,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато възникне опасност за движението водачът трябва:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 10530,
+    "text" : "да намали скоростта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10529,
+    "text" : "да изключи двигателя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10527,
+    "text" : "да включи аварийните светлини",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10528,
+    "text" : "в случай на необходимост да спре",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3225,
+  "number" : 40,
+  "subNumber" : 1,
+  "pictureSha1" : "0a5122d7823bb63a9c179970f68241162a2dca76",
+  "text" : "При тази ситуация, за да осигуря безопасността на децата, е достатъчно само да намаля скоростта.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10539,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10540,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3226,
+  "number" : 41,
+  "subNumber" : 1,
+  "pictureSha1" : "3a9f91967f5f9d7ee9e95cd73ce380ffd76a4474",
+  "text" : "Кое от изброените действия на водача е най-опасно при преминаването покрай децата?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10541,
+    "text" : "подаването на звуков сигнал за предупреждаване на децата",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10543,
+    "text" : "рязкото спиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10542,
+    "text" : "стремежът бързо да се премине през опасното място",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3227,
+  "number" : 42,
+  "subNumber" : 1,
+  "pictureSha1" : "2ce07ca6a98ecf66afad52cfd8746a7bed288f4b",
+  "text" : "При тази ситуация няма ограничения и мога да увелича скоростта на движение.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10545,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10544,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3228,
+  "number" : 42,
+  "subNumber" : 2,
+  "pictureSha1" : "43b922669d6289961f827ff24976f45db3351757",
+  "text" : "При тази ситуация:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10546,
+    "text" : "движа се по път с предимство и не съм задължен да намалявам скоростта",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10549,
+    "text" : "трябва да намаля скоростта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10548,
+    "text" : "пешеходците не са на платното за движение и не съм задължен да променям скоростта",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10547,
+    "text" : "трябва да управлявам с готовност за спиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3229,
+  "number" : 43,
+  "subNumber" : 1,
+  "pictureSha1" : "a8979cd053e98bfe595c85b9affd1d20bfdbf10c",
+  "text" : "Как ще постъпите при тази ситуация?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10553,
+    "text" : "при необходимост спирам, докато се убедя, че преминаването е безопасно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10551,
+    "text" : "предупреждавам децата със звуков сигнал да освободят пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10550,
+    "text" : "преминавам в съседната пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10552,
+    "text" : "намалявам скоростта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3230,
+  "number" : 43,
+  "subNumber" : 2,
+  "pictureSha1" : "2f14e97ed10753008d33ca90d3ffbe2976785e97",
+  "text" : "След като преминат децата, увеличавам скоростта и продължавам движението.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10555,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10554,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3231,
+  "number" : 44,
+  "subNumber" : 1,
+  "pictureSha1" : "9a0ce8738c4bdc136c5f21309f159d01fafba179",
+  "text" : "При тази ситуация:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10556,
+    "text" : "трябва да управлявам с готовност за спиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10558,
+    "text" : "трябва да премина в лентата за насрещно движение, за да заобиколя децата",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10559,
+    "text" : "длъжен съм да намаля скоростта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10557,
+    "text" : "длъжен съм да подам звуков сигнал",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3232,
+  "number" : 45,
+  "subNumber" : 1,
+  "pictureSha1" : "c20b770d8c755752b017e553b00263f78fe510a2",
+  "text" : "При тази ситуация:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10561,
+    "text" : "управлявам с готовност за спиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10560,
+    "text" : "подавам звуков сигнал за да привлека вниманието на велосипедистите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10562,
+    "text" : "подавам авариен сигнал",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10563,
+    "text" : "намалявам скоростта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3233,
+  "number" : 45,
+  "subNumber" : 2,
+  "pictureSha1" : "431e650a1af1d543dd1dbe3e293da56783bdd68e",
+  "text" : "Кое от изброените действия трябва да предприемете при тази ситуация?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10564,
+    "text" : "незабавно да спра",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10565,
+    "text" : "да бъда внимателен и предпазлив",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10567,
+    "text" : "да подам звуков сигнал",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10566,
+    "text" : "да осигуря достатъчна странична дистанция",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3234,
+  "number" : 46,
+  "subNumber" : 1,
+  "pictureSha1" : "28f0a1c2dac4b199e099809850b6e2b502797be3",
+  "text" : "При тази ситуация:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10571,
+    "text" : "трябва да подам звуков сигнал, за да предупредя децата",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10569,
+    "text" : "мога да премина зад децата, без да намалявам скоростта",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10568,
+    "text" : "трябва да намаля скоростта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10570,
+    "text" : "трябва да се движа с готовност за спиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3236,
+  "number" : 48,
+  "subNumber" : 1,
+  "pictureSha1" : "e0a35f8df8fee36df289a12e3812976c035b870a",
+  "text" : "При тази ситуация, за да осигуря безопасността за велосипедиста при изпреварването, е достатъчно само да намаля скоростта.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10574,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10575,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3237,
+  "number" : 49,
+  "subNumber" : 1,
+  "pictureSha1" : "a547e3e3c5ee8c928a56b880bd81788546d26ef8",
+  "text" : "При заобикаляне на спрелия пред пешеходната пътека автобус:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10577,
+    "text" : "не съм задължен да намалявам скоростта",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10578,
+    "text" : "трябва да намаля скоростта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10576,
+    "text" : "трябва да управлявам с готовност да спра пред пешеходната пътека",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+} ]

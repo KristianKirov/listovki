@@ -1,0 +1,313 @@
+[ {
+  "id" : 3280,
+  "number" : 27,
+  "subNumber" : 1,
+  "pictureSha1" : "4329bb92c9350636f5056f7bec199cbc4b31eacd",
+  "text" : "При тази ситуация:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10704,
+    "text" : "спирам, за да пропусна червения автомобил и преминавам след него",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10702,
+    "text" : "спирам, за да изчакам разрешаващ сигнал от регулировчика",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10703,
+    "text" : "преминавам преди червения автомобил, защото съм отдясно и се движа по път с предимство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3281,
+  "number" : 27,
+  "subNumber" : 2,
+  "pictureSha1" : "118b92d744bd8815c8305ffd3b9771be60f5b029",
+  "text" : "При тази ситуация:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10707,
+    "text" : "пропускам синия автомобил и преминавам след него",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10705,
+    "text" : "преминавам преди синия автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10706,
+    "text" : "спирам, за да изчакам разрешаващ сигнал от регулировчика",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3282,
+  "number" : 28,
+  "subNumber" : 1,
+  "pictureSha1" : "d1ec5c6e36023b9b1aeac988296431c44b07c904",
+  "text" : "При тази ситуация:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10710,
+    "text" : "спирам за да пропусна червения автомобил и преминавам след него",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10708,
+    "text" : "спирам, за да изчакам разрешаващ сигнал от регулировчика",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10709,
+    "text" : "преминавам преди червения автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3283,
+  "number" : 29,
+  "subNumber" : 1,
+  "pictureSha1" : "d2d507f5b11a17102e5ca7b465acac94db154a6b",
+  "text" : "При тази ситуация:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10713,
+    "text" : "спирам, за да изчакам разрешаващ сигнал от регулировчика",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10711,
+    "text" : "спирам, за да пропусна синия автомобил и преминавам след него",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10712,
+    "text" : "трябва да премина преди синия автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3284,
+  "number" : 30,
+  "subNumber" : 1,
+  "pictureSha1" : "3be8d7f8dd492c2cb573ad37f4350f2ae50633fa",
+  "text" : "При тази ситуация разрешено ли е да завиете надясно?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10714,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10715,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3285,
+  "number" : 31,
+  "subNumber" : 1,
+  "pictureSha1" : "4a7b3b76dee42c54387c8a43584272a9ba08ced8",
+  "text" : "При тази ситуация трябва задължително да завия наляво.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10717,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10716,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3286,
+  "number" : 32,
+  "subNumber" : 1,
+  "pictureSha1" : "2edf515b712a84cbc308546a3bc34aca1f3ef2fb",
+  "text" : "Преминавайки през кръстовището при този сигнал на регулировчика няма да извърша нарушение, при условие, че:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10720,
+    "text" : "преди подаването на този сигнал е било разрешено преминаването ми",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10718,
+    "text" : "в момента на подаването на сигнала съм толкова близо, че не мога да спра безопасно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10719,
+    "text" : "подам звуков или светлинен сигнал за това, че ще премина през кръстовището",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3287,
+  "number" : 33,
+  "subNumber" : 1,
+  "pictureSha1" : "59f2dde6e361cbe16321ba8f0a7c452341011480",
+  "text" : "Преминавайки през кръстовището при този сигнал на регулировчика няма да извърша нарушение, при условие, че:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10723,
+    "text" : "в момента на подаването на сигнала съм толкова близо, че не мога да спра безопасно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10721,
+    "text" : "подам звуков или светлинен сигнал за това, че ще премина през кръстовището",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10722,
+    "text" : "преди подаването на този сигнал е било разрешено преминаването ми",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3288,
+  "number" : 34,
+  "subNumber" : 1,
+  "pictureSha1" : "1be9e24ba9ab0dd82f3c5763853458874f0ace37",
+  "text" : "След подаването на този сигнал от светофара:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10727,
+    "text" : "може да завия надясно, но с повишено внимание",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10724,
+    "text" : "навлизането в кръстовището е забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10725,
+    "text" : "навлизането в кръстовището е разрешено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10726,
+    "text" : "трябва да се подготвя за потегляне",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3289,
+  "number" : 35,
+  "subNumber" : 1,
+  "pictureSha1" : "5f5eb02b5daebe5683f6c6366d336644920a5d36",
+  "text" : "При този немигащ сигнал на светофара:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10729,
+    "text" : "мога да премина, но с повишено внимание",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10730,
+    "text" : "е забранено да премина през кръстовището",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10728,
+    "text" : "преминаването е разрешено само за пешеходци",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3290,
+  "number" : 36,
+  "subNumber" : 1,
+  "pictureSha1" : "f1897461834c39a060ef191787f2cb16877e70ed",
+  "text" : "При този немигащ сигнал на светофара навлизането в кръстовището е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10731,
+    "text" : "забранено освен в случаите, когато не можем да спрем, без да създадем опасност за движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10732,
+    "text" : "забранено във всички случаи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10733,
+    "text" : "разрешено, без ограничения",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3291,
+  "number" : 37,
+  "subNumber" : 1,
+  "pictureSha1" : "fce1867f2fd3cd4cc5af769b2f9eafa88d2f211b",
+  "text" : "При тази ситуация водачът на синия автомобил трябва:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10734,
+    "text" : "да пропусне пешеходеца",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10735,
+    "text" : "да пропусне червения автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10736,
+    "text" : "да премине преди червения автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10737,
+    "text" : "да премине преди пешеходеца",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

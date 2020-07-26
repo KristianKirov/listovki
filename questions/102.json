@@ -1,0 +1,169 @@
+[ {
+  "id" : 3036,
+  "number" : 17,
+  "subNumber" : 1,
+  "pictureSha1" : "4db7725bcd98927a92e4b24c8bc7653899945976",
+  "text" : "Коя линия указва правилната траектория за движение при завиване надясно?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9962,
+    "text" : "синята",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9963,
+    "text" : "червената",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3034,
+  "number" : 15,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато на кръстовище пътните ленти не са обозначени с пътна маркировка за движение в съответна посока, завиването надясно е разрешено да се извършва:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9957,
+    "text" : "от която и да е част на платното за движение, ако радиусът на завиване на автомобила е по-голям от радиуса на завоя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9955,
+    "text" : "от най-дясната част на платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9956,
+    "text" : "във всички случаи от най-удобната за водача пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3035,
+  "number" : 16,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е да започнете завиването надясно от най-лявата пътна лента на платното за движение?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9958,
+    "text" : "да, във всички случаи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9960,
+    "text" : "да, но само когато радиусът на завиване на автомобила е по-голям от радиуса на завоя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9959,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9961,
+    "text" : "да, винаги когато пътните ленти не са обозначени с пътна маркировка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3038,
+  "number" : 19,
+  "subNumber" : 1,
+  "pictureSha1" : "f19d7bfb47d0d0a6363fcb022352a2cf39a3983a",
+  "text" : "Коя линия указва правилната траектория за движение при завиване наляво?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9969,
+    "text" : "червената",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9968,
+    "text" : "и двете",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9970,
+    "text" : "синята",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3037,
+  "number" : 18,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Завиването наляво може да се извършва:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 9964,
+    "text" : "от най-удобната за водача пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9967,
+    "text" : "от най-лявата част на еднопосочно пътно платно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9966,
+    "text" : "от най-лявата пътна лента по посока на движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9965,
+    "text" : "от всяка лента, обозначена за завиване наляво",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3570,
+  "number" : 15,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Когато на кръстовище пътните ленти са обозначени за движение в съответна посока, завиването надясно може да се извърши:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11673,
+    "text" : "от най-дясната пътна лента по посока на движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11674,
+    "text" : "от която и да е пътна лента, ако радиусът на завиване на автомобила е по-голям от радиуса на завоя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11676,
+    "text" : "във всички случаи от най-удобната за водача пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11675,
+    "text" : "от пътна лента обозначена за завиване надясно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+} ]

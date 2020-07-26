@@ -1,0 +1,33 @@
+[ {
+  "id" : 3864,
+  "number" : 30,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Водач, на когото са отнети всички контролни точки:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12666,
+    "text" : "е задължен само да уведоми контролните органи на МВР",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12665,
+    "text" : "губи правоспособността си за управление на МПС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12663,
+    "text" : "е задължен да върне свидетелството си за управление в МВР",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12664,
+    "text" : "може да задържи свидетелството си, ако веднага се яви на изпит",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

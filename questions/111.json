@@ -1,0 +1,1391 @@
+[ {
+  "id" : 3410,
+  "number" : 1,
+  "subNumber" : 1,
+  "pictureSha1" : "deefac9cc102c597dac361d39c6309cdf9f2552a",
+  "text" : "С този пътен знак се обозначава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11100,
+    "text" : "автомобилен път",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11097,
+    "text" : "автомагистрала",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11099,
+    "text" : "пътен възел",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11098,
+    "text" : "път, за движение само на леки автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3412,
+  "number" : 4,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Автомагистралата е път:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11107,
+    "text" : "на който началото е обозначено със съответния  пътен знак",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11108,
+    "text" : "по който движението се извършва без ограничение на скоростта",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11106,
+    "text" : "на който краят е обозначен със съответния  пътен знак",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11105,
+    "text" : "който не пресича пътища, железопътни и трамвайни линии и пешеходни пътеки на едно ниво",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3413,
+  "number" : 5,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Автомагистралата е път:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11111,
+    "text" : "по който движението се извършва без ограничение на скоростта",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11109,
+    "text" : "предназначен за движение с високи скорости",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11110,
+    "text" : "по който действат специални правила за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3425,
+  "number" : 14,
+  "subNumber" : 1,
+  "pictureSha1" : "9dce3a52bdc3b1ec72531dcaf726746ba1044155",
+  "text" : "При тази ситуация с предимство е водачът на:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11154,
+    "text" : "автомобила отдясно, който навлиза на автомагистралата",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11156,
+    "text" : "автомобилa, който се движи по автомагистралата",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11155,
+    "text" : "автомобилa, който се движи с по-висока скорост",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3414,
+  "number" : 6,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Автомагистралата е път:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11112,
+    "text" : "който не се пресича с други пътища на едно ниво",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11113,
+    "text" : "с две самостоятелни еднопосочни платна за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11115,
+    "text" : "по който e разрешено движението само на автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11114,
+    "text" : "който не обслужва пряко прилежащи територии",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3416,
+  "number" : 8,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато няма други ограничения, водачът на МПС от категория “В” при движение по автомагистрала не трябва да превишава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11121,
+    "text" : "100 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11122,
+    "text" : "120 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11123,
+    "text" : "110 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11120,
+    "text" : "140 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3417,
+  "number" : 9,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато няма други ограничения, водачът на състав от ППС от категория ВЕ, при движение по автомагистрала не трябва да превишава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11126,
+    "text" : "110 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11127,
+    "text" : "130 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11124,
+    "text" : "120 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11125,
+    "text" : "100 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3420,
+  "number" : 11,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато няма други ограничения, водачът на мотоциклет при движение по автомагистрала не трябва да превишава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11137,
+    "text" : "120 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11138,
+    "text" : "130 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11139,
+    "text" : "100 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11136,
+    "text" : "110 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3423,
+  "number" : 13,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При  навлизане на автомагистрала водачът е длъжен да пропусне превозните средства, които се движат по нея:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11149,
+    "text" : "само, когато те се движат с висока скорост",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11148,
+    "text" : "във всички случаи",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11150,
+    "text" : "само когато е поставен пътен знак за осигуряване на предимство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3424,
+  "number" : 13,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "При  навлизане на автомагистрала задължени ли сте да пропуснете превозните средства, които се движат по нея?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11152,
+    "text" : "да, но само когато има пътен знак за осигуряване на предимство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11153,
+    "text" : "да, във всички случаи",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11151,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3426,
+  "number" : 14,
+  "subNumber" : 2,
+  "pictureSha1" : "4797aa9904df4deaab1b5e6dfbc8d67c2c52a2d8",
+  "text" : "При тази ситуация с предимство е водачът на:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11158,
+    "text" : "синия автомобил, защото се намира от дясната страна на червения автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11160,
+    "text" : "червения автомобил, защото не променя посоката си на движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11159,
+    "text" : "червения автомобил, защото се движи по автомагистралата",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11157,
+    "text" : "синия автомобил, защото навлиза на автомагистралата",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3427,
+  "number" : 15,
+  "subNumber" : 1,
+  "pictureSha1" : "cb392d40acd3d1ff666e5ef04096c615840f638d",
+  "text" : "При тази ситуация с предимство е водачът на:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11161,
+    "text" : "синия автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11162,
+    "text" : "червения автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3428,
+  "number" : 15,
+  "subNumber" : 2,
+  "pictureSha1" : "359d44edb4c113576fae3e0d1c0e410f7e33fd01",
+  "text" : "При тази ситуация:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11164,
+    "text" : "червеният автомобил е с предимство, защото се движи по автомагистралата",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11163,
+    "text" : "червения автомобил е с предимство, защото не променя посоката си на движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11165,
+    "text" : "синият автомобил, който  навлиза на автомагистралата, пропуска червения автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11166,
+    "text" : "синия автомобил е с предимство, защото се намира отдясно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3432,
+  "number" : 19,
+  "subNumber" : 1,
+  "pictureSha1" : "b10778c823f3f349a75d2b4fb983ce68d2e33e5f",
+  "text" : "При тази ситуация разположението на автомобила върху платното за движение е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11178,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11179,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3429,
+  "number" : 16,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Навлизането по автомагистрала е забранено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11168,
+    "text" : "когато поради повреда МПС не може да се движи със скорост по-висока от 50 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11170,
+    "text" : "при теглене на МПС с гъвкава връзка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11167,
+    "text" : "при теглене с твърда връзка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11169,
+    "text" : "при превоз на животни",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3430,
+  "number" : 17,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Какво трябва да предприемете, ако при движение по автомагистрала в превозното средство възникне повреда и то не може да се движи със скорост по-висока от 50 км/ч?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11172,
+    "text" : "трябва да напусна автомагистралата на най-близкото разрешено място",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11171,
+    "text" : "мога да продължа движението в лентата за принудително спиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11173,
+    "text" : "задължен съм да спра в лентата за принудително спиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3431,
+  "number" : 18,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато еднопосочното платно на автомагистрала е с две пътни ленти за движение в една посока, в лявата лента движението е разрешено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11176,
+    "text" : "само когато е разрешено движение със скорост над 90 км/час",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11175,
+    "text" : "при изпреварване",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11177,
+    "text" : "когато дясната пътна лента е заета",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11174,
+    "text" : "винаги, когато лентата е свободна",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3433,
+  "number" : 20,
+  "subNumber" : 1,
+  "pictureSha1" : "8e7e9cfa61a80294dd4cb3ccb640805004cd6cd0",
+  "text" : "При тази ситуация разположението на автомобила върху платното за движение е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11180,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11181,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3434,
+  "number" : 21,
+  "subNumber" : 1,
+  "pictureSha1" : "ff544f1aa815f1a28f0766ffedbd9bec1c48d149",
+  "text" : "При тази ситуация:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11182,
+    "text" : "мога да използвам най-удобната за мен пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11183,
+    "text" : "мога да продължа да се движа в лявата лента, без да изпреварвам червения автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11184,
+    "text" : "ако не мога да изпреваря червения автомобил, трябва да премина в дясната пътна лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3435,
+  "number" : 22,
+  "subNumber" : 1,
+  "pictureSha1" : "f730ef9481a18ee0839b95c21e6cf9d0d814f730",
+  "text" : "Кой от автомобилите нарушава правилата за движение по автомагистрала?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11186,
+    "text" : "и двата автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11185,
+    "text" : "само товарният автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11187,
+    "text" : "само лекият автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3436,
+  "number" : 22,
+  "subNumber" : 2,
+  "pictureSha1" : "b9a9f314733417c76168bcab5b9a3cb9f3f0b30d",
+  "text" : "При тази ситуация кой от автомобилите нарушава правилата за движение по автомагистрала?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11189,
+    "text" : "и двата автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11188,
+    "text" : "само лекият автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11190,
+    "text" : "само товарният автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3437,
+  "number" : 23,
+  "subNumber" : 1,
+  "pictureSha1" : "96304ccad4a7017caff87edaa22a9150aa2d9079",
+  "text" : "При тази ситуация водачът на товарния автомобил не извършва нарушение ако:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11193,
+    "text" : "е спрял за престой",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11192,
+    "text" : "е паркирал",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11191,
+    "text" : "е спрял поради повреда",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11194,
+    "text" : "се движи със скорост не по- висока от 30 км/час",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3438,
+  "number" : 24,
+  "subNumber" : 1,
+  "pictureSha1" : "f99f0e2441682401ba9a90c8ca0cd568742444ef",
+  "text" : "Кое от превозните средства нарушава правилата за движение по автомагистрала?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11197,
+    "text" : "и трите превозни средства",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11195,
+    "text" : "само лекият автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11196,
+    "text" : "само тракторът",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11198,
+    "text" : "само товарният автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3439,
+  "number" : 25,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На автомагистрала с три пътни ленти за движение в една посока, на водача на състав от ППС с дължина над 7 метра е:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11199,
+    "text" : "разрешено да навлиза в крайната лява лента при изпреварване",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11201,
+    "text" : "разрешено да се движи в средната пътна лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11202,
+    "text" : "разрешено да се движи в най-дясната пътна лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11200,
+    "text" : "забранено да се движи в крайната лява лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3440,
+  "number" : 26,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На автомагистрала е забранено движението на:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11205,
+    "text" : "автомобили с конструктивна максимална скорост по-малка от 50 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11204,
+    "text" : "автомобили с товар над 10 т",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11206,
+    "text" : "специални автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11203,
+    "text" : "мотоциклети с конструктивна максимална скорост по-малка от 50 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3446,
+  "number" : 30,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На автомагистрала е забранено движението на:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11227,
+    "text" : "леки автомобили с ремаркета",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11228,
+    "text" : "трактори",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11229,
+    "text" : "велосипеди",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11230,
+    "text" : "мотопеди",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3448,
+  "number" : 32,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На автомагистрала е забранено движението на:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11235,
+    "text" : "съчленени пътни превозни средства",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11238,
+    "text" : "мотоциклети с кош",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11236,
+    "text" : "трактори",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11237,
+    "text" : "мотопеди",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3449,
+  "number" : 32,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "На автомагистрала е забранено движението на:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11239,
+    "text" : "автомобили превозващи живи животни",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11241,
+    "text" : "трактори",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11240,
+    "text" : "мотоциклети с кош",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11242,
+    "text" : "мотопеди",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3450,
+  "number" : 33,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На автомагистрала е разрешено движението на автомобили и мотоциклети, чиято конструктивна максимална скорост е по-висока от:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11245,
+    "text" : "40 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11243,
+    "text" : "45 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11244,
+    "text" : "30 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11246,
+    "text" : "50 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3452,
+  "number" : 35,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Движението назад по автомагистрала е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11252,
+    "text" : "разрешено без ограничения",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11250,
+    "text" : "забранено във всички случаи",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11251,
+    "text" : "разрешено само в лентата за принудително спиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11253,
+    "text" : "забранено само през нощта",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3453,
+  "number" : 36,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На автомагистрала е забранено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11255,
+    "text" : "движението назад",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11256,
+    "text" : "движението на мотоциклети без кош",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11254,
+    "text" : "отстраняване на повреда на МПС в лентата за принудително спиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11257,
+    "text" : "завиването в обратна посока",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3454,
+  "number" : 37,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е водач, който отмине пътния възел за излизане от автомагистрала, да се придвижи обратно назад по лентата за принудително спиране?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11258,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11260,
+    "text" : "да, ако разстоянието е по-малко от 100 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11259,
+    "text" : "да, ако е с включени аварийни светлини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11261,
+    "text" : "да, във всички случаи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3455,
+  "number" : 38,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На автомагистрала, преминаването в платното за насрещното движение е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11262,
+    "text" : "разрешено навсякъде, където е възможно, ако не се пречи на насрещно движещите се ППС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11264,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11263,
+    "text" : "разрешено на местата, където разделителната ивица между платната за движение е прекъсната",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3456,
+  "number" : 39,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Завиването в обратна посока при движение по автомагистрала е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11265,
+    "text" : "забранено във всички случаи",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11266,
+    "text" : "разрешено, но водачът трябва да продължи движението си по лентата за принудително спиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11267,
+    "text" : "разрешено за напускане на автомагистралата",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11268,
+    "text" : "разрешено само през светлата част от денонощието",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3457,
+  "number" : 40,
+  "subNumber" : 1,
+  "pictureSha1" : "e6d5769c5bf1d99178dfdbf0c318111dda66e312",
+  "text" : "При тази ситуация на автомагистрала:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11271,
+    "text" : "водачът на лекия автомобил трябва да пропусне товарния автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11269,
+    "text" : "водачът на лекия автомобил преминава преди товарния автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11272,
+    "text" : "водачът на лекия автомобил може да пресече раздилителната ивица, когато няма автомобили в другото платно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11270,
+    "text" : "на водача на лекия автомобил е забранено да пресича разделителната ивица",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3475,
+  "number" : 55,
+  "subNumber" : 1,
+  "pictureSha1" : "931e37577c79ebf3ac55a372a6e8a57e3225e8e9",
+  "text" : "При тази ситуация, ако лекият автомобил се движи бавно, разрешено ли е да използвате за движение лентата за принудително спиране?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11341,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11340,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3458,
+  "number" : 43,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При движение по автомагистрала на водача е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11273,
+    "text" : "да спира за отстраняване на неизправност по автомобила, възникнала по време на движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11276,
+    "text" : "да паркира в лентата за принудително спиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11274,
+    "text" : "да спира за престой в лентата за принудително спиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11275,
+    "text" : "да се движи по лентата за принудително спиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3462,
+  "number" : 47,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При движение по автомагистрала на водача е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11289,
+    "text" : "да навлиза в разделителната ивица",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11290,
+    "text" : "да се движи с прикачено ремарке",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11292,
+    "text" : "да спира за престой извън местата обозначени за паркиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11291,
+    "text" : "да пресича разделителната ивица, включително и на местата, където тя е прекъсната",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3463,
+  "number" : 48,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При движение по автомагистрала на водача е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11294,
+    "text" : "да се движи по лентата за принудително спиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11296,
+    "text" : "да тегли повредено МПС с твърда връзка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11293,
+    "text" : "да навлиза в разделителната ивица или да я пресича, включително и на местата, където тя е прекъсната",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11295,
+    "text" : "да завива в обратна посока",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3468,
+  "number" : 50,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е лентата за принудително спиране на автомагистрала да се използва за движение при теглене на повредено МПС?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11313,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11316,
+    "text" : "да, но само през нощта",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11315,
+    "text" : "да, когато се тегли с гъвкава връзка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11314,
+    "text" : "да, но само при теглене с твърда връзка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3469,
+  "number" : 51,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При теглене с твърда връзка по автомагистрала разрешената максимална скорост за движение е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11317,
+    "text" : "50 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11318,
+    "text" : "70 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11320,
+    "text" : "30 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11319,
+    "text" : "40 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3473,
+  "number" : 53,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Лентата за принудително спиране на автомагистрала е разрешено да се използва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11334,
+    "text" : "за спиране при повреда, възникнала по време на движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11335,
+    "text" : "за паркиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11336,
+    "text" : "за движение при теглене на повредено МПС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11333,
+    "text" : "за движение на бавнодвижещи се МПС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3474,
+  "number" : 54,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На автомагистрала движението в лентата за принудително спиране е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11337,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11339,
+    "text" : "разрешено, без ограничения",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11338,
+    "text" : "разрешено само за МПС, движещи се със скорост по-ниска от 30 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3476,
+  "number" : 56,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "В кои случаи автомобилът, спрян в лентата за принудително спиране на автомагистрала, задължително се сигнализира?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11345,
+    "text" : "винаги",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11342,
+    "text" : "при намалена видимост",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11343,
+    "text" : "при ограничена видимост",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11344,
+    "text" : "през нощта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3478,
+  "number" : 57,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На какво разстояние зад МПС, принудително спряло на автомагистрала, се поставя предупредителният светлоотразителен триъгълник?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11350,
+    "text" : "не по-малко от 50 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11351,
+    "text" : "не по-малко от 30 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11352,
+    "text" : "не по-малко от 70 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11353,
+    "text" : "не по-малко от 100 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4742,
+  "number" : 17,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "При движение по автомагистрала на водача е забранено да спира в лентата за принудително спиране, освен при:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 15447,
+    "text" : "повреда на пътното превозно средство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15449,
+    "text" : "здравословни проблеми на пътниците в превозното средство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15450,
+    "text" : "необходимост от сън/почивка на водача",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15448,
+    "text" : "здравословни проблеми на водача",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4745,
+  "number" : 48,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "При движение по автомагистрала на водача е забранено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 15458,
+    "text" : "да завива в обратна посока",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15459,
+    "text" : "да се движи в платното за насрещно движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15460,
+    "text" : "да тегли повредено МПС с твърда връзка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

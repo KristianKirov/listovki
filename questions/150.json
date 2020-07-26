@@ -1,0 +1,833 @@
+[ {
+  "id" : 3843,
+  "number" : 15,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Водач, който превиши разрешената максимална скорост за движение в населено място с над 50 км/ч се наказва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12591,
+    "text" : "само с лишаване от право да управлява МПС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12590,
+    "text" : "само с глоба",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12589,
+    "text" : "с глоба и лишаване от право да управлява МПС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3844,
+  "number" : 16,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Водач, който не носи със себе си необходимите документи, се наказва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12592,
+    "text" : "с лишаване от право да управлява МПС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12593,
+    "text" : "с глоба",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12594,
+    "text" : "с проверочен изпит",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3845,
+  "number" : 17,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Водач на МПС, който при движение наруши правилата за използване на светлините, се наказва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12597,
+    "text" : "само ако е създадена непосредствена опасност за движението",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12596,
+    "text" : "само ако в резултат на това е настъпило ПТП",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12595,
+    "text" : "във всички случаи",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3846,
+  "number" : 18,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Контролните органи временно отнемат свидетелството за управление на МПС на водач:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12599,
+    "text" : "за когото видимо се установи, че не отговаря на медицинските изисквания",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12601,
+    "text" : "който управлява МПС с концентрация на алкохол в кръвта над 0,5 на хиляда",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12598,
+    "text" : "когато МПС е технически неизправно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12600,
+    "text" : "който поради незнание е извършил немаловажно нарушение на правилата за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3847,
+  "number" : 20,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Контролните органи временно отнемат свидетелството за управление на МПС на водач:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12603,
+    "text" : "когато не е заплатена необходимата винетна такса",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12604,
+    "text" : "който поради незнание е извършил немаловажно нарушение на правилата за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12605,
+    "text" : "който откаже да бъде проверен от контролните органи за наличие на алкохол в кръвта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12602,
+    "text" : "който управлява МПС без застраховка \"Гражданска отговорност\" на автомобилистите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3848,
+  "number" : 20,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Контролните органи временно отнемат свидетелството за управление на МПС на водач:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12608,
+    "text" : "когато водачът паркира автомобила на място, където това е забранено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12609,
+    "text" : "за когото видимо се установи, че не отговаря на психологическите изисквания",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12607,
+    "text" : "за когото видимо се установи, че не отговаря на медицинските изисквания",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12606,
+    "text" : "когато не е заплатена необходимата винетна такса",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3850,
+  "number" : 21,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Каква мярка се прилага към водач, който поради незнание извърши немаловажно нарушение на правилата за движение?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12616,
+    "text" : "временно му се отнема свидетелството за управление",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12615,
+    "text" : "временно се спира от движение управляваното от него МПС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12614,
+    "text" : "налага му се глоба до 300 лева",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3856,
+  "number" : 23,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Какви мерки се прилагат при управление на МПС, което няма застраховка “Гражданска отговорност”?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12638,
+    "text" : "само временно отнемане на свидетелството за управление на МПС на водача",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12637,
+    "text" : "временно спиране от движение на МПС и временно отнемане на свидетелството за управление на МПС на водача",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12639,
+    "text" : "само временно спиране от движение на МПС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3857,
+  "number" : 25,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Контролните органи преместват паркирано пътно превозно средство без знанието на неговия собственик, когато превозното средство:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12640,
+    "text" : "винаги, когато е паркирано в нарушение на правилата за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12641,
+    "text" : "е без табели с регистрационен номер, поставени на определените за това места",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12642,
+    "text" : "създава опасност за другите участници в движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12643,
+    "text" : "прави невъзможно преминаването на другите участници в движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3858,
+  "number" : 25,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Контролните органи преместват паркирано пътно превозно средство без знанието на неговия собственик, когато превозното средство:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12644,
+    "text" : "създава опасност за другите участници в движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12645,
+    "text" : "е паркирано в нарушение на места, обозначени с неподвижен пътен знак, предупреждаващ за принудително преместване",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12646,
+    "text" : "е паркирано правилно, но обстоятелствата налагат неговото преместване",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12647,
+    "text" : "винаги, когато е паркирано в нарушение на правилата за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3972,
+  "number" : 35,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При влезли в сила две наказателни постановления (за период от една година) за преминава при сигнал на светофара, който не разрешава преминаването, водачът се наказва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 13034,
+    "text" : "само с глоба",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 13033,
+    "text" : "само с лишаване от право да управлява МПС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 13035,
+    "text" : "с глоба и лишаване от право да управлява МПС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3973,
+  "number" : 36,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Какво наказание се налага на водач, когато за период от една година има влезли в сила две наказателни постановления за неосигуряване на предимство на пешеходци на пешеходна пътека?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 13038,
+    "text" : "само с глоба",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 13036,
+    "text" : "само с лишаване от право да управлява МПС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 13037,
+    "text" : "с глоба и лишаване от право да управлява МПС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4019,
+  "number" : 22,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Контролните органи временно спират от движение МПС на собственик, който предоставя управлението на МПС на лице, което:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 13191,
+    "text" : "има влезли в сила две наказателни постановления за управление с превишена скорост извън населено място",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 13189,
+    "text" : "не притежава съответното свидетелство за управление",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 13190,
+    "text" : "е употребил наркотично вещество",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 13188,
+    "text" : "е употребило алкохол с концентрация в кръвта над 0,5 на хиляда",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4698,
+  "number" : 41,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Контролните органи не допускат управлението на моторно превозно средство от водач, който:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 15301,
+    "text" : "не изпълни предписанието за медицинско изследване за употребата на наркотични вещества",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15299,
+    "text" : "не е заплатил  задължителната застраховка „Гражданска отговорност“ на автомобилиста",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15300,
+    "text" : "откаже да му бъде извършена проверка с техническо средство за установяване употребата на алкохол",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4705,
+  "number" : 42,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При служебно прекратяване на регистрацията на ППС  със съставянето на акта за установяване на административното нарушение се отнемат:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 15322,
+    "text" : "част 2 на свидетелството за регистрация на ППС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15323,
+    "text" : "част 1 на свидетелството за регистрация ППС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15321,
+    "text" : "табелите с регистрационен номер",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4713,
+  "number" : 20,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Контролните органи временно отнемат свидетелството за управление на МПС на водач:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 15344,
+    "text" : "който управлява моторно превозно средство с концентрация на алкохол в кръвта над 0,5 на хиляда",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15347,
+    "text" : "когато водачът паркира автомобила на място, където това е забранено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15345,
+    "text" : "който управлява моторно превозно средство под въздействието на наркотично вещество",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15346,
+    "text" : "който откаже да бъде проверен от контролните органи за наличие на алкохол в кръвта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4715,
+  "number" : 21,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Каква мярка се прилага към водач, който има наложено наказание глоба, незаплатена в срока за доброволно заплащане?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 15354,
+    "text" : "прекратява се регистрацията на пътно превозно средство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15352,
+    "text" : "временно му се отнема свидетелството за управление",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15353,
+    "text" : "налага му се глоба",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4717,
+  "number" : 39,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Контролните органи временно спират от движение моторно превозно средство на собственик, който:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 15361,
+    "text" : "откаже да му бъде извършена проверка с техническо средство за употреба на наркотични вещества",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15360,
+    "text" : "не изпълни предписанието за медицинско изследване за употреба на наркотични вещества или техни аналози",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15362,
+    "text" : "управлява моторно превозно средство с наложено наказание глоба, незаплатена в срока за доброволно заплащане",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15359,
+    "text" : "е употребил алкохол с концентрация в кръвта над 0,5 на хиляда",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4718,
+  "number" : 40,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Контролните органи прекратяват регистрацията на пътно превозно средство на собственик, който управлява моторното превозно средство:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 15365,
+    "text" : "след употреба на наркотични вещества или техни аналози",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15364,
+    "text" : "с концентрация на алкохол в кръвта над 0,5 на хиляда",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15363,
+    "text" : "без да притежава съответното свидетелство за управление",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15366,
+    "text" : "има наложено наказание глоба, незаплатена в срока за доброволно заплащане",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4719,
+  "number" : 41,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Контролните органи не допускат управлението на МПС, когато при проверката са установили, че водачът:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 15369,
+    "text" : "е употребил наркотично вещество",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15368,
+    "text" : "е с концентрация на алкохол в кръвта над 0,5 на хиляда",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15370,
+    "text" : "не е заплатил  задължителната застраховка „Гражданска отговорност“ на автомобилиста",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15367,
+    "text" : "не притежава съответното свидетелство за управление",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4720,
+  "number" : 42,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Водач, който се движи в платното за насрещно движение по автомагистрала и/или скоростен път, се наказва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 15372,
+    "text" : "само с лишаване от право да управлява МПС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15373,
+    "text" : "с глоба и лишаване от право да управлява МПС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15371,
+    "text" : "само с глоба",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4721,
+  "number" : 43,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Водач, който oрганизира или участва в нерегламентирани състезания по пътищата, отворени за обществено ползване се наказва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 15375,
+    "text" : "само с лишаване от право да управлява МПС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15376,
+    "text" : "с глоба и лишаване от право да управлява МПС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15374,
+    "text" : "само с глоба",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4722,
+  "number" : 43,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Водач, който ползва пътищата, отворени за обществено ползване за други цели, освен в съответствие с тяхното предназначение се наказва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 15378,
+    "text" : "само с лишаване от право да управлява МПС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15379,
+    "text" : "с глоба и лишаване от право да управлява МПС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15377,
+    "text" : "само с глоба",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4733,
+  "number" : 44,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато контролните органи отнемат табелите с регистрационен номер на МПС, то трябва да бъде транспортирано до място за съхранение:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 15415,
+    "text" : "до 2 часа от установяване на нарушението",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15417,
+    "text" : "до 24 часа от установяване на нарушението",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15416,
+    "text" : "до 12 часа от установяване на нарушението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4734,
+  "number" : 39,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Контролните органи временно спират от движение моторно превозно средство на собственик, който:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 15420,
+    "text" : "управлява МПС в участък от пътната мрежа с въведена временна забрана за движение извън населените места",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15418,
+    "text" : "управлява МПС, без да притежава съответното свидетелство за управление",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15419,
+    "text" : "не изпълни предписанието за медицинско изследване на концентрацията на алкохол в кръвта му",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15421,
+    "text" : "предоставя управлението на МПС на лице, което е с концентрация алкохол в кръвта над 0,5 на хиляда",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4737,
+  "number" : 40,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Контролните органи прекратяват регистрацията на пътно превозно средство на собственик, който като водач на моторното превозно средство:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 15429,
+    "text" : "не изпълни предписанието за медицинско изследване за употреба на наркотични вещества",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15430,
+    "text" : "превиши максимално разрешената скорост в населено място над 50 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15431,
+    "text" : "участва в нерегламентирани състезания по пътищата, отворени за обществено ползване",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15428,
+    "text" : "откаже да му бъде извършена проверка с техническо средство за установяване употребата на алкохол",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4738,
+  "number" : 40,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Контролните органи прекратяват регистрацията на пътно превозно средство на собственик:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 15432,
+    "text" : "който, като водач откаже да му бъде извършена проверка с техническо средство за установяване употребата на алкохол",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15435,
+    "text" : "участва в нерегламентирани състезания по пътищата, отворени за обществено ползване",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15434,
+    "text" : "превиши максимално разрешената скорост в населено място над 50 km/h",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15433,
+    "text" : "чието МПС е управлявано от лице, непритежаващо съответното свидетелство за управление",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4752,
+  "number" : 15,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Водач, който превиши разрешената максимална скорост за движение извън населено място с над 50 км/ч, се наказва с лишаване от право да управлява МПС:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 15479,
+    "text" : "когато нарушението е системно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15480,
+    "text" : "във всички случаи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4753,
+  "number" : 22,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Контролните органи временно спират от движение моторно превозно средство на собственик, който:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 15484,
+    "text" : "управлява МПС, без да притежава съответното свидетелство за управление",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15483,
+    "text" : "при управление на МПС превиши максимално разрешената скорост в населено място над 50 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15482,
+    "text" : "управлява МПС с наложено наказание глоба, незаплатена в срока за доброволно заплащане",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15481,
+    "text" : "предоставя МПС на лице за участие в нерегламентирани състезания по пътищата, отворени за обществено ползване",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+} ]

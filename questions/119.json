@@ -1,0 +1,421 @@
+[ {
+  "id" : 3556,
+  "number" : 34,
+  "subNumber" : 1,
+  "pictureSha1" : "944e8cb905b8233ee3bce0f97fd01fdc9759dec9",
+  "text" : "При тази ситуация водачът на жълтия автомобил:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11626,
+    "text" : "има разрешаващ сигнал и преминава преди автомобила на спешната медицинска помощ",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11628,
+    "text" : "трябва да пропусне автомобила на спешната медицинска помощ, защото той е с включен сигнал",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11627,
+    "text" : "не е задължен да пропусне автомобила на спешната медицинска помощ, защото е от дясната му страна",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3555,
+  "number" : 33,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Пресичането на организирани шествия, движещи се по пътищата отворени за обществено ползване, е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11623,
+    "text" : "разрешено е само за водачи на двуколесни  превозни средства",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11625,
+    "text" : "разрешено само за водачите на леки автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11624,
+    "text" : "забранено за всички превозни средства, които не участват в шествието",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3557,
+  "number" : 35,
+  "subNumber" : 1,
+  "pictureSha1" : "cf633cbcc2a71c825fb3286cd1e00df4c0dafc1a",
+  "text" : "При тази ситуация водачът на зеления автомобил:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11631,
+    "text" : "трябва да пропусне червения автомобил, защото той е със специален режим на движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11629,
+    "text" : "трябва да пропусне червения автомобил, защото той приближава кръстовището от дясната му страна",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11630,
+    "text" : "не е задължен да пропусне червения автомобил, защото се движи по пътя с предимство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3558,
+  "number" : 36,
+  "subNumber" : 1,
+  "pictureSha1" : "913bef54f8b7b1d75909a6b5705b4cd164dc618a",
+  "text" : "При тази ситуация водачът на зеления автомобил трябва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11633,
+    "text" : "да премине преди двата автомобила",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11634,
+    "text" : "да пропусне двата автомобила",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11632,
+    "text" : "да пропусне автомобила със специален режим на движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3559,
+  "number" : 37,
+  "subNumber" : 1,
+  "pictureSha1" : "c812a934d9d89deafc967be436b547d377efe757",
+  "text" : "При тази ситуация водачът на зеления автомобил задължен ли е да пропусне червения автомобил, ако той не е с включен специален светлинен и звуков сигнал?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11635,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11636,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3560,
+  "number" : 38,
+  "subNumber" : 1,
+  "pictureSha1" : "decfeb6d4ac888f8bd613bd4ed8f558e7cc7ed82",
+  "text" : "При тази ситуация водачът на жълтия автомобил трябва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11637,
+    "text" : "да пропусне двата автомобила",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11639,
+    "text" : "да премине преди двата автомобила",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11638,
+    "text" : "да пропусне автомобила със специален режим на движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3561,
+  "number" : 39,
+  "subNumber" : 1,
+  "pictureSha1" : "72dfd68215f8ab3b5f918346fe0125ad4bad6ae9",
+  "text" : "При тази ситуация водачът на жълтия автомобил задължен ли е да пропусне автомобила със специален режим на движение?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11641,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11640,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3562,
+  "number" : 40,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Моторни превозни средства със специален режим на движение са автомобилите и мотоциклетите, които при движението си подават:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11642,
+    "text" : "светлинен сигнал с жълта пробляскваща светлина",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11644,
+    "text" : "специален звуков сигнал",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11645,
+    "text" : "светлинен сигнал с проблясваща синя и/или червена светлина",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11643,
+    "text" : "„авариен сигнал”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3563,
+  "number" : 40,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "По кой от изброените сигнали се разпознава моторно превозно средство със специален режим на движение?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11648,
+    "text" : "светлинен сигнал с жълта пробляскваща светлина",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11646,
+    "text" : "светлинен сигнал с проблясваща синя светлина",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11647,
+    "text" : "светлинен сигнал с проблясваща червена светлина",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11649,
+    "text" : "специален звуков сигнал",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3564,
+  "number" : 41,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При приближаване на МПС със специален режим на движение, водачите на останалите превозни средства са длъжни да осигурят безпрепятственото им преминаване, като:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11653,
+    "text" : "освободят достатъчно място на пътното платно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11650,
+    "text" : "задължително трябва да спрат възможно най-вдясно на пътното платно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11651,
+    "text" : "при необходимост трябва да спрат",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11652,
+    "text" : "незабавно да спрат в пътната лента, в която се намират",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3565,
+  "number" : 42,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е водачите на ППС да се движат в непосредствена близост зад превозните средства със специален режим на движение?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11655,
+    "text" : "да, когато няма ограничение на скоростта",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11654,
+    "text" : "да, във всички случаи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11656,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3566,
+  "number" : 43,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На водача на МПС със специален режим на движение е разрешено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11657,
+    "text" : "да не спазва сигналите на регулировчика",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11660,
+    "text" : "да преминава при забраняващ сигнал на светофара",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11658,
+    "text" : "да надвишава разрешената максимална скорост на движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11659,
+    "text" : "да преминава, без да спира, при наличие на пътен знак, който изисква това",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3567,
+  "number" : 44,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На водача на МПС със специален режим на движение е разрешено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11664,
+    "text" : "да спира за престой на места, където престоят е забранен",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11661,
+    "text" : "да паркира на места, където има забрана за паркиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11663,
+    "text" : "да не се съобразява с организацията на движението, относно посока на движение и завиване в определени направления",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11662,
+    "text" : "да не управлява по безопасен начин",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3568,
+  "number" : 44,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "На водача на МПС със специален режим на движение:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11667,
+    "text" : "е разрешено да преминава, без да спира, при наличие на пътен знак, който изисква това",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11668,
+    "text" : "е забранено да паркира на места, където има забрана за паркиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11666,
+    "text" : "е забранено да преминава при забраняващ сигнал на светофара",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11665,
+    "text" : "е разрешено да надвишава разрешената максимална скорост на движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3569,
+  "number" : 44,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "На водача на МПС със специален режим на движение",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11670,
+    "text" : "е разрешено да не се съобразява с организацията на движението, относно посока на движение и завиване в определени направления",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11669,
+    "text" : "е разрешено да преминава при забраняващ сигнал на светофара",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11672,
+    "text" : "е разрешено да надвишава разрешената максимална скорост на движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11671,
+    "text" : "е забранено да преминава, без да спира, при наличие на пътен знак, който изисква това",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

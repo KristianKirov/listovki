@@ -1,0 +1,481 @@
+[ {
+  "id" : 2776,
+  "number" : 24,
+  "subNumber" : 1,
+  "pictureSha1" : "a946ffbbd53064302fb99da9064233dd1cd69b0c",
+  "text" : "Този пътен знак предупреждава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9076,
+    "text" : "че пътят е затворен за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9075,
+    "text" : "за приближаване към подвижен мост",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9073,
+    "text" : "че пътят води до кей или бряг",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9074,
+    "text" : "за приближаване към повреден мост",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2777,
+  "number" : 25,
+  "subNumber" : 1,
+  "pictureSha1" : "6bd38e7578f142607966411bc57c4ad3c9b97e57",
+  "text" : "Този пътен знак предупреждава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9079,
+    "text" : "че пътят води до кей или бряг",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9078,
+    "text" : "че пътят е затворен за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9077,
+    "text" : "за приближаване към подвижен мост",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9080,
+    "text" : "за приближаване към повреден мост",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2778,
+  "number" : 26,
+  "subNumber" : 1,
+  "pictureSha1" : "85c0733f70feb417519301057c0c5e26e9f5b6a7",
+  "text" : "Този пътен знак предупреждава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9083,
+    "text" : "че е възможно изхвърляне на малки камъни",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9084,
+    "text" : "за неукрепен пътен банкет",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9082,
+    "text" : "за хлъзгав участък от пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9081,
+    "text" : "за неравности по платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2779,
+  "number" : 27,
+  "subNumber" : 1,
+  "pictureSha1" : "8eb6816f8cd1f5138a086ccf40081cee72be9511",
+  "text" : "Този пътен знак предупреждава:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9086,
+    "text" : "че пътят отдясно е стеснен и е с разбита настилка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9087,
+    "text" : "че е възможно да има паднали камъни на пътя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9088,
+    "text" : "за опасност от срутване на камъни на пътя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9085,
+    "text" : "че отдясно на пътя се извършват строително-ремонтни работи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2780,
+  "number" : 28,
+  "subNumber" : 1,
+  "pictureSha1" : "aefb4806c01d71f6b2d9fb050adb253b9c06367e",
+  "text" : "Този пътен знак:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9092,
+    "text" : "забранява воденето на домашни животни по платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9090,
+    "text" : "сигнализира път, по който се движат ППС с животинска тяга",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9091,
+    "text" : "указва път задължителен за движение на ППС теглени от животни",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9089,
+    "text" : "предупреждава, че е възможна появата на домашни животни на пътя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2781,
+  "number" : 29,
+  "subNumber" : 1,
+  "pictureSha1" : "b5bdeef30771b75e58f1930ea442e5e7c1421f64",
+  "text" : "Този пътен знак предупреждава водачите, че:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9096,
+    "text" : "пътят навлиза в ловен участък",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9095,
+    "text" : "е възможна поява на диви животни на пътя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9093,
+    "text" : "е възможна появата на домашни животни на пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9094,
+    "text" : "преминават покрай зоопарк",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2782,
+  "number" : 30,
+  "subNumber" : 1,
+  "pictureSha1" : "0ccb868191f2d69c34a94c478ea54bc1d051780b",
+  "text" : "Значението на този пътен знак е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9098,
+    "text" : "\"Пропусни насрещно движещите се автомобили\"",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9097,
+    "text" : "\"Двупосочно движение\"",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9100,
+    "text" : "\"Разминаването е забранено\"",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9099,
+    "text" : "\"Премини ако пътят е свободен\"",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2784,
+  "number" : 31,
+  "subNumber" : 1,
+  "pictureSha1" : "c912a8bf962a90a898b6a7a629ebde88cf7b8e9a",
+  "text" : "Този пътен знак предупреждава за:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9106,
+    "text" : "кръстовище, на което светофарите са изключени или повредени",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9108,
+    "text" : "кръстовище, на което се пресичат равнозначни пътища",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9105,
+    "text" : "железопътен прелез със светофарно регулиране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9107,
+    "text" : "място на пътя, където движението се регулира със светлинни сигнали",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2783,
+  "number" : 30,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "На кой от пътните знаци значението е “Двупосочно движение!”?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9103,
+    "text" : null,
+    "pictureSha1" : "0d8b7de3baeb0c1a50d404eb605068fa63df94b2",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9102,
+    "text" : null,
+    "pictureSha1" : "9062828d8b6477e0dc94f6be416512cbfc0b85e0",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9101,
+    "text" : null,
+    "pictureSha1" : "46db9371d0e856475d00fa55bfe55162fa4e4669",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9104,
+    "text" : null,
+    "pictureSha1" : "f02aa8a5b9f635e9d3f432fdd32919668f68d39c",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2785,
+  "number" : 32,
+  "subNumber" : 1,
+  "pictureSha1" : "ccbdb69b7f73bc7b29a8c5047a67fe0a85abb116",
+  "text" : "Този пътен знак:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9109,
+    "text" : "обозначава район на летище",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9112,
+    "text" : "предупреждава за нисколетящи самолети",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9111,
+    "text" : "предупреждава за възможна поява на силен страничен вятър",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9110,
+    "text" : "сигнализира място за отдих",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2786,
+  "number" : 33,
+  "subNumber" : 1,
+  "pictureSha1" : "e1395981b981f7fc07aa41f4ba228eff2277a7f5",
+  "text" : "Значението на този пътен знак е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9116,
+    "text" : "\"Внимание, други опасности\"",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9115,
+    "text" : "\"Пропусни насрещно движещите се превозни средства\"",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9113,
+    "text" : "\"Внимание спри\"",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9114,
+    "text" : "\"Пропусни движещите се по пътя с предимство\"",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2787,
+  "number" : 33,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "На кой от пътните знаци значението е “Пропусни движещите се по пътя с предимство!”?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9119,
+    "text" : null,
+    "pictureSha1" : "9f0d630df011d82f4549e6fdda55bb5cce101872",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9120,
+    "text" : null,
+    "pictureSha1" : "c00237f37f1eea447ad72f207fe4a11fac376241",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9118,
+    "text" : null,
+    "pictureSha1" : "19d57fc55778038d988fef5b6e3b27447c603e75",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9117,
+    "text" : null,
+    "pictureSha1" : "19c58e40e8bbfeed9276dc4592fc25349da1ea0e",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2819,
+  "number" : 34,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На кой от пътните знаци значението е “Премини, ако пътят е свободен!”?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9229,
+    "text" : null,
+    "pictureSha1" : "86490bff08c4e2a74dbf8112bba1111d7e1211b6",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9230,
+    "text" : null,
+    "pictureSha1" : "19d57fc55778038d988fef5b6e3b27447c603e75",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9228,
+    "text" : null,
+    "pictureSha1" : "14755bf5614f7e6364725a6045945ae192dce462",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9231,
+    "text" : null,
+    "pictureSha1" : "e1395981b981f7fc07aa41f4ba228eff2277a7f5",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2820,
+  "number" : 35,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На кой от пътните знаци значението е “Пропусни насрещно движещите се ППС!”?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9234,
+    "text" : null,
+    "pictureSha1" : "86490bff08c4e2a74dbf8112bba1111d7e1211b6",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9232,
+    "text" : null,
+    "pictureSha1" : "e1395981b981f7fc07aa41f4ba228eff2277a7f5",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9233,
+    "text" : null,
+    "pictureSha1" : "14755bf5614f7e6364725a6045945ae192dce462",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9235,
+    "text" : null,
+    "pictureSha1" : "19d57fc55778038d988fef5b6e3b27447c603e75",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2929,
+  "number" : 95,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кой знак предупреждава за конкретна опасност?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9613,
+    "text" : null,
+    "pictureSha1" : "f79a93371b5db717131c09e9229d8eebd21e3e9a",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9615,
+    "text" : null,
+    "pictureSha1" : "02e766dbf59b5ebeba2a331493aa4ea6abdf2e9f",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9614,
+    "text" : null,
+    "pictureSha1" : "5e9a7974d900042f1de75cec11a9f36e87ff5524",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9616,
+    "text" : null,
+    "pictureSha1" : "3c014fa65eaa7a30bbfd461a5f087dfcafec4c46",
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

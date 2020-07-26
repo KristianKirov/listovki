@@ -1,0 +1,227 @@
+[ {
+  "id" : 3895,
+  "number" : 25,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато се уведомява за ПТП с участието на МПС обозначено с опознавателен знак за опасен товар, от най-съществено значение са данните:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12772,
+    "text" : "за фирмата, чиято собственост е превозното средство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12774,
+    "text" : "от опознавателния знак за вида на превозвания опасен товар",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12773,
+    "text" : "за регистрационния номер на превозното средство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3897,
+  "number" : 27,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Телефонен номер 112 е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12779,
+    "text" : "телефонен номер за денонощна пътна помощ",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12780,
+    "text" : "единен европейски телефонен номер за спешни и аварийни обаждания",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3898,
+  "number" : 27,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кой е единният европейски телефонен номер за спешни и аварийни обаждания?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12783,
+    "text" : "112",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12784,
+    "text" : "144",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12782,
+    "text" : "196",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12781,
+    "text" : "160",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3899,
+  "number" : 28,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При позвъняването на телефон 112 може да се получи помощ от следните служби за спешно реагиране:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12785,
+    "text" : "спешна медицинска помощ",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12787,
+    "text" : "полиция и пожарна безопасност и спасяване",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12788,
+    "text" : "гражданска защита",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12786,
+    "text" : "пътна помощ",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3900,
+  "number" : 29,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато по телефона съобщавате за произшествие, ще бъдете най-полезни ако максимално ясно и точно подавате информацията за:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12789,
+    "text" : "броя на пострадалите хора",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12792,
+    "text" : "мястото на произшествието и вида на произшествието",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12790,
+    "text" : "своето име",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12791,
+    "text" : "собствениците на превозните средства",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4757,
+  "number" : 26,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Водач, който е участник в ПТП, съобразно необходимостта, уведомява за произшествието:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 15499,
+    "text" : "органите за контрол на МВР, когато  няма пострадали хора, но между участниците в произшествието няма съгласие относно обстоятелствата, свързани с него",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15497,
+    "text" : "органите за контрол на МВР, когато при произшествието има пострадали хора",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15500,
+    "text" : "Изпълнителна агенция „Автомобилна администрация”",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15498,
+    "text" : "собствениците на имуществото, което е повредено в резултат на произшествието",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4758,
+  "number" : 26,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Водач, който е участник в ПТП, уведомява за произшествието компетентната служба на МВР когато:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 15502,
+    "text" : "ПТП е само с имуществени вреди, но между участниците няма съгласие относно обстоятелствата, свързани с него",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15501,
+    "text" : "при произшествието има пострадали хора",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15503,
+    "text" : "винаги, независимо от обстоятелствата",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4759,
+  "number" : 30,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Водач, участник в ПТП, при което няма пострадали хора, длъжен ли е да уведоми контролните органи на МВР за произшествието?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 15506,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15504,
+    "text" : "да, ако между участниците в произшествието няма съгласие относно обстоятелствата, свързани с него",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15505,
+    "text" : "да, но само ако по превозното средство има значителни повреди",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

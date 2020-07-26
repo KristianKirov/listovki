@@ -1,0 +1,129 @@
+[ {
+  "id" : 2695,
+  "number" : 15,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При изпреварването на кое от изброените ППС трябва да се осигури по-голяма странична дистанция?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8778,
+    "text" : "велосипед",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8780,
+    "text" : "мотопед",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8777,
+    "text" : "трактор",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8779,
+    "text" : "съчленен автобус",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2696,
+  "number" : 16,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Водачите на двуколесни МПС са по-уязвими от водачите на автомобили защото:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8784,
+    "text" : "лесно губят устойчивост при движението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8783,
+    "text" : "се движат по-бавно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8782,
+    "text" : "не са защитени от купето на автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8781,
+    "text" : "по-трудно се забелязват когато са в „мъртвата зона” на автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2697,
+  "number" : 17,
+  "subNumber" : 1,
+  "pictureSha1" : "f5831ed6d86a93a412e95438011f3cde82be89ed",
+  "text" : "При тази ситуация при преминаване покрай каруцата:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8785,
+    "text" : "няма опасност, защото каруцата се движи по пътния банкет",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8787,
+    "text" : "има опасност каруцата да промени внезапно посоката си на движение, поради подплашване на животното",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8786,
+    "text" : "има опасност от поява на друго домашно животно на платното за движение, което придружава каруцата",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8788,
+    "text" : "има опасност каруцата да навлезе на платното за движение поради препятствие на пътния банкет",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2698,
+  "number" : 17,
+  "subNumber" : 2,
+  "pictureSha1" : "2f808fc283eeec0941e36091b9e0206f0318a529",
+  "text" : "При тази ситуация при изпреварване на каруцата:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8791,
+    "text" : "има опасност от падане на товар пред автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8792,
+    "text" : "няма опасност, защото каруцата се движи бавно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8790,
+    "text" : "има опасност от поява на друго домашно животно на платното за движение, което придружава каруцата",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8789,
+    "text" : "има опасност каруцата да промени внезапно посоката си на движение, поради подплашване на животното",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+} ]

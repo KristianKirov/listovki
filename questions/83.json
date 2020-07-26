@@ -1,0 +1,861 @@
+[ {
+  "id" : 2667,
+  "number" : 1,
+  "subNumber" : 1,
+  "pictureSha1" : "e71da6a146f560fc0d618edea0ecb2e94ff4ab3f",
+  "text" : "Този знак:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8678,
+    "text" : "сигнализира място за спиране на училищен автобус",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8676,
+    "text" : "указва на децата място за преминаване през платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8677,
+    "text" : "обозначава автомобил, който превозва организирана група деца",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8679,
+    "text" : "предупреждава за деца на пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2668,
+  "number" : 2,
+  "subNumber" : 1,
+  "pictureSha1" : "42c8e0459718a67b782ba2c23306ae40743030e6",
+  "text" : "При превоз на организирана група деца, автомобилът се обозначава с този опознавателен знак поставен:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8681,
+    "text" : "само отзад на автомобила",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8680,
+    "text" : "само отпред на автомобила",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8682,
+    "text" : "отпред и отзад на автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2669,
+  "number" : 4,
+  "subNumber" : 1,
+  "pictureSha1" : "8d94a68425e5c5651ed60c698f269656da4d4e41",
+  "text" : "С този опознавателен знак се обозначават:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8683,
+    "text" : "товарните автомобили с допустима максимална маса над 3500 кг, като дължината на МПС е без значение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8685,
+    "text" : "товарните автомобили с допустима максимална маса над 3500 кг и дължина над 7 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8684,
+    "text" : "всички товарни автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2671,
+  "number" : 4,
+  "subNumber" : 2,
+  "pictureSha1" : "6212ed03ca8ac482d59a55a3611f31612dc2c50a",
+  "text" : "С този опознавателен знак се обозначават:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8692,
+    "text" : "всички товарни автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8690,
+    "text" : "товарните автомобили с допустима максимална маса над 3500 кг и дължина над 7 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8691,
+    "text" : "товарните автомобили с допустима максимална маса над 2500 кг и дължина над 5 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2672,
+  "number" : 4,
+  "subNumber" : 3,
+  "pictureSha1" : "ac1b39638974a4a6d206cf2c41ac7fbf74dbd48b",
+  "text" : "При коя от посочените стойности на допустимата максимална маса, товарните автомобили с дължина над 7 м, задължително се обозначават с този опознавателен знак:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8695,
+    "text" : "6000 кг",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8693,
+    "text" : "3000 кг",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8694,
+    "text" : "4000 кг",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8696,
+    "text" : "5000 кг",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2673,
+  "number" : 6,
+  "subNumber" : 1,
+  "pictureSha1" : "5ceef769c2576f9f29ec65450709b144317180a3",
+  "text" : "С този опознавателен знак се обозначават:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8697,
+    "text" : "товарните автомобили над 3,5 тона",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8700,
+    "text" : "ремаркетата",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8698,
+    "text" : "полуремаркетата",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8699,
+    "text" : "товарните автомобили над 7,5 тона",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2674,
+  "number" : 6,
+  "subNumber" : 2,
+  "pictureSha1" : "b8b206d4273ca177ec6a41997dc5d1b67fd2338b",
+  "text" : "С този опознавателен знак се обозначават:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8704,
+    "text" : "само ремаркетата с две и повече оси",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8702,
+    "text" : "всички ремаркета, независимо от броя на осите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8703,
+    "text" : "всички ремаркета, независимо от тяхната маса",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8701,
+    "text" : "само ремаркетата с маса над 750 кг",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2675,
+  "number" : 6,
+  "subNumber" : 3,
+  "pictureSha1" : "b94fb3640684e298a58498601bd8cc3988b55305",
+  "text" : "Кои от посочените превозни средства се обозначават с този опознавателен знак?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8707,
+    "text" : "съставите от ППС при теглене на повреден автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8708,
+    "text" : "едноосните ремаркета",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8705,
+    "text" : "товарните автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8706,
+    "text" : "ремаркетата с две и повече оси",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2676,
+  "number" : 8,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "“Бавнодвижещо” се е пътно превозно средство, което не може да се движи със скорост, по-висока от:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8709,
+    "text" : "45 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8712,
+    "text" : "30 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8710,
+    "text" : "40 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8711,
+    "text" : "50 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2677,
+  "number" : 9,
+  "subNumber" : 1,
+  "pictureSha1" : "b1fcffeacc4c49692925c50689e5a22fe5502f13",
+  "text" : "С този опознавателен знак се обозначават:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8716,
+    "text" : "извънгабаритни МПС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8715,
+    "text" : "бавнодвижещи се МПС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8713,
+    "text" : "МПС превозващи насипни товари",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8714,
+    "text" : "МПС, превозващи опасни товари",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2679,
+  "number" : 10,
+  "subNumber" : 1,
+  "pictureSha1" : "11119e72d33a0f0de162482992adf397adea7a64",
+  "text" : "С този опознавателен знак се обозначават:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8722,
+    "text" : "бавнодвижещи се МПС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8721,
+    "text" : "МПС, превозващи опасни товари",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8723,
+    "text" : "МПС с извънгабаритен товар",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8724,
+    "text" : "специалните автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2678,
+  "number" : 9,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "С кой от опознавателните знаци се обозначава бавнодвижещо се МПС?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8720,
+    "text" : null,
+    "pictureSha1" : "705659ae76376d3895623224b1eccc5a614e31d7",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8718,
+    "text" : null,
+    "pictureSha1" : "e7459589ed0e9b2f0b13cfccc708a37b95046ce0",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8717,
+    "text" : null,
+    "pictureSha1" : "86b43c5dcb199a6565a589e9dc9e5c4f41b21b19",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8719,
+    "text" : null,
+    "pictureSha1" : "2c3ec581fe9caf3e286df482dcba8981122e406c",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2681,
+  "number" : 11,
+  "subNumber" : 1,
+  "pictureSha1" : "324e05501084ac83aada92a1d37c844b8d2a8381",
+  "text" : "Този  знак забранява влизането на:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8732,
+    "text" : "извънгабаритни ППС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8731,
+    "text" : "товарни автомобили с обща маса над 15 т",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8730,
+    "text" : "товарни автомобили с полуремаркета",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8729,
+    "text" : "ППС, обозначени с опознавателен знак за опасен товар",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2680,
+  "number" : 10,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "С кой от знаците се обозначава МПС превозващо опасен товар?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8726,
+    "text" : null,
+    "pictureSha1" : "a2569a2edbf82081715c8dcaf924794d4a3c1100",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8727,
+    "text" : null,
+    "pictureSha1" : "4817de0f9083cd434f919b990650e742f1c81f3b",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8728,
+    "text" : null,
+    "pictureSha1" : "df151dbabd6ec0f350d0c62b51e995ee46b4b2c9",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8725,
+    "text" : null,
+    "pictureSha1" : "583fce03d2d94e69973d4fdb18ec2bcb69040304",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2682,
+  "number" : 12,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Пътното превозно средство е извънгабаритно когато:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8734,
+    "text" : "височината му, включително товара, е 2,8 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8733,
+    "text" : "дължината му, включително товара, е 12 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8735,
+    "text" : "широчината му, включително товара, е 2,8 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2683,
+  "number" : 12,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "При коя от изброените широчини, автомобилът е извънгабаритен:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8736,
+    "text" : "широчина 2,5 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8739,
+    "text" : "широчина 2,3 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8738,
+    "text" : "широчина 2,9 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8737,
+    "text" : "широчина 2,7 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2684,
+  "number" : 12,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Пътното превозно средство е извънгабаритно когато:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8740,
+    "text" : "широчината му, включително товара, е 2,2 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8741,
+    "text" : "дължината му, включително товара, е 12 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8742,
+    "text" : "височината му, включително товара, е 4,2 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2685,
+  "number" : 12,
+  "subNumber" : 4,
+  "pictureSha1" : null,
+  "text" : "Пътното превозно средство е извънгабаритно когато:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8746,
+    "text" : "височината му, включително товара, е 4,5 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8744,
+    "text" : "височината му, включително товара, е 4,8 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8745,
+    "text" : "височината му, включително товара, е 2,5 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8743,
+    "text" : "височината му, включително товара, е 3,5 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2686,
+  "number" : 12,
+  "subNumber" : 5,
+  "pictureSha1" : null,
+  "text" : "При коя от изброените височини автомобилът е извънгабаритен:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8749,
+    "text" : "височина 4,5 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8750,
+    "text" : "височина 4,3 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8747,
+    "text" : "височина 3,9 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8748,
+    "text" : "височина 4,1 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2687,
+  "number" : 12,
+  "subNumber" : 6,
+  "pictureSha1" : null,
+  "text" : "Пътното превозно средство е извънгабаритно когато:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8751,
+    "text" : "височината му, включително товара, е 4,5 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8752,
+    "text" : "дължината му, включително товара, е 9 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8753,
+    "text" : "широчината му, включително товара, е 2,8 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2970,
+  "number" : 5,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "С кой от опознавателните знаци се обозначават товарните автомобили с допустима максимална маса над 3500 кг и дължина над 7 м?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9739,
+    "text" : null,
+    "pictureSha1" : "a323c38c399eb0df9ed526c3f15f833d2da71b45",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9742,
+    "text" : null,
+    "pictureSha1" : "a29eab10831112f7293f9d49c61b7e2b722ce231",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9740,
+    "text" : null,
+    "pictureSha1" : "8a24f67beab64703545f817650d6742ae6788de9",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9741,
+    "text" : null,
+    "pictureSha1" : "e75d1e58e881288c7257901bd418f9b730be577b",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2971,
+  "number" : 5,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "С кой от опознавателните знаци се обозначават товарните автомобили с допустима максимална маса над 3500 кг и дължина над 7 м?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9743,
+    "text" : null,
+    "pictureSha1" : "5cd94291540c20ede3976e8aab827946b752cc3f",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9745,
+    "text" : null,
+    "pictureSha1" : "321a382c1dab9b91636d71406c0b72ae3d2f648b",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9744,
+    "text" : null,
+    "pictureSha1" : "a5d330ea0017f01ded0301e62cae947cba64768d",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9746,
+    "text" : null,
+    "pictureSha1" : "0200e9b6559d87d59fadec36f868fcde9e64d6ed",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2972,
+  "number" : 5,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "С кой от опознавателните знаци се обозначават товарните автомобили с допустима максимална маса над 3500 кг и дължина над 7 м?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9749,
+    "text" : null,
+    "pictureSha1" : "810a5c769bbbb1ce028da853fb57b4f4783d6081",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9747,
+    "text" : null,
+    "pictureSha1" : "c724e757181b98e2dee45cf5ff2b72954977121b",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9748,
+    "text" : null,
+    "pictureSha1" : "a29eab10831112f7293f9d49c61b7e2b722ce231",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9750,
+    "text" : null,
+    "pictureSha1" : "321a382c1dab9b91636d71406c0b72ae3d2f648b",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2973,
+  "number" : 5,
+  "subNumber" : 4,
+  "pictureSha1" : null,
+  "text" : "С кой от опознавателните знаци се обозначават товарните автомобили с допустима максимална маса над 3500 кг и дължина над 7 м?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9752,
+    "text" : null,
+    "pictureSha1" : "e8bcf5e81f3dfdf53b8222c0fe25985a9b5bc183",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9754,
+    "text" : null,
+    "pictureSha1" : "ca410591e319b197814290dd66fca1be58a88a23",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9751,
+    "text" : null,
+    "pictureSha1" : "446827148d2dd9732c846b7d9d9a11fce39b5e0b",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9753,
+    "text" : null,
+    "pictureSha1" : "b6e824fb0712752092a44315a24f5cf2fa8201c4",
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2974,
+  "number" : 7,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "С кой от опознавателните знаци се обозначава полуремаркетата?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9757,
+    "text" : null,
+    "pictureSha1" : "2b6d0263c5e0e6070c5d27e2b7beee091cee2250",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9755,
+    "text" : null,
+    "pictureSha1" : "266fb64335c3996e2b0b18a1e5f70edd83d22497",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9758,
+    "text" : null,
+    "pictureSha1" : "ae95040c41b841e6792aa1ba3ca3e7973f88fbd3",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9756,
+    "text" : null,
+    "pictureSha1" : "93b4b832ec6e45c1bb3e8d51695640666573930f",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2975,
+  "number" : 7,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "С кой от опознавателните знаци се обозначава ремаркетата?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9760,
+    "text" : null,
+    "pictureSha1" : "069db2fc6c0d412c3fccbaa04e057a2c96d88de7",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9762,
+    "text" : null,
+    "pictureSha1" : "8218705f6969da7ef12a8d3aee86a1ccdb5a66e8",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9761,
+    "text" : null,
+    "pictureSha1" : "a01208b9c2077360b739d7b7329edc8d1a20e05a",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9759,
+    "text" : null,
+    "pictureSha1" : "b7daee4110913ee67bb5c25dda40ea76428d1f0b",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2976,
+  "number" : 7,
+  "subNumber" : 4,
+  "pictureSha1" : null,
+  "text" : "С кой от опознавателните знаци се обозначава ремаркетата?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9763,
+    "text" : null,
+    "pictureSha1" : "580ddddc8ea0c9badcd6a626ca2eb99cf1f90184",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9765,
+    "text" : null,
+    "pictureSha1" : "46764afbb3d289e8aab8440151b694cef53852a6",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9766,
+    "text" : null,
+    "pictureSha1" : "671095998453b86faebcfa61e9378ffc167fa72f",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9764,
+    "text" : null,
+    "pictureSha1" : "169f481c2fdbd5015b4728839a09675474225c57",
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3977,
+  "number" : 1,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "С кой от знаците се обозначава автомобил, който превозва организирана група деца?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 13049,
+    "text" : null,
+    "pictureSha1" : "01e3a97482f7363dafc8654e3d62c23c780e3aea",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 13052,
+    "text" : null,
+    "pictureSha1" : "a439accdeef12743d8de2f6e99491d59329fc3b4",
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 13051,
+    "text" : null,
+    "pictureSha1" : "5019f4b764a6d2a67008812b033846e2e8e3ef96",
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 13050,
+    "text" : null,
+    "pictureSha1" : "a61195fda6727eb79c3dae461b353a3a950497c2",
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

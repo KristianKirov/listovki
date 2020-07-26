@@ -1,0 +1,533 @@
+[ {
+  "id" : 3411,
+  "number" : 2,
+  "subNumber" : 1,
+  "pictureSha1" : "aab6282ccb92e0bc6977095a8b1fdbe54d8ef669",
+  "text" : "С този пътен знак се обозначава:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11103,
+    "text" : "автомобилен път",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11104,
+    "text" : "път, за движение само на леки автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11102,
+    "text" : "задължетелен път само за леки автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11101,
+    "text" : "автомагистрала",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3415,
+  "number" : 7,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Автомобилният път е предназначен за движение на:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11119,
+    "text" : "автомобили",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11118,
+    "text" : "мотоциклети",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11117,
+    "text" : "МПС с изключение на самоходните машини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11116,
+    "text" : "МПС с изключение на мотопедите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3419,
+  "number" : 10,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато няма други ограничения, на водача на лек автомобил, при движение извън населено място, по автомобилен път, е забранено да се движи със скорост по-висока от:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11133,
+    "text" : "120 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11135,
+    "text" : "100 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11134,
+    "text" : "130 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11132,
+    "text" : "90 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3421,
+  "number" : 12,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато няма други ограничения, на водача на мотоциклет, при движение извън населено място, по автомобилен път, е забранено да се движи със скорост по-висока от:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11142,
+    "text" : "90 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11143,
+    "text" : "100 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11141,
+    "text" : "120 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11140,
+    "text" : "80 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3441,
+  "number" : 27,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На автомобилен път е забранено движението на:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11208,
+    "text" : "мотоциклети с конструктивна максимална скорост по-малка от 50 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11209,
+    "text" : "мотопеди",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11207,
+    "text" : "леки автомобили с ремаркета",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11210,
+    "text" : "автомобили с конструктивна максимална скорост по-малка от 50 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3444,
+  "number" : 28,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На автомобилен път е забранено движението на:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11221,
+    "text" : "автомобили с конструктивна максимална скорост по-малка от 50 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11220,
+    "text" : "мотоциклети с конструктивна максимална скорост по-малка от 50 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11219,
+    "text" : "автомобили с товар над 10 т",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11222,
+    "text" : "съчленени пътни превозни средства",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3445,
+  "number" : 29,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На автомобилен път е забранено движението на:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11223,
+    "text" : "трактори",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11225,
+    "text" : "автомобили с товар над 10 т",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11226,
+    "text" : "автомобили с конструктивна максимална скорост по-малка от 50 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11224,
+    "text" : "автомобили превозващи живи животни",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3447,
+  "number" : 31,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На автомобилен път е забранено движението на:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11232,
+    "text" : "велосипеди",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11234,
+    "text" : "леки автомобили с ремаркета",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11233,
+    "text" : "мотопеди",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11231,
+    "text" : "трактори",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3451,
+  "number" : 34,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На автомобилен път е забранено движението на МПС с конструктивна максимална скорост по-малка от:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11248,
+    "text" : "50 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11249,
+    "text" : "60 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11247,
+    "text" : "55 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3459,
+  "number" : 44,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При движение по автомобилен път на водача е забранено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11277,
+    "text" : "да спира за престой извън местата обозначени за паркиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11278,
+    "text" : "да се движи с прикачено ремарке",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11279,
+    "text" : "да спира за паркиране извън обозначените за това места",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11280,
+    "text" : "да спира за отстраняване на неизправност по автомобила",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3460,
+  "number" : 46,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На автомобилен път паркирането е разрешено:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11284,
+    "text" : "най-вдясно на пътното платно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11282,
+    "text" : "най-вдясно на платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11283,
+    "text" : "само на специално обозначените за това места",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11281,
+    "text" : "само извън платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3461,
+  "number" : 45,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На автомобилен път спирането за престой е разрешено:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11285,
+    "text" : "най-вдясно на платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11287,
+    "text" : "най-вдясно на пътното платно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11288,
+    "text" : "само на специално обозначените места за паркиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11286,
+    "text" : "само извън платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3464,
+  "number" : 49,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При движение по автомобилен път на водача е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11297,
+    "text" : "да завива в обратна посока",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11298,
+    "text" : "да навлиза в разделителната ивица или да я пресича, включително и на местата, където тя е прекъсната",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11299,
+    "text" : "да спира за отстраняване на неизправност по автомобила",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11300,
+    "text" : "да се движи назад",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3465,
+  "number" : 49,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "При движение по автомобилен път на водача е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11303,
+    "text" : "да тегли повредено МПС с твърда връзка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11301,
+    "text" : "да завива в обратна посока",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11304,
+    "text" : "да навлиза в разделителната ивица или да я пресича, включително и на местата, където тя е прекъсната",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11302,
+    "text" : "да спира за престой извън местата обозначени за паркиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3466,
+  "number" : 49,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "При движение по автомобилен път на водача е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11308,
+    "text" : "да се движи назад",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11305,
+    "text" : "да завива в обратна посока",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11307,
+    "text" : "да тегли повредено МПС с твърда връзка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11306,
+    "text" : "да навлиза в разделителната ивица или да я пресича, включително и на местата, където тя е прекъсната",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3471,
+  "number" : 52,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Теглене с гъвкава връзка по автомобилен път е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11327,
+    "text" : "забранено само в тъмната част от денонощието",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11326,
+    "text" : "разрешено само за изтегляне до най-близкото място за напускане на пътя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11328,
+    "text" : "забранено във всички случаи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11325,
+    "text" : "разрешено без ограничения",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4744,
+  "number" : 44,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "При движение по автомобилен път на водача е забранено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 15456,
+    "text" : "да се движи в платното за насрещно движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15455,
+    "text" : "да завива в обратна посока",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15457,
+    "text" : "да тегли повредено МПС с твърда връзка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

@@ -1,0 +1,401 @@
+[ {
+  "id" : 3729,
+  "number" : 1,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Водачът обикновено счита, че се движи със скорост, по-ниска от действителната, когато:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12199,
+    "text" : "се движи по път с голяма широчина и много пътни ленти",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12198,
+    "text" : "се движи по тесен двулентов път",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12200,
+    "text" : "се движи по път с много последователни завои",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12201,
+    "text" : "се изкачва по път с голям наклон",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3730,
+  "number" : 2,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При управление на автомобила опасност от загуба на концентрация има при:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12202,
+    "text" : "използване на мобилен телефон",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12203,
+    "text" : "използване на чистачките на предното стъкло",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12204,
+    "text" : "гледане в страничното огледало",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3731,
+  "number" : 3,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Времето за реакция на водача при аварийно спиране, оказва ли влияние на дължината на спирачния път на автомобила?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12206,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12205,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3750,
+  "number" : 17,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Какво означава водачът да бъде предвидлив?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12270,
+    "text" : "да предвижва възможните опасности в пътното движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12269,
+    "text" : "да поддържа висока средна скорост на движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12272,
+    "text" : "да управлява винаги с ниска скорост",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12271,
+    "text" : "да взема своевременно мерки, за да не попадне в аварийна ситуация",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3751,
+  "number" : 18,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Възможни причини за отклоняване на вниманието на водача по време на управление са:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12274,
+    "text" : "говоренето по мобилен телефон",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12276,
+    "text" : "бързо преминаващите автомобили",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12273,
+    "text" : "извършването на  действия, които не са във връзка с управлението",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12275,
+    "text" : "четенето на крайпътни надписи",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3752,
+  "number" : 19,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "В кои от случаите водачът трябва да управлява с по-голяма концентрация на вниманието?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12279,
+    "text" : "при поява на силен страничен вятър",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12280,
+    "text" : "при снеговалеж",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12278,
+    "text" : "при интензивно движение в дъждовно време",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12277,
+    "text" : "при движение по сух път",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3753,
+  "number" : 20,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Затрудненията на водача при управлението през нощта са в резултат на:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12282,
+    "text" : "понижената физиологична активност на водача",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12281,
+    "text" : "намалената интензивност на движението",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12283,
+    "text" : "намалената видимост",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3754,
+  "number" : 21,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "В коя част от денонощието остротата на зрението на човека намалява значително?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12284,
+    "text" : "остротата на зрението не се променя през денонощието",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12286,
+    "text" : "в тъмната част",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12285,
+    "text" : "в светлата част",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3755,
+  "number" : 22,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Влияе ли възрастта на водачите на способността им да виждат през нощта?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12289,
+    "text" : "да, при водачите на възраст над 50 години",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12288,
+    "text" : "възрастта е без значение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12287,
+    "text" : "да, при водачите на възраст под 30 години",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3756,
+  "number" : 23,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При движение през нощта след преминаване през осветен тунел кои водачи по-бързо привикват с тъмнината?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12291,
+    "text" : "по-младите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12292,
+    "text" : "по-възрастните",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12290,
+    "text" : "при всички водачи времето за привикване с тъмнината е еднакво",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3757,
+  "number" : 24,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Защо при управление през нощта водачът не трябва да гледа директно към фаровете на насрещно движещите се автомобили?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12293,
+    "text" : "защото има опасност да увреди зрението си",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12294,
+    "text" : "защото през времето за адаптация няма да вижда добре",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12295,
+    "text" : "защото ще го заболят очите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3758,
+  "number" : 25,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "В коя част от денонощието водачът различава по-добре цветовете?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12298,
+    "text" : "при свечеряване",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12297,
+    "text" : "през нощта при силно улично осветление",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12296,
+    "text" : "през деня",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12299,
+    "text" : "през нощта на светлината от фарове",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3759,
+  "number" : 26,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Продължителното слушане на силна музика при управление на автомобил:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12303,
+    "text" : "намалява способността за концентриране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12302,
+    "text" : "тренира и подобрява способността за чуване",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12300,
+    "text" : "стимулира способността за концентриране",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12301,
+    "text" : "успокоява водача",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3760,
+  "number" : 27,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Доброто физическо състояние:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12304,
+    "text" : "способства за повишаване на концентрацията при управление на МПС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12307,
+    "text" : "намалява способността за концентрация",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12306,
+    "text" : "стимулира мисловната активност",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12305,
+    "text" : "няма въздействие върху мисловната активност",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

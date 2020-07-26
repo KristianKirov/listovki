@@ -1,0 +1,181 @@
+[ {
+  "id" : 2498,
+  "number" : 2,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Участници в движението са:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8046,
+    "text" : "водачите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8049,
+    "text" : "двуколесните превозни средства",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8047,
+    "text" : "автомобилите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8048,
+    "text" : "пътниците",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2499,
+  "number" : 1,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Участници в движението са:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8051,
+    "text" : "пешеходците",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8053,
+    "text" : "моторните превозни средства",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8050,
+    "text" : "водачите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8052,
+    "text" : "пътните превозни средства",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2500,
+  "number" : 1,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Участници в движението са:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8055,
+    "text" : "автомобилите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8057,
+    "text" : "лицата, работещи на пътя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8054,
+    "text" : "водачите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8056,
+    "text" : "пешеходците",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2541,
+  "number" : 2,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Извън населените места, при липса на банкет, лицата бутащи мотопед са длъжни да се движат по платното за движение, като:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8207,
+    "text" : "се придържат възможно най-близо до дясната му граница",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8208,
+    "text" : "се придържат възможно най-близо до лявата му граница",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2542,
+  "number" : 2,
+  "subNumber" : 6,
+  "pictureSha1" : null,
+  "text" : "Кои от изброените лица се считат за пешеходци?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8209,
+    "text" : "които бутат мотопед или мотоциклет",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8210,
+    "text" : "които бутат велосипед",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8212,
+    "text" : "които бутат пътно превозно средство без двигател и с широчина, по-малка от 1 метър",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8211,
+    "text" : "които водят ездитни животни по пътищата",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2543,
+  "number" : 2,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Участници в движението са:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8216,
+    "text" : "пешеходците",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8215,
+    "text" : "лицата, работещи на пътя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8213,
+    "text" : "самоходните машини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8214,
+    "text" : "пътните превозни средства",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

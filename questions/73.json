@@ -1,0 +1,737 @@
+[ {
+  "id" : 2545,
+  "number" : 51,
+  "subNumber" : 1,
+  "pictureSha1" : "b5b73d53d2f9647ff0a3d7586478bb64a4717237",
+  "text" : "На показаната фигура видимостта е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8221,
+    "text" : "намалена",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8222,
+    "text" : "ограничена",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2502,
+  "number" : 38,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Кои от изброените правила се прилагат при движение в населено място?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8064,
+    "text" : "може да се паркира на обозначени места върху тротоарите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8063,
+    "text" : "няма ограничение за паркиране върху тротоарите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8066,
+    "text" : "допуска се паркиране на платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8065,
+    "text" : "забранено е паркирането на платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2603,
+  "number" : 39,
+  "subNumber" : 1,
+  "pictureSha1" : "a8d40520f957cf764688e7dfe4fb0a60d5a0bbde",
+  "text" : "Коя част от пътя на показаната схема е означена с буквата „А”?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8439,
+    "text" : "пътното платно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8438,
+    "text" : "пътна лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8440,
+    "text" : "платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2600,
+  "number" : 37,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Правилата за движение в населено място се прилагат:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8428,
+    "text" : "от първата сграда в населеното място",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8427,
+    "text" : "след знака, с който е обозначено началото на населеното място",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8429,
+    "text" : "по всички участъци от пътя, по които се движат пешеходци",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2601,
+  "number" : 38,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кои от изброените правила се прилагат при движение в населено място?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8433,
+    "text" : "може да се паркира на обозначени места върху тротоарите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8432,
+    "text" : "пътниците в лекия автомобил може да не използват обезопасителните колани",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8431,
+    "text" : "допуска се паркиране на платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8430,
+    "text" : "по двулентовите двупосочни пътища пешеходците могат да пресичат платното за движение и извън пешеходните пътеки",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2602,
+  "number" : 38,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кои от изброените правила се прилагат при движение в населено място?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8436,
+    "text" : "ако няма други ограничения, се спазва ограничението на  скоростта в населено място",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8437,
+    "text" : "водачът не е длъжен да ползва обезопасителен колан",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8435,
+    "text" : "няма ограничения за използване на звуков сигнал",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8434,
+    "text" : "допуска се паркиране на платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2604,
+  "number" : 39,
+  "subNumber" : 2,
+  "pictureSha1" : "a8d40520f957cf764688e7dfe4fb0a60d5a0bbde",
+  "text" : "Коя част от пътя на показаната схема е означена с буквата „Б”?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8443,
+    "text" : "пътното платно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8442,
+    "text" : "платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8441,
+    "text" : "пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2605,
+  "number" : 39,
+  "subNumber" : 3,
+  "pictureSha1" : "a8d40520f957cf764688e7dfe4fb0a60d5a0bbde",
+  "text" : "Коя част от пътя на показаната схема е означена с буквата „В”?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8446,
+    "text" : "пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8444,
+    "text" : "платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8445,
+    "text" : "пътното платно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2606,
+  "number" : 40,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Платното за движение включва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8448,
+    "text" : "островите на платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8447,
+    "text" : "пътните банкети",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8449,
+    "text" : "тротоарите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8450,
+    "text" : "пътните ленти",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2607,
+  "number" : 41,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "\"Пътното платно\" включва:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8453,
+    "text" : "островите на платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8454,
+    "text" : "платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8451,
+    "text" : "отводнителните канавки",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8452,
+    "text" : "пътните банкети",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2608,
+  "number" : 42,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Тротоарът е част от:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8455,
+    "text" : "платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8456,
+    "text" : "най-дясната пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8457,
+    "text" : "разделителната ивица",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8458,
+    "text" : "пътното платно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2609,
+  "number" : 42,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Пътният банкет е част от:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8459,
+    "text" : "платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8461,
+    "text" : "пътното платно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8462,
+    "text" : "разделителната ивица",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8460,
+    "text" : "най-дясната пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2610,
+  "number" : 43,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "“Граница на платното за движение” е линията:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8465,
+    "text" : "с която се очертава “ВUS”-лентата",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8463,
+    "text" : "с която се очертават островите на платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8464,
+    "text" : "с която се очертава края на платното за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8466,
+    "text" : "с която се отделят пътните ленти",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2611,
+  "number" : 43,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "„Граница на платното за движение” е линията, очертана или не с пътна маркировка, която отделя платното за движение от другите конструктивни елементи на пътното платно.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8467,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8468,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2615,
+  "number" : 44,
+  "subNumber" : 1,
+  "pictureSha1" : "d8306cf8932f71b9a6f54671482aa9156493b90e",
+  "text" : "Линията, с която се очертава “ВUS”-лентата, е граница на платното за движение.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8478,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8479,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2612,
+  "number" : 43,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "“Граница на платното за движение” е линията, очертана или не, с пътна маркировка, която отделя пътните платна едно от друго.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8470,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8469,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2614,
+  "number" : 43,
+  "subNumber" : 4,
+  "pictureSha1" : null,
+  "text" : "“Граница на платното за движение” е линията, очертана или не, с пътна маркировка, която отделя:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8475,
+    "text" : "пътните платна едно от друго",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8477,
+    "text" : "платното за движение от другите конструктивни елементи на пътното платно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8476,
+    "text" : "пътните ленти една от друга",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2616,
+  "number" : 45,
+  "subNumber" : 1,
+  "pictureSha1" : "72de9040370898d36958454dbe3860924c2ba741",
+  "text" : "Разделителната ивица е надлъжна част от пътя, която:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8480,
+    "text" : "отделя платното за движение от другите елементи на пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8482,
+    "text" : "разделя пътя на отделни ленти за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8481,
+    "text" : "разделя пътя на отделни платна за движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2627,
+  "number" : 48,
+  "subNumber" : 1,
+  "pictureSha1" : "529818f50de2881f1072d49e803645c98c1c0a56",
+  "text" : "На показаната фигура видимостта е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8524,
+    "text" : "ограничена",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8523,
+    "text" : "намалена",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2618,
+  "number" : 46,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Видимостта е намалена при:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8489,
+    "text" : "силен снеговалеж",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8490,
+    "text" : "завой",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8487,
+    "text" : "проливен дъжд",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8488,
+    "text" : "мъгла",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2619,
+  "number" : 47,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Видимостта е намалена при:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8493,
+    "text" : "запрашеност",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8491,
+    "text" : "здрач",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8492,
+    "text" : "завои",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8494,
+    "text" : "стръмни наклони",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2620,
+  "number" : 47,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Видимостта е намалена при:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8496,
+    "text" : "препятствия, които пречат на видимостта",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8495,
+    "text" : "запрашеност",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8497,
+    "text" : "задименост",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8498,
+    "text" : "здрач",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2628,
+  "number" : 49,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Видимостта е ограничена при:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8526,
+    "text" : "завои",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8525,
+    "text" : "крайпътни обекти, които ограничават видимостта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8527,
+    "text" : "стръмни наклони",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8528,
+    "text" : "запрашеност",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2632,
+  "number" : 50,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Видимостта е ограничена при:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8544,
+    "text" : "стръмни наклони",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8542,
+    "text" : "завои",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8541,
+    "text" : "мъгла",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8543,
+    "text" : "здрач",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2640,
+  "number" : 50,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Видимостта е ограничена при:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 8573,
+    "text" : "проливен дъжд",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8576,
+    "text" : "препятствия, които пречат на видимостта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8574,
+    "text" : "силен снеговалеж",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8575,
+    "text" : "крайпътни обекти, които ограничават видимостта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2641,
+  "number" : 50,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Видимостта е ограничена при:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 8580,
+    "text" : "запрашеност",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8579,
+    "text" : "препятствия, които пречат на видимостта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8577,
+    "text" : "стръмни наклони",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8578,
+    "text" : "крайпътни обекти, които ограничават видимостта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+} ]

@@ -1,0 +1,829 @@
+[ {
+  "id" : 2495,
+  "number" : 1,
+  "subNumber" : 1,
+  "pictureSha1" : "c96fc9a8117939d5e78d57feb9af95d52eb9cd2d",
+  "text" : "При тази ситуация разположението на автомобила върху платното за движение е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8039,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8038,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2496,
+  "number" : 1,
+  "subNumber" : 2,
+  "pictureSha1" : "7f74dcc25a065a2fcf88b271907d00bc335fd9f1",
+  "text" : "При тази ситуация трябва да се движа:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8040,
+    "text" : "в лявата пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8041,
+    "text" : "в дясната пътна лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 8042,
+    "text" : "в по-удобната за мен пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2497,
+  "number" : 2,
+  "subNumber" : 1,
+  "pictureSha1" : "2c362512eac83733a16f9bff3089947cbd002863",
+  "text" : "Кой от автомобилите се движи неправилно по пътното платно?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 8043,
+    "text" : "и двата автомобила",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8044,
+    "text" : "червеният автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 8045,
+    "text" : "синият автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2978,
+  "number" : 2,
+  "subNumber" : 2,
+  "pictureSha1" : "480fa7043bca337d992f2cd6dd1816d1c2ad5b4c",
+  "text" : "На двупосочен път, с по една пътна лента за движение във всяка посока, превозните средства трябва да се движат:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9773,
+    "text" : "в лявата пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9771,
+    "text" : "в средната част на пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9772,
+    "text" : "в дясната пътна лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2979,
+  "number" : 3,
+  "subNumber" : 1,
+  "pictureSha1" : "c372bed34628208dd7f99f2fe55b0a83f5dbfb5d",
+  "text" : "При тази ситуация:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9777,
+    "text" : "лявата част на пътното платно е за автомобилите от насрещното движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9774,
+    "text" : "движещите се насреща автомобили са с предимство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9775,
+    "text" : "следва участък от пътя с двупосочно движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9776,
+    "text" : "навлизаме в участък от пътя, в който е забранено разминаването",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2980,
+  "number" : 4,
+  "subNumber" : 1,
+  "pictureSha1" : "9fa424e748ea78710ddaa6ea89919a1c1607957d",
+  "text" : "На двулентов път с двупосочно движение навлизането в лентата за насрещно движение е:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9778,
+    "text" : "забранено във всички случаи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9779,
+    "text" : "разрешено при изпреварване",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9780,
+    "text" : "разрешено при заобикаляне",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9781,
+    "text" : "разрешено винаги, когато е свободна",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2984,
+  "number" : 7,
+  "subNumber" : 1,
+  "pictureSha1" : "bacfbf7a7baf51f83d9fd87b0186982ee1bda363",
+  "text" : "Разположението върху пътя на червения автомобил, движещ се извън населено място е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9795,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9794,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2983,
+  "number" : 6,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На двулентов път с двупосочно движение водачът трябва да се движи:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9790,
+    "text" : "възможно най-вдясно по платното за движение, когато лентите не са очертани с пътна маркировка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9792,
+    "text" : "в дясната лента, когато лентите са очертани с пътна маркировка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9791,
+    "text" : "в лявата пътна лента винаги, когато е свободна",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9793,
+    "text" : "в по-удобната за него пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2985,
+  "number" : 8,
+  "subNumber" : 1,
+  "pictureSha1" : "a72390b5184f5f33b44068a80b4a5e68b90ec5e7",
+  "text" : "По този път извън населено място водачът трябва да се движи:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9796,
+    "text" : "възможно най-вдясно по платното за движение, когато лентите не са очертани с пътна маркировка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9797,
+    "text" : "в по-удобната за него пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9798,
+    "text" : "в лявата пътна лента винаги, когато е свободна",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9799,
+    "text" : "в дясната пътна  лента, когато лентите са очертани с пътна маркировка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2986,
+  "number" : 9,
+  "subNumber" : 1,
+  "pictureSha1" : "bb1dfc6fb9282abd2cf46b07748ee01a5f66c589",
+  "text" : "При тази ситуация разположението на автомобила върху платното за движение е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9801,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9800,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2987,
+  "number" : 10,
+  "subNumber" : 1,
+  "pictureSha1" : "d00911537d524d3075a6591aca7f209a7e4170f2",
+  "text" : "На пътно платно с двупосочно движение с три пътни ленти, движението в средната лента е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9803,
+    "text" : "разрешено при изпреварване и заобикаляне",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9802,
+    "text" : "разрешено винаги, когато е свободна",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2988,
+  "number" : 11,
+  "subNumber" : 1,
+  "pictureSha1" : "09db8f5dab04737ff6475e57a9f6e853b239b58f",
+  "text" : "На трилентов път с двупосочно движение навлизането в крайната лява лента е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9804,
+    "text" : "разрешено при изпреварване или заобикаляне",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9805,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9807,
+    "text" : "разрешено, когато не се създава опасност за движението",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9806,
+    "text" : "разрешено, когато пътната лента е свободна",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2989,
+  "number" : 11,
+  "subNumber" : 2,
+  "pictureSha1" : "95b5bf9682d18002f993867245046560fef48bb1",
+  "text" : "При тази ситуация навлизането в крайната лява лента е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9811,
+    "text" : "разрешено само при изпреварване",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9808,
+    "text" : "разрешено винаги, когато лентата е свободна",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9809,
+    "text" : "разрешено, ако не се създава опасност за движението",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9810,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2990,
+  "number" : 11,
+  "subNumber" : 3,
+  "pictureSha1" : "ff2e8620c31cfa48707139cdcbd60e0153cae187",
+  "text" : "На пътно платно с двупосочно движение, когато платното за движение има три пътни ленти, навлизането в крайната лява лента е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9813,
+    "text" : "разрешено, когато е свободна",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9812,
+    "text" : "разрешено при изпреварване",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9815,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9814,
+    "text" : "разрешено, когато има неравности на платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2991,
+  "number" : 12,
+  "subNumber" : 1,
+  "pictureSha1" : "9789bdc0759a080171ba8d39c243b926149bc119",
+  "text" : "След като изпреваря синия автомобил, ще продължа да се движа в средната лента.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9817,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9816,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2992,
+  "number" : 13,
+  "subNumber" : 1,
+  "pictureSha1" : "867c27a60223ab037b60a81e53a4e39b4f85b990",
+  "text" : "Кой от автомобилите се движи правилно по този път извън населеното място?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9818,
+    "text" : "двата автомобила",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9819,
+    "text" : "червеният автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9820,
+    "text" : "синият автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2993,
+  "number" : 14,
+  "subNumber" : 1,
+  "pictureSha1" : "11daf506e798bc9a8c57b74f1e56ebe249cb585c",
+  "text" : "При тази ситуация, на път извън населено място, на водачите е разрешено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9823,
+    "text" : "да се движат в най-дясната свободна лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9821,
+    "text" : "да се движат в най удобната за тях пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9822,
+    "text" : "да се движат в средната пътна лента винаги, когато е свободна",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9824,
+    "text" : "да се движат в средната пътна лента, когато дясната е заета",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2994,
+  "number" : 14,
+  "subNumber" : 2,
+  "pictureSha1" : "11daf506e798bc9a8c57b74f1e56ebe249cb585c",
+  "text" : "При тази ситуация, на път извън населено място, на водачите е разрешено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 9826,
+    "text" : "да навлизат в средната лента при изпреварване",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9828,
+    "text" : "да се движат в средната пътна лента, когато дясната е заета",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9827,
+    "text" : "да се движат в най-дясната свободна пътна лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9825,
+    "text" : "да навлизат в крайната лява лента при изпреварване",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2995,
+  "number" : 15,
+  "subNumber" : 1,
+  "pictureSha1" : "ca7912647ec8d975057b551aa3949ffaeef7ce18",
+  "text" : "При тази ситуация разположението на червения автомобил върху платното за движение е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9829,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9830,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2996,
+  "number" : 16,
+  "subNumber" : 1,
+  "pictureSha1" : "ca7912647ec8d975057b551aa3949ffaeef7ce18",
+  "text" : "При тази ситуация, на водача е разрешено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9832,
+    "text" : "да навлиза в средната пътна лента при заобикаляне",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9831,
+    "text" : "да навлизат в крайната лява лента при изпреварване",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9834,
+    "text" : "да се движи в най-удобната за него пътна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9833,
+    "text" : "да навлиза в средната пътна лента при изпреварване",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2997,
+  "number" : 18,
+  "subNumber" : 1,
+  "pictureSha1" : "2043b559d864ad69afa226e66988f74bc148520e",
+  "text" : "При тази ситуация навлизанетo в лентите за насрещното движение е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9837,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9838,
+    "text" : "разрешено без ограничения",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9835,
+    "text" : "разрешено, но само при изпреварване",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9836,
+    "text" : "разрешено, когато са свободни",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2998,
+  "number" : 18,
+  "subNumber" : 2,
+  "pictureSha1" : "bf977de6223e23d6f904a3c437e9b078d389647e",
+  "text" : "На двупосочен път с четири пътни ленти навлизанетo в лента за насрещното движение е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9839,
+    "text" : "разрешено без ограничения",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9840,
+    "text" : "разрешено при изпреварване",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9841,
+    "text" : "разрешено при заобикаляне",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9842,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3000,
+  "number" : 19,
+  "subNumber" : 2,
+  "pictureSha1" : "956d551dfcc0ab15ab0121ef6dc84f6843f0ad4e",
+  "text" : "Кои от посочените условия е необходимо да бъдат налице за да може при движение в населено място водачът да използва най-удобната за него пътна лента?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 9849,
+    "text" : "пътят да е с две платна за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9850,
+    "text" : "пътното платно да е с две и повече пътни ленти за движение в една посока",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9848,
+    "text" : "броят на пътните ленти и посоките за движение по тях да са обозначени с пътен знак",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9847,
+    "text" : "разрешената скорост за движение да е не по-голяма от 80 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3001,
+  "number" : 19,
+  "subNumber" : 3,
+  "pictureSha1" : "633a4ee174b75aac25f4e6cfb97ba49a7c6b6712",
+  "text" : "Кои от посочените условия е необходимо да бъдат налице за да може при движение в населено място водачът да използва най-удобната за него пътна лента?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9851,
+    "text" : "пътното платно да е с две и повече пътни ленти за движение в една посока",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9854,
+    "text" : "разрешената скорост за движение да е не по-голяма от 80 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9852,
+    "text" : "разрешената скорост за движение да е не по-голяма от 50 км/ч",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9853,
+    "text" : "пътното платно да е с не по-малко от три пътни ленти за движение в една посока",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3002,
+  "number" : 20,
+  "subNumber" : 1,
+  "pictureSha1" : "c6ff2aaedd6e3e0d132733ebc6bc864b7b20b3d6",
+  "text" : "При тази ситуация задължени ли сте да преминете в крайната дясна лента, ако не успеете да изпреварите двата автомобила?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9856,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9855,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3003,
+  "number" : 21,
+  "subNumber" : 1,
+  "pictureSha1" : "00c3a80a10058ea7002258dd4af9af3766729495",
+  "text" : "При тази ситуация:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9857,
+    "text" : "трябва да се движа в най-дясната свободна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9859,
+    "text" : "длъжен съм да се движа възможно най-вдясно на платното за движение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9858,
+    "text" : "е разрешено да използвам за движение най-удобната за мен пътна лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3004,
+  "number" : 22,
+  "subNumber" : 1,
+  "pictureSha1" : "4d5f0161e2ff19f591b6ce44719315c3a33b5e19",
+  "text" : "При тази ситуация разположението на червения автомобил върху платното за движение е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9860,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9861,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3005,
+  "number" : 23,
+  "subNumber" : 1,
+  "pictureSha1" : "8707d149d822522602d96b9aa465103c6627813b",
+  "text" : "Кой от автомобилите се движи прaвилно по този път в населено място?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9863,
+    "text" : "и двата автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9862,
+    "text" : "само синият автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9864,
+    "text" : "само червеният автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3006,
+  "number" : 23,
+  "subNumber" : 2,
+  "pictureSha1" : "d403270a2e46a707fe49a10900cf1f3dfbdaf751",
+  "text" : "При тази ситуация водачът на червения автомобил:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 9865,
+    "text" : "трябва да премине в дясната лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9868,
+    "text" : "трябва да се движи в най-дясната свободна лента",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9866,
+    "text" : "може да продължи да се движи в лявата лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9867,
+    "text" : "може да използва за движение по-удобната за него пътна лента",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3725,
+  "number" : 19,
+  "subNumber" : 1,
+  "pictureSha1" : "656f949aeb145c58e949dd1f9480d187a3699c97",
+  "text" : "Кои от посочените условия е необходимо да бъдат налице за да може при движение в населено място водачът да използва най-удобната за него пътна лента?",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12186,
+    "text" : "пътното платно да е с две и повече пътни ленти за движение в една посока",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12188,
+    "text" : "общата маса на превозното средство да е не повече от 3,5 тона",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12187,
+    "text" : "лентите за движние да са обозначени с пътна маркировка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12189,
+    "text" : "разрешената скорост за движение да е не по-голяма от 80 км/ч",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+} ]

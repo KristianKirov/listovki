@@ -1,0 +1,123 @@
+[ {
+  "id" : 3213,
+  "number" : 32,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Кой два от изброените фактори са с най-голямо значение за определяне на дистанцията при движение зад друго ППС?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10493,
+    "text" : "скоростта на движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10492,
+    "text" : "състоянието на пътя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10494,
+    "text" : "видът на превозвания товар",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10495,
+    "text" : "видът на движещото се отпред ППС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3214,
+  "number" : 33,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Най-важният фактор за избягване на сблъсък с движещия се отпред автомобил е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10499,
+    "text" : "поддържане на необходимата дистанция",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10496,
+    "text" : "автомобилът да бъде с нисък център на тежестта",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10497,
+    "text" : "движението с постоянна скорост",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10498,
+    "text" : "автомобилът да бъде оборудван с подходящи гуми",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3215,
+  "number" : 34,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Интервалът от 2 секунди между движещите се леки автомобили е достатъчен когато:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10501,
+    "text" : "пътят е мокър",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10500,
+    "text" : "пътят е сух",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10502,
+    "text" : "видимостта е ограничена",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10503,
+    "text" : "видимостта е намалена поради мъгла",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3216,
+  "number" : 34,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "За безопасно движение при сух път и добра видимост, интервалът между леките автомобили трябва да бъде не по-малък от:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10506,
+    "text" : "2 метра",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10505,
+    "text" : "2 секунди",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10504,
+    "text" : "дължината на един автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

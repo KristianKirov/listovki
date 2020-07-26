@@ -1,0 +1,273 @@
+[ {
+  "id" : 3914,
+  "number" : 11,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Трябва ли водачът да следи нивото на маслото в картера на двигателя.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12842,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12843,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3915,
+  "number" : 12,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Количеството на течността в охладителната уредба е отчетено правилно, когато проверката на нивото на течността е извършена:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12844,
+    "text" : "при подгрят двигател",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12845,
+    "text" : "без съобразяване с температурата на двигателя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12846,
+    "text" : "при студен двигател",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3916,
+  "number" : 13,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Как се контролира нивото на течността в охладителната уредба на МПС?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12848,
+    "text" : "нивото на течността в охладителната уредба не се контролира",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12847,
+    "text" : "зависи от вида на охладителната течност",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12849,
+    "text" : "като се следи нивото на течността в разширителния резервоар",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3919,
+  "number" : 15,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Налягането на въздуха в автомобилните гуми се измерва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12856,
+    "text" : "независимо от температурното състояние на гумата",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12857,
+    "text" : "при студена гума",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12855,
+    "text" : "при “загрята” от движението гума",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3922,
+  "number" : 18,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При отрицателни температури на околния въздух протекторът на летните автомобилни гуми:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12866,
+    "text" : "не се влияе от температурата",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12867,
+    "text" : "променя цвета си",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12868,
+    "text" : "се втвърдява и рязко намалява сцеплението на гумата с пътя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12865,
+    "text" : "омеква и се износва по-бързо",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3923,
+  "number" : 19,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато през зимата няма сняг, използването на зимни гуми не е необходимо.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12869,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12870,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3924,
+  "number" : 20,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Използването на зимни гуми през летния сезон, води до:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12872,
+    "text" : "по-бързо износване на гумите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12871,
+    "text" : "увеличаване на разхода на гориво",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12873,
+    "text" : "намаляване на разхода на гориво",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3945,
+  "number" : 41,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Честата употреба на спирачки води до:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12944,
+    "text" : "увеличаване на разхода на гориво",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12945,
+    "text" : "износване на автомобилните гуми",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12946,
+    "text" : "загуба на енергия",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12947,
+    "text" : "ускорено износване на окачването на автомобила",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4694,
+  "number" : 2,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Допустимата минимална дълбочина на протектора на гумите на автомобилите през периода от 1 март до 15 ноември е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 15285,
+    "text" : "1,6 мм",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15287,
+    "text" : "1,0 мм",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15286,
+    "text" : "0,5 мм",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15288,
+    "text" : "3,0 мм",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 4729,
+  "number" : 2,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Минималната дълбочина на протектора на гумите (които не са за зимни условия) на автомобилите през периода от 15 ноември до 1 март е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 15402,
+    "text" : "4,0 мм",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 15403,
+    "text" : "0,5 мм",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15404,
+    "text" : "1,0 мм",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 15405,
+    "text" : "3,0 мм",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Въроси</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
+    <style id="toggle-css" type="text/no-css">
+        .ans--correct {
+            background-color: #4CAF50;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <script id="template-all" type="text/template">
+        <div>Общо въпроси: <%this.questionsCount%>; Покажи верни отговори: <input id="toggleCorrect" type="checkbox"></div>
+        <%for(var index in this.topics) { var topic = this.topics[index];%>
+            <div>
+                <h1><%topic.name%>: <%topic.description%> | Въпроси: <%topic.questionsCount%></h1>
+                <div>
+                <%for(var index2 in topic.subTopics) { var subTopic = topic.subTopics[index2];%>
+                    <h2><%subTopic.name%> | Въпроси: <%subTopic.questionsCount%></h2>
+                    <table border="1" class="tbl--questions">
+                        <%for(var index3 in subTopic.questions) { var question = subTopic.questions[index3];%>
+                            <tr>
+                                <td>
+                                    <%question.text%> <strong>(Верни: <%question.correctAnswersCount%>)</strong>
+                                    <%if (question.pictureSha1) {%>
+                                        <br /><img src="pictures/<%question.pictureSha1%>.jpg" />
+                                    <%}%>
+                                </td>
+                                <%for(var index4 in question.answers) { var answer = question.answers[index4];%>
+                                    <td <%answer.correct ? 'class=\'ans--correct\'' : 'class=\'ans--wrong\''%>>
+                                        <%answer.text%>
+                                        <%if (answer.pictureSha1) {%>
+                                            <br /><img src="pictures/<%answer.pictureSha1%>.jpg" />
+                                        <%}%>
+                                    </td>
+                                <%}%>
+                            </tr>
+                        <%}%>
+                    </table>
+                <%}%>
+                </div>
+            </div>
+        <%}%>
+    </script>
+
+    <div id="output"></div>
+
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>

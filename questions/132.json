@@ -1,0 +1,59 @@
+[ {
+  "id" : 3690,
+  "number" : 28,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "При намалена видимост под 50 м е забранено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12080,
+    "text" : "завиването в обратна посока",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12082,
+    "text" : "тегленето",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12079,
+    "text" : "движението назад",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12081,
+    "text" : "спирането за престой",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3691,
+  "number" : 29,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Какво влияние оказва върху движението на превозното средство силният страничен вятър?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12085,
+    "text" : "намалява разхода на гориво",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12084,
+    "text" : "не му влияе",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12083,
+    "text" : "може да го отклони от посоката му на движение",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+} ]

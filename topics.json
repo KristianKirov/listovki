@@ -1,0 +1,782 @@
+{
+  "lastSubTopic" : null,
+  "topics" : [ {
+    "id" : 1,
+    "name" : "Тема 1",
+    "number" : 1,
+    "description" : "Основни понятия",
+    "subTopics" : [ {
+      "id" : 73,
+      "topicId" : 1,
+      "name" : "Основни понятия за пътя",
+      "number" : 1,
+      "pagesCount" : 2,
+      "questionsCount" : 26,
+      "passed" : false
+    }, {
+      "id" : 74,
+      "topicId" : 1,
+      "name" : "Основни понятия за участниците в движението",
+      "number" : 2,
+      "pagesCount" : 2,
+      "questionsCount" : 6,
+      "passed" : false
+    }, {
+      "id" : 75,
+      "topicId" : 1,
+      "name" : "Основни понятия за пътните превозни средства",
+      "number" : 3,
+      "pagesCount" : 4,
+      "questionsCount" : 22,
+      "passed" : false
+    }, {
+      "id" : 76,
+      "topicId" : 1,
+      "name" : "Категории на превозните средства",
+      "number" : 4,
+      "pagesCount" : 6,
+      "questionsCount" : 39,
+      "passed" : false
+    } ]
+  }, {
+    "id" : 2,
+    "name" : "Тема 2",
+    "number" : 2,
+    "description" : "Пътищата и улиците, по които се движим",
+    "subTopics" : [ {
+      "id" : 77,
+      "topicId" : 2,
+      "name" : "Познания за пътя",
+      "number" : 1,
+      "pagesCount" : 2,
+      "questionsCount" : 7,
+      "passed" : false
+    }, {
+      "id" : 78,
+      "topicId" : 2,
+      "name" : "Опасни места по пътищата",
+      "number" : 2,
+      "pagesCount" : 2,
+      "questionsCount" : 39,
+      "passed" : false
+    }, {
+      "id" : 79,
+      "topicId" : 2,
+      "name" : "Кръстовища и пешеходни пътеки",
+      "number" : 3,
+      "pagesCount" : 1,
+      "questionsCount" : 23,
+      "passed" : false
+    }, {
+      "id" : 81,
+      "topicId" : 2,
+      "name" : "ЖП прелези",
+      "number" : 4,
+      "pagesCount" : 1,
+      "questionsCount" : 12,
+      "passed" : false
+    } ]
+  }, {
+    "id" : 3,
+    "name" : "Тема 3",
+    "number" : 3,
+    "description" : "Другите участници в движението и особеностите в управлението на различните видове превозни средства",
+    "subTopics" : [ {
+      "id" : 80,
+      "topicId" : 3,
+      "name" : "Водачи на автомобили",
+      "number" : 1,
+      "pagesCount" : 3,
+      "questionsCount" : 4,
+      "passed" : false
+    }, {
+      "id" : 82,
+      "topicId" : 3,
+      "name" : "Водачи на други превозни средства",
+      "number" : 2,
+      "pagesCount" : 2,
+      "questionsCount" : 4,
+      "passed" : false
+    }, {
+      "id" : 83,
+      "topicId" : 3,
+      "name" : "Опознавателни знаци поставяни на ППС",
+      "number" : 3,
+      "pagesCount" : 3,
+      "questionsCount" : 28,
+      "passed" : false
+    }, {
+      "id" : 84,
+      "topicId" : 3,
+      "name" : "Пътници",
+      "number" : 4,
+      "pagesCount" : 2,
+      "questionsCount" : 2,
+      "passed" : false
+    }, {
+      "id" : 85,
+      "topicId" : 3,
+      "name" : "Пешеходци",
+      "number" : 5,
+      "pagesCount" : 3,
+      "questionsCount" : 21,
+      "passed" : false
+    }, {
+      "id" : 86,
+      "topicId" : 3,
+      "name" : "Сигнали подавани от водачите и пешеходците",
+      "number" : 6,
+      "pagesCount" : 3,
+      "questionsCount" : 30,
+      "passed" : false
+    } ]
+  }, {
+    "id" : 4,
+    "name" : "Тема 4",
+    "number" : 4,
+    "description" : "Регулиране на движението",
+    "subTopics" : [ {
+      "id" : 88,
+      "topicId" : 4,
+      "name" : "Сигнали на регулировчика",
+      "number" : 1,
+      "pagesCount" : 2,
+      "questionsCount" : 18,
+      "passed" : false
+    }, {
+      "id" : 91,
+      "topicId" : 4,
+      "name" : "Пътни светофари",
+      "number" : 2,
+      "pagesCount" : 7,
+      "questionsCount" : 20,
+      "passed" : false
+    }, {
+      "id" : 90,
+      "topicId" : 4,
+      "name" : "Общо за пътните знаци",
+      "number" : 3,
+      "pagesCount" : 3,
+      "questionsCount" : 15,
+      "passed" : false
+    }, {
+      "id" : 156,
+      "topicId" : 4,
+      "name" : "Пътни знаци група А и Б",
+      "number" : 4,
+      "pagesCount" : 4,
+      "questionsCount" : 15,
+      "passed" : false
+    }, {
+      "id" : 157,
+      "topicId" : 4,
+      "name" : "Пътни знаци група В",
+      "number" : 5,
+      "pagesCount" : 3,
+      "questionsCount" : 50,
+      "passed" : false
+    }, {
+      "id" : 158,
+      "topicId" : 4,
+      "name" : "Пътни знаци от група Г, Д, Е и Ж",
+      "number" : 6,
+      "pagesCount" : 5,
+      "questionsCount" : 32,
+      "passed" : false
+    }, {
+      "id" : 159,
+      "topicId" : 4,
+      "name" : "Пътни знаци група \"Т\"",
+      "number" : 7,
+      "pagesCount" : 2,
+      "questionsCount" : 27,
+      "passed" : false
+    }, {
+      "id" : 92,
+      "topicId" : 4,
+      "name" : "Пътна маркировка",
+      "number" : 8,
+      "pagesCount" : 4,
+      "questionsCount" : 19,
+      "passed" : false
+    }, {
+      "id" : 93,
+      "topicId" : 4,
+      "name" : "Други средства за сигнализиране",
+      "number" : 9,
+      "pagesCount" : 3,
+      "questionsCount" : 5,
+      "passed" : false
+    } ]
+  }, {
+    "id" : 5,
+    "name" : "Тема 5",
+    "number" : 5,
+    "description" : "Разположение на нерелсовите ППС върху пътя",
+    "subTopics" : [ {
+      "id" : 94,
+      "topicId" : 5,
+      "name" : "Определяне на пътните ленти и разположение върху пътя",
+      "number" : 1,
+      "pagesCount" : 3,
+      "questionsCount" : 30,
+      "passed" : false
+    }, {
+      "id" : 95,
+      "topicId" : 5,
+      "name" : "Важни правила и особени случаи за разположението върху пътя",
+      "number" : 2,
+      "pagesCount" : 3,
+      "questionsCount" : 22,
+      "passed" : false
+    } ]
+  }, {
+    "id" : 6,
+    "name" : "Тема 6",
+    "number" : 6,
+    "description" : "Скорост, дистанция, намаляване на скоростта",
+    "subTopics" : [ {
+      "id" : 96,
+      "topicId" : 6,
+      "name" : "Скорост – основни понятия и ограничения",
+      "number" : 1,
+      "pagesCount" : 3,
+      "questionsCount" : 36,
+      "passed" : false
+    }, {
+      "id" : 97,
+      "topicId" : 6,
+      "name" : "Коефициент на сцепление",
+      "number" : 2,
+      "pagesCount" : 2,
+      "questionsCount" : 9,
+      "passed" : false
+    }, {
+      "id" : 98,
+      "topicId" : 6,
+      "name" : "Намаляване на скоростта, спиране, спирачен път",
+      "number" : 3,
+      "pagesCount" : 3,
+      "questionsCount" : 24,
+      "passed" : false
+    }, {
+      "id" : 99,
+      "topicId" : 6,
+      "name" : "Дистанция",
+      "number" : 4,
+      "pagesCount" : 3,
+      "questionsCount" : 4,
+      "passed" : false
+    }, {
+      "id" : 100,
+      "topicId" : 6,
+      "name" : "Съобразяване на скоростта и икономично управление",
+      "number" : 5,
+      "pagesCount" : 3,
+      "questionsCount" : 9,
+      "passed" : false
+    } ]
+  }, {
+    "id" : 7,
+    "name" : "Тема 7",
+    "number" : 7,
+    "description" : "Маневри",
+    "subTopics" : [ {
+      "id" : 101,
+      "topicId" : 7,
+      "name" : "Определение за маневра, включване в движението, отклонение встрани",
+      "number" : 1,
+      "pagesCount" : 3,
+      "questionsCount" : 14,
+      "passed" : false
+    }, {
+      "id" : 102,
+      "topicId" : 7,
+      "name" : "Завиване",
+      "number" : 2,
+      "pagesCount" : 3,
+      "questionsCount" : 6,
+      "passed" : false
+    }, {
+      "id" : 160,
+      "topicId" : 7,
+      "name" : "Завиване в обратна посока и забрани",
+      "number" : 3,
+      "pagesCount" : 3,
+      "questionsCount" : 19,
+      "passed" : false
+    }, {
+      "id" : 167,
+      "topicId" : 7,
+      "name" : "Взаимоотношения между водачите на завиващите ППС и участници в движението",
+      "number" : 4,
+      "pagesCount" : 2,
+      "questionsCount" : 38,
+      "passed" : false
+    }, {
+      "id" : 103,
+      "topicId" : 7,
+      "name" : "Разминаване",
+      "number" : 5,
+      "pagesCount" : 3,
+      "questionsCount" : 10,
+      "passed" : false
+    }, {
+      "id" : 104,
+      "topicId" : 7,
+      "name" : "Изпреварване",
+      "number" : 6,
+      "pagesCount" : 3,
+      "questionsCount" : 51,
+      "passed" : false
+    }, {
+      "id" : 105,
+      "topicId" : 7,
+      "name" : "Движение назад",
+      "number" : 7,
+      "pagesCount" : 2,
+      "questionsCount" : 4,
+      "passed" : false
+    } ]
+  }, {
+    "id" : 8,
+    "name" : "Тема 8",
+    "number" : 8,
+    "description" : "Преминаване през кръстовище, пътен възел, тунел, стеснен участък от пътя, ЖП прелез",
+    "subTopics" : [ {
+      "id" : 161,
+      "topicId" : 8,
+      "name" : "Общи положения за преминаване през кръстовище и пътен възел",
+      "number" : 1,
+      "pagesCount" : 3,
+      "questionsCount" : 34,
+      "passed" : false
+    }, {
+      "id" : 162,
+      "topicId" : 8,
+      "name" : "Преминаване през кръстовище на равнозначни пътища",
+      "number" : 2,
+      "pagesCount" : 2,
+      "questionsCount" : 32,
+      "passed" : false
+    }, {
+      "id" : 163,
+      "topicId" : 8,
+      "name" : "Преминаване през кръстовище с пътни знаци относно предимство",
+      "number" : 3,
+      "pagesCount" : 2,
+      "questionsCount" : 24,
+      "passed" : false
+    }, {
+      "id" : 164,
+      "topicId" : 8,
+      "name" : "Преминаване през кръстовище с промяна посоката на предимство",
+      "number" : 4,
+      "pagesCount" : 1,
+      "questionsCount" : 25,
+      "passed" : false
+    }, {
+      "id" : 165,
+      "topicId" : 8,
+      "name" : "Преминаване през кръстовище със светофар и регулировчик",
+      "number" : 5,
+      "pagesCount" : 3,
+      "questionsCount" : 12,
+      "passed" : false
+    }, {
+      "id" : 166,
+      "topicId" : 8,
+      "name" : "Преминаване през кръстовище особени случаи, кръгово движение",
+      "number" : 6,
+      "pagesCount" : 1,
+      "questionsCount" : 15,
+      "passed" : false
+    }, {
+      "id" : 108,
+      "topicId" : 8,
+      "name" : "Преминаване през тунел и стеснен участък",
+      "number" : 7,
+      "pagesCount" : 3,
+      "questionsCount" : 12,
+      "passed" : false
+    }, {
+      "id" : 110,
+      "topicId" : 8,
+      "name" : "Преминаване през железопътен прелез",
+      "number" : 8,
+      "pagesCount" : 3,
+      "questionsCount" : 16,
+      "passed" : false
+    } ]
+  }, {
+    "id" : 9,
+    "name" : "Тема 9",
+    "number" : 9,
+    "description" : "Движение по автомагистрала и автомобилен път",
+    "subTopics" : [ {
+      "id" : 111,
+      "topicId" : 9,
+      "name" : "Автомагистрала",
+      "number" : 1,
+      "pagesCount" : 4,
+      "questionsCount" : 47,
+      "passed" : false
+    }, {
+      "id" : 112,
+      "topicId" : 9,
+      "name" : "Скоростен път",
+      "number" : 2,
+      "pagesCount" : 3,
+      "questionsCount" : 12,
+      "passed" : false
+    }, {
+      "id" : 113,
+      "topicId" : 9,
+      "name" : "Автомобилен път",
+      "number" : 3,
+      "pagesCount" : 1,
+      "questionsCount" : 17,
+      "passed" : false
+    } ]
+  }, {
+    "id" : 10,
+    "name" : "Тема 10",
+    "number" : 10,
+    "description" : "Спирки на превозните средства от редовните линии за обществен превоз на пътници; жилищна зона",
+    "subTopics" : [ {
+      "id" : 114,
+      "topicId" : 10,
+      "name" : "Спирки",
+      "number" : 1,
+      "pagesCount" : 3,
+      "questionsCount" : 26,
+      "passed" : false
+    }, {
+      "id" : 115,
+      "topicId" : 10,
+      "name" : "Жилищна зона",
+      "number" : 2,
+      "pagesCount" : 1,
+      "questionsCount" : 7,
+      "passed" : false
+    } ]
+  }, {
+    "id" : 11,
+    "name" : "Тема 11",
+    "number" : 11,
+    "description" : "Специални правила за някои участници в движението",
+    "subTopics" : [ {
+      "id" : 116,
+      "topicId" : 11,
+      "name" : "Двуколесни ППС",
+      "number" : 1,
+      "pagesCount" : 2,
+      "questionsCount" : 9,
+      "passed" : false
+    }, {
+      "id" : 117,
+      "topicId" : 11,
+      "name" : "Теглене на МПС",
+      "number" : 2,
+      "pagesCount" : 4,
+      "questionsCount" : 35,
+      "passed" : false
+    }, {
+      "id" : 119,
+      "topicId" : 11,
+      "name" : "Специален режим на движение, шествия и състезания",
+      "number" : 3,
+      "pagesCount" : 3,
+      "questionsCount" : 15,
+      "passed" : false
+    } ]
+  }, {
+    "id" : 12,
+    "name" : "Тема 12",
+    "number" : 12,
+    "description" : "Престой, паркиране, МПС, спряно поради повреда",
+    "subTopics" : [ {
+      "id" : 121,
+      "topicId" : 12,
+      "name" : "Престой и паркиране",
+      "number" : 1,
+      "pagesCount" : 3,
+      "questionsCount" : 19,
+      "passed" : false
+    }, {
+      "id" : 122,
+      "topicId" : 12,
+      "name" : "Забрани за престой и паркиране",
+      "number" : 2,
+      "pagesCount" : 3,
+      "questionsCount" : 58,
+      "passed" : false
+    }, {
+      "id" : 123,
+      "topicId" : 12,
+      "name" : "МПС, спряно поради повреда",
+      "number" : 3,
+      "pagesCount" : 2,
+      "questionsCount" : 5,
+      "passed" : false
+    } ]
+  }, {
+    "id" : 13,
+    "name" : "Тема 13",
+    "number" : 13,
+    "description" : "Неблагоприятно време за пътуване, годишните сезони и управлението на МПС",
+    "subTopics" : [ {
+      "id" : 126,
+      "topicId" : 13,
+      "name" : "Движение през нощта, намалена видимост, използване на светлините",
+      "number" : 1,
+      "pagesCount" : 3,
+      "questionsCount" : 27,
+      "passed" : false
+    }, {
+      "id" : 127,
+      "topicId" : 13,
+      "name" : "Движение при зимни условия",
+      "number" : 2,
+      "pagesCount" : 2,
+      "questionsCount" : 8,
+      "passed" : false
+    }, {
+      "id" : 132,
+      "topicId" : 13,
+      "name" : "Особености на лятната експлоатация на МПС",
+      "number" : 3,
+      "pagesCount" : 2,
+      "questionsCount" : 2,
+      "passed" : false
+    } ]
+  }, {
+    "id" : 14,
+    "name" : "Тема 14",
+    "number" : 14,
+    "description" : "Организация на пътуването",
+    "subTopics" : [ {
+      "id" : 134,
+      "topicId" : 14,
+      "name" : "Ежедневни маршрути",
+      "number" : 1,
+      "pagesCount" : 2,
+      "questionsCount" : 2,
+      "passed" : false
+    }, {
+      "id" : 135,
+      "topicId" : 14,
+      "name" : "Далечните пътувания",
+      "number" : 2,
+      "pagesCount" : 1,
+      "questionsCount" : 2,
+      "passed" : false
+    }, {
+      "id" : 136,
+      "topicId" : 14,
+      "name" : "Нещата, на които да обръщаме повече внимание",
+      "number" : 3,
+      "pagesCount" : 1,
+      "questionsCount" : 29,
+      "passed" : false
+    } ]
+  }, {
+    "id" : 15,
+    "name" : "Тема 15",
+    "number" : 15,
+    "description" : "Значение за безопасността на движението на психо-моторните функции, бдителността на водача и съобразяването с действията на другите участници в движението",
+    "subTopics" : [ {
+      "id" : 137,
+      "topicId" : 15,
+      "name" : "Усещане, преценка и вземане на решение",
+      "number" : 1,
+      "pagesCount" : 4,
+      "questionsCount" : 14,
+      "passed" : false
+    }, {
+      "id" : 138,
+      "topicId" : 15,
+      "name" : "Умората",
+      "number" : 2,
+      "pagesCount" : 2,
+      "questionsCount" : 19,
+      "passed" : false
+    }, {
+      "id" : 139,
+      "topicId" : 15,
+      "name" : "Алкохол",
+      "number" : 3,
+      "pagesCount" : 2,
+      "questionsCount" : 11,
+      "passed" : false
+    }, {
+      "id" : 140,
+      "topicId" : 15,
+      "name" : "Лекарства и наркотици",
+      "number" : 4,
+      "pagesCount" : 1,
+      "questionsCount" : 0,
+      "passed" : false
+    } ]
+  }, {
+    "id" : 16,
+    "name" : "Тема 16",
+    "number" : 16,
+    "description" : "Задължения на водача",
+    "subTopics" : [ {
+      "id" : 142,
+      "topicId" : 16,
+      "name" : "Общи задължения на водача",
+      "number" : 1,
+      "pagesCount" : 2,
+      "questionsCount" : 6,
+      "passed" : false
+    }, {
+      "id" : 143,
+      "topicId" : 16,
+      "name" : "Задължения на водача за техническата изправност на ППС",
+      "number" : 2,
+      "pagesCount" : 3,
+      "questionsCount" : 9,
+      "passed" : false
+    }, {
+      "id" : 145,
+      "topicId" : 16,
+      "name" : "Задължения на водача за опазване на околната среда",
+      "number" : 3,
+      "pagesCount" : 1,
+      "questionsCount" : 1,
+      "passed" : false
+    }, {
+      "id" : 144,
+      "topicId" : 16,
+      "name" : "Задължения на водача при превоз на пътници",
+      "number" : 4,
+      "pagesCount" : 2,
+      "questionsCount" : 7,
+      "passed" : false
+    }, {
+      "id" : 146,
+      "topicId" : 16,
+      "name" : "Задължения на водача при превоз на товари",
+      "number" : 5,
+      "pagesCount" : 1,
+      "questionsCount" : 16,
+      "passed" : false
+    }, {
+      "id" : 147,
+      "topicId" : 16,
+      "name" : "Документи  и други задължения на водача",
+      "number" : 6,
+      "pagesCount" : 3,
+      "questionsCount" : 7,
+      "passed" : false
+    } ]
+  }, {
+    "id" : 17,
+    "name" : "Тема 17",
+    "number" : 17,
+    "description" : "Административнонаказателна отговорност, принудителни административни мерки",
+    "subTopics" : [ {
+      "id" : 148,
+      "topicId" : 17,
+      "name" : "Контролни органи",
+      "number" : 1,
+      "pagesCount" : 1,
+      "questionsCount" : 0,
+      "passed" : false
+    }, {
+      "id" : 149,
+      "topicId" : 17,
+      "name" : "Административни наказания",
+      "number" : 2,
+      "pagesCount" : 3,
+      "questionsCount" : 28,
+      "passed" : false
+    }, {
+      "id" : 150,
+      "topicId" : 17,
+      "name" : "Принудителни административни мерки",
+      "number" : 3,
+      "pagesCount" : 3,
+      "questionsCount" : 29,
+      "passed" : false
+    }, {
+      "id" : 151,
+      "topicId" : 17,
+      "name" : "Контролни точки",
+      "number" : 4,
+      "pagesCount" : 1,
+      "questionsCount" : 1,
+      "passed" : false
+    } ]
+  }, {
+    "id" : 18,
+    "name" : "Тема 18",
+    "number" : 18,
+    "description" : "Правила за поведение на водача при пътнотранспортно произшествие",
+    "subTopics" : [ {
+      "id" : 152,
+      "topicId" : 18,
+      "name" : "Анализ на пътнотранспортните произшествия",
+      "number" : 1,
+      "pagesCount" : 2,
+      "questionsCount" : 8,
+      "passed" : false
+    }, {
+      "id" : 153,
+      "topicId" : 18,
+      "name" : "Задължения на водачите при ПТП",
+      "number" : 2,
+      "pagesCount" : 3,
+      "questionsCount" : 18,
+      "passed" : false
+    }, {
+      "id" : 154,
+      "topicId" : 18,
+      "name" : "Оценка на обстановката и действия",
+      "number" : 3,
+      "pagesCount" : 5,
+      "questionsCount" : 4,
+      "passed" : false
+    }, {
+      "id" : 155,
+      "topicId" : 18,
+      "name" : "Сигнализиране на местопроизшествието",
+      "number" : 4,
+      "pagesCount" : 5,
+      "questionsCount" : 8,
+      "passed" : false
+    } ]
+  }, {
+    "id" : 19,
+    "name" : "Тема 19",
+    "number" : 19,
+    "description" : "Общо устройство на МПС",
+    "subTopics" : [ {
+      "id" : 120,
+      "topicId" : 19,
+      "name" : "Основни възли, агрегати и уредби на автомобила",
+      "number" : 1,
+      "pagesCount" : 7,
+      "questionsCount" : 23,
+      "passed" : false
+    }, {
+      "id" : 124,
+      "topicId" : 19,
+      "name" : "Ежедневен преглед",
+      "number" : 2,
+      "pagesCount" : 8,
+      "questionsCount" : 10,
+      "passed" : false
+    }, {
+      "id" : 125,
+      "topicId" : 19,
+      "name" : "Техника на безопасност, опазване на околната среда",
+      "number" : 3,
+      "pagesCount" : 5,
+      "questionsCount" : 21,
+      "passed" : false
+    } ]
+  } ]
+}

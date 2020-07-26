@@ -1,0 +1,265 @@
+[ {
+  "id" : 3196,
+  "number" : 19,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Коефициентът на сцепление на автомобилните гуми с пътя е показател за:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10435,
+    "text" : "взаимодействието между автомобилната гума и пътната настилка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10436,
+    "text" : "ефективността на спирачната система на автомобила",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10434,
+    "text" : "аеродинамичните качества на автомобила",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3197,
+  "number" : 20,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "За стабилно и сигурно движение на превозното средство, стойността на коефициента на сцепление на автомобилните гуми с пътя:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10437,
+    "text" : "трябва да е възможно по-малка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10438,
+    "text" : "е без значение",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10439,
+    "text" : "трябва да е възможно по-голяма",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3198,
+  "number" : 21,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Коефициентът на сцепление на автомобилните гуми с пътя е най-голям когато пътната настилка е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10443,
+    "text" : "заснежена",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10441,
+    "text" : "мокра",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10440,
+    "text" : "суха",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10442,
+    "text" : "заледена",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3199,
+  "number" : 22,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Влияние върху големината на коефициента на сцепление на автомобилните гуми с пътя оказват:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 10445,
+    "text" : "видът на пътната настилка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10446,
+    "text" : "диаметърът на автомобилните гуми",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10447,
+    "text" : "състоянието на пътната настилка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10444,
+    "text" : "видът на автомобилните гуми",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3200,
+  "number" : 22,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Влияние върху големината на коефициента на сцепление на автомобилните гуми с пътя оказват:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10451,
+    "text" : "диаметърът на автомобилните гуми",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10450,
+    "text" : "видът на пътната настилка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10449,
+    "text" : "разположението на двигателя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10448,
+    "text" : "видът на автомобилната гума",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3201,
+  "number" : 22,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Най-силно влияние върху големината на коефициента на сцепление на автомобилните гуми с пътя оказват:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10452,
+    "text" : "състоянието на пътната настилка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10455,
+    "text" : "видът на окачването на автомобила",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10453,
+    "text" : "състоянието на автомобилната гума",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10454,
+    "text" : "диаметърът на автомобилните гуми",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3202,
+  "number" : 23,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Зависи ли коефициентът на сцепление на автомобилните гуми с пътя от състоянието на пътната настилка?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10456,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10457,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3203,
+  "number" : 24,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Как се изменя сцеплението на автомобилните гуми с пътя при мокра настилка в сравнение със суха?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10461,
+    "text" : "не се променя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10458,
+    "text" : "увеличава се",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10460,
+    "text" : "намалява",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10459,
+    "text" : "зависи от вида на автомобилната гума",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3204,
+  "number" : 24,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Как се изменя сцеплението на автомобилните гуми с пътя при заледена настилка в сравнение със суха?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10465,
+    "text" : "намалява",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10462,
+    "text" : "увеличава се",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10463,
+    "text" : "не се променя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10464,
+    "text" : "зависи от вида на автомобилната гума",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

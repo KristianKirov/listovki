@@ -1,0 +1,22 @@
+.tbl--questions {
+    table-layout: fixed;
+    width: 100%;
+}
+
+.tbl--questions td {
+    padding: 5px;
+}
+
+.tbl--questions img {
+    max-width: 100%;
+}
+
+.wrong-answer {
+    background-color: #f44336;
+    color: #fff;
+}
+
+.correct-answer {
+    background-color: #4CAF50;
+    color: #fff;
+}

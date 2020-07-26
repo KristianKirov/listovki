@@ -1,0 +1,603 @@
+[ {
+  "id" : 3305,
+  "number" : 49,
+  "subNumber" : 1,
+  "pictureSha1" : "a093ddf06657fe74110d396b1871ef3fb230114a",
+  "text" : "При тази ситуация автомобилът, който се движи направо, е с предимство пред автомобила, който завива надясно.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10776,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10777,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3306,
+  "number" : 50,
+  "subNumber" : 1,
+  "pictureSha1" : "a600a95368c4aa90ecaff87ed8dcc6ccbfd92bb0",
+  "text" : "При тази ситуация задължени ли сте да пропуснете товарния автомобил?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10779,
+    "text" : "зависи от посоката, в която ще продължи да се движи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10780,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10778,
+    "text" : "да, независимо от посоката, в която ще продължи да се движи",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3307,
+  "number" : 51,
+  "subNumber" : 1,
+  "pictureSha1" : "a600a95368c4aa90ecaff87ed8dcc6ccbfd92bb0",
+  "text" : "При тази ситуация задължени ли сте да пропуснете товарния автомобил?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10783,
+    "text" : "да, защото се намира на пътя с предимство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10781,
+    "text" : "не, защото се движа направо",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10782,
+    "text" : "да, защото се намира отдясно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3308,
+  "number" : 52,
+  "subNumber" : 1,
+  "pictureSha1" : "4bd73f8ca998646545d352cd6bfc520f6db4e959",
+  "text" : "При тази ситуация червеният автомобил е с предимство.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10785,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10784,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3310,
+  "number" : 53,
+  "subNumber" : 1,
+  "pictureSha1" : "f91dccad16cd0c3ffd521c0ca0da69d935b35565",
+  "text" : "При тази ситуация преминавам преди товарния автомобил, защото се движа направо.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10791,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10790,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3311,
+  "number" : 54,
+  "subNumber" : 1,
+  "pictureSha1" : "a85265170a28206a56044660cbf61526989a0035",
+  "text" : "При тази ситуация трябва да премина преди червения автомобил защото:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10792,
+    "text" : "съм на пътя с предимство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10794,
+    "text" : "се движа направо",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10793,
+    "text" : "червеният автомобил завива наляво",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3312,
+  "number" : 55,
+  "subNumber" : 1,
+  "pictureSha1" : "7b8c1aa78e14543177d3053f56ce9be673b0a54b",
+  "text" : "При тази ситуация:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10795,
+    "text" : "трябва да премина преди лекия автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10796,
+    "text" : "трябва да пропусна лекия автомобил, който се движи направо",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3313,
+  "number" : 56,
+  "subNumber" : 1,
+  "pictureSha1" : "ab35f638cd45b2ee8f70878e33b18e5247dca7f9",
+  "text" : "При тази ситуация червеният автомобил, който завива надясно, е с предимство.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10797,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10798,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3314,
+  "number" : 57,
+  "subNumber" : 1,
+  "pictureSha1" : "9726bb62ddec3661701f40e405a0127d9cbfe3bf",
+  "text" : "При тази ситуация трябва да пропусна червения автомобил защото:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10799,
+    "text" : "завивам наляво",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10800,
+    "text" : "се движи направо",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10801,
+    "text" : "се намира на пътя с предимство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3315,
+  "number" : 58,
+  "subNumber" : 1,
+  "pictureSha1" : "cd8e1372ef8ad60b569f8d71e2bde05aa1b62b2f",
+  "text" : "При тази ситуация трябва да пропусна червения автомобил.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10802,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10803,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3316,
+  "number" : 59,
+  "subNumber" : 1,
+  "pictureSha1" : "56d0e0c65a4aa3bfd922a8c984df3942f36a28c9",
+  "text" : "При тази ситуация преминавам преди синия автомобил защото се движа направо.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10805,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10804,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3317,
+  "number" : 60,
+  "subNumber" : 1,
+  "pictureSha1" : "38befb1d3230550a345e25bfa0c8cfa8db4aa1c0",
+  "text" : "При тази ситуация съм с предимство.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10806,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10807,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3318,
+  "number" : 61,
+  "subNumber" : 1,
+  "pictureSha1" : "016ecc6dcccf68fef9ccaa94fa89d44ae4ef01ee",
+  "text" : "При тази ситуация съм с предимство.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10808,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10809,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3319,
+  "number" : 62,
+  "subNumber" : 1,
+  "pictureSha1" : "eb512938599d4e6d53a62873b6670dd5fd515e7f",
+  "text" : "При тази ситуация с предимство е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10810,
+    "text" : "зеленият автомобил, защото се движи направо",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10811,
+    "text" : "червеният автомобил, защото се намира на пътя с предимство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10812,
+    "text" : "червеният автомобил, защото приближава кръстовището от дясната страна на зеления автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3320,
+  "number" : 63,
+  "subNumber" : 1,
+  "pictureSha1" : "44ff27e79855670a7209fe9335665ae4ef7affef",
+  "text" : "При тази ситуация съм с предимство.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10813,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10814,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3332,
+  "number" : 72,
+  "subNumber" : 1,
+  "pictureSha1" : "f21744f46d2970cd652a9bb4dc804eea46538272",
+  "text" : "При тази ситуация жълтият автомобил трябва да премине преди синия и червения автомобил защото:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10853,
+    "text" : "не напуска пътят с предимство",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10854,
+    "text" : "се намира от дясната страна на синия автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10852,
+    "text" : "завива надясно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10851,
+    "text" : "се намира на пътя с предимство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3333,
+  "number" : 73,
+  "subNumber" : 1,
+  "pictureSha1" : "2deb0a399e462c37baa4a47c42482b27c9dc27f4",
+  "text" : "При тази ситуация трябва да пропусна:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10855,
+    "text" : "и двата автомобила",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10856,
+    "text" : "само червения автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10857,
+    "text" : "само синия автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3334,
+  "number" : 73,
+  "subNumber" : 2,
+  "pictureSha1" : "086bc5705c3ecd0dde8c97f6a46ff9f97a04b1db",
+  "text" : "При тази ситуация трябва:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10858,
+    "text" : "да пропусна синия автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10860,
+    "text" : "да премина преди синия автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10861,
+    "text" : "да пропусна червения автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10859,
+    "text" : "да премина преди червения автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3335,
+  "number" : 74,
+  "subNumber" : 1,
+  "pictureSha1" : "2740a723d80fd017d28514e88f66d8cf6d69c8af",
+  "text" : "При тази ситуация трябва:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10862,
+    "text" : "да премина преди червения автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10863,
+    "text" : "да пропусна синия автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10864,
+    "text" : "да пропусна жълтия автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3336,
+  "number" : 74,
+  "subNumber" : 2,
+  "pictureSha1" : "2740a723d80fd017d28514e88f66d8cf6d69c8af",
+  "text" : "При тази ситуация трябва:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10866,
+    "text" : "да премина преди синия автомобил, защото той завива наляво",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10865,
+    "text" : "да пропусна червения автомобил, защото се намира на пътя с предимство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10867,
+    "text" : "да пропусна жълтия автомобил, защото се намира на пътя с предимство",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3337,
+  "number" : 75,
+  "subNumber" : 1,
+  "pictureSha1" : "39d005cf6a3c4856daa9d35d40cb08a9b623ee4d",
+  "text" : "При тази ситуация трябва да пропусна:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10869,
+    "text" : "жълтия автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10868,
+    "text" : "червения автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10870,
+    "text" : "синия автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3338,
+  "number" : 76,
+  "subNumber" : 1,
+  "pictureSha1" : "21b0fa1a2c5d64b0d54be932198ec6891d3e243b",
+  "text" : "При тази ситуация трябва да премина след:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 10872,
+    "text" : "червения автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10871,
+    "text" : "синия автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3339,
+  "number" : 76,
+  "subNumber" : 2,
+  "pictureSha1" : "9e8008fea2030eefd46adca4835c239945a03fbc",
+  "text" : "При тази ситуация трябва:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10874,
+    "text" : "да премина преди синия автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10875,
+    "text" : "да премина преди червения автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10873,
+    "text" : "да пропусна червения автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 10876,
+    "text" : "да пропусна синия автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3340,
+  "number" : 77,
+  "subNumber" : 1,
+  "pictureSha1" : "e0c07a6f54e9290d6b1de1888e22488d47985c33",
+  "text" : "При тази ситуация трябва да премина преди:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10879,
+    "text" : "червения автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10878,
+    "text" : "синия автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10877,
+    "text" : "жълтия автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3341,
+  "number" : 78,
+  "subNumber" : 1,
+  "pictureSha1" : "a0702806d0b9266b96f4c20867b72d7020b38584",
+  "text" : "При тази ситуация трябва:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 10882,
+    "text" : "да премина преди синия автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10881,
+    "text" : "да премина преди жълтия автомобил",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 10880,
+    "text" : "да пропусна червения автомобил",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

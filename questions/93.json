@@ -1,0 +1,113 @@
+[ {
+  "id" : 2964,
+  "number" : 123,
+  "subNumber" : 1,
+  "pictureSha1" : "cc9b441bcebabc3d36da3cd5fa960fd280cef7a4",
+  "text" : "При тази ситуация пресичането на линията, сигнализирана с конусите, е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9725,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9724,
+    "text" : "разрешено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2965,
+  "number" : 124,
+  "subNumber" : 1,
+  "pictureSha1" : "88cbc850fb0411c95ef962a79c8e6395e9450bf4",
+  "text" : "При тази ситуация конусите очертават линия, пресичането на която е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9726,
+    "text" : "разрешено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9727,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2966,
+  "number" : 125,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Белият  бастун, носен от пешеходец, означава, че той е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9728,
+    "text" : "много възрастен",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9729,
+    "text" : "сляп",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9730,
+    "text" : "глухоням",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2967,
+  "number" : 126,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При несъответствие между временната пътна маркировка и постоянната пътна маркировка, водачите:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9733,
+    "text" : "трябва да се съобразяват с постоянната пътна маркировка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9732,
+    "text" : "не трябва да се съобразяват с пътната маркировка",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 9731,
+    "text" : "трябва да се съобразяват с временната пътна маркировка",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 2968,
+  "number" : 127,
+  "subNumber" : 1,
+  "pictureSha1" : "d5d42c0659cf91db7e387cb643fa30c21bbf1e97",
+  "text" : "При тази ситуация, кой от пътните знаци трябва да спазва водачът на червения автомобил?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 9734,
+    "text" : "поставения на платното за движение преносим пътен знак",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 9735,
+    "text" : "постоянно поставения пътен знак",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]

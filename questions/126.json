@@ -1,0 +1,787 @@
+[ {
+  "id" : 3655,
+  "number" : 1,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При движение през нощта МПС трябва да бъдат:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11958,
+    "text" : "с включен светлина за осветяване на задната табела с регистрационния номер",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11959,
+    "text" : "с включени къси или дълги светлини",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11961,
+    "text" : "с включен авариен сигнал",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11960,
+    "text" : "с включени габаритни светлини",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3656,
+  "number" : 2,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При движение при намалена видимост МПС трябва да бъде:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11964,
+    "text" : "с включен авариен сигнал",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11965,
+    "text" : "с включени къси или дълги светлини",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11962,
+    "text" : "с включена светлина за осветяване на задната табела с регистрационния номер",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11963,
+    "text" : "с включени габаритни светлини",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3657,
+  "number" : 3,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "На водача е забранено да използва дълги светлини при:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 11967,
+    "text" : "намалена видимост",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11968,
+    "text" : "движение зад друго МПС на разстояние, по-малко от 50 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11966,
+    "text" : "движение по осветени участъци от пътя",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11969,
+    "text" : "разминаване",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3658,
+  "number" : 4,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "През нощта на осветен участък от пътя движението се извършва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11970,
+    "text" : "с включени само габаритни светлини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11971,
+    "text" : "без включени светлини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11972,
+    "text" : "с включени дълги светлини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11973,
+    "text" : "с включени къси светлини",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3659,
+  "number" : 4,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "През нощта на осветен участък от пътя движението с включени дълги светлини е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11975,
+    "text" : "винаги разрешено",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11974,
+    "text" : "по преценка на водача",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11976,
+    "text" : "забранено",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11977,
+    "text" : "разрешено само при изпреварване",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3660,
+  "number" : 5,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При движение през нощта по неосветен път скоростта се избира в зависимост и от дължината на участъка, осветен от фаровете.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11978,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11979,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3661,
+  "number" : 6,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "През нощта, при разминаване на неосветен път, водачът е длъжен да се движи с включени:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11982,
+    "text" : "дълги светлини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11980,
+    "text" : "къси светлини",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11981,
+    "text" : "само габаритни светлини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3662,
+  "number" : 7,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Когато предприема изпреварване през нощта, водачът трябва:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11985,
+    "text" : "да подаде звуков сигнал преди да започне изпреварването",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11986,
+    "text" : "да бъде внимателен, защото има видимост само в дължината на осветения участък",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11983,
+    "text" : "да бъде внимателен, защото може да бъде заслепен от светлините на насрещно движещите се автомобили",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11984,
+    "text" : "да включи дългите светлини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3663,
+  "number" : 8,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "През деня двуколесните МПС трябва да се движат с включени къси светлини отпред и габаритни светлини отзад:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11988,
+    "text" : "винаги, независимо от видимостта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11987,
+    "text" : "само извън населените места",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11989,
+    "text" : "само в периода от 1 ноември до 1 март",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11990,
+    "text" : "само при намалена видимост",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3664,
+  "number" : 8,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "През деня, с включени къса светлина отпред и габаритна светлина отзад, трябва да се движат:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11993,
+    "text" : "само мотоциклетите с кош",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11994,
+    "text" : "мотоциклетите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11992,
+    "text" : "велосипедите",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11991,
+    "text" : "мотопедите",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3665,
+  "number" : 8,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "През деня мотоциклетите и мотопедите трябва да се движат с включена:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 11995,
+    "text" : "габаритна светлина отпред",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11997,
+    "text" : "габаритна светлина отзад",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 11998,
+    "text" : "дълга светлина отпред",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 11996,
+    "text" : "къса светлина отпред",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3666,
+  "number" : 9,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "През деня, моторните превозни средства се движат с включени светлини за движение през деня или с къси светлини.",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 11999,
+    "text" : "неправилно",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12000,
+    "text" : "правилно",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3667,
+  "number" : 10,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "Кои от посочените светлини на автомобила може да се използват при движение през деня?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12002,
+    "text" : "къси светлини",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12003,
+    "text" : "светлини за движение през деня",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12004,
+    "text" : "дълги светлини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12001,
+    "text" : "само габаритни светлини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3668,
+  "number" : 11,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "“Дневните светлини” са предназначени:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12006,
+    "text" : "за обозначаване през деня на паркирано ППС",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12007,
+    "text" : "за подобряване на възприемането на ППС при движението му през деня",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12008,
+    "text" : "за подобряване осветеността на пътя",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12005,
+    "text" : "за движение по осветен път през нощта",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3669,
+  "number" : 12,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е допълнителните светлини за мъгла да се използват самостоятелно?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12010,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12009,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3670,
+  "number" : 13,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Допълнителни светлини за мъгла се използват само при значително намалена видимост:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12011,
+    "text" : "поради снеговалеж",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12014,
+    "text" : "поради мъгла",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12013,
+    "text" : "поради дъжд",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12012,
+    "text" : "през тъмната част от денонощието",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3672,
+  "number" : 13,
+  "subNumber" : 3,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е допълнителните светлини за мъгла да се използват при дъжд?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12019,
+    "text" : "да, във всички случаи",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12020,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12018,
+    "text" : "да, но само при значително намалена видимост",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3674,
+  "number" : 15,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Допълнителна задна светлина за мъгла е разрешено да се използва:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12023,
+    "text" : "само когато видимостта е намалена под 50 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12024,
+    "text" : "винаги при намалена видимост",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12025,
+    "text" : "при движение през нощта",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3675,
+  "number" : 16,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Разрешено ли е при движение в мъгла да използвате дългите светлини?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12026,
+    "text" : "не",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12027,
+    "text" : "да",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3676,
+  "number" : 17,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Превключването от дълги на къси светлини преди разминаване през нощта се извършва, когато разстоянието между двата автомобила е:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12031,
+    "text" : "не по-малко от 100 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12029,
+    "text" : "не по-малко от 50 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12030,
+    "text" : "не по-малко от 200 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12028,
+    "text" : "не по-малко от 150 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3677,
+  "number" : 18,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При разминаване през нощта превключването от дълги на къси светлини е задължително, когато:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12034,
+    "text" : "насрещният водач подаде сигнал чрез превключването на светлините",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12033,
+    "text" : "разстоянието между превозните средства е не по-малко от 150 м",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12032,
+    "text" : "разстоянието между превозните средства е не по-повече от 50 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3678,
+  "number" : 19,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Преди разминаване през нощта, когато водачът на насрещното МПС подаде сигнал чрез светлините, длъжни ли сте да превключите от дълги на къси светлини?",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12037,
+    "text" : "не, ако разстоянието е по-голямо от 150 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12035,
+    "text" : "не, защото не съм длъжен да се съобразявам с неговите сигнали",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12038,
+    "text" : "да, независимо от разстоянието",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12036,
+    "text" : "да, но само ако разстоянието между автомобилитге е по-малко от 50 м",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3679,
+  "number" : 20,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "През нощта движението зад друго МПС на разстояние по-малко от 50 м се извършва с включени:",
+  "correctAnswersCount" : 1,
+  "answers" : [ {
+    "id" : 12040,
+    "text" : "само габаритни светлини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12041,
+    "text" : "къси светлини",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12039,
+    "text" : "дълги светлини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3680,
+  "number" : 21,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "Как ще постъпите при заслепяване от светлините на насрещно движещото се превозно средство?",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12044,
+    "text" : "ще намаля скоростта",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12043,
+    "text" : "ще се движа с готовност за спиране",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12045,
+    "text" : "ще сигнализирам със звуков сигнал",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12042,
+    "text" : "ще продължа движението, като включа дългите светлини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3687,
+  "number" : 27,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При намалена видимост под 50 м е забранено:",
+  "correctAnswersCount" : 3,
+  "answers" : [ {
+    "id" : 12069,
+    "text" : "тегленето",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12070,
+    "text" : "паркирането",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12067,
+    "text" : "движението без включени светлини",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12068,
+    "text" : "завиването в обратна посока",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3688,
+  "number" : 28,
+  "subNumber" : 1,
+  "pictureSha1" : null,
+  "text" : "При намалена видимост под 50 м е забранено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12074,
+    "text" : "изпреварването",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12071,
+    "text" : "движението на извънгабаритни ППС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12073,
+    "text" : "спирането за престой на платното за движение извън населено място без включени габаритни светлини",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12072,
+    "text" : "движението на самоходни машини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+}, {
+  "id" : 3689,
+  "number" : 28,
+  "subNumber" : 2,
+  "pictureSha1" : null,
+  "text" : "При намалена видимост под 50 м е забранено:",
+  "correctAnswersCount" : 2,
+  "answers" : [ {
+    "id" : 12077,
+    "text" : "движението на извънгабаритни ППС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12076,
+    "text" : "движението на самоходни машини",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  }, {
+    "id" : 12078,
+    "text" : "спирането за престой на платното за движение на извънгабаритни ППС",
+    "pictureSha1" : null,
+    "correct" : true,
+    "selected" : false
+  }, {
+    "id" : 12075,
+    "text" : "изпреварването",
+    "pictureSha1" : null,
+    "correct" : false,
+    "selected" : false
+  } ]
+} ]
